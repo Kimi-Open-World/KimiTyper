@@ -1,0 +1,54 @@
+[
+  {
+    "id": "sample-rich-book",
+    "name": "示例丰富词书",
+    "description": "包含详细词源信息的示例词书",
+    "wordCount": 3,
+    "language": "en",
+    "category": "示例",
+    "chapters": [
+      {
+        "id": "sample-chapter-1",
+        "name": "第一章",
+        "words": [
+          {
+            "id": 1001,
+            "word": "abundant",
+            "phonetic": "/əˈbʌndənt/",
+            "meaning": "adj. 丰富的；充裕的",
+            "example": "The region has abundant natural resources.",
+            "prefix": "ab- (离开)",
+            "root": "-und- (波浪)",
+            "suffix": "-ant (形容词后缀)",
+            "etymology": "来自拉丁语 abundare，意为“溢出、丰富”，由 ab- (离开) + undare (波动) 构成。",
+            "wordFormation": "前缀 ab- (离开) + 词根 -und- (波浪) + 后缀 -ant (形容词后缀)"
+          },
+          {
+            "id": 1002,
+            "word": "benevolent",
+            "phonetic": "/bəˈnevələnt/",
+            "meaning": "adj. 仁慈的；慈善的",
+            "example": "A benevolent donor contributed a large sum.",
+            "prefix": "bene- (好)",
+            "root": "-vol- (意愿)",
+            "suffix": "-ent (形容词后缀)",
+            "etymology": "来自拉丁语 benevolens，意为“善意的”，由 bene (好) + volens (意愿) 构成。",
+            "wordFormation": "前缀 bene- (好) + 词根 -vol- (意愿) + 后缀 -ent (形容词后缀)"
+          },
+          {
+            "id": 1003,
+            "word": "circumvent",
+            "phonetic": "/ˌsɜːrkəmˈvent/",
+            "meaning": "v. 规避；设法避开",
+            "example": "He tried to circumvent the rules.",
+            "prefix": "circum- (环绕)",
+            "root": "-vent- (来)",
+            "etymology": "来自拉丁语 circumventus，意为“绕行”，由 circum (环绕) + venire (来) 构成。",
+            "wordFormation": "前缀 circum- (环绕) + 词根 -vent- (来)",
+            "suffix": ""
+          }
+        ]
+      }
+    ]
+  }
+]

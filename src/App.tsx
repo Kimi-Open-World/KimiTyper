@@ -6,6 +6,8 @@ import ReviewPage from './pages/ReviewPage'
 import StatsPage from './pages/StatsPage'
 import Settings from './pages/Settings'
 import KeyVocabulary from './pages/KeyVocabulary'
+import CustomBookEditor from './pages/CustomBookEditor'
+import SyncPage from './pages/SyncPage'
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
         <Route path="stats" element={<StatsPage />} />
         <Route path="settings" element={<Settings />} />
         <Route path="key-vocabulary" element={<KeyVocabulary />} />
+        <Route path="custom-book" element={<CustomBookEditor />} />
+        <Route path="sync" element={<SyncPage />} />
       </Route>
     </Routes>
   )

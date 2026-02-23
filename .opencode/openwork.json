@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "KimiTyper",
+    "createdAt": 1771481147587,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "/Users/aneovale/Developer/github/KimiTyper"
+  ]
+}
