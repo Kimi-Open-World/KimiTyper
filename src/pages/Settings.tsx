@@ -8,7 +8,7 @@ import { createT } from '@/lib/i18n'
 import { requestNotificationPermission, formatReminderTime } from '@/lib/reminder'
 
 export default function Settings() {
-  const { settings, updateSettings, toggleTheme } = useAppStore()
+  const { settings, updateSettings } = useAppStore()
   const t = createT(settings.language)
   const [showClearConfirm, setShowClearConfirm] = useState(false)
   const [reminderMsg, setReminderMsg] = useState('')
@@ -56,16 +56,41 @@ export default function Settings() {
               <label className="font-medium">{t('settings.theme')}</label>
               <p className="text-sm text-muted-foreground">{t('settings.themeDesc')}</p>
             </div>
-            <button
-              onClick={toggleTheme}
-              className="rounded-lg border px-3 py-1.5 text-sm hover:bg-accent transition-colors"
-            >
-              {settings.theme === 'light'
-                ? t('settings.light')
-                : settings.theme === 'dark'
-                  ? t('settings.dark')
-                  : t('settings.system')}
-            </button>
+            <div className="flex gap-2">
+              <button
+                onClick={() => updateSettings({ theme: 'light' })}
+                className={cn(
+                  'rounded-lg border px-3 py-1.5 text-sm transition-colors',
+                  settings.theme === 'light'
+                    ? 'bg-primary text-primary-foreground border-primary'
+                    : 'hover:bg-accent'
+                )}
+              >
+                {t('settings.light')}
+              </button>
+              <button
+                onClick={() => updateSettings({ theme: 'dark' })}
+                className={cn(
+                  'rounded-lg border px-3 py-1.5 text-sm transition-colors',
+                  settings.theme === 'dark'
+                    ? 'bg-primary text-primary-foreground border-primary'
+                    : 'hover:bg-accent'
+                )}
+              >
+                {t('settings.dark')}
+              </button>
+              <button
+                onClick={() => updateSettings({ theme: 'system' })}
+                className={cn(
+                  'rounded-lg border px-3 py-1.5 text-sm transition-colors',
+                  settings.theme === 'system'
+                    ? 'bg-primary text-primary-foreground border-primary'
+                    : 'hover:bg-accent'
+                )}
+              >
+                {t('settings.system')}
+              </button>
+            </div>
           </div>
 
           {/* Language */}
@@ -147,6 +172,17 @@ export default function Settings() {
               max={200}
               onChange={(e) => updateSettings({ dailyGoal: parseInt(e.target.value) || 20 })}
               className="w-20 rounded-lg border bg-background px-3 py-1 text-center outline-none focus:border-primary"
+            />
+          </div>
+          {/* Space to Switch */}
+          <div className="flex items-center justify-between px-4 py-4">
+            <div className="space-y-0.5">
+              <label className="font-medium">{t('settings.spaceToSwitch')}</label>
+              <p className="text-sm text-muted-foreground">{t('settings.spaceToSwitchDesc')}</p>
+            </div>
+            <Toggle
+              value={settings.spaceToSwitch}
+              onChange={() => updateSettings({ spaceToSwitch: !settings.spaceToSwitch })}
             />
           </div>
         </div>

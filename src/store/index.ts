@@ -73,6 +73,7 @@ const defaultSettings: AppSettings = {
   language: 'zh',
   reminderEnabled: false,
   reminderTime: '20:00',
+  spaceToSwitch: false,
 }
 
 const defaultStats: UserStats = {

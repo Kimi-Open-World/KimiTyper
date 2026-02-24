@@ -1,5 +1,5 @@
 import { Outlet, Link, useLocation } from 'react-router-dom'
-import { BookOpen, RotateCcw, BarChart3, Settings, Star, Cloud } from 'lucide-react'
+import { BookOpen, RotateCcw, BarChart3, Settings as SettingsIcon, Star, Cloud, Sun, Moon, Monitor } from 'lucide-react'
 import { useAppStore } from '@/store'
 import { cn } from '@/lib/utils'
 import { createT } from '@/lib/i18n'
@@ -8,7 +8,7 @@ import { checkAndShowReminder } from '@/lib/reminder'
 
 export default function Layout() {
   const location = useLocation()
-  const { settings, keyVocabulary, syncStatus } = useAppStore()
+  const { settings, updateSettings, keyVocabulary, syncStatus } = useAppStore()
   const t = createT(settings.language)
 
   // === 主题应用（含 system 跟随） ===
@@ -63,7 +63,7 @@ export default function Layout() {
       label: t('nav.sync'),
       dot: syncStatus.isLoggedIn,
     },
-    { path: '/settings', icon: Settings, label: t('nav.settings') },
+    { path: '/settings', icon: SettingsIcon, label: t('nav.settings') },
   ]
 
   return (
@@ -105,11 +105,46 @@ export default function Layout() {
       </nav>
 
       {/* Main Content */}
-      <main className="flex-1 overflow-y-auto">
-        <div className="container mx-auto max-w-5xl px-4 py-6">
+      <main className="flex-1 overflow-y-auto relative">
+        <div className="container mx-auto max-w-5xl px-4 pt-6 pb-20 relative">
+          {/* Theme Toggle Widget - aligned with content max width */}
+          <div className="absolute top-6 right-4 sm:right-6 lg:right-4 z-50 flex items-center bg-card border border-border rounded-lg p-0.5 shadow-sm">
+            <button
+              onClick={() => updateSettings({ theme: 'light' })}
+              className={cn(
+                'p-1.5 rounded-md transition-colors',
+                settings.theme === 'light' ? 'bg-primary text-primary-foreground shadow' : 'text-muted-foreground hover:bg-muted hover:text-foreground'
+              )}
+              title={t('settings.light')}
+            >
+              <Sun className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => updateSettings({ theme: 'dark' })}
+              className={cn(
+                'p-1.5 rounded-md transition-colors',
+                settings.theme === 'dark' ? 'bg-primary text-primary-foreground shadow' : 'text-muted-foreground hover:bg-muted hover:text-foreground'
+              )}
+              title={t('settings.dark')}
+            >
+              <Moon className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => updateSettings({ theme: 'system' })}
+              className={cn(
+                'p-1.5 rounded-md transition-colors',
+                settings.theme === 'system' ? 'bg-primary text-primary-foreground shadow' : 'text-muted-foreground hover:bg-muted hover:text-foreground'
+              )}
+              title={t('settings.system')}
+            >
+              <Monitor className="w-4 h-4" />
+            </button>
+          </div>
+
           <Outlet />
         </div>
       </main>
     </div>
+
   )
 }

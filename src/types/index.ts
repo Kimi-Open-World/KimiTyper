@@ -94,6 +94,7 @@ export interface AppSettings {
   language: 'zh' | 'en'   // 界面语言
   reminderEnabled: boolean  // 学习提醒
   reminderTime: string      // 提醒时间 "HH:MM"
+  spaceToSwitch: boolean    // 空格切换允许
 }
 
 // 多语言类型

@@ -74,21 +74,14 @@ export async function getWordDetailCached(word: Word, book: WordBook): Promise<W
         return detail
     }
 
-    // 3. 有 dataUrl（按需加载模式），先查 IndexedDB
+    // 3. 有 dataUrl（按需加载模式），先查明版本并加载最新
+    await loadBookDetails(book)
+
+    // 4. 从 IndexedDB 查（此时如果版本更新，已经是新数据了）
     const fromDB = await getWordDetail(bookId, word.id)
     if (fromDB) {
         setToMemory(fromDB)
         return fromDB
-    }
-
-    // 4. IndexedDB 未命中，触发整本书预加载（避免逐词 fetch）
-    await loadBookDetails(book)
-
-    // 5. 再次查 IndexedDB（预加载后应该有了）
-    const afterLoad = await getWordDetail(bookId, word.id)
-    if (afterLoad) {
-        setToMemory(afterLoad)
-        return afterLoad
     }
 
     // 6. 兜底：返回 Word 对象本身有的字段
@@ -111,9 +104,12 @@ export async function loadBookDetails(book: WordBook): Promise<void> {
     const cached = await isBookDetailsCached(book.id, book.version)
     if (cached) return
 
+    clearMemoryCache(book.id)
+
     try {
         console.log(`[wordLoader] 按需加载词书详情: ${book.id} from ${book.dataUrl}`)
-        const response = await fetch(book.dataUrl)
+        const fetchUrl = book.dataUrl.includes('?') ? `${book.dataUrl}&v=${book.version}` : `${book.dataUrl}?v=${book.version}`
+        const response = await fetch(fetchUrl)
         if (!response.ok) throw new Error(`HTTP ${response.status}`)
 
         // 期望格式：{ words: WordDetail[] } 或 WordDetail[]

@@ -11,5 +11,6 @@
   },
   "plugin": [
     "opencode-scheduler"
-  ]
+  ],
+  "model": "opencode/big-pickle"
 }
