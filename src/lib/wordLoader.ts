@@ -24,6 +24,7 @@ import {
 
 // ── 内存缓存（热路径优化）──
 // key: `{bookId}:{wordId}`
+const MAX_CACHE_SIZE = 2000
 const memoryCache = new Map<string, WordDetail>()
 
 // ── 内存缓存：单词详情 ──
@@ -32,6 +33,11 @@ function getFromMemory(bookId: string, wordId: number): WordDetail | undefined {
 }
 
 function setToMemory(detail: WordDetail): void {
+    if (memoryCache.size >= MAX_CACHE_SIZE) {
+        // delete oldest item to maintain memory limit
+        const firstKey = memoryCache.keys().next().value
+        if (firstKey) memoryCache.delete(firstKey)
+    }
     memoryCache.set(detail.id, detail)
 }
 

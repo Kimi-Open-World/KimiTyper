@@ -509,7 +509,7 @@ def infer_etymology(word: str) -> dict:
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     root_dir = os.path.dirname(script_dir)
-    ts_path = os.path.join(root_dir, "src", "data", "books.ts")
+    ts_path = os.path.join(root_dir, "src", "data", "cet4-chapters.ts")
     out_path = os.path.join(root_dir, "public", "words", "cet4.json")
 
     print("📖 读取 books.ts 中的单词...")
@@ -554,10 +554,10 @@ def main():
             jd = jsonl_data[word_lower]
             inferred = infer_etymology(w["word"])
             detail.update(inferred)
-            # 用 jsonl 的摘要增强 etymology 字段（截取前 150 字）
-            summary = jd.get("etymology_summary", "")
-            if summary:
-                detail["etymology"] = summary[:200] + ("..." if len(summary) > 200 else "")
+            # 用户要求词源为全中文，去除英文 etymology_summary：
+            # summary = jd.get("etymology_summary", "")
+            # if summary:
+            #     detail["etymology"] = summary[:200] + ("..." if len(summary) > 200 else "")
             cognates = jd.get("etymology_cognates", [])
             if cognates:
                 detail["cognates"] = [c.lower() for c in cognates[:6]]

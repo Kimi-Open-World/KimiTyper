@@ -10,6 +10,7 @@ import { cn } from '@/lib/utils'
 import { createT } from '@/lib/i18n'
 import { getWordDetailCached } from '@/lib/wordLoader'
 import { WordDetailPanel } from '@/components/WordDetailPanel'
+import { playWordPronunciation } from '@/lib/audio'
 
 const renderHighlightedExample = (example: string, word: string) => {
   if (!example || !word) return <span>{example}</span>
@@ -183,10 +184,7 @@ export default function TypingPractice() {
   const playWordAudio = useCallback(
     (word: string) => {
       if (!settings.pronunciation) return
-      const utterance = new SpeechSynthesisUtterance(word)
-      utterance.lang = 'en-US'
-      utterance.rate = 0.8
-      window.speechSynthesis.speak(utterance)
+      playWordPronunciation(word)
     },
     [settings.pronunciation]
   )
@@ -248,8 +246,17 @@ export default function TypingPractice() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [bookId])
 
-  // 音效 AudioContext 复用
+  // 音效 AudioContext 复用与清理，防止硬件上下文数量超限泄漏内存
   const audioCtxRef = useRef<AudioContext | null>(null)
+
+  useEffect(() => {
+    return () => {
+      // 深度优化：退出组件时关闭音频上下文，彻底释放底层音频线程内存
+      if (audioCtxRef.current && audioCtxRef.current.state !== 'closed') {
+        audioCtxRef.current.close().catch(console.warn)
+      }
+    }
+  }, [])
   const getAudioCtx = useCallback(async () => {
     if (!audioCtxRef.current || audioCtxRef.current.state === 'closed') {
       audioCtxRef.current = new (window.AudioContext ||

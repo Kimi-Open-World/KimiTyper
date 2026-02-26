@@ -10,6 +10,7 @@ import { createT } from '@/lib/i18n'
 import { sm2Update, formatNextReview } from '@/lib/sm2'
 import { getWordDetailCached } from '@/lib/wordLoader'
 import { WordDetailPanel } from '@/components/WordDetailPanel'
+import { playWordPronunciation } from '@/lib/audio'
 import type { WordDetail } from '@/db'
 
 interface ErrorWordItem {
@@ -47,8 +48,17 @@ export default function ReviewPage() {
   const [sm2ShowWord, setSm2ShowWord] = useState(false)
   const [sm2WordMap, setSm2WordMap] = useState<Record<string, Word>>({})
 
-  // ---- AudioContext (음효) ----
+  // ---- AudioContext (音效) ----
   const audioCtxRef = useRef<AudioContext | null>(null)
+
+  useEffect(() => {
+    return () => {
+      // 深度优化：退出组件时关闭音频上下文，彻底释放底层音频线程内存
+      if (audioCtxRef.current && audioCtxRef.current.state !== 'closed') {
+        audioCtxRef.current.close().catch(console.warn)
+      }
+    }
+  }, [])
   const getAudioCtx = useCallback(async () => {
     if (!audioCtxRef.current || audioCtxRef.current.state === 'closed') {
       audioCtxRef.current = new (window.AudioContext ||
@@ -340,16 +350,12 @@ export default function ReviewPage() {
 
   const playSM2Audio = () => {
     if (!currentSM2Word || !settings.pronunciation) return
-    const u = new SpeechSynthesisUtterance(currentSM2Word.word)
-    u.lang = 'en-US'; u.rate = 0.8
-    window.speechSynthesis.speak(u)
+    playWordPronunciation(currentSM2Word.word)
   }
 
   const playAudio = (word: string) => {
     if (!settings.pronunciation) return
-    const u = new SpeechSynthesisUtterance(word)
-    u.lang = 'en-US'
-    window.speechSynthesis.speak(u)
+    playWordPronunciation(word)
   }
 
   const sm2Grades = [

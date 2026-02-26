@@ -4,6 +4,7 @@ import { ArrowLeft, Star, Volume2, Trash2, BookOpen, Info, Search } from 'lucide
 import { useAppStore } from '@/store'
 import { cn } from '@/lib/utils'
 import { createT } from '@/lib/i18n'
+import { playWordPronunciation } from '@/lib/audio'
 
 export default function KeyVocabulary() {
   const navigate = useNavigate()
@@ -14,10 +15,7 @@ export default function KeyVocabulary() {
 
   const playAudio = (word: string) => {
     if (!settings.pronunciation) return
-    const utterance = new SpeechSynthesisUtterance(word)
-    utterance.lang = 'en-US'
-    utterance.rate = 0.8
-    window.speechSynthesis.speak(utterance)
+    playWordPronunciation(word)
   }
 
   // 修复：搜索过滤（之前过滤器完全无效）

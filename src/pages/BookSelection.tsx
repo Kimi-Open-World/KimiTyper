@@ -1,9 +1,9 @@
 import { useEffect, useState, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { BookOpen, ChevronRight, ChevronDown, Layers, Plus, Upload, FileJson, Trash2 } from 'lucide-react'
+import { BookOpen, ChevronRight, Layers, Plus, Upload, FileJson, Trash2, X, Check, Book } from 'lucide-react'
 import { useAppStore } from '@/store'
 import { saveBooks, getAllBooks, deleteBook } from '@/db'
-import { allBooks as defaultAllBooks } from '@/data/books'
+import { initializeBooks } from '@/data/books'
 import { cn } from '@/lib/utils'
 import type { WordBook } from '@/types'
 import { Button } from '@/components/ui/button'
@@ -68,7 +68,7 @@ export default function BookSelection() {
   const { progress, currentBook, setCurrentBook, settings } = useAppStore()
   const t = createT(settings.language)
 
-  const [expandedBook, setExpandedBook] = useState<string | null>(null)
+  const [selectedBook, setSelectedBook] = useState<WordBook | null>(null)
   const [selectedFile, setSelectedFile] = useState<File | null>(null)
   const [books, setBooks] = useState<WordBook[]>([])
   const [importOpen, setImportOpen] = useState(false)
@@ -78,14 +78,15 @@ export default function BookSelection() {
   const loadBooks = useCallback(async () => {
     const loadedBooks = await getAllBooks()
 
-    // 内置书 ID 集合
-    const builtinIds = new Set(defaultAllBooks.map((b) => b.id))
+    // 获取最新的全量内置书籍 (包含动态载入的 electives)
+    const builtins = await initializeBooks()
+    const builtinIds = new Set(builtins.map((b) => b.id))
 
-    // 保留用户自定义书（非内置 id 的书）
-    const customBooks = loadedBooks.filter((b) => !builtinIds.has(b.id))
+    // 保留用户自定义书（非内置 id 的书），并且把历史遗留的 yilin 书籍剔除掉
+    const customBooks = loadedBooks.filter((b) => !builtinIds.has(b.id) && !b.id.startsWith('yilin'))
 
-    // 始终用最新的 defaultAllBooks 覆盖内置书（确保词汇更新立即生效）
-    const merged = [...defaultAllBooks, ...customBooks]
+    // 始终用最新的 builtins 覆盖内置书（确保词汇更新立即生效）
+    const merged = [...builtins, ...customBooks]
     await saveBooks(merged)
     setBooks(merged)
   }, [])
@@ -168,7 +169,7 @@ export default function BookSelection() {
 
   const handleBookClick = (book: WordBook) => {
     if (book.chapters && book.chapters.length > 0) {
-      setExpandedBook(expandedBook === book.id ? null : book.id)
+      setSelectedBook(book)
     } else {
       setCurrentBook(book)
       navigate(`/learn/${book.id}`)
@@ -285,7 +286,6 @@ export default function BookSelection() {
               .map((book) => {
                 const { percent } = getBookProgress(book)
                 const chapterCount = book.chapters?.length || 0
-                const isExpanded = expandedBook === book.id
                 const isCustom = book.isCustom
 
                 return (
@@ -332,11 +332,7 @@ export default function BookSelection() {
                           {chapterCount > 0 && (
                             <Layers className="h-4 w-4 text-muted-foreground" />
                           )}
-                          {isExpanded ? (
-                            <ChevronDown className="h-5 w-5 text-muted-foreground" />
-                          ) : (
-                            <ChevronRight className="h-5 w-5 text-muted-foreground transition-transform group-hover:translate-x-1" />
-                          )}
+                          <ChevronRight className="h-5 w-5 text-muted-foreground transition-transform group-hover:translate-x-1" />
                         </div>
                       </div>
 
@@ -395,55 +391,112 @@ export default function BookSelection() {
                       </div>
                     )}
 
-                    {/* Chapter List */}
-                    {isExpanded && book.chapters && book.chapters.length > 0 && (
-                      <div className="border-t bg-muted/30">
-                        <div className="p-2 space-y-1">
-                          {book.chapters.map((chapter) => {
-                            const key = `${book.id}-${chapter.id}`
-                            const chapterCompleted = progress[key]?.completedWords?.length || 0
-                            const chapterPercent = Math.min(
-                              Math.round((chapterCompleted / (chapter.words.length || 1)) * 100),
-                              100
-                            )
-
-                            return (
-                              <button
-                                key={chapter.id}
-                                onClick={() => handleChapterClick(book, chapter.id)}
-                                className="w-full rounded-lg p-3 text-left hover:bg-card transition-colors"
-                              >
-                                <div className="flex items-center justify-between">
-                                  <div>
-                                    <p className="font-medium text-sm">{chapter.name}</p>
-                                    <p className="text-xs text-muted-foreground">
-                                      {chapter.words.length} {t('books.words')}
-                                      {chapter.description ? ` · ${chapter.description}` : ''}
-                                    </p>
-                                  </div>
-                                  <div className="flex items-center gap-2">
-                                    <span className="text-xs font-medium">{chapterPercent}%</span>
-                                    <ChevronRight className="h-4 w-4 text-muted-foreground" />
-                                  </div>
-                                </div>
-                                <div className="mt-2 h-1 overflow-hidden rounded-full bg-muted">
-                                  <div
-                                    className="h-full rounded-full bg-primary/70 transition-all"
-                                    style={{ width: `${chapterPercent}%` }}
-                                  />
-                                </div>
-                              </button>
-                            )
-                          })}
-                        </div>
-                      </div>
-                    )}
                   </div>
                 )
               })}
           </div>
         </div>
       ))}
+
+      {/* Chapters Overlay Modal */}
+      {selectedBook && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm p-4 sm:p-6 overflow-hidden">
+          {/* Modal Container */}
+          <div className="relative w-full max-w-5xl bg-background text-foreground rounded-3xl shadow-2xl flex flex-col max-h-[90vh] border border-border/50 overflow-hidden transform transition-all">
+
+            {/* Header Area */}
+            <div className="flex flex-col md:flex-row md:items-end justify-between px-8 py-8 md:py-10 bg-muted/30 border-b border-border gap-6 sticky top-0 z-20">
+
+              {/* Close Button */}
+              <button
+                onClick={() => setSelectedBook(null)}
+                className="absolute top-4 right-4 sm:top-6 sm:right-6 text-muted-foreground hover:text-foreground hover:bg-muted transition-colors p-2 rounded-full active:scale-95"
+              >
+                <X className="w-6 h-6" />
+              </button>
+
+              <div className="mt-2">
+                <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-foreground mb-4">
+                  {selectedBook.name}
+                </h1>
+                <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm sm:text-[15px] font-medium text-muted-foreground">
+                  <div className="flex items-center gap-2">
+                    <Layers className="w-4 h-4" />
+                    {selectedBook.chapters?.length || 0} 章节
+                  </div>
+                  <div>共 {selectedBook.wordCount} 词</div>
+                  {selectedBook.description && (
+                    <div className="w-full md:w-auto mt-1 md:mt-0 text-muted-foreground/80 break-all max-w-2xl text-sm">
+                      {selectedBook.description}
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              <button
+                className="flex items-center gap-2 px-6 py-3 rounded-xl bg-primary hover:bg-primary/90 text-primary-foreground shadow-sm active:scale-95 transition-all self-start md:self-auto text-[15px] font-medium whitespace-nowrap"
+                onClick={() => {
+                  const firstIncompletePath = selectedBook.chapters?.[0]?.id;
+                  if (firstIncompletePath) {
+                    handleChapterClick(selectedBook, firstIncompletePath);
+                  }
+                }}
+              >
+                <Book className="w-4 h-4" />
+                顺序学习
+              </button>
+            </div>
+
+            {/* Chapter Grid (Scrollable Body) */}
+            <div className="overflow-y-auto custom-scrollbar p-6 sm:p-8">
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                {selectedBook.chapters?.map((chapter) => {
+                  const key = `${selectedBook.id}-${chapter.id}`
+                  const chapterCompleted = progress[key]?.completedWords?.length || 0
+                  const isCompleted = chapterCompleted >= (chapter.words.length || 1)
+                  const percent = Math.min(Math.round((chapterCompleted / (chapter.words.length || 1)) * 100), 100)
+
+                  return (
+                    <button
+                      key={chapter.id}
+                      onClick={() => handleChapterClick(selectedBook, chapter.id)}
+                      className={cn(
+                        "group relative flex flex-col items-start p-4 md:p-5 rounded-2xl transition-all duration-200 overflow-hidden min-h-[105px] border",
+                        isCompleted
+                          ? "bg-primary/5 hover:bg-primary/10 border-primary/20 shadow-sm"
+                          : "bg-card hover:bg-muted/60 border-border hover:border-primary/30 shadow-sm"
+                      )}
+                    >
+                      <div className="flex justify-between items-start w-full relative z-10">
+                        <span className="text-base sm:text-[17px] font-semibold tracking-wide text-foreground">
+                          {chapter.name}
+                        </span>
+                        {isCompleted && (
+                          <div className="rounded-full bg-green-500/20 dark:bg-green-500/10 p-1 flex items-center justify-center shrink-0 ml-2">
+                            <Check className="w-4 h-4 text-green-600 dark:text-green-500" strokeWidth={3} />
+                          </div>
+                        )}
+                      </div>
+
+                      <span className="mt-auto pt-3 text-[13px] text-muted-foreground font-medium relative z-10">
+                        {isCompleted ? "已完成" : (percent > 0 ? `已练习 ${percent}%` : "未练习")}
+                      </span>
+
+                      {/* Progress Bar Background for partial completion */}
+                      {!isCompleted && percent > 0 && (
+                        <div
+                          className="absolute bottom-0 left-0 h-1 bg-primary/40 transition-all z-0"
+                          style={{ width: `${percent}%` }}
+                        />
+                      )}
+                    </button>
+                  )
+                })}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
