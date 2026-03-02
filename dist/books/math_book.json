@@ -1,0 +1,1944 @@
+{
+  "id": "math",
+  "name": "数学专业英语词汇",
+  "description": "数学专业核心必备词汇，共 231 词",
+  "wordCount": 231,
+  "language": "en",
+  "category": "理科专业",
+  "dataUrl": "/words/math.json",
+  "version": "1.8",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Chapter 1",
+      "description": "Words 1 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 1,
+          "word": "algebra",
+          "translation": "n. 代数；代数学",
+          "phonetic": "/ˈældʒɪbrə/",
+          "example": "At twenty he translated Euler's standard work on algebra into English.",
+          "exampleTranslation": "20岁时，他把尤勒的权威代数著作译成了英语。"
+        },
+        {
+          "id": 2,
+          "word": "geometry",
+          "translation": "n. 几何，几何学；几何形状，几何构造；几何体系",
+          "phonetic": "/dʒiˈɒmətri/",
+          "example": "The doctor doesn't know how to teach me geometry.",
+          "exampleTranslation": "这个教授不知道如何教我几何学。"
+        },
+        {
+          "id": 3,
+          "word": "calculus",
+          "translation": "n. 微积分；（数，逻）演算（法），计算（法）；（医）（尤指肾或胆囊的）结石，石",
+          "phonetic": "/ˈkælkjələs/",
+          "example": "He began college with a timetable that included biology, calculus and political science.",
+          "exampleTranslation": "他开始了大学生活，课程表上包括生物、微积分和政治学。"
+        },
+        {
+          "id": 4,
+          "word": "integral",
+          "translation": "adj. 必需的，必要的，不可或缺的；作为组成部分的；完整的；整的，积分的；n. 积分；完整",
+          "phonetic": "/ˈɪntɪɡrəl/",
+          "example": "As an integral part of learning, it brings about positive changes, making people develop and grow.",
+          "exampleTranslation": "作为学习的一个组成部分，它带来了积极的变化，使人发展和成长。"
+        },
+        {
+          "id": 5,
+          "word": "derivative",
+          "translation": "n. 派生物，衍生物；派生词；（金融）衍生工具（产品）；导数，微商；adj. 非独创的，模仿他人的；（金融产品）衍生的",
+          "phonetic": "/dɪˈrɪvətɪv/",
+          "example": "'Happiness' is a derivative of 'happy'.",
+          "exampleTranslation": "happiness是happy的派生词。"
+        },
+        {
+          "id": 6,
+          "word": "equation",
+          "translation": "n. 等式，方程（式）；等同（看待）；（必须考虑多种因素的）复杂局面（或问题）",
+          "phonetic": "/ɪˈkweɪʒ(ə)n/",
+          "example": "X and Y in the equation are both unknowns.",
+          "exampleTranslation": "等式中的X和Y都是未知数。"
+        },
+        {
+          "id": 7,
+          "word": "variable",
+          "translation": "adj. 易变的，多变的；时好时坏的；可变的，可调节的；（数）（数字）变量的；（植，动）变异的，变型的；（齿轮）变速的；n. 可变性，可变因素；（数学中的）变量，变元；（计算机）变量（元）；（天文）变星的简称；（东北信风带以北或南半球的东南信风带与西风带之间的）变风区",
+          "phonetic": "/ˈveəriəb(ə)l/",
+          "example": "The drill has variable speed control.",
+          "exampleTranslation": "这钻机有变速控制。"
+        },
+        {
+          "id": 8,
+          "word": "fraction",
+          "translation": "n. 分数，小数；小部分，微量；持不同意见的小集团；分离；（基督教用语）分切圣餐面包",
+          "phonetic": "/ˈfrækʃn/",
+          "example": "The fraction was then multiplied by 100 and rounded to the nearest half or whole number.",
+          "exampleTranslation": "该分数然后被乘以100，再四舍五入成半数或者整数。"
+        },
+        {
+          "id": 9,
+          "word": "decimal",
+          "translation": "adj. 十进位的，小数的；n. 小数；十进制",
+          "phonetic": "/ˈdesɪm(ə)l/",
+          "example": "The figure is accurate to two decimal places.",
+          "exampleTranslation": "这个数精确到小数点后两位。"
+        },
+        {
+          "id": 10,
+          "word": "algorithm",
+          "translation": "n. （尤指计算机）算法，运算法则",
+          "phonetic": "/ˈælɡərɪðəm/",
+          "example": "Don't diddle code to make it faster—find a better algorithm.",
+          "exampleTranslation": "不要为了使代码更快而胡乱编写代码——要找到更好的算法。"
+        },
+        {
+          "id": 11,
+          "word": "coordinate",
+          "translation": "v. 协调，配合；使身体协调；（使颜色、款式、风格等）搭配，配套；给 （原子或分子）配位，与……形成共价键；n. 坐标；配套服装；同等级（或类别）的人（或事物）；adj. 地位相当的，同等重要的；（语法）并列的；（化学）配位的",
+          "phonetic": "/kəʊˈɔːdɪneɪt/",
+          "example": "She'll show you how to coordinate pattern and colours.",
+          "exampleTranslation": "她会向你展示如何搭配款式和颜色。"
+        },
+        {
+          "id": 12,
+          "word": "matrix",
+          "translation": "n. 矩阵；模型；社会环境；（骨头、牙齿和指甲等身体器官的）母体，基质；脉石；矩阵转接电路；线路网，道路网；精细材料；交叉结构",
+          "phonetic": "/ˈmeɪtrɪks/",
+          "example": "That matrix has properties that vary in different locations in the body, but basically it's a highly hydrated or water-rich gel.",
+          "exampleTranslation": "这种基质在体内不同的位置有不同的性质，但基本上它是一种高度水合或富水的凝胶。"
+        },
+        {
+          "id": 13,
+          "word": "polynomial",
+          "translation": "adj. 多项的，多词的；多项式的；n. 多项式；多词拉丁学名；表示任何多项数之和",
+          "phonetic": "/ˌpɒliˈnəʊmiəl/",
+          "example": "The equivalence of the two statements can be proven through the use of successive polynomial division.",
+          "exampleTranslation": "两个表述的等效性可以通过使用连续多项式除法来证明。"
+        },
+        {
+          "id": 14,
+          "word": "theorem",
+          "translation": "n. [数] 定理；原理",
+          "phonetic": "/ˈθɪərəm/",
+          "example": "The theorem that alternativity can replace associativity is true.",
+          "exampleTranslation": "交替性可以代替关联性的定理是正确的。"
+        },
+        {
+          "id": 15,
+          "word": "axiom",
+          "translation": "n. [数] 公理；格言；自明之理",
+          "phonetic": "/ˈæksiəm/",
+          "example": "We should explore the relation between the Martin Axiom and Continuum Hypothesis.",
+          "exampleTranslation": "我们应该探讨马丁公理和连续统假设之间的关系。"
+        },
+        {
+          "id": 16,
+          "word": "discrete",
+          "translation": "adj. 分离的，各别的",
+          "phonetic": "/dɪˈskriːt/",
+          "example": "Social structures are not discrete objects; they overlap and interweave.",
+          "exampleTranslation": "社会结构不是离散的客体；他们重叠并交织在一起。"
+        },
+        {
+          "id": 17,
+          "word": "function",
+          "translation": "n. 功能，职责；宴会，典礼；函数，应变量；由其他事情造成的结果；子例行程序，子例程；官能团，功能团；v. 工作，运转；行使职责，发挥功能",
+          "phonetic": "/ˈfʌŋkʃ(ə)n/",
+          "example": "Breathing is an automatic function of the body.",
+          "exampleTranslation": "呼吸是一种无意识的身体功能。"
+        },
+        {
+          "id": 18,
+          "word": "domain",
+          "translation": "n. 领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产；【名】 （Domain）（英、法）多曼（人名）",
+          "phonetic": "/dəˈmeɪn/",
+          "example": "Physics used to be very much a male domain.",
+          "exampleTranslation": "物理学曾在很大程度上是男人的领域。"
+        },
+        {
+          "id": 19,
+          "word": "range",
+          "translation": "n. （变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；山脉；牧场，牧区；靶场，射击场，炸弹试验场；（尤指旧时的）炉灶；一排建筑物；<古>方向，走向；（飞机等交通工具的）续航距离；v. （在一定的范围内）变化，变动；（按一定位置或顺序）排列，排序；徘徊，四处移动；（文章或讲话）涉及，包括 ；（枪、炮、射击后校准）测距，（用雷达或激光）测距；支持，反对；自然生长，分布；与……联合起来，加入……行列；adj. <文>（生活方式）有秩序的，安定的",
+          "phonetic": "/reɪndʒ/",
+          "example": "The article covered a wide range of topics.",
+          "exampleTranslation": "这篇文章讨论了一系列广泛的论题。"
+        },
+        {
+          "id": 20,
+          "word": "sequence",
+          "translation": "n. 顺序，次序；连续事件（或动作、事物）；（电影中表现同一主题或场面的）一组镜头；（生物学中分子或基因的排列）顺序；模进；（纸牌的）同花顺；序列；（天主教弥撒中圣歌与福音之间的）继续经；v. 按顺序排列；测定（整套基因或分子成分的）序列；用音序器播放（或录制）音乐",
+          "phonetic": "/ˈsiːkwəns/",
+          "example": "These pages are out of sequence.",
+          "exampleTranslation": "这几页排错了次序。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2",
+      "description": "Words 21 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 21,
+          "word": "asymptote",
+          "translation": "n. [数] 渐近线",
+          "phonetic": "/ˈæsɪmˌtəʊt/",
+          "example": "You need to find vertical asymptote first.",
+          "exampleTranslation": "你需要先找到垂直渐进线。"
+        },
+        {
+          "id": 22,
+          "word": "probability",
+          "translation": "n. 可能性，或然性；可能发生的事，可能真实的事；（数）概率，几率",
+          "phonetic": "/ˌprɒbəˈbɪləti/",
+          "example": "There seemed to be a high probability of success.",
+          "exampleTranslation": "成功的几率似乎很高。"
+        },
+        {
+          "id": 23,
+          "word": "statistics",
+          "translation": "n. 统计学；统计数字（statistic 的复数形式）",
+          "phonetic": "/stəˈtɪstɪks/",
+          "example": "These statistics are misleading.",
+          "exampleTranslation": "这些统计资料会引起误解。"
+        },
+        {
+          "id": 24,
+          "word": "variance",
+          "translation": "n. 分歧，不一致；变化幅度，差额；（官方的）特殊许可；（律）（两个供述或证据间的）不符；（统计）方差",
+          "phonetic": "/ˈveəriəns/",
+          "example": "Many of his statements were at variance with the facts.",
+          "exampleTranslation": "他的许多陈述都与事实相矛盾。"
+        },
+        {
+          "id": 25,
+          "word": "deviation",
+          "translation": "n. 偏离，违背；离差，偏差",
+          "phonetic": "/ˌdiːviˈeɪʃn/",
+          "example": "You can't think out a number to describe the twenty-five standard deviation event; it's just too large a number for any of us to comprehend.",
+          "exampleTranslation": "你无法想出一个数字来描述25个标准差事件；这个数字太大了，我们任何人都无法理解。"
+        },
+        {
+          "id": 26,
+          "word": "permutation",
+          "translation": "n. [数] 排列；[数] 置换",
+          "phonetic": "/ˌpɜːmjuˈteɪʃ(ə)n/",
+          "example": "He wants to change one's costume or dress advocate board, make the permutation of chip and circuit more beautiful.",
+          "exampleTranslation": "他想更换主板的外观，使芯片和电路的排列更加美观。"
+        },
+        {
+          "id": 27,
+          "word": "combination",
+          "translation": "n. 结合体，联合体；结合，联合；（用于开锁的）数码组合；化合作用；两用（或多用的）物品；<旧>衫裤相连的内衣；组合；<英>附边车的摩托车",
+          "phonetic": "/ˌkɒmbɪˈneɪʃ(ə)n/",
+          "example": "His treatment was a combination of surgery, radiation and drugs.",
+          "exampleTranslation": "对他的治疗是把手术、放射和药物治疗结合为一体。"
+        },
+        {
+          "id": 28,
+          "word": "vector",
+          "translation": "n. 矢量，向量；（传染疾病的）介体；（飞机的）航线，航向；克隆载体；带菌者；单行矩阵，单列矩阵；（计算机）模型；v. 引导（飞机）",
+          "phonetic": "/ˈvektə(r)/",
+          "example": "That vector is called a \"null vector\".",
+          "exampleTranslation": "那种矢量就叫做”零矢量“。"
+        },
+        {
+          "id": 29,
+          "word": "scalar",
+          "translation": "adj. 标量的；数量的；梯状的，分等级的；n. [数] 标量；[数] 数量",
+          "phonetic": "/ˈskeɪlə(r)/",
+          "example": "The volume V is given in terms of the scalar triple product.",
+          "exampleTranslation": "体积 V 以标量三乘积的形式给出。"
+        },
+        {
+          "id": 30,
+          "word": "tensor",
+          "translation": "n. [数] 张量；[解剖] 张肌",
+          "phonetic": "/ˈtensə(r); ˈtensɔː(r)/",
+          "example": "Tensor algebra is tied to coordinates.",
+          "exampleTranslation": "张量代数则离不开坐标系。"
+        },
+        {
+          "id": 31,
+          "word": "topology",
+          "translation": "n. 拓扑学",
+          "phonetic": "/təˈpɒlədʒi/",
+          "example": "The relation between the completeness of several local convex topology and that of induction topology was pointed out in this paper.",
+          "exampleTranslation": "指出了几种局部凸拓扑的完整性与感应拓扑的完整性之间的关系。"
+        },
+        {
+          "id": 32,
+          "word": "manifold",
+          "translation": "adj. <正式>繁多的，多种多样的；n. 歧管（汽车引擎用以进气和排气）；（内燃机）集管，总管；（数）流形，簇；【名】 （Manifold）（美、英、澳）马尼福尔德（人名）",
+          "phonetic": "/ˈmænɪfəʊld/",
+          "example": "The moves in chess are not only manifold, but involute.",
+          "exampleTranslation": "下棋的走法不但多种多样，而且错综复杂。"
+        },
+        {
+          "id": 33,
+          "word": "differential",
+          "translation": "adj. 微分的；差别的；特异的；n. 微分；差别",
+          "phonetic": "/ˌdɪfəˈrenʃ(ə)l/",
+          "example": "The density differential was replicated.",
+          "exampleTranslation": "密度差被复制了。"
+        },
+        {
+          "id": 34,
+          "word": "logarithm",
+          "translation": "n. [数] 对数",
+          "phonetic": "/ˈlɒɡərɪðəm/",
+          "example": "The dilogarithm is an integral of the logarithm.",
+          "exampleTranslation": "二重对数是对数的积分。"
+        },
+        {
+          "id": 35,
+          "word": "exponential",
+          "translation": "adj. （增长）越来越快的；指数的，含有指数的；n. 指数",
+          "phonetic": "/ˌekspəˈnenʃl/",
+          "example": "The policy tried to check the exponential growth of public expenditure.",
+          "exampleTranslation": "该政策试图检查公共支出的快速增长。"
+        },
+        {
+          "id": 36,
+          "word": "modulo",
+          "translation": "prep. 以……为模；adj. 按模的",
+          "phonetic": "/ˈmɒdjʊləʊ/",
+          "example": "The Checksum Word contains the twos complement of the modulo 256 sum of the.",
+          "exampleTranslation": "校验字包含两个数据信息的和与256的模的两个补码。"
+        },
+        {
+          "id": 37,
+          "word": "congruence",
+          "translation": "n. 一致；适合；[数] 全等",
+          "phonetic": "/ˈkɒŋɡruəns/",
+          "example": "I must say that this push for congruence in all areas turned out beautifully.",
+          "exampleTranslation": "我得说，在所有方面奋力争取一致性的结果是美妙的。"
+        },
+        {
+          "id": 38,
+          "word": "integer",
+          "translation": "n. 整数；完整物，统一体",
+          "phonetic": "/ˈɪntɪdʒə(r)/",
+          "example": "The parseInt function parses a string and returns an integer.",
+          "exampleTranslation": "字符串函数用于将一个字符串转换为整型数字。"
+        },
+        {
+          "id": 39,
+          "word": "rational",
+          "translation": "adj. （想法、决定等）合理的，基于理性的；（人）理性的，理智的；富有理性的；（数）有理的，有理数的；n. 有理数",
+          "phonetic": "/ˈræʃ(ə)nəl/",
+          "example": "There is no rational explanation for his actions.",
+          "exampleTranslation": "对他的所作所为无法作出合理的解释。"
+        },
+        {
+          "id": 40,
+          "word": "irrational",
+          "translation": "adj. 非理性的，不合逻辑的，荒谬的；无理的；n. 无理数",
+          "phonetic": "/ɪˈræʃən(ə)l/",
+          "example": "His behaviour was becoming increasingly irrational.",
+          "exampleTranslation": "他的行为正变得愈加非理性。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3",
+      "description": "Words 41 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 41,
+          "word": "prime",
+          "translation": "adj. 主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的；v. 事先指点，使（某人）做好准备；把（某事物）准备好，使备用；给（表面）涂上底色；n. 盛年，壮年时期；质数，素数；上标符号（'），（数字后）分钟（或英尺）符号；（八个防御姿势的）第一姿势；（自行车比赛中设特别奖的）特设行程；<古>起始，原初；晨经，晨祷（传统上于白天中的第一个小时即早晨六点所做的祈祷，现罕用）；【名】 （Prime）（英）普赖姆，（德）普里梅（人名）",
+          "phonetic": "/praɪm/",
+          "example": "The Prime Minister was in ebullient mood.",
+          "exampleTranslation": "首相兴致勃勃。"
+        },
+        {
+          "id": 42,
+          "word": "composite",
+          "translation": "adj. 合成的，复合的；（火车车厢）综合的；菊科的；（柱式）混合的；n. 合成物，复合材料；罪犯画像；综合提案；菊科植物；混合柱式；v. 合成（图片）",
+          "phonetic": "/ˈkɒmpəzɪt/",
+          "example": "Spain is a composite of multifarious traditions and people.",
+          "exampleTranslation": "西班牙是多种传统和多个民族的合成体。"
+        },
+        {
+          "id": 43,
+          "word": "factor",
+          "translation": "n. 因素，要素；等级，系数；因数，因子；遗传因子，基因；（血液中的）凝血因子；代理公司，代理商；<苏格兰>地产管理人，管家；测量水平；v. 把……作为因素计入，把……包括在内（factor in）；把……作为因素排除，不把……包括在内（factor out）；将……分解为因子；代理经营，（代管）产业；做代理商；【名】 （Factor）（英）法克特（人名）",
+          "phonetic": "/ˈfæktə(r)/",
+          "example": "Lack of cash is a limiting factor.",
+          "exampleTranslation": "现金短缺是一个制约因素。"
+        },
+        {
+          "id": 44,
+          "word": "multiple",
+          "translation": "adj. 多个的，多种的；多人共有的；影响身体许多部位的；n. 倍数；<英>连锁商店；（电信）复联，复接",
+          "phonetic": "/ˈmʌltɪp(ə)l/",
+          "example": "8 is the lowest common multiple of 8 and 4.",
+          "exampleTranslation": "8是8和4的最小公倍数。"
+        },
+        {
+          "id": 45,
+          "word": "quotient",
+          "translation": "n. 程度，系数；（数学中的）商；份额",
+          "phonetic": "/ˈkwəʊʃ(ə)nt/",
+          "example": "The island has a high quotient of new age therapists.",
+          "exampleTranslation": "该岛屿有很多新世纪治疗专家。"
+        },
+        {
+          "id": 46,
+          "word": "remainder",
+          "translation": "n. 剩余部分，其余；廉价出售的书，滞销图书；差数，余数；<法律>有待继承产权，指定继承产权；v. 削价出售（剩书）；adj. <罕>剩余的，残余的",
+          "phonetic": "/rɪˈmeɪndə(r)/",
+          "example": "He gulped down the remainder of his coffee.",
+          "exampleTranslation": "他一口喝完了剩下的咖啡。"
+        },
+        {
+          "id": 47,
+          "word": "dividend",
+          "translation": "n. 红利，股息；好处，回报；（足球彩票的）彩金；被除数",
+          "phonetic": "/ˈdɪvɪdend/",
+          "example": "The first quarter dividend has been increased by nearly 4 percent.",
+          "exampleTranslation": "第一季度的股息增加了近4％。"
+        },
+        {
+          "id": 48,
+          "word": "divisor",
+          "translation": "n. 除数；因子",
+          "phonetic": "/dɪˈvaɪzə(r)/",
+          "example": "The current divisor is 0.132129493.",
+          "exampleTranslation": "它当前的值为0.132129493。"
+        },
+        {
+          "id": 49,
+          "word": "numerator",
+          "translation": "n. 分子；计算者；计算器",
+          "phonetic": "/ˈnjuːməreɪtə(r)/",
+          "example": "Whenever an Indian demographic appears as a numerator, the resulting number looks big.",
+          "exampleTranslation": "无论什么时候用印度的人口作为分子，由此得出的结果看上去都是很大的。"
+        },
+        {
+          "id": 50,
+          "word": "denominator",
+          "translation": "n. （分数中的）分母；统计基准；命名者；共同特征或共同性质",
+          "phonetic": "/dɪˈnɒmɪneɪtə(r)/",
+          "example": "Tabloid newspapers pander to the lowest common denominator.",
+          "exampleTranslation": "小报都竭力迎合大众口味。"
+        },
+        {
+          "id": 51,
+          "word": "proportion",
+          "translation": "n. 部分，份额；比例；正确的比例，均衡；大小，程度（proportions）；（事情的）重要性，严重性；等比关系；v. <正式> 使（某物）成比例，使相称；分摊",
+          "phonetic": "/prəˈpɔːʃ(ə)n/",
+          "example": "The head is out of proportion with the body.",
+          "exampleTranslation": "头部和身体不成比例。"
+        },
+        {
+          "id": 52,
+          "word": "ratio",
+          "translation": "n. 比率，比例",
+          "phonetic": "/ˈreɪʃiəʊ/",
+          "example": "The adult to child ratio is one to six.",
+          "exampleTranslation": "成人与儿童之比是1比6。"
+        },
+        {
+          "id": 53,
+          "word": "percentage",
+          "translation": "n. 百分比，百分率；部分，比例；利润分成，提成；<非正式>利益，好处",
+          "phonetic": "/pəˈsentɪdʒ/",
+          "example": "The figure is expressed as a percentage.",
+          "exampleTranslation": "数字是用百分率表示的。"
+        },
+        {
+          "id": 54,
+          "word": "circumference",
+          "translation": "n.  圆周，周长；周边，外围",
+          "phonetic": "/səˈkʌmfərəns/",
+          "example": "The earth is almost 25 000 miles in circumference.",
+          "exampleTranslation": "地球的周长大约为25 000英里。"
+        },
+        {
+          "id": 55,
+          "word": "radius",
+          "translation": "n. 半径；半径范围，周围；（剖）桡骨；（昆）径脉；（棘皮动物或腔肠动物的）辐射对称轴；v. 使（角，边缘）成弧形；【名】 （Radius）（意、印尼）拉迪乌斯，（英）雷迪厄斯，（法）拉迪于斯（人名）",
+          "phonetic": "/ˈreɪdiəs/",
+          "example": "He indicated a semicircle with a radius of about thirty miles.",
+          "exampleTranslation": "他标示出一个半径大约三十英里的半圆。"
+        },
+        {
+          "id": 56,
+          "word": "diameter",
+          "translation": "n. 直径；放大倍数",
+          "phonetic": "/daɪˈæmɪtə(r)/",
+          "example": "The dome is 42.3 metres in diameter.",
+          "exampleTranslation": "这个穹顶直径为42.3米。"
+        },
+        {
+          "id": 57,
+          "word": "tangent",
+          "translation": "n. 切线，切面；正切；adj. 切线的，相切的；接触的；离题的；n. （Tangent）（美、印度）坦根特（人名）",
+          "phonetic": "/ˈtændʒənt/",
+          "example": "The conversation went off on a tangent.",
+          "exampleTranslation": "谈话突然偏离了正题。"
+        },
+        {
+          "id": 58,
+          "word": "secant",
+          "translation": "adj. 割的；切的；交叉的；n. 割线；正割",
+          "phonetic": "/ˈsiːkənt/",
+          "example": "Most of us can’t tell our secant from our cotangent.",
+          "exampleTranslation": "我们中的大多数不能分辨正切余切。"
+        },
+        {
+          "id": 59,
+          "word": "sine",
+          "translation": "n. 正弦；prep. （尤指拉丁词语或法律用语）缺少，没有；【名】 （Sine）（土）西内（人名）",
+          "phonetic": "/saɪn/",
+          "example": "The case was adjourned sine die.",
+          "exampleTranslation": "此案无限期延迟审理。"
+        },
+        {
+          "id": 60,
+          "word": "cosine",
+          "translation": "n. [数] 余弦",
+          "phonetic": "/ˈkəʊsaɪn/",
+          "example": "Notice the cosine function is...",
+          "exampleTranslation": "注意这个余弦函数的。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4",
+      "description": "Words 61 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 61,
+          "word": "hypotenuse",
+          "translation": "n. 直角三角形的斜边",
+          "phonetic": "/haɪˈpɒtənjuːz/",
+          "example": "The hypotenuse is the longest side of a right triangle.",
+          "exampleTranslation": "直角三角形的斜边是直角三角形中最长的边。"
+        },
+        {
+          "id": 62,
+          "word": "perpendicular",
+          "translation": "adj. 垂直的，直立的，成直角的；（14、15世纪英格兰教堂）垂直式装饰风格的；（带斜面的物体）陡峭的，陡立的；n. 垂线，垂直线，垂直姿态",
+          "phonetic": "/ˌpɜːpənˈdɪkjələ(r)/",
+          "example": "Are the lines perpendicular to each other?",
+          "exampleTranslation": "这些直线相互垂直吗？"
+        },
+        {
+          "id": 63,
+          "word": "parallel",
+          "translation": "adj. 平行的；相似的，同时发生的；（计算机）并行的；并联的；n. （人或事物的）相似的手法，共同点；相似的人（或物）；（地球的）纬线，纬圈；（印刷）平行符号；v.  与……相似；与……同时发生；与……并行；与……相当，比得上；adv. 与……平行",
+          "phonetic": "/ˈpærəlel/",
+          "example": "The road runs parallel to the river.",
+          "exampleTranslation": "这条路和这条河是平行的。"
+        },
+        {
+          "id": 64,
+          "word": "orthogonal",
+          "translation": "adj. [数] 正交的；直角的；n. 正交直线",
+          "phonetic": "/ɔːˈθɒɡən(ə)l/",
+          "example": "The processing technique for the mixed healthy beverage was studied through the orthogonal test and the sense assessment.",
+          "exampleTranslation": "采用正交设计和感官评定的方法，研制出复合汁饮料的生产工艺。"
+        },
+        {
+          "id": 65,
+          "word": "infinity",
+          "translation": "n. （时、空、距离）无限，无穷；大量，大宗",
+          "phonetic": "/ɪnˈfɪnəti/",
+          "example": "These permutations multiply toward infinity.",
+          "exampleTranslation": "这些排列向无穷大增加。"
+        },
+        {
+          "id": 66,
+          "word": "limit",
+          "translation": "n. 限度，限制；极限，限量；（区域的）界限，边界；（法律允许的机动车驾驶员血液的）最高酒精浓度；（可能行动或结果的）范围；v. 限制，限定；制约（某人的发展等）；减少",
+          "phonetic": "/ˈlɪmɪt/",
+          "example": "The road has a 30 mph speed limit.",
+          "exampleTranslation": "这条公路限定时速30英里。"
+        },
+        {
+          "id": 67,
+          "word": "converge",
+          "translation": "v. （使）汇聚，集中；（观点、目标）趋同；（数）收敛",
+          "phonetic": "/kənˈvɜːdʒ/",
+          "example": "The adult ones converge on remaining portions of healthy coral and feed hungrily.",
+          "exampleTranslation": "成年珊瑚聚集在健康珊瑚的剩余部分上，饥饿地进食。"
+        },
+        {
+          "id": 68,
+          "word": "diverge",
+          "translation": "v. 相异，出现分歧；岔开，分开；  分化，偏离；使偏离，使分叉；（数）发散",
+          "phonetic": "/daɪˈvɜːdʒ/",
+          "example": "Opinions diverge greatly on this issue.",
+          "exampleTranslation": "在这个问题上意见分歧很大。"
+        },
+        {
+          "id": 69,
+          "word": "continuity",
+          "translation": "n. 连续性，连贯性；（电影、电视的）场景串联，衔接；（逻辑上的）连接，联结",
+          "phonetic": "/ˌkɒntɪˈnjuːəti/",
+          "example": "Natives give it solidity and continuity; but the settlers give it passion.",
+          "exampleTranslation": "当地人赋予它稳定性和延续性；但是定居者赋予了它激情。"
+        },
+        {
+          "id": 70,
+          "word": "differentiable",
+          "translation": "adj. [数] 可微的；可辨的；可区分的",
+          "phonetic": "/ˌdɪfəˈrenʃɪəb(ə)l/",
+          "example": "OK, so most of the functions we'll see are differentiable.",
+          "exampleTranslation": "因此大多数我们会遇到的函数都是可微的。"
+        },
+        {
+          "id": 71,
+          "word": "integrable",
+          "translation": "adj. 可积（分）的",
+          "phonetic": "/ˈɪntɪɡrəbl/",
+          "example": "In particular, many integrable equations arise naturally from motions of curves and surfaces.",
+          "exampleTranslation": "特别地，许多可积方程都自然地产生于曲线和曲面运动。"
+        },
+        {
+          "id": 72,
+          "word": "polygon",
+          "translation": "n. 多边形；多角形物体",
+          "phonetic": "/ˈpɒlɪɡən/",
+          "example": "Next, the team built a table of the segments of the polygon.",
+          "exampleTranslation": "接下来，该团队构建了一个多边形片段表。"
+        },
+        {
+          "id": 73,
+          "word": "polyhedron",
+          "translation": "n. 多面体",
+          "phonetic": "/ˌpɒliˈhiːdrən; ˌpɒliˈhedrən/",
+          "example": "Late in the course of the infection, millions of new virus particles are formed and enclosed in polyhedron crystals.",
+          "exampleTranslation": "在感染后期，数以百万计的新病毒颗粒形成并包裹在多面体晶体中。"
+        },
+        {
+          "id": 74,
+          "word": "sphere",
+          "translation": "n. （活动、兴趣、专业知识的）范围，领域；球体，球，球形；社会阶层；势力范围；<文>苍穹，天，天空；<文>天体；天体外壳；地球仪；vt. 使……成球形；包围；放入球内",
+          "phonetic": "/sfɪə(r)/",
+          "example": "Because the earth spins, it is not a perfect sphere.",
+          "exampleTranslation": "因为地球旋转，所以它不是个完完全全的球体。"
+        },
+        {
+          "id": 75,
+          "word": "cylinder",
+          "translation": "n. 圆柱体，圆筒；汽缸；高压钢瓶；印刷机滚筒；（枪的）旋转弹膛；筒形石印；柱面",
+          "phonetic": "/ˈsɪlɪndə(r)/",
+          "example": "The cylinder is cooled by a jet of water.",
+          "exampleTranslation": "气缸可用喷水冷却。"
+        },
+        {
+          "id": 76,
+          "word": "cone",
+          "translation": "n. 圆锥体；圆锥形物；锥形路标；（松树或冷杉的）球果；（盛冰淇淋的）锥形蛋卷筒，蛋筒冰激凌；视锥细胞；圆锥形山脉（或山峰）（尤指）火山锥；锥体，锥面；（在既定温度下融化的，用以测量窑温的）测温锥，示温锥；芋螺（=cone shell）；（尤指啤酒花藤的）球花；v. <英>用锥形交通路标分隔（或标明）道路（cone sth. off）；使成锥形；【名】 （Cone）（英）科恩，（罗）科内，（塞）措内（人名）",
+          "phonetic": "/kəʊn/",
+          "example": "In one week he was the owner of a cone five hundred feet high.",
+          "exampleTranslation": "一个星期之内，他拥有了一个500英尺高的圆锥体。"
+        },
+        {
+          "id": 77,
+          "word": "pyramid",
+          "translation": "n. 金字塔；金字塔形的物体（或一堆东西）；角锥体，棱锥体；（解剖）锥体；金字塔式组织（体系）；金字塔式台球（pyramids）；金字塔式控股；金字塔式骗局（pyramid scheme）；v. 把……堆成尖塔（或角锥）形；在（小投资）上获得丰厚的收益；渐增，上涨；（使）渐增，（使）上涨",
+          "phonetic": "/ˈpɪrəmɪd/",
+          "example": "A twenty-foot steel pyramid is to be hoisted into position on top of the tower.",
+          "exampleTranslation": "一座20英尺高的钢制金字塔将被吊到塔顶该放的位置上。"
+        },
+        {
+          "id": 78,
+          "word": "prism",
+          "translation": "n. 棱镜；[晶体][数] 棱柱",
+          "phonetic": "/ˈprɪzəm/",
+          "example": "Light is refracted when passed through a prism.",
+          "exampleTranslation": "光通过棱镜时产生折射。"
+        },
+        {
+          "id": 79,
+          "word": "tetrahedron",
+          "translation": "n. [晶体] 四面体",
+          "phonetic": "/ˌtetrəˈhiːdrən; ˌtetrəˈhedrən/",
+          "example": "Thus one has a triangle in, a tetrahedron in, etc.",
+          "exampleTranslation": "因此在空间中是一个三角形，空间中是一个四面体，等等。"
+        },
+        {
+          "id": 80,
+          "word": "hexahedron",
+          "translation": "n. [数] 六面体",
+          "phonetic": "/ˌheksəˈhiːdrən; ˌheksəˈhedrən/",
+          "example": "Isoparametric element of arbitrary hexahedron plays an important role in finite element analysis.",
+          "exampleTranslation": "等参数任意六面体单元在有限元分析中有着重要的作用。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5",
+      "description": "Words 81 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 81,
+          "word": "octahedron",
+          "translation": "n. 八面体",
+          "phonetic": "/ˌɒktəˈhiːdrən; ˌɒktəˈhedrən/",
+          "example": "Advanced the octahedron frame model used in overall decision of manufacturing system.",
+          "exampleTranslation": "提出了制造系统的八面体总体决策框架模型。"
+        },
+        {
+          "id": 82,
+          "word": "dodecahedron",
+          "translation": "n. （几何学的）[数] 十二面体",
+          "phonetic": "/ˌdəʊdekəˈhiːdrən; ˌdəʊdekəˈhedrən/",
+          "example": "The rhombic dodecahedron packs together to fill space.",
+          "exampleTranslation": "菱形十二面体堆积在一起以填充空间。"
+        },
+        {
+          "id": 83,
+          "word": "icosahedron",
+          "translation": "n. [数] 二十面体",
+          "phonetic": "/ˈaɪkəsəˈhedrən/",
+          "example": "An icosahedron with twenty equilateral triangles as faces.",
+          "exampleTranslation": "有二十个正三角形面的二十面体。"
+        },
+        {
+          "id": 84,
+          "word": "ellipse",
+          "translation": "n. [数] 椭圆形，[数] 椭圆",
+          "phonetic": "/ɪˈlɪps/",
+          "example": "If I make the total energy positive, it's not an ellipse.",
+          "exampleTranslation": "如果我让总能量为正，它就不是一个椭圆了。"
+        },
+        {
+          "id": 85,
+          "word": "parabola",
+          "translation": "n. 抛物线",
+          "phonetic": "/pəˈræbələ/",
+          "example": "We have a parabola going downwards in one direction, and upwards in the other one.",
+          "exampleTranslation": "我们得到一条在一个方向上向下，而在另一个方向上向上的抛物线。"
+        },
+        {
+          "id": 86,
+          "word": "hyperbola",
+          "translation": "n. [数] 双曲线",
+          "phonetic": "/haɪˈpɜːbələ/",
+          "example": "Hyperbola from Four Points.",
+          "exampleTranslation": "由四点作双曲线。"
+        },
+        {
+          "id": 87,
+          "word": "focus",
+          "translation": "人名 n. 重点，中心点；关注，注意；震源；目的，意图；焦距；病灶；调焦装置；目的明确，专注；（椭圆、抛物线等曲线的）焦点；v. 集中，关注；聚焦，调焦；<语言学>以（句子的一部分）为焦点（或重心）；【名】 （Focus）（瑞典）福库斯",
+          "phonetic": "/ˈfəʊkəs/",
+          "example": "He prefers to focus on the positive.",
+          "exampleTranslation": "他更愿意关注积极面。"
+        },
+        {
+          "id": 88,
+          "word": "directrix",
+          "translation": "n. [数] 准线",
+          "phonetic": "/dɪˈrektrɪks/",
+          "example": "The directrix line of a conic.",
+          "exampleTranslation": "二次曲线的准线。"
+        },
+        {
+          "id": 89,
+          "word": "vertex",
+          "translation": "n. 顶点；[昆] 头顶；[天] 天顶",
+          "phonetic": "/ˈvɜːteks/",
+          "example": "In this architecture, all data for each vertex must be available at the same time.",
+          "exampleTranslation": "在这一架构中，来自各顶点的所有数据都必须同时可用。"
+        },
+        {
+          "id": 90,
+          "word": "edge",
+          "translation": "n. 边，边缘；锋，刃；优势；影响力，奇特的品质；（声音里的）尖锐，怒气；（坏事的）边缘，临界点；棱；v. 缓慢地移动；给……加边；险胜；用球拍边击球；倾斜滑雪；修剪（草地边缘）；使锐利，使尖锐；【名】 （Edge）（英）埃奇（人名）",
+          "phonetic": "/edʒ/",
+          "example": "I sat down at the water's edge.",
+          "exampleTranslation": "我在水边坐了下来。"
+        },
+        {
+          "id": 91,
+          "word": "face",
+          "translation": "n. 脸，面部；面部表情，脸色；人；初看，初听；尊严，威信；面貌；（物体的）正面，表面；斜坡，山坡；钟面，表盘；采掘面，工作面；（球拍的）拍面；（尤指足球的）球门；v. 面临，遭遇；正视，面对；与……交往，与……交谈；面向，面朝；迎战，对阵；抹盖，覆盖；接受，容忍；【名】 （Face）（法）法斯，（意）法切（人名）",
+          "phonetic": "/feɪs/",
+          "example": "Her face registered disapproval.",
+          "exampleTranslation": "她脸上流露出不赞同的神色。"
+        },
+        {
+          "id": 92,
+          "word": "graph",
+          "translation": "n. 图表，曲线图；坐标图；代表声音单位（或其他言语特征）的书写符号；v. 用图表表示；【名】 （Graph）（英）格拉夫（人名）",
+          "phonetic": "/ɡrɑːf/",
+          "example": "They made a bar graph to display the results.",
+          "exampleTranslation": "他们用条形图来显示结果。"
+        },
+        {
+          "id": 93,
+          "word": "node",
+          "translation": "n. 茎节；结，结节；结点；节点；（尤指人体关节附近的）硬结；（计算机网络的）网点；（物理，数）波节；调和函数零点；（电流或电压）零点；【名】 （Node）（法）诺德（人名）",
+          "phonetic": "/nəʊd/",
+          "example": "All of these are transparent to you, as you still end up with a node that has the name you want.",
+          "exampleTranslation": "所有这些对于您来说都是透明的，最终得到的是一个具有您所希望的名称的节点。"
+        },
+        {
+          "id": 94,
+          "word": "tree",
+          "translation": "n. 树；木料；树状物；vt. 把……赶上树；vi. 爬上树；逃上树；n. （Tree）人名；（英）特里",
+          "phonetic": "/triː/",
+          "example": "Let's rest under yonder tree.",
+          "exampleTranslation": "我们在那边的树下休息吧。"
+        },
+        {
+          "id": 95,
+          "word": "bipartite",
+          "translation": "adj. 双边的；由两部分构成的；一式两份的；双方的",
+          "phonetic": "/baɪˈpɑːtaɪt/",
+          "example": "This graph is NOT bipartite, since there are many triangles in it.",
+          "exampleTranslation": "这个图不是二部图，因为里面存在许多三角形。"
+        },
+        {
+          "id": 96,
+          "word": "isomorphic",
+          "translation": "adj. [物] 同构的；同形的",
+          "phonetic": "/ˌaɪsəʊˈmɔːfɪk/",
+          "example": "They are \"homologous\" or isomorphic.",
+          "exampleTranslation": "他们是“同源的”或者是“同构的”。"
+        },
+        {
+          "id": 97,
+          "word": "homomorphism",
+          "translation": "n. [数] 同态，同形；异质同形",
+          "phonetic": "/ˌhəʊməʊˈmɔːfɪzəm/",
+          "example": "Is the concept of an \"interleaved homomorphism\" a real thing?",
+          "exampleTranslation": "“交叉同态”的概念是一个真实的东西吗？"
+        },
+        {
+          "id": 98,
+          "word": "isomorphism",
+          "translation": "n. 类质同像，[物化] 类质同晶；同形",
+          "phonetic": "/ˌaɪsəʊˈmɔːfɪzəm/",
+          "example": "The occurrences of vanadium are mainly in adsorption and isomorphism states.",
+          "exampleTranslation": "钒的赋存状态主要有吸附态和类质同象态。"
+        },
+        {
+          "id": 99,
+          "word": "automorphism",
+          "translation": "n. [数] 自同构；自守",
+          "phonetic": "/ˌɔːtəʊˈmɔːfɪzəm/",
+          "example": "An automorphism of a map is an isomorphism from the map to itself.",
+          "exampleTranslation": "一个地图的自同构就是到它本身的一个同构。"
+        },
+        {
+          "id": 100,
+          "word": "endomorphism",
+          "translation": "n. [数] 自同态；内变质作用",
+          "phonetic": "/ˌendəʊˈmɔːfɪzəm/",
+          "example": "Finally, the endomorphism ring of radical-projective modules is discussed.",
+          "exampleTranslation": "最后对根投射模的自同态环进行了讨论。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6",
+      "description": "Words 101 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 101,
+          "word": "ring",
+          "translation": "n. 戒指，指环；环状物，圈形物；圆圈；圆形表演场（或竞技场）；围成一圈的人（或物）；团伙，帮派；铃声，钟声，按铃，敲钟；（说法、讨论、辩论等的）特性；<英>圆形灶盘，炉头；<俚>肛门；（化）环；（数）环；v. 包围；<英>绕……画圆，把……圈起来；（尤指在动物身上）套环；敲钟，按铃；<英>（给……）打电话；嗡嗡作响；回响；充满；<非正式>非法将（汽车）改头换面；【名】 （Ring） （美、挪、德、爱、英、波、丹）林（人名）",
+          "phonetic": "/rɪŋ/",
+          "example": "He blew a ring of blue smoke.",
+          "exampleTranslation": "他吐出了一圈蓝烟。"
+        },
+        {
+          "id": 102,
+          "word": "field",
+          "translation": "n. 田地，田野；专业，领域；现场，实地；体育场；全体参赛者；矿场，油田；战场；视野；（物理）场；信息栏，字段；外场员，防守队；盾面，底；v. 组建，派出；担任守方；接（球），守（球）；处理，应付（问题或电话）；adj. 实地的，野外的；（军事装备）轻便机动的，战役用的；（比赛）田赛的；【名】 （Field）（英、法、德、葡）菲尔德（人名）",
+          "phonetic": "/fiːld/",
+          "example": "He is an innovator in this field.",
+          "exampleTranslation": "他是这个领域的革新者。"
+        },
+        {
+          "id": 103,
+          "word": "group",
+          "translation": "n. 集体，团体；组，群；集团；乐团，乐队；空军大队（通常由两个或两个以上的基地组成）；（元素周期表中的）族；（系统语法中的）词组；原子团；v. （使）成组，聚集；将……分类",
+          "phonetic": "/ɡruːp/",
+          "example": "The group encompasses all ages.",
+          "exampleTranslation": "这个小组各种年龄的人都有。"
+        },
+        {
+          "id": 104,
+          "word": "abelian",
+          "translation": "adj. （数学）（群）交换的；n. （Abelian）（美）艾伯立让（人名）",
+          "phonetic": "/əˈbiːlɪən/",
+          "example": "By, we prove that a separative Abelian regular ring is an APT ring.",
+          "exampleTranslation": "由，还证明了分离的阿贝尔正则环是APT环。"
+        },
+        {
+          "id": 105,
+          "word": "symmetric",
+          "translation": "adj. 对称的",
+          "phonetic": "/sɪˈmetrɪk/",
+          "example": "Moreover, when A is a nondegenerate, symmetric and copositive plus matrix, the sequence converges to a solution of the problem.",
+          "exampleTranslation": "此外，当矩阵为非退化对称双正加阵时，该序列收敛。"
+        },
+        {
+          "id": 106,
+          "word": "binomial",
+          "translation": "adj. 二项式的；双名的，二种名称的；n. 二项式；双名词组，二种名称；成对词",
+          "phonetic": "/baɪˈnəʊmiəl/",
+          "example": "This is nothing but the binomial expansion.",
+          "exampleTranslation": "将二项式扩展到规定幂的定理。"
+        },
+        {
+          "id": 107,
+          "word": "multinomial",
+          "translation": "adj. 多项的；n. 多项式",
+          "phonetic": "/ˌmʌltiˈnəʊmiəl/",
+          "example": "Multinomial model can raise to the imitative effect.",
+          "exampleTranslation": "多项式模型可提高拟合效果。"
+        },
+        {
+          "id": 108,
+          "word": "coefficient",
+          "translation": "n. （数）系数；（物理）率，系数",
+          "phonetic": "/ˌkəʊɪˈfɪʃ(ə)nt/",
+          "example": "Only teak matches oak's expansion coefficient and stays watertight.",
+          "exampleTranslation": "只有柚木才能达到橡木的膨胀系数，并保持水密性。"
+        },
+        {
+          "id": 109,
+          "word": "constant",
+          "translation": "adj. 持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的；n. 常数，恒量；不变的事物；【名】 （Constant） （德）康斯坦特（人名）",
+          "phonetic": "/ˈkɒnstənt/",
+          "example": "This entrance is in constant use.",
+          "exampleTranslation": "此入口经常使用。"
+        },
+        {
+          "id": 110,
+          "word": "inequality",
+          "translation": "n. （大小、程度、情况等的）不同，不平等；（数学）（两式间的）不等；（数学）不等式",
+          "phonetic": "/ˌɪnɪˈkwɒləti/",
+          "example": "It will reduce regional inequality.",
+          "exampleTranslation": "它将缓解地区不平等现象。"
+        },
+        {
+          "id": 111,
+          "word": "solution",
+          "translation": "n. （问题、困难等的）解决办法；（练习或竞赛的）解答，答案；溶液；溶解过程，溶解状态；（满足特定需要的）产品（或服务）（solutions）",
+          "phonetic": "/səˈluːʃ(ə)n/",
+          "example": "Do you have a better solution?",
+          "exampleTranslation": "你有更好的解决办法吗？"
+        },
+        {
+          "id": 112,
+          "word": "root",
+          "translation": "n. 根，根茎；（牙齿、头发等的）根部；底部，基部；根源，起因；起源，背景；根脉，祖籍（roots）；与……的特殊关联（roots in）；词根；（数学）方根；（圣经）根苗，苗裔；翻找，搜寻；（神经的）根；（乐）根音（=root note）；<澳新，俚>性交；根用作物；根音乐；v. （使）生根；扎根于，在……中根深蒂固；根源在于，由……产生（be rooted in）；翻寻；使（某人）无法移动；（与某人）性交；使精疲力竭，挫败；adj. （蔬菜、作物等）块根的，根茎可食用的；【名】 （Root）（英）鲁特，（德、瑞典）罗特（人名）",
+          "phonetic": "/ruːt/",
+          "example": "We got to the root of the problem.",
+          "exampleTranslation": "我们触及了这个问题的根源。"
+        },
+        {
+          "id": 113,
+          "word": "linear",
+          "translation": "adj. 直线的，线性的；长度的；连续的，连贯的；（关系）直接的，明显的",
+          "phonetic": "/ˈlɪniə(r)/",
+          "example": "Students do not always progress in a linear fashion.",
+          "exampleTranslation": "学生不会总是顺着一条直线进步。"
+        },
+        {
+          "id": 114,
+          "word": "quadratic",
+          "translation": "adj. [数] 二次的；n. 二次方程式",
+          "phonetic": "/kwɒˈdrætɪk/",
+          "example": "By 1545, Gerolamo Cardano compiled the works related to the quadratic equations.",
+          "exampleTranslation": "到1545年，卡达诺编写了有关二次方程的著作。"
+        },
+        {
+          "id": 115,
+          "word": "cubic",
+          "translation": "adj. 立方的；立方体的，立方形的；（量或变量的）三次的；【名】 （Cubic）（罗）库比克（人名）",
+          "phonetic": "/ˈkjuːbɪk/",
+          "example": "Jupiter's moon Io, whose density is 3.5 grams per cubic centimetre, is all rock.",
+          "exampleTranslation": "木星的卫星木卫一全是岩石，其密度为每立方厘米3.5克。"
+        },
+        {
+          "id": 116,
+          "word": "quartic",
+          "translation": "adj. 四次的；n. 四次方程；四次函数；四次曲线；四次曲面",
+          "phonetic": "/ˈkwɔːtɪk/",
+          "example": "And what was the point of a quartic steering wheel?",
+          "exampleTranslation": "而且四次式的方向盘又是怎么一回事啊？"
+        },
+        {
+          "id": 117,
+          "word": "quintic",
+          "translation": "adj. （数学）五次方的；五次的；n. （数学）五次多项式（方程）",
+          "phonetic": "/ˈkwɪntɪk/",
+          "example": "Although spline curves are applied widely, but the research on the algorithms of quintic spline interpolation is little.",
+          "exampleTranslation": "虽然样条曲线具有广泛的应用，但对五次样条插值算法的研究却很少。"
+        },
+        {
+          "id": 118,
+          "word": "logarithmic",
+          "translation": "adj. 对数的",
+          "phonetic": "/ˌlɒɡəˈrɪðmɪk/",
+          "example": "The inclined manometer's scale is usually replaced with a logarithmic scale.",
+          "exampleTranslation": "斜管压力计的刻度通常用对数刻度代替。"
+        },
+        {
+          "id": 119,
+          "word": "trigonometric",
+          "translation": "adj. [数] 三角法的；三角学的",
+          "phonetic": "/ˌtrɪɡənəˈmetrɪk/",
+          "example": "Model CR118 has a Fraction to Decimal Conversion Chart and Trigonometric Ratio Equations etched on the front side.",
+          "exampleTranslation": "CR118 模型的正面刻有一个分数到十进制的转换图和三角比公式。"
+        },
+        {
+          "id": 120,
+          "word": "inverse",
+          "translation": "adj. 相反的，倒转的；颠倒的，逆的；n. 相反（的事物），颠倒（的事物）（the inverse）；（数）反数，倒数；（数）逆元素",
+          "phonetic": "/ˌɪnˈvɜːs/",
+          "example": "Evil is the inverse of good.",
+          "exampleTranslation": "恶是善的反面。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7",
+      "description": "Words 121 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 121,
+          "word": "determinant",
+          "translation": "n. <正式> 决定性因素，决定条件；决定子，因子；行列式，方阵；adj. 决定性的",
+          "phonetic": "/dɪˈtɜːmɪnənt/",
+          "example": "Put more strongly, technology can be a primary determinant of social and managerial organization.",
+          "exampleTranslation": "更强硬地说，技术可以是社会和管理组织的主要决定因素。"
+        },
+        {
+          "id": 122,
+          "word": "eigenvalue",
+          "translation": "n. [数] 特征值",
+          "phonetic": "/ˈaɪɡənˌvæljuː/",
+          "example": "Including the calculation of matrix eigenvalue problem, error and so on.",
+          "exampleTranslation": "其中包括计算矩阵的特征值问题，误差问题等。"
+        },
+        {
+          "id": 123,
+          "word": "eigenvector",
+          "translation": "n. [数] 特征向量；本征矢量",
+          "phonetic": "/ˈaɪɡənvektə(r)/",
+          "example": "Google's PageRank is a variant of the Eigenvector centrality measure.",
+          "exampleTranslation": "谷歌的网页级别是特征向量中心性度量的一个变体。"
+        },
+        {
+          "id": 124,
+          "word": "trace",
+          "translation": "v. 查出，发现，追踪；追溯，追究；描绘（事物的过程或发展），记述；（尤指用手指、脚趾）画（图，线）；勾画……的轮廓，勾勒；（用透明纸覆盖在地图、绘画等上）复制，描摹；（手指、嘴唇等）沿着……移动；n. 痕迹，遗迹，踪迹；微量，少许；描记图，扫描线；挽绳，缰绳；跟踪，追查；（大脑上的学习或记忆）痕迹，印迹；<西印度，美>小径，小道；交线，迹线；（数）迹；【名】 （Trace）（美）塔斯（人名）",
+          "phonetic": "/treɪs/",
+          "example": "How far back can you trace your family tree?",
+          "exampleTranslation": "你的家谱可以追溯到多少代？"
+        },
+        {
+          "id": 125,
+          "word": "transpose",
+          "translation": "vt. 调换；移项；颠倒顺序；vi. 进行变换；n. 转置阵",
+          "phonetic": "/trænˈspəʊz/",
+          "example": "Many people inadvertently transpose digits of the ZIP code.",
+          "exampleTranslation": "许多人粗心地把邮政编码的数字弄颠倒了。"
+        },
+        {
+          "id": 126,
+          "word": "unitary",
+          "translation": "adj. 单一的；统一的；单位的",
+          "phonetic": "/ˈjuːnətri/",
+          "example": "It shouldn't choose the unitary government-driving way of citifying.",
+          "exampleTranslation": "不应走单一政府推动型城市化道路。"
+        },
+        {
+          "id": 127,
+          "word": "hermitian",
+          "translation": "adj. （矩阵）厄密特共轭的",
+          "phonetic": "/heˈmiʃən/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 128,
+          "word": "skew",
+          "translation": "v. 偏离，歪斜；歪曲，使有误差；使曲解，使存有偏见；（统计）使（分布）偏态，使不匀称；斜视；adj. 歪斜的；（数）异面的，（曲线）不在一个平面的；（统计）偏态的；n. 斜角，倾斜；（对特定人或对象的）偏见；（统计）偏态，偏斜性",
+          "phonetic": "/skjuː/",
+          "example": "Identify potential skew and outliers.",
+          "exampleTranslation": "识别潜在的歪斜和异常值。"
+        },
+        {
+          "id": 129,
+          "word": "definite",
+          "translation": "adj. 清晰的，明晰的；确定的，不会改变的；肯定的，一定的；n. 确定之事",
+          "phonetic": "/ˈdefɪnət/",
+          "example": "That's definite then, is it?",
+          "exampleTranslation": "那么，那是确切的了，是吗？"
+        },
+        {
+          "id": 130,
+          "word": "indefinite",
+          "translation": "adj. 无限期的，期限不定的；模糊不清的，不明确的；（词，屈折变化，短语）不定的",
+          "phonetic": "/ɪnˈdefɪnət/",
+          "example": "The trial was adjourned for an indefinite period.",
+          "exampleTranslation": "审判被无限期推迟。"
+        },
+        {
+          "id": 131,
+          "word": "partial",
+          "translation": "adj. 部分的，不完全的；偏袒的，不公平的；偏爱的；n. （乐）分音，泛音",
+          "phonetic": "/ˈpɑːʃ(ə)l/",
+          "example": "I might be accused of being partial.",
+          "exampleTranslation": "我可能会被人指责是偏袒的。"
+        },
+        {
+          "id": 132,
+          "word": "gradient",
+          "translation": "n. （尤指道路或铁路的）斜坡，坡度；（温度或压力变化的）梯度；（数学）斜率；梯度，梯度率；（数学）梯度算子；adj. 倾斜的；步行的，能步行的",
+          "phonetic": "/ˈɡreɪdiənt/",
+          "example": "Salts are enriched around electriferous groups of polymer molecules in solution, which formed a salt concentration gradient.",
+          "exampleTranslation": "溶液中的盐份富集在聚合物分子的带电基团附近，并形成盐浓度梯度分布。"
+        },
+        {
+          "id": 133,
+          "word": "divergence",
+          "translation": "n. 差异，不同；（气流或洋流的）分开处；（数）发散",
+          "phonetic": "/daɪˈvɜːdʒəns/",
+          "example": "Can divergence occur if no physical barriers are in place to separate individuals who continue to live and reproduce in the same habitat?",
+          "exampleTranslation": "如果没有物理屏障将继续在同一栖息地生活和繁殖的个体隔离开来，分化是否会出现？"
+        },
+        {
+          "id": 134,
+          "word": "curl",
+          "translation": "v. （使）弯曲，卷曲；（使）盘绕，（使）弯弯曲曲移动；边缘翘起；撇（嘴）；参加冰壶运动；n. 鬈发，卷发；（头发的）卷曲；卷曲物，螺旋状物；（锻炼肌肉的）弯曲运动；【名】 （Curl）（英）柯尔（人名）",
+          "phonetic": "/kɜːl/",
+          "example": "Dry curly hair naturally for maximum curl and shine.",
+          "exampleTranslation": "让卷发自然地风干以最大限度地增加头发的卷曲和光泽。"
+        },
+        {
+          "id": 135,
+          "word": "laplacian",
+          "translation": "n. [数] 拉普拉斯算子（调和算子）；adj. [数] 拉普拉斯算子的（调和算子的）",
+          "phonetic": "",
+          "example": "The operator in parentheses in (3. 54) is. called the Laplacian operator.",
+          "exampleTranslation": "在(3.54)的括号里的算符叫做拉普拉斯算符。"
+        },
+        {
+          "id": 136,
+          "word": "jacobian",
+          "translation": "n. 雅可比行列式",
+          "phonetic": "/dʒəˈkəʊbiən/",
+          "example": "And, this conversion ratio, the Jacobian, works both ways.",
+          "exampleTranslation": "这个转化率，也就是雅克比，两种情况下都成立。"
+        },
+        {
+          "id": 137,
+          "word": "hessian",
+          "translation": "n. 打包麻布；浸沥青的麻绳；n. （Hessian）（美、英、加、澳）赫西让（人名）",
+          "phonetic": "/ˈhesiən/",
+          "example": "Hessian fits this requirement perfectly.",
+          "exampleTranslation": "Hessian完美地满足了这种需求。"
+        },
+        {
+          "id": 138,
+          "word": "taylor",
+          "translation": "n. 泰勒",
+          "phonetic": "/ˈteɪlə(r)/",
+          "example": "My heroine was Elizabeth Taylor.",
+          "exampleTranslation": "我崇拜的女性是伊丽莎白·泰勒。"
+        },
+        {
+          "id": 139,
+          "word": "maclaurin",
+          "translation": "n. 麦克劳林（姓氏，特指科林麦克劳林，牛顿晚年时的学生，18世纪英国最具有影响数学家之一）",
+          "phonetic": "",
+          "example": "President Richard Maclaurin sought to move the campus to a new location when he took office in 1909.",
+          "exampleTranslation": "1909年校长里查德·麦劳伦上任时，开始着手兴办新校区。"
+        },
+        {
+          "id": 140,
+          "word": "fourier",
+          "translation": "n. 傅里叶（法国空想社会主义者，社会改革家）；傅立叶（姓氏）",
+          "phonetic": "/ˈfʊriər/",
+          "example": "Faster than Fourier?",
+          "exampleTranslation": "比傅里叶更快？"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8",
+      "description": "Words 141 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 141,
+          "word": "laplace",
+          "translation": "n. （法国天文学家、数学家）拉普拉斯（姓氏）",
+          "phonetic": "",
+          "example": "However, Laplace expansion is efficient for small matrices only.",
+          "exampleTranslation": "但是，拉普拉斯展开仅对小型矩阵有效。"
+        },
+        {
+          "id": 142,
+          "word": "transform",
+          "translation": "v. 使改观，使变形，使转化；变换（电流）的电压；（数）变换（数学实体）；n. （数，语言学）变换式，转换句；（数，语言学）转换规则",
+          "phonetic": "/trænsˈfɔːm/",
+          "example": "It was an event that would transform my life.",
+          "exampleTranslation": "那是能够彻底改变我一生的一件事。"
+        },
+        {
+          "id": 143,
+          "word": "series",
+          "translation": "n. 连续，一系列（事件）；（电视、广播等的）系列片，系列节目；丛书，系列出版物；（两队之间的）系列比赛；（电路的）串联；（同时发行的）一套邮票（或货币、硬币）；（由某一公司推出的）系列产品，（尤指）汽车系列；（年代地层学用语）统；（元素的）系；级数，序列项的总和；有共同特征的一组语音，系列（音）；音列",
+          "phonetic": "/ˈsɪəriːz/",
+          "example": "Her new series is a smash hit.",
+          "exampleTranslation": "她的新系列节目极为成功，引起轰动。"
+        },
+        {
+          "id": 144,
+          "word": "convergence",
+          "translation": "n. 趋同；汇集，相交；会聚区；收敛（性）；【名】 （Convergence）（法）孔韦尔让斯（人名）",
+          "phonetic": "/kənˈvɜːdʒəns/",
+          "example": "A survey conducted earlier this year shows how this convergence on similar types of work has blurred class boundaries.",
+          "exampleTranslation": "今年早些时候进行的一项调查显示，类似工作类型的趋同是如何模糊了阶级界限的。"
+        },
+        {
+          "id": 145,
+          "word": "absolute",
+          "translation": "adj. 完全的，纯粹的；绝对的，无疑的；十足的；不受任何限制的，专制独裁的；（结构）独立的；n. 绝对真理，绝对原则",
+          "phonetic": "/ˈæbsəluːt/",
+          "example": "There are no absolute rules.",
+          "exampleTranslation": "没有绝对的准则。"
+        },
+        {
+          "id": 146,
+          "word": "conditional",
+          "translation": "adj. 有条件的，有前提的；（从句）条件的；n. 条件从句；条件式",
+          "phonetic": "/kənˈdɪʃən(ə)l/",
+          "example": "He was given a conditional discharge and ordered to pay Miss Smith $500 compensation.",
+          "exampleTranslation": "他被判有条件释放，并被命令向史密斯小姐支付$500的赔偿金。"
+        },
+        {
+          "id": 147,
+          "word": "uniform",
+          "translation": "n. 制服，校服；<非正式>穿制服的警官；（某一群体的人穿的）典型服装，特有服装；（无线电通讯）字母 U 的代码；adj. 全部相同的，始终如一的；制服式的；v. 使一致；使穿制服",
+          "phonetic": "/ˈjuːnɪfɔːm/",
+          "example": "Nurses have to wear a uniform.",
+          "exampleTranslation": "护士必须穿制服。"
+        },
+        {
+          "id": 148,
+          "word": "pointwise",
+          "translation": "adj. [数] 逐点的",
+          "phonetic": "/ˈpɔɪntwaɪz/",
+          "example": "Spaces of pointwise countable type are not preserved by perfect mappings.",
+          "exampleTranslation": "完备映射不能保持具有点可数型的空间。"
+        },
+        {
+          "id": 149,
+          "word": "measure",
+          "translation": "n. 措施，办法；适量，适度；判断，衡量；度量单位，计量标准；（酒的）标准量；<美>小节，拍子；象征，迹象；议案，法案；格律单位；计量工具，量器；<古>（尤指庄重或肃穆的）舞蹈，舞步；岩层；（数）除数；（印刷）行宽，页宽；v. 测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等）；走过；显示，记录；用作……的量器",
+          "phonetic": "/ˈmeʒə(r)/",
+          "example": "The Richter Scale is a measure of ground motion.",
+          "exampleTranslation": "里氏震级是测量地动的单位。"
+        },
+        {
+          "id": 150,
+          "word": "lebesgue",
+          "translation": "n. 勒贝格（著名数学家，实分析的开山之人）",
+          "phonetic": "",
+          "example": "This article represents Cauchy Integral Concept and Lebesgue Integral Concept. It also compares the two concepts.",
+          "exampleTranslation": "介绍了柯西积分概念及定义在区间上的实函数的勒贝格积分概念，并将两者加以比较。"
+        },
+        {
+          "id": 151,
+          "word": "borel",
+          "translation": "n. 波莱尔（手表品牌）；波雷尔（瑞士国际法学家）",
+          "phonetic": "/ˈbɒrəl/",
+          "example": "Variance optimality for DTMDP in Borel spaces.",
+          "exampleTranslation": "一般状态空间中的方差最优性问题。"
+        },
+        {
+          "id": 152,
+          "word": "sigma",
+          "translation": "n. 希腊文第十八个字母；n. （Sigma）人名；（英、瑞典）西格马",
+          "phonetic": "/ˈsɪɡmə/",
+          "example": "My brother pledged Sigma Nu.",
+          "exampleTranslation": "我哥哥宣誓加入Σ NU联谊会。"
+        },
+        {
+          "id": 153,
+          "word": "random",
+          "translation": "adj. 任意的，随机的，胡乱的；（砖石建筑）石头大小不一的；<非正式>奇怪的，不同寻常的；n. 随意，随机；<非正式>不认识的人，陌生人；adv. 随机地，胡乱地",
+          "phonetic": "/ˈrændəm/",
+          "example": "Police will conduct random breath tests.",
+          "exampleTranslation": "警察会随机进行吹气酒精测试。"
+        },
+        {
+          "id": 154,
+          "word": "distribution",
+          "translation": "n. 分发；分销，配送；（电影在各院线的）发行，上映；分配，分布",
+          "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+          "example": "They studied the geographical distribution of the disease.",
+          "exampleTranslation": "他们研究了这种疾病的地域分布情况。"
+        },
+        {
+          "id": 155,
+          "word": "expected",
+          "translation": "adj. 预料的，预期的；v. 期待；预计；要求，指望（expect 的过去式和过去分词）",
+          "phonetic": "/ɪkˈspektɪd/",
+          "example": "Progress was slower than expected.",
+          "exampleTranslation": "进展比预计的缓慢。"
+        },
+        {
+          "id": 156,
+          "word": "covariance",
+          "translation": "n. [数] 协方差；共分散",
+          "phonetic": "/kəʊˈveərɪəns/",
+          "example": "The distinction between covariance and contravariance is important for computations with tensors, which often have mixed variance.",
+          "exampleTranslation": "协变和逆变的区别对于张量的计算尤为重要，这往往会出现混合方差。"
+        },
+        {
+          "id": 157,
+          "word": "correlation",
+          "translation": "n. 相互关系，关联；相关量",
+          "phonetic": "/ˌkɒrəˈleɪʃ(ə)n/",
+          "example": "There is a direct correlation between exposure to sun and skin cancer.",
+          "exampleTranslation": "皮肤暴露在太阳下与皮肤癌直接相关。"
+        },
+        {
+          "id": 158,
+          "word": "regression",
+          "translation": "n. 后退，倒退；（思想或行为的）退化，退行；（疾病或症状的）消退；（统计）回归",
+          "phonetic": "/rɪˈɡreʃn/",
+          "example": "Calderdale accepts that this can cause regression in a student's learning process.",
+          "exampleTranslation": "考尔德戴尔承认这会在学生的学习过程中引起退步。"
+        },
+        {
+          "id": 159,
+          "word": "hypothesis",
+          "translation": "n. 假说，假设；（凭空的）猜想，猜测；前提",
+          "phonetic": "/haɪˈpɒθəsɪs/",
+          "example": "Work will now begin to test the hypothesis in rats.",
+          "exampleTranslation": "在老鼠身上验证这一假设的工作现在要开始了。"
+        },
+        {
+          "id": 160,
+          "word": "test",
+          "translation": "n. （书面或口头的）测验，考试；（医疗上的）检查，化验，检验；（对机器或武器等的）试验，检验；（对水、土壤、空气等的）检测，检验；（衡量能力或技能等的）测试，考验；医疗检查设备；化验结果；（常指板球、橄榄球的）国际锦标赛（Test）；准则，标准；（冶）烤钵，灰皿；（一些无脊椎动物和原生动物的）甲壳；v. 试验，测试；测验，考查（熟练程度，知识）；检测，检验（质量或含量）；检查（身体），（用试剂）化验；考验；尝，（触）试",
+          "phonetic": "/test/",
+          "example": "He failed his driving test.",
+          "exampleTranslation": "他驾驶执照考试不及格。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9",
+      "description": "Words 161 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 161,
+          "word": "significance",
+          "translation": "n. 重要性，意义；意思，含义",
+          "phonetic": "/sɪɡˈnɪfɪkəns/",
+          "example": "The president's visit is loaded with symbolic significance.",
+          "exampleTranslation": "总统的访问富有象征意义。"
+        },
+        {
+          "id": 162,
+          "word": "confidence",
+          "translation": "n. 自信，信心；信任，信赖；把握，肯定；保密，机密；秘密，知心话",
+          "phonetic": "/ˈkɒnfɪdəns/",
+          "example": "Her confidence had never flagged.",
+          "exampleTranslation": "她的信心从未减弱。"
+        },
+        {
+          "id": 163,
+          "word": "interval",
+          "translation": "n. 间隔，间隙；幕间休息，中场休息；音程",
+          "phonetic": "/ˈɪntəv(ə)l/",
+          "example": "The process is repeated after a short interval of time.",
+          "exampleTranslation": "该程序间隔很短时间就重复一次。"
+        },
+        {
+          "id": 164,
+          "word": "estimator",
+          "translation": "n. [统计] 估计量；评价者",
+          "phonetic": "/ˈestɪmeɪtə(r)/",
+          "example": "But, the fee estimator only appears to work for domestic tickets in the US.",
+          "exampleTranslation": "然而，这个费用估计工具只能应用于美国的国内机票。"
+        },
+        {
+          "id": 165,
+          "word": "unbiased",
+          "translation": "adj. 公正的，无偏见的",
+          "phonetic": "/ʌnˈbaɪəst/",
+          "example": "There is no clear and unbiased information available for consumers.",
+          "exampleTranslation": "没有清楚公正的信息提供给消费者。"
+        },
+        {
+          "id": 166,
+          "word": "consistent",
+          "translation": "adj. 始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的",
+          "phonetic": "/kənˈsɪstənt/",
+          "example": "A theory should be internally consistent.",
+          "exampleTranslation": "一套理论应当内在一致。"
+        },
+        {
+          "id": 167,
+          "word": "efficient",
+          "translation": "adj. 生效的，效率高的；（人）有能力的，能胜任的",
+          "phonetic": "/ɪˈfɪʃ(ə)nt/",
+          "example": "The service at the hotel is efficient and unobtrusive.",
+          "exampleTranslation": "那旅馆的服务工作有效率而不夸张。"
+        },
+        {
+          "id": 168,
+          "word": "sufficient",
+          "translation": "adj. 足够的，充足的；（理由、条件）充足的，充分的",
+          "phonetic": "/səˈfɪʃ(ə)nt/",
+          "example": "Is it available in sufficient quantity?",
+          "exampleTranslation": "这东西能不能足量供应？"
+        },
+        {
+          "id": 169,
+          "word": "maximum",
+          "translation": "adj. 最大限度的；（数量）极大的，极多的；n. 最大量，最大限度；adv. 最多，充其量",
+          "phonetic": "/ˈmæksɪməm/",
+          "example": "We need an extra 6 grams a day maximum.",
+          "exampleTranslation": "我们一天最多还需要6克。"
+        },
+        {
+          "id": 170,
+          "word": "likelihood",
+          "translation": "n. 可能，可能性；可能的事",
+          "phonetic": "/ˈlaɪklihʊd/",
+          "example": "The likelihood of infection is minimal.",
+          "exampleTranslation": "传染的可能性微乎其微。"
+        },
+        {
+          "id": 171,
+          "word": "bayesian",
+          "translation": "adj. 贝叶斯定理的",
+          "phonetic": "",
+          "example": "Bayesian filtering is plenty useful.",
+          "exampleTranslation": "贝叶斯滤波十分的有用。"
+        },
+        {
+          "id": 172,
+          "word": "prior",
+          "translation": "adj. 先前的，事先的；<正式>优先的，更重要的；<正式>在前面的（prior to）；n. <美，非正式>犯罪前科；小修道院院长；大修道院副院长；托钵会会长；【名】 （Prior）（美）普廖尔（人名）",
+          "phonetic": "/ˈpraɪə(r)/",
+          "example": "Visits are by prior arrangement.",
+          "exampleTranslation": "参观需要事先安排。"
+        },
+        {
+          "id": 173,
+          "word": "posterior",
+          "translation": "adj. 其次的；较后的；n. 后部；臀部",
+          "phonetic": "/pɒˈstɪəriə(r)/",
+          "example": "The posterior capsular opacity were occurred in 18 eyes(22.0%)with YAG laser capsulectomy on 2 eyes.",
+          "exampleTranslation": "有18只眼是后发性白内障（22.0%），其中2眼需进行 YAG 激光后囊膜切开术。"
+        },
+        {
+          "id": 174,
+          "word": "conjugate",
+          "translation": "v. 列举（动词的）词形变化；结合；使成对；使共轭；adj. 共轭的；结合的；n. 结合物；共轭物；偶联物",
+          "phonetic": "/ˈkɒndʒəɡeɪt/",
+          "example": "How does this verb conjugate?",
+          "exampleTranslation": "这个动词有哪些词形变化？"
+        },
+        {
+          "id": 175,
+          "word": "markov",
+          "translation": "n. 马尔可夫（俄罗斯数学家）",
+          "phonetic": "",
+          "example": "A global convergence is proved by analysis of Markov chain.",
+          "exampleTranslation": "通过马尔可夫链的分析，证明它是全局收敛的。"
+        },
+        {
+          "id": 176,
+          "word": "chain",
+          "translation": "n. 链，链条；一连串，一系列；连锁商店；镣铐；测链；连环式（指一群房主先售后购的置屋方式）；<文>约束，束缚；v. 用锁链拴住；拘禁，束缚",
+          "phonetic": "/tʃeɪn/",
+          "example": "The mayor wore his chain of office.",
+          "exampleTranslation": "市长佩戴着标志他职务的链徽。"
+        },
+        {
+          "id": 177,
+          "word": "process",
+          "translation": "n. 步骤，程序；（自然或偶然的）变化过程；（为达到某目标的）过程，进程；制作方法，加工方法；<法律>传票；（生，剖）端突，突起；adj. （印刷）三原色的，三色版的； 经过特殊加工的；照相板的；v. （用化学物品或机器）处理，加工；审核，受理（正式文件或请求）；（计算机）处理（数据）；冲洗（照片）；加工（食品）；<正式>列队行进；把（头发）弄成直发",
+          "phonetic": "/ˈprəʊses/",
+          "example": "The process was needlessly slow.",
+          "exampleTranslation": "进程过于缓慢了。"
+        },
+        {
+          "id": 178,
+          "word": "poisson",
+          "translation": "n. 泊松；（Poisson）（法）普瓦松（人名）",
+          "phonetic": "/pwəˈsoʊn/",
+          "example": "Poisson laid the theoretical foundation of seismic wave.",
+          "exampleTranslation": "奠定了地震波理论基础。"
+        },
+        {
+          "id": 179,
+          "word": "gaussian",
+          "translation": "adj. 高斯的",
+          "phonetic": "/ˈɡaʊsɪən/",
+          "example": "A random — a uniform, and a Gaussian.",
+          "exampleTranslation": "一种随机的一种均匀分布和一种高斯分布。"
+        },
+        {
+          "id": 180,
+          "word": "hypergeometric",
+          "translation": "adj. 超几何的",
+          "phonetic": "/ˈhaɪpəˌdʒɪəʊˈmetrɪk/",
+          "example": "In part II, we consider the recurrence formula of double hypergeometric terms.",
+          "exampleTranslation": "在文章的第二部分，我们考虑了双超几何项的递推公式。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chapter 10",
+      "description": "Words 181 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 181,
+          "word": "euclidean",
+          "translation": "adj. 欧几里德的；欧几里德几何学的",
+          "phonetic": "/juːˈklɪdiən/",
+          "example": "Right triangles and Euclidean norms",
+          "exampleTranslation": "直角三角形和欧几里德范数"
+        },
+        {
+          "id": 182,
+          "word": "non-euclidean",
+          "translation": "adj. 非欧几里得的",
+          "phonetic": "",
+          "example": "It is well-known today since he appended janos' paper on non-Euclidean geometry to the first volume.",
+          "exampleTranslation": "它今天是众所周知的，因为他追加亚诺什“非欧几里德几何第一册纸。”"
+        },
+        {
+          "id": 183,
+          "word": "projective",
+          "translation": "adj. 投影的；投射的；反映主观的",
+          "phonetic": "/prəˈdʒektɪv/",
+          "example": "Aim a projective digital lensometer is presented.",
+          "exampleTranslation": "目的描述一种投影式数字焦度计。"
+        },
+        {
+          "id": 184,
+          "word": "affine",
+          "translation": "adj. （数）仿射的；n. 姻亲",
+          "phonetic": "/ˈæfaɪn/",
+          "example": "The point to remember is, that only non-affine requests can be load-balanced.",
+          "exampleTranslation": "需要记住的一点是，只有不密切请求能被负载平衡。"
+        },
+        {
+          "id": 185,
+          "word": "algebraic",
+          "translation": "adj. [数] 代数的；关于代数学的",
+          "phonetic": "/ˌældʒɪˈbreɪɪk/",
+          "example": "This algebraic notation of the image allows the entire image to be recreated at any time.",
+          "exampleTranslation": "图像的代数标记法可以在任何时间重新创建整个图像。"
+        },
+        {
+          "id": 186,
+          "word": "analytic",
+          "translation": "adj. 分析的，分析性的（=analytical）；具备分析能力的，善于分析的（=analytical）；逻辑必然的；（语言）分析性的",
+          "phonetic": "/ˌænəˈlɪtɪk/",
+          "example": "For one thing, excellent writing ability is beneficial to people's logical think and analytic ability.",
+          "exampleTranslation": "一方面，优秀的写作能力有利于人们的逻辑思维和分析能力。"
+        },
+        {
+          "id": 187,
+          "word": "synthetic",
+          "translation": "adj. 合成的，人造的；（感情，行动）不诚恳的，虚假的；（语言）综合型的；（命题）综合的；n. 合成物，合成纤维（织物）",
+          "phonetic": "/sɪnˈθetɪk/",
+          "example": "Boots made from synthetic materials can usually be washed in a machine.",
+          "exampleTranslation": "用合成材料做成的靴子通常可以在机器里洗。"
+        },
+        {
+          "id": 188,
+          "word": "open",
+          "translation": "adj. 开放的，营业的；开着的，敞开的；（身体部位）张开的；露天的，无遮盖的；开阔的，未围上的；可通行的，畅通的；伸开的，展开的；坦率的；不保密的，公开的；易受影响的，易受攻击的；人人可以参加的；（对特定群体）开放的 ；可得到的，可使用的；思想开明的；尚未决定的；（文件夹、文档等）正在使用中的；（胜利者）赢得公开赛的；（票子）未注明旅行日期的；<英>（支票）未签注的；（数）（集合）开的；（元音）开的；（乐）开放的 ；（电路）开路的，断路的；（纺织品）松散的；v. 开，打开；开封，开启；睁开（眼睛），张开（嘴巴）；翻开，展开；开通，开放；开门，营业 ；开业，开幕；（股市）开盘，开市；着手，开始；启动（计算机程序或文件）；开立账户；通往，通向；展现，出现；使某人更乐意考虑某事；断开（电路）；畅谈；n. 户外，野外；公开，泄露；公开赛（Open）；断开（电路）",
+          "phonetic": "/ˈəʊpən/",
+          "example": "The door squeaked open.",
+          "exampleTranslation": "门嘎吱一声开了。"
+        },
+        {
+          "id": 189,
+          "word": "closed",
+          "translation": "adj. 关着的，闭合的；闭关自守的，不愿接受新思想的；（部件、成员或答案的数量）有限定的，固定的；（商家）（尤指短时间）歇业的；（数）（集合）封闭的；（数）（集合）包含所有极限值的；（曲线，图形）闭合的；不公开的，保密的；形成完整环形的，封闭的；结束的，不再继续的；v. 关，闭；结束，终止；封锁，封闭（close 的过去式和过去分词）",
+          "phonetic": "/kləʊzd/",
+          "example": "Her eyes were tightly closed.",
+          "exampleTranslation": "她的双眼紧闭着。"
+        },
+        {
+          "id": 190,
+          "word": "compact",
+          "translation": "adj. 小型的，袖珍的；紧凑的；紧密的，坚实的；矮小而健壮的；（演讲，作品）简洁的，简练的；n. 带镜小粉盒；合约，协定；小型汽车；袖珍物；坯块；v. 压紧，压实；缩短，精简；订立（或签订）（协定）",
+          "phonetic": "/kəmˈpækt/",
+          "example": "Their bodies are sleek and compact.",
+          "exampleTranslation": "它们的身体光滑而紧实。"
+        },
+        {
+          "id": 191,
+          "word": "connected",
+          "translation": "adj. 连接的，相连的，相通的；有关的，有联系的；v. （使）连接；（使）相通；使接通（电源、水源等）；与……有关系；把……联系起来（connect 的过去式和过去分词）",
+          "phonetic": "/kəˈnektɪd/",
+          "example": "The two events are closely connected.",
+          "exampleTranslation": "两起事件之间有密切的联系。"
+        },
+        {
+          "id": 192,
+          "word": "hausdorff",
+          "translation": "n. 豪斯多夫（Felix Hausdorff，1868-1942），德国数学家，拓扑学的奠基人之一，以其在集合论、拓扑学和实分析等领域的贡献而著称。",
+          "phonetic": "",
+          "example": "A compact Hausdorff space is uniformizable.",
+          "exampleTranslation": "一个紧凑的豪斯多夫空间是单值化的。"
+        },
+        {
+          "id": 193,
+          "word": "metric",
+          "translation": "adj. 米制的，公制的；度规的；用诗体写的，格律诗的；n. 诗韵；衡量标准；度规",
+          "phonetic": "/ˈmetrɪk/",
+          "example": "These screws are metric.",
+          "exampleTranslation": "这些螺丝钉是用公制尺码制造的。"
+        },
+        {
+          "id": 194,
+          "word": "space",
+          "translation": "n. 空间，空地；（尤指有特定用途的）空位，处所；（公共汽车等的）空座；开阔地，空旷处；开阔，空旷；太空，外层空间；宇宙空间；一段时间；属于自己的空间；空格，空行；版面，篇幅；广告专页，广告插播时间；（乐）（谱表的）线间空白；（电信）空号；v. 把（某物）隔开；在（词语等）之间加空格；变得昏昏沉沉，瞪着眼发呆",
+          "phonetic": "/speɪs/",
+          "example": "He needed space to be himself.",
+          "exampleTranslation": "他需要自己的独立的空间。"
+        },
+        {
+          "id": 195,
+          "word": "homeomorphism",
+          "translation": "n. [数] 同胚；异质同晶",
+          "phonetic": "/ˌhəʊmiəˈmɔːfɪzəm/",
+          "example": "The results for differentiable homeomorphism are extended.",
+          "exampleTranslation": "并推广了微分同胚的有关结果。"
+        },
+        {
+          "id": 196,
+          "word": "homotopy",
+          "translation": "n. [数] 同伦",
+          "phonetic": "/həʊməˈtɒpi/",
+          "example": "Using the homotopy analysis method, the approximation solution is obtained.",
+          "exampleTranslation": "利用同伦分析方法，得到了该模型的近似解。"
+        },
+        {
+          "id": 197,
+          "word": "homology",
+          "translation": "n. 同源；相同；异体同形；同族关系",
+          "phonetic": "/həʊˈmɒlədʒi/",
+          "example": "The evidence demonstrated that there was extensive homology of the proteins and antigens between diploid and triploid Paragonimus westermani.",
+          "exampleTranslation": "证据表明，卫氏并殖吸虫的二倍体型和三倍体型虫株的蛋白质及其抗原性之间存在着高度的同源性。"
+        },
+        {
+          "id": 198,
+          "word": "cohomology",
+          "translation": "n. [数] 上同调",
+          "phonetic": "/ˌkəʊhəˈmɒlədʒɪ/",
+          "example": "The theory of homology and cohomology is very important in mathematics.",
+          "exampleTranslation": "同调与上同调理论在数学中占有很重要的地位。"
+        },
+        {
+          "id": 199,
+          "word": "surface",
+          "translation": "n. 表面；水面，地面；桌面，台面；（物体的）一个面；外表，表象；表面积；运动场地，运动场地面铺设材料；v. 浮出水面；（信息、情感或问题）显露，暴露，公开；（失踪或隐藏后）出现；<非正式>（尤指长睡后）起床；给（道路等）铺上硬面；adj. 表面上的，外表上的；表面的；（与空中运输相对的）水陆运输的；水面舰船的（与潜水艇相对）；表层的",
+          "phonetic": "/ˈsɜːfɪs/",
+          "example": "He staggered on the uneven surface.",
+          "exampleTranslation": "他摇摇晃晃地走在高低不平的表面上。"
+        },
+        {
+          "id": 200,
+          "word": "curve",
+          "translation": "n. 曲线，弧线；转弯，弯道；图表曲线；曲线球；（女子身体的）曲线；v. （使）弯曲，（使）呈曲线形；adj. 弯曲的，曲线形的",
+          "phonetic": "/kɜːv/",
+          "example": "The slope increases as you go up the curve.",
+          "exampleTranslation": "你顺着那条弯路往上走，坡度越来越大。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Chapter 11",
+      "description": "Words 201 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 201,
+          "word": "dimension",
+          "translation": "n. 大小，尺寸；（空间的）维度；范围，规模；方面，部分；v. 切削（或制作）成特定尺寸；标出尺寸",
+          "phonetic": "/daɪˈmenʃ(ə)n/",
+          "example": "You will open a new dimension to your life.",
+          "exampleTranslation": "你将为你的生活打开一个新的维度。"
+        },
+        {
+          "id": 202,
+          "word": "fractal",
+          "translation": "n. 分形；adj. 分形的",
+          "phonetic": "/ˈfræktl/",
+          "example": "A Natural Fractal Found In broccoli.",
+          "exampleTranslation": "花椰菜中的天然不规则分形(Fractal)。"
+        },
+        {
+          "id": 203,
+          "word": "chaos",
+          "translation": "n. 混乱，无秩序状态；混沌；【名】 （Chaos）（西）查奥斯（人名）",
+          "phonetic": "/ˈkeɪɒs/",
+          "example": "He was ultimately overthrown and the country descended into chaos.",
+          "exampleTranslation": "他最终被推翻，国家陷入了混乱。"
+        },
+        {
+          "id": 204,
+          "word": "dynamical",
+          "translation": "adj. 动力学的（等于 dynamic）；有生气的；有力的",
+          "phonetic": "/daɪˈnæmɪk(ə)l/",
+          "example": "Dynamical robots controlled them.",
+          "exampleTranslation": "电动的机器人控制了他们。"
+        },
+        {
+          "id": 205,
+          "word": "system",
+          "translation": "n. （协同工作的）系统；（计算机、警报器等的）系统；体制，制度，方式，方法；现行体制，既成制度（the system）；身体，（器官）系统；人体的活动方式（尤指消化和排泄方式）；（度量，分类中的）方法（或规则）；条理，秩序；（交通、通信）网，网络；（地质）（年代地层学用语）系；（天文）系；下赌注法；（乐）用弧线连为一体的谱表；晶系（crystal system 的简称）",
+          "phonetic": "/ˈsɪstəm/",
+          "example": "Trust is implicit in the system.",
+          "exampleTranslation": "信任是这种体制里内含的。"
+        },
+        {
+          "id": 206,
+          "word": "attractor",
+          "translation": "n. [自] 吸引子；引起注意的人",
+          "phonetic": "/əˈtræktə(r)/",
+          "example": "Our gathering energy attractor.",
+          "exampleTranslation": "我们的能量收集器。"
+        },
+        {
+          "id": 207,
+          "word": "bifurcation",
+          "translation": "n. 分歧（点），分叉；分枝后的一枝",
+          "phonetic": "/ˌbaɪfəˈkeɪʃ(ə)n/",
+          "example": "We have reached another bifurcation point in history.",
+          "exampleTranslation": "我们到达了历史上的另一个分歧点。"
+        },
+        {
+          "id": 208,
+          "word": "logic",
+          "translation": "n. 逻辑，（做某事的）道理；推理方法，逻辑学；（事实或事件的）规律，相互联系；（计算机或电器的）逻辑操作",
+          "phonetic": "/ˈlɒdʒɪk/",
+          "example": "I had to concede the logic of this.",
+          "exampleTranslation": "我得承认这件事情有它的逻辑。"
+        },
+        {
+          "id": 209,
+          "word": "proposition",
+          "translation": "n. 主张，观点；（尤指商业或政治上的）提议，建议；（美国的）法律修正案；欲做的事，待处理的问题；（数学或逻辑）命题；（尤指被视作有冒犯性的）性交提议，求欢；v. 向（某人）提议；（尤指冒犯地）提出与……性交，向……求欢",
+          "phonetic": "/ˌprɒpəˈzɪʃ(ə)n/",
+          "example": "How did you vote on Proposition 8?",
+          "exampleTranslation": "对于第8项修正案你是怎么投的票？"
+        },
+        {
+          "id": 210,
+          "word": "predicate",
+          "translation": "n. （语法）谓语；（逻）谓项；v. 使基于，使取决于；表明，断言；adj. （用作）表语的",
+          "phonetic": "/ˈpredɪkət/",
+          "example": "Nominative is used when the noun is the subject or a predicate nominative.",
+          "exampleTranslation": "当名词是主语或谓语主格使用主格。"
+        },
+        {
+          "id": 211,
+          "word": "quantifier",
+          "translation": "n. [数][语] 量词；数量词；精于计算的人",
+          "phonetic": "/ˈkwɒntɪfaɪə(r)/",
+          "example": "You cannot use a quantifier with an anchor.",
+          "exampleTranslation": "不能将限定符与定位点一起使用。"
+        },
+        {
+          "id": 212,
+          "word": "boolean",
+          "translation": "adj. 布尔数学体系的",
+          "phonetic": "/ˈbuːliən/",
+          "example": "I'll treat it as a Boolean in my code.",
+          "exampleTranslation": "在编码时我会把它做为一个布尔值。"
+        },
+        {
+          "id": 213,
+          "word": "set",
+          "translation": "v. 放，置；使开始；把故事情节安排在；设置；摆放餐具；镶嵌；安排；树立；布置；凝固；使现出坚定的表情；固定发型；把（断骨）复位；排版；为……谱曲；落（下）；布置（戏剧、电影或电视节目的布景）；（断骨）愈合；n. 一组（类似的东西）；一组（配套使用的东西）；一伙（或一帮、一群）人；电视机；布景 ；舞台；（网球、排球比赛等的）盘；集；一组歌曲（或乐曲）；（在某学科上能力相当的）一批学生 ；（尤指坚定的）姿势；头发的定型；凝固；兽穴；（供移植的）秧苗；adj. 位于（或处于）……的；安排好的；固定的；套（餐）；有可能的；不自然的；【名】 （Set）（瑞、以）塞特（人名）",
+          "phonetic": "/set/",
+          "example": "I've collected the complete set.",
+          "exampleTranslation": "我收集了全套。"
+        },
+        {
+          "id": 214,
+          "word": "element",
+          "translation": "n. 基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒；【名】 （Element）（英）埃利门特，（德）埃勒门特（人名）",
+          "phonetic": "/ˈelɪmənt/",
+          "example": "Cost was a key element in our decision.",
+          "exampleTranslation": "价钱是我们决策时考虑的主要因素。"
+        },
+        {
+          "id": 215,
+          "word": "subset",
+          "translation": "n. [数] 子集；子设备；小团体",
+          "phonetic": "/ˈsʌbset/",
+          "example": "The user can target each query to be executed to a subset of slices.",
+          "exampleTranslation": "用户可以将要执行的每个查询定位到片的一个子集。"
+        },
+        {
+          "id": 216,
+          "word": "union",
+          "translation": "n. 工会；联邦，联盟；协会，俱乐部；联合，合并；结婚，婚姻；美利坚合众国（the Union）；（数）并，并集；联管节，接头；（印度次大陆）村落联合体；<英，史>教区联合济贫组织；旗帜上象征国家统一的部分；混纺织物",
+          "phonetic": "/ˈjuːniən/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 217,
+          "word": "intersection",
+          "translation": "n. 交接（点或线），相交；交汇点（尤指道路）；（动作）交接，交叉",
+          "phonetic": "/ˌɪntəˈsekʃn/",
+          "example": "We crossed at a busy intersection.",
+          "exampleTranslation": "我们穿过了一个繁忙的道路交叉口。"
+        },
+        {
+          "id": 218,
+          "word": "complement",
+          "translation": "v. 补充，补足；n. 补足物，衬托物；足数，足额；补语；余角；补体，防御素",
+          "phonetic": "/ˈkɒmplɪment/",
+          "example": "There will be a written examination to complement the practical test.",
+          "exampleTranslation": "会有一次书面考试来补充实践测试。"
+        },
+        {
+          "id": 219,
+          "word": "difference",
+          "translation": "n. 差异，不同之处；差额；分歧；v. <罕> 区分",
+          "phonetic": "/ˈdɪfrəns/",
+          "example": "Okay, there is a slight difference.",
+          "exampleTranslation": "好吧，是有稍稍的不同。"
+        },
+        {
+          "id": 220,
+          "word": "cartesian",
+          "translation": "adj. 笛卡尔的；笛卡尔哲学的；n. 笛卡尔信徒",
+          "phonetic": "/kɑːˈtiːziən; kɑːˈtiːʒən/",
+          "example": "The idea of The Matrix is explicitly built upon Cartesian— Descartes' worries about an evil demon.",
+          "exampleTranslation": "《黑客帝国》的创意完全基于笛卡尔的哲学——笛卡尔对于恶灵的忧虑。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chapter 12",
+      "description": "Words 221 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 221,
+          "word": "product",
+          "translation": "n. 产品，制品；（自然、化学或工业过程的）生成物；（特定行动、影响或事件的）结局；（受某种环境或经历影响而形成的）产物；积，乘积；总称（商业性）音乐制品",
+          "phonetic": "/ˈprɒdʌkt/",
+          "example": "The product of 21 and 16 is 336.",
+          "exampleTranslation": "21和16的乘积是336。"
+        },
+        {
+          "id": 222,
+          "word": "relation",
+          "translation": "n. （人或物间的）联系；（国家、公司、组织等之间的）（正式）关系；<正式> 性关系；亲戚，亲属；讲述，叙述",
+          "phonetic": "/rɪˈleɪʃ(ə)n/",
+          "example": "It is a question of the relation of ethics to economics.",
+          "exampleTranslation": "这是个道德和经济之间关系的问题。"
+        },
+        {
+          "id": 223,
+          "word": "mapping",
+          "translation": "n. （数学、语言学）映射，映现；v. 绘制……的地图；了解信息；详细安排（map 的现在分词）",
+          "phonetic": "/ˈmæpɪŋ/",
+          "example": "If not, then transformations have to be performed in the mapping phase.",
+          "exampleTranslation": "如果没有，则在映射阶段必须执行转换。"
+        },
+        {
+          "id": 224,
+          "word": "injection",
+          "translation": "n. 注射；大量资金的投入；（液体）注入，喷入；（宇宙飞船等的）射入轨道，入轨；内射，单射",
+          "phonetic": "/ɪnˈdʒekʃ(ə)n/",
+          "example": "An anaesthetic was administered by injection.",
+          "exampleTranslation": "麻醉剂已注射入体内。"
+        },
+        {
+          "id": 225,
+          "word": "surjection",
+          "translation": "n. [数] 满射",
+          "phonetic": "/sɜːˈdʒekʃ(ə)n/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 226,
+          "word": "bijection",
+          "translation": "n. [数] 双射",
+          "phonetic": "/baɪˈdʒekʃən/",
+          "example": "Bijection is a cornerstone of stateful component development.",
+          "exampleTranslation": "双射是有状态组件开发的基础。"
+        },
+        {
+          "id": 227,
+          "word": "cardinality",
+          "translation": "n. 基数；集的势",
+          "phonetic": "/kɑːdɪˈnælɪti/",
+          "example": "Dealing with HL7 cardinality and optionality.",
+          "exampleTranslation": "处理HL7基数和可选性。"
+        },
+        {
+          "id": 228,
+          "word": "ordinal",
+          "translation": "adj. 顺序的，依次的；n. [数] 序数",
+          "phonetic": "/ˈɔːdɪn(ə)l/",
+          "example": "Numerals consist of two types: cardinal numerals and ordinal numerals.",
+          "exampleTranslation": "数字包括两种类型：基数词和序数词。"
+        },
+        {
+          "id": 229,
+          "word": "countable",
+          "translation": "adj. （名词）可数的，可计算的；能算的",
+          "phonetic": "/ˈkaʊntəbl/",
+          "example": "Are they countable nouns or uncountable nouns?",
+          "exampleTranslation": "它们是可数名词还是不可数名词?。"
+        },
+        {
+          "id": 230,
+          "word": "uncountable",
+          "translation": "adj. 无数的；不可数的",
+          "phonetic": "/ʌnˈkaʊntəbl/",
+          "example": "He has stolen flowers from my parents' grave uncountable times.",
+          "exampleTranslation": "他曾无数次从我父母的坟墓上偷走花。"
+        },
+        {
+          "id": 231,
+          "word": "continuum",
+          "translation": "n. [数] 连续统；[经] 连续统一体；闭联集",
+          "phonetic": "/kənˈtɪnjuəm/",
+          "example": "Along the continuum of abilities are hundreds of thousands of gifted men and women, boys and girls.",
+          "exampleTranslation": "成千上万的天才男女都处在能力的连续统上。"
+        }
+      ]
+    }
+  ]
+}

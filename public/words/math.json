@@ -1,0 +1,3252 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-03-02",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "math",
+      "word": "algebra",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'gebra' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + gebra(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "algebraic",
+        "algebraical",
+        "algebraically",
+        "algebraist"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "math",
+      "word": "geometry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "geometric",
+        "geometrically",
+        "geometer",
+        "geometrician"
+      ]
+    },
+    {
+      "wordId": 3,
+      "bookId": "math",
+      "word": "calculus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "calculous",
+        "calculous"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "math",
+      "word": "integral",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'tegr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + tegr(核心词干) + -al(…的；与…有关的) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "integrate",
+        "integrated",
+        "integrally",
+        "integrity"
+      ]
+    },
+    {
+      "wordId": 5,
+      "bookId": "math",
+      "word": "derivative",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'rivat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + rivat(核心词干) + -ive(有…性质的；倾向于…的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "derived",
+        "derivable",
+        "derivation",
+        "derivativeness"
+      ]
+    },
+    {
+      "wordId": 6,
+      "bookId": "math",
+      "word": "equation",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'qu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + qu(核心词干) + -ation(行为；过程；结果) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equate",
+        "equate"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "math",
+      "word": "variable",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "var(变化) + -able(能…的；可…的) → 产生“变化”的意象 → 演变成该词",
+      "cognates": [
+        "varied",
+        "varying",
+        "variably",
+        "variation"
+      ]
+    },
+    {
+      "wordId": 8,
+      "bookId": "math",
+      "word": "fraction",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'frac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "frac(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "fractional",
+        "fractionation",
+        "fractionate"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "math",
+      "word": "decimal",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'cim' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + cim(核心词干) + -al(…的；与…有关的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "decimalization",
+        "decimalize"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "math",
+      "word": "algorithm",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'gorithm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + gorithm(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "algorithmic"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "math",
+      "word": "coordinate",
+      "prefix": "co-（共同；一起）",
+      "root": "ord/ordin(顺序)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 ordo（顺序）。由 co-(共同；一起)+ord/ordin(顺序) 组合而成，原意与“顺序”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "co-(共同；一起) + ord/ordin(顺序) + -ate(使…；具有…的) → 产生“顺序”的意象 → 演变成该词",
+      "cognates": [
+        "coordinated",
+        "coordinating",
+        "coordinative",
+        "coordination"
+      ]
+    },
+    {
+      "wordId": 12,
+      "bookId": "math",
+      "word": "matrix",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 13,
+      "bookId": "math",
+      "word": "polynomial",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'nomi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + nomi(核心词干) + -al(…的；与…有关的) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 14,
+      "bookId": "math",
+      "word": "theorem",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "theory"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "math",
+      "word": "axiom",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'xiom' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + xiom(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "axiomatic",
+        "axiomatically"
+      ]
+    },
+    {
+      "wordId": 16,
+      "bookId": "math",
+      "word": "discrete",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'crete' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dis-(否定；分开；不) + crete(核心词干) → 产生“否定；分开；不”的意象 → 演变成该词",
+      "cognates": [
+        "discretion",
+        "discreteness"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "math",
+      "word": "function",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'func' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "func(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "functional",
+        "functionalist",
+        "functionally",
+        "functionality"
+      ]
+    },
+    {
+      "wordId": 18,
+      "bookId": "math",
+      "word": "domain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 19,
+      "bookId": "math",
+      "word": "range",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ranking",
+        "rangy",
+        "ranking",
+        "ranger"
+      ]
+    },
+    {
+      "wordId": 20,
+      "bookId": "math",
+      "word": "sequence",
+      "prefix": "se-（分离；独自）",
+      "root": "sequ/secut(跟随)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 sequi（跟随）。由 se-(分离；独自)+sequ/secut(跟随) 组合而成，原意与“跟随”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "se-(分离；独自) + sequ/secut(跟随) + -ence(状态；性质；行为) → 产生“跟随”的意象 → 演变成该词",
+      "cognates": [
+        "sequential",
+        "sequent",
+        "sequent",
+        "sequencer"
+      ]
+    },
+    {
+      "wordId": 21,
+      "bookId": "math",
+      "word": "asymptote",
+      "prefix": "as-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ymptote' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "as-(朝向（ad-变体）) + ymptote(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "asymptotic",
+        "asymptotically"
+      ]
+    },
+    {
+      "wordId": 22,
+      "bookId": "math",
+      "word": "probability",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "abil/il(能力)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 habilis（易于处理的）。由 pro-(向前；支持；代替)+abil/il(能力) 组合而成，原意与“能力”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + abil/il(能力) + -ity(性质；状态；程度) → 产生“能力”的意象 → 演变成该词",
+      "cognates": [
+        "probable",
+        "probabilistic",
+        "probably",
+        "probable"
+      ]
+    },
+    {
+      "wordId": 23,
+      "bookId": "math",
+      "word": "statistics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "statistic",
+        "statistical",
+        "statistically",
+        "statistic"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "math",
+      "word": "variance",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "var(变化) + -ance(状态；性质；行为) → 产生“变化”的意象 → 演变成该词",
+      "cognates": [
+        "variable",
+        "variant",
+        "variation",
+        "variable"
+      ]
+    },
+    {
+      "wordId": 25,
+      "bookId": "math",
+      "word": "deviation",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'vi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + vi(核心词干) + -ation(行为；过程；结果) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "deviant",
+        "deviationist",
+        "deviant",
+        "deviationism"
+      ]
+    },
+    {
+      "wordId": 26,
+      "bookId": "math",
+      "word": "permutation",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'mut' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + mut(核心词干) + -ation(行为；过程；结果) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": [
+        "permutable",
+        "permute"
+      ]
+    },
+    {
+      "wordId": 27,
+      "bookId": "math",
+      "word": "combination",
+      "prefix": "com-（共同；完全）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'bin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "com-(共同；完全) + bin(核心词干) + -ation(行为；过程；结果) → 产生“共同；完全”的意象 → 演变成该词",
+      "cognates": [
+        "combined",
+        "combining",
+        "combinatorial",
+        "combinational"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "math",
+      "word": "vector",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'vect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "vect(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 29,
+      "bookId": "math",
+      "word": "scalar",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 30,
+      "bookId": "math",
+      "word": "tensor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'tens' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tens(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "tense",
+        "tensed",
+        "tensional",
+        "tensely"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "math",
+      "word": "topology",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "topographic",
+        "topographical",
+        "topologically",
+        "topography"
+      ]
+    },
+    {
+      "wordId": 32,
+      "bookId": "math",
+      "word": "manifold",
+      "prefix": "",
+      "root": "man/manu(手)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 manus（手）。由 man/manu(手) 组合而成，原意与“手”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 33,
+      "bookId": "math",
+      "word": "differential",
+      "prefix": "di-（两；分开）",
+      "root": "fer(带；携带)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 di-(两；分开)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + fer(带；携带) + -al(…的；与…有关的) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "differentiated",
+        "differentially",
+        "differentiator",
+        "differentiated"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "math",
+      "word": "logarithm",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "logarithmic",
+        "logarithmically"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "math",
+      "word": "exponential",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'ponenti' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ponenti(核心词干) + -al(…的；与…有关的) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exponent",
+        "exponentially",
+        "exponent"
+      ]
+    },
+    {
+      "wordId": 36,
+      "bookId": "math",
+      "word": "modulo",
+      "prefix": "",
+      "root": "mod(方式；节制)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 modus（方式）。由 mod(方式；节制) 组合而成，原意与“方式；节制”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 37,
+      "bookId": "math",
+      "word": "congruence",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'gru' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + gru(核心词干) + -ence(状态；性质；行为) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "congruent"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "math",
+      "word": "integer",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'teg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + teg(核心词干) + -er(…者；做…的人) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "integrate",
+        "integral",
+        "integrated",
+        "integrally"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "math",
+      "word": "rational",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'ration' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ration(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "rationalistic",
+        "rationally",
+        "rationale",
+        "ration"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "math",
+      "word": "irrational",
+      "prefix": "ir-（不；否定（in-变体））",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'ration' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ir-(不；否定（in-变体）) + ration(核心词干) + -al(…的；与…有关的) → 产生“不；否定（in-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "irrationally",
+        "irrationality"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "math",
+      "word": "prime",
+      "prefix": "",
+      "root": "prim(第一；首要)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 primus（第一的）。由 prim(第一；首要) 组合而成，原意与“第一；首要”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "primary",
+        "primeval",
+        "prim",
+        "primal"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "math",
+      "word": "composite",
+      "prefix": "com-（共同；完全）",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 com-(共同；完全)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "com-(共同；完全) + pos/pon(放置) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "composed",
+        "composing",
+        "compositional",
+        "composition"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "math",
+      "word": "factor",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fac/fect/fic(做；制造) + -or(…者；做…的人或物) → 产生“做；制造”的意象 → 演变成该词",
+      "cognates": [
+        "factory",
+        "factoring",
+        "factorization",
+        "factoring"
+      ]
+    },
+    {
+      "wordId": 44,
+      "bookId": "math",
+      "word": "multiple",
+      "prefix": "multi-（多；许多）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ple' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "multi-(多；许多) + ple(核心词干) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": [
+        "multiply",
+        "multiplicative",
+        "multipliable",
+        "multiply"
+      ]
+    },
+    {
+      "wordId": 45,
+      "bookId": "math",
+      "word": "quotient",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'quoti' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quoti(核心词干) + -ent(…的人；具有…性质的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 46,
+      "bookId": "math",
+      "word": "remainder",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'maind' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + maind(核心词干) + -er(…者；做…的人) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "remain",
+        "remains",
+        "remain"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "math",
+      "word": "dividend",
+      "prefix": "di-（两；分开）",
+      "root": "vid/vis(看见)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 videre（看见）。由 di-(两；分开)+vid/vis(看见) 组合而成，原意与“看见”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + vid/vis(看见) → 产生“看见”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 48,
+      "bookId": "math",
+      "word": "divisor",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自Latin/Greek，通常以 'vis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + vis(核心词干) + -or(…者；做…的人或物) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 49,
+      "bookId": "math",
+      "word": "numerator",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'numerat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "numerat(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "numerable",
+        "numerate",
+        "numeracy",
+        "numeration"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "math",
+      "word": "denominator",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "nomin/nom(名称)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 nomen（名称）。由 de-(向下；去除；否定)+nomin/nom(名称) 组合而成，原意与“名称”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + nomin/nom(名称) + -or(…者；做…的人或物) → 产生“名称”的意象 → 演变成该词",
+      "cognates": [
+        "denominate",
+        "denomination",
+        "denominate"
+      ]
+    },
+    {
+      "wordId": 51,
+      "bookId": "math",
+      "word": "proportion",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "port(携带；港口)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 portare（携带）。由 pro-(向前；支持；代替)+port(携带；港口) 组合而成，原意与“携带；港口”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + port(携带；港口) + -tion(行为；过程；结果) → 产生“携带；港口”的意象 → 演变成该词",
+      "cognates": [
+        "proportional",
+        "proportionate",
+        "proportionable",
+        "proportionally"
+      ]
+    },
+    {
+      "wordId": 52,
+      "bookId": "math",
+      "word": "ratio",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "rateable"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "math",
+      "word": "percentage",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 per-(贯穿；完全；每)+cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "per-(贯穿；完全；每) + cent/acent(唱；呼喊) + -age(行为；状态；集合) → 产生“唱；呼喊”的意象 → 演变成该词",
+      "cognates": [
+        "percent",
+        "percent",
+        "percent"
+      ]
+    },
+    {
+      "wordId": 54,
+      "bookId": "math",
+      "word": "circumference",
+      "prefix": "circum-（环绕；周围）",
+      "root": "fer(带；携带)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 circum-(环绕；周围)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "circum-(环绕；周围) + fer(带；携带) + -ence(状态；性质；行为) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "circumferential"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "math",
+      "word": "radius",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "radioprotection",
+        "radiosensitivity"
+      ]
+    },
+    {
+      "wordId": 56,
+      "bookId": "math",
+      "word": "diameter",
+      "prefix": "dia-（穿过；完全）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自希腊语，通常以 'met' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dia-(穿过；完全) + met(核心词干) + -er(…者；做…的人) → 产生“穿过；完全”的意象 → 演变成该词",
+      "cognates": [
+        "diametrical",
+        "diametral",
+        "diametric",
+        "diametrically"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "math",
+      "word": "tangent",
+      "prefix": "",
+      "root": "tang/tact(接触)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 tangere（触碰）。由 tang/tact(接触) 组合而成，原意与“接触”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "tang/tact(接触) + -ent(…的人；具有…性质的) → 产生“接触”的意象 → 演变成该词",
+      "cognates": [
+        "tangential",
+        "tangentially",
+        "tangential",
+        "tangency"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "math",
+      "word": "secant",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'c' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + c(核心词干) + -ant(…的人；具有…性质的) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 59,
+      "bookId": "math",
+      "word": "sine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 60,
+      "bookId": "math",
+      "word": "cosine",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'sine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + sine(核心词干) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 61,
+      "bookId": "math",
+      "word": "hypotenuse",
+      "prefix": "hypo-（在下；不足）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'tenuse' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hypo-(在下；不足) + tenuse(核心词干) → 产生“在下；不足”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 62,
+      "bookId": "math",
+      "word": "perpendicular",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "pend/pens(悬挂；支付)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 pendere（悬挂）。由 per-(贯穿；完全；每)+pend/pens(悬挂；支付) 组合而成，原意与“悬挂；支付”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "per-(贯穿；完全；每) + pend/pens(悬挂；支付) → 产生“悬挂；支付”的意象 → 演变成该词",
+      "cognates": [
+        "perpendicularly",
+        "perpendicularity"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "math",
+      "word": "parallel",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "parallelism",
+        "parallelepiped",
+        "parallelize"
+      ]
+    },
+    {
+      "wordId": 64,
+      "bookId": "math",
+      "word": "orthogonal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'orthogon' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "orthogon(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "orthographic",
+        "orthogonality",
+        "orthogon"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "math",
+      "word": "infinity",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "fin(结束；界限)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 in-(不；否定；向内；进入)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + fin(结束；界限) + -ity(性质；状态；程度) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "infinite",
+        "infinitesimal",
+        "infinitely",
+        "infinite"
+      ]
+    },
+    {
+      "wordId": 66,
+      "bookId": "math",
+      "word": "limit",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "limited",
+        "limitless",
+        "limiting",
+        "limited"
+      ]
+    },
+    {
+      "wordId": 67,
+      "bookId": "math",
+      "word": "converge",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 con-(共同；一起；完全)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "convergent",
+        "converging",
+        "convergence",
+        "converging"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "math",
+      "word": "diverge",
+      "prefix": "di-（两；分开）",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 di-(两；分开)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "divergent",
+        "diverging",
+        "divaricate",
+        "divergence"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "math",
+      "word": "continuity",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'tinu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + tinu(核心词干) + -ity(性质；状态；程度) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "continuous",
+        "continual",
+        "continued",
+        "continuing"
+      ]
+    },
+    {
+      "wordId": 70,
+      "bookId": "math",
+      "word": "differentiable",
+      "prefix": "di-（两；分开）",
+      "root": "fer(带；携带)",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 di-(两；分开)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + fer(带；携带) + -able(能…的；可…的) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "differentiated",
+        "differentiator",
+        "differentiated",
+        "differentiate"
+      ]
+    },
+    {
+      "wordId": 71,
+      "bookId": "math",
+      "word": "integrable",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语，通常以 'tegr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + tegr(核心词干) + -able(能…的；可…的) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 72,
+      "bookId": "math",
+      "word": "polygon",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'gon' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + gon(核心词干) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": [
+        "polygonal"
+      ]
+    },
+    {
+      "wordId": 73,
+      "bookId": "math",
+      "word": "polyhedron",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'hedron' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + hedron(核心词干) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": [
+        "polyhedral"
+      ]
+    },
+    {
+      "wordId": 74,
+      "bookId": "math",
+      "word": "sphere",
+      "prefix": "",
+      "root": "spher(球体)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 sphaira（球体）。由 spher(球体) 组合而成，原意与“球体”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spherical",
+        "spheroidal",
+        "sphericity"
+      ]
+    },
+    {
+      "wordId": 75,
+      "bookId": "math",
+      "word": "cylinder",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'cylind' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cylind(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "cylindrical"
+      ]
+    },
+    {
+      "wordId": 76,
+      "bookId": "math",
+      "word": "cone",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 77,
+      "bookId": "math",
+      "word": "pyramid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pyramidal",
+        "pyramidic",
+        "pyramidical",
+        "pyramidal"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "math",
+      "word": "prism",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "prismatic",
+        "prismoid"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "math",
+      "word": "tetrahedron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 80,
+      "bookId": "math",
+      "word": "hexahedron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 81,
+      "bookId": "math",
+      "word": "octahedron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 82,
+      "bookId": "math",
+      "word": "dodecahedron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 83,
+      "bookId": "math",
+      "word": "icosahedron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "icosahedral"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "math",
+      "word": "ellipse",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'llipse' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + llipse(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "elliptical",
+        "elliptic",
+        "ellipsoidal",
+        "ellipticity"
+      ]
+    },
+    {
+      "wordId": 85,
+      "bookId": "math",
+      "word": "parabola",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "parabolic",
+        "paraboloidal"
+      ]
+    },
+    {
+      "wordId": 86,
+      "bookId": "math",
+      "word": "hyperbola",
+      "prefix": "hyper-（超出；过度）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'bola' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hyper-(超出；过度) + bola(核心词干) → 产生“超出；过度”的意象 → 演变成该词",
+      "cognates": [
+        "hyperbolic",
+        "hyperboloidal"
+      ]
+    },
+    {
+      "wordId": 87,
+      "bookId": "math",
+      "word": "focus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "focal",
+        "focalization",
+        "focalize",
+        "focalize"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "math",
+      "word": "directrix",
+      "prefix": "di-（两；分开）",
+      "root": "rect(直；正确)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 rectus（直的）。由 di-(两；分开)+rect(直；正确) 组合而成，原意与“直；正确”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + rect(直；正确) → 产生“直；正确”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 89,
+      "bookId": "math",
+      "word": "vertex",
+      "prefix": "",
+      "root": "vert/vers(转变；转向)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 vertere（转动）。由 vert/vers(转变；转向) 组合而成，原意与“转变；转向”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "vertical",
+        "vertical"
+      ]
+    },
+    {
+      "wordId": 90,
+      "bookId": "math",
+      "word": "edge",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'dge' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + dge(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "edgy",
+        "edged",
+        "edgewise",
+        "edging"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "math",
+      "word": "face",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "facial",
+        "faced",
+        "faceless",
+        "facial"
+      ]
+    },
+    {
+      "wordId": 92,
+      "bookId": "math",
+      "word": "graph",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "graphic",
+        "graphically",
+        "graphics",
+        "graphology"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "math",
+      "word": "node",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nodal"
+      ]
+    },
+    {
+      "wordId": 94,
+      "bookId": "math",
+      "word": "tree",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "treed",
+        "treeless",
+        "treed"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "math",
+      "word": "bipartite",
+      "prefix": "bi-（两；双）",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 bi-(两；双)+par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "bi-(两；双) + par(相等；准备) → 产生“相等；准备”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 96,
+      "bookId": "math",
+      "word": "isomorphic",
+      "prefix": "",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mor/mort(死亡) + -ic(…的；与…有关的) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": [
+        "isomorphous",
+        "isomorphism"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "math",
+      "word": "homomorphism",
+      "prefix": "",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": [
+        "homonym",
+        "homology",
+        "homograph"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "math",
+      "word": "isomorphism",
+      "prefix": "",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": [
+        "isomorphic",
+        "isomorphous"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "math",
+      "word": "automorphism",
+      "prefix": "auto-（自动；自己）",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 auto-(自动；自己)+mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "auto-(自动；自己) + mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 100,
+      "bookId": "math",
+      "word": "endomorphism",
+      "prefix": "en-（使…进入；在内）",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 en-(使…进入；在内)+mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "en-(使…进入；在内) + mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 101,
+      "bookId": "math",
+      "word": "ring",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ringing",
+        "ringed",
+        "ringlike",
+        "rung"
+      ]
+    },
+    {
+      "wordId": 102,
+      "bookId": "math",
+      "word": "field",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fielding",
+        "fielder",
+        "fielding"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "math",
+      "word": "group",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "grouping",
+        "grouping"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "math",
+      "word": "abelian",
+      "prefix": "ab-（离开；脱离）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'elian' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ab-(离开；脱离) + elian(核心词干) → 产生“离开；脱离”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 105,
+      "bookId": "math",
+      "word": "symmetric",
+      "prefix": "sym-（共同；一起（syn-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'metr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sym-(共同；一起（syn-变体）) + metr(核心词干) + -ic(…的；与…有关的) → 产生“共同；一起（syn-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 106,
+      "bookId": "math",
+      "word": "binomial",
+      "prefix": "bi-（两；双）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'nomi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bi-(两；双) + nomi(核心词干) + -al(…的；与…有关的) → 产生“两；双”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 107,
+      "bookId": "math",
+      "word": "multinomial",
+      "prefix": "multi-（多；许多）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'nomi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "multi-(多；许多) + nomi(核心词干) + -al(…的；与…有关的) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 108,
+      "bookId": "math",
+      "word": "coefficient",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'effici' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + effici(核心词干) + -ent(…的人；具有…性质的) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 109,
+      "bookId": "math",
+      "word": "constant",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'st' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + st(核心词干) + -ant(…的人；具有…性质的) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "constantly",
+        "constancy"
+      ]
+    },
+    {
+      "wordId": 110,
+      "bookId": "math",
+      "word": "inequality",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "equ(相等；平衡)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 aequus（相等的）。由 in-(不；否定；向内；进入)+equ(相等；平衡) 组合而成，原意与“相等；平衡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + equ(相等；平衡) + -ity(性质；状态；程度) → 产生“相等；平衡”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 111,
+      "bookId": "math",
+      "word": "solution",
+      "prefix": "",
+      "root": "solut(解开；释放)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 solvere（解开）。由 solut(解开；释放) 组合而成，原意与“解开；释放”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "solut(解开；释放) + -tion(行为；过程；结果) → 产生“解开；释放”的意象 → 演变成该词",
+      "cognates": [
+        "solvent",
+        "soluble",
+        "solute",
+        "solved"
+      ]
+    },
+    {
+      "wordId": 112,
+      "bookId": "math",
+      "word": "root",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "rooted",
+        "rooting",
+        "rootless",
+        "rootlike"
+      ]
+    },
+    {
+      "wordId": 113,
+      "bookId": "math",
+      "word": "linear",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "linearly",
+        "linearity",
+        "linearize",
+        "linearise"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "math",
+      "word": "quadratic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'quadrat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quadrat(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "quadric",
+        "quadrillion",
+        "quadric",
+        "quadrillion"
+      ]
+    },
+    {
+      "wordId": 115,
+      "bookId": "math",
+      "word": "cubic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'cub' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cub(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "cubical",
+        "cuboid",
+        "cuboidal",
+        "cubiform"
+      ]
+    },
+    {
+      "wordId": 116,
+      "bookId": "math",
+      "word": "quartic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'quart' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quart(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "quarterly",
+        "quarterly",
+        "quarterly"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "math",
+      "word": "quintic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'quint' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quint(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 118,
+      "bookId": "math",
+      "word": "logarithmic",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "log(词；说；逻辑) + -ic(…的；与…有关的) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": [
+        "logarithmically",
+        "logarithm"
+      ]
+    },
+    {
+      "wordId": 119,
+      "bookId": "math",
+      "word": "trigonometric",
+      "prefix": "tri-（三）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自Latin/Greek，通常以 'gonometr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tri-(三) + gonometr(核心词干) + -ic(…的；与…有关的) → 产生“三”的意象 → 演变成该词",
+      "cognates": [
+        "trig",
+        "trigonal",
+        "trigonometry",
+        "trig"
+      ]
+    },
+    {
+      "wordId": 120,
+      "bookId": "math",
+      "word": "inverse",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 in-(不；否定；向内；进入)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "inverted",
+        "invertible",
+        "inversely",
+        "inversion"
+      ]
+    },
+    {
+      "wordId": 121,
+      "bookId": "math",
+      "word": "determinant",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "termin(边界；终点)",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 terminus（边界）。由 de-(向下；去除；否定)+termin(边界；终点) 组合而成，原意与“边界；终点”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + termin(边界；终点) + -ant(…的人；具有…性质的) → 产生“边界；终点”的意象 → 演变成该词",
+      "cognates": [
+        "determined",
+        "determinate",
+        "determinable",
+        "determinative"
+      ]
+    },
+    {
+      "wordId": 122,
+      "bookId": "math",
+      "word": "eigenvalue",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 e-(出；向外（ex-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 123,
+      "bookId": "math",
+      "word": "eigenvector",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 e-(出；向外（ex-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + gen(产生；出生；种类) + -or(…者；做…的人或物) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 124,
+      "bookId": "math",
+      "word": "trace",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "traceable",
+        "traced",
+        "tracing",
+        "tracer"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "math",
+      "word": "transpose",
+      "prefix": "trans-（横越；转变；超越）",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 trans-(横越；转变；超越)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "trans-(横越；转变；超越) + pos/pon(放置) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "transposed",
+        "transposable",
+        "transposition",
+        "transposed"
+      ]
+    },
+    {
+      "wordId": 126,
+      "bookId": "math",
+      "word": "unitary",
+      "prefix": "uni-（一；单一）",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 't' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "uni-(一；单一) + t(核心词干) + -ary(与…有关；…的场所) → 产生“一；单一”的意象 → 演变成该词",
+      "cognates": [
+        "unitarian",
+        "unit",
+        "unitarian"
+      ]
+    },
+    {
+      "wordId": 127,
+      "bookId": "math",
+      "word": "hermitian",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 128,
+      "bookId": "math",
+      "word": "skew",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "skewed",
+        "skewness"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "math",
+      "word": "definite",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 de-(向下；去除；否定)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + fin(结束；界限) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "defined",
+        "definitive",
+        "defining",
+        "definable"
+      ]
+    },
+    {
+      "wordId": 130,
+      "bookId": "math",
+      "word": "indefinite",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 in-(不；否定；向内；进入)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + fin(结束；界限) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "indefinable",
+        "indefinitely",
+        "indefinable",
+        "indefiniteness"
+      ]
+    },
+    {
+      "wordId": 131,
+      "bookId": "math",
+      "word": "partial",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "par(相等；准备) + -al(…的；与…有关的) → 产生“相等；准备”的意象 → 演变成该词",
+      "cognates": [
+        "part",
+        "partitioned",
+        "partitive",
+        "part"
+      ]
+    },
+    {
+      "wordId": 132,
+      "bookId": "math",
+      "word": "gradient",
+      "prefix": "",
+      "root": "grad/gress(步骤；走)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 gradi（行走）。由 grad/gress(步骤；走) 组合而成，原意与“步骤；走”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "grad/gress(步骤；走) + -ent(…的人；具有…性质的) → 产生“步骤；走”的意象 → 演变成该词",
+      "cognates": [
+        "grading",
+        "grading"
+      ]
+    },
+    {
+      "wordId": 133,
+      "bookId": "math",
+      "word": "divergence",
+      "prefix": "di-（两；分开）",
+      "root": "ver(真实)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 di-(两；分开)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + ver(真实) + -ence(状态；性质；行为) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "divergent",
+        "diverging",
+        "divaricate",
+        "divarication"
+      ]
+    },
+    {
+      "wordId": 134,
+      "bookId": "math",
+      "word": "curl",
+      "prefix": "",
+      "root": "cur/cours(跑；流)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 currere（跑）。由 cur/cours(跑；流) 组合而成，原意与“跑；流”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "curly",
+        "curling",
+        "curler",
+        "curliness"
+      ]
+    },
+    {
+      "wordId": 135,
+      "bookId": "math",
+      "word": "laplacian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 136,
+      "bookId": "math",
+      "word": "jacobian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 137,
+      "bookId": "math",
+      "word": "hessian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 138,
+      "bookId": "math",
+      "word": "taylor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'tayl' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tayl(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 139,
+      "bookId": "math",
+      "word": "maclaurin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 140,
+      "bookId": "math",
+      "word": "fourier",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'fouri' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fouri(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 141,
+      "bookId": "math",
+      "word": "laplace",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 142,
+      "bookId": "math",
+      "word": "transform",
+      "prefix": "trans-(横越)",
+      "root": "form(形式)",
+      "suffix": "",
+      "etymology": "来自拉丁语 transformare，trans-(横越)+forma(形状)，意为改变形状",
+      "wordFormation": "trans-(跨越) + form(形状) → 跨越形状 → 变形/变革",
+      "cognates": [
+        "form",
+        "reform",
+        "perform",
+        "formation"
+      ]
+    },
+    {
+      "wordId": 143,
+      "bookId": "math",
+      "word": "series",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ries' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + ries(核心词干) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": [
+        "serially",
+        "serialize",
+        "serialise"
+      ]
+    },
+    {
+      "wordId": 144,
+      "bookId": "math",
+      "word": "convergence",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "ver(真实)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 con-(共同；一起；完全)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + ver(真实) + -ence(状态；性质；行为) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "convergent",
+        "converging",
+        "converging",
+        "converging"
+      ]
+    },
+    {
+      "wordId": 145,
+      "bookId": "math",
+      "word": "absolute",
+      "prefix": "ab-(离开)",
+      "root": "solut(释放)",
+      "suffix": "-e(形容词)",
+      "etymology": "来自拉丁语 absolutus(完整的、自由的)，ab-(离开)+solvere(解开)的过去分词",
+      "wordFormation": "ab-(完全) + solut(解开/释放) → 完全解放的 → 绝对的",
+      "cognates": [
+        "solve",
+        "solution",
+        "resolve",
+        "absolve"
+      ]
+    },
+    {
+      "wordId": 146,
+      "bookId": "math",
+      "word": "conditional",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'dition' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + dition(核心词干) + -al(…的；与…有关的) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "conditioned",
+        "conditionally",
+        "condition",
+        "conditioning"
+      ]
+    },
+    {
+      "wordId": 147,
+      "bookId": "math",
+      "word": "uniform",
+      "prefix": "uni-（一；单一）",
+      "root": "form(形式；形状)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 uni-(一；单一)+form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "uni-(一；单一) + form(形式；形状) → 产生“形式；形状”的意象 → 演变成该词",
+      "cognates": [
+        "uniformed",
+        "uniformly",
+        "uniformity",
+        "uniformed"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "math",
+      "word": "pointwise",
+      "prefix": "",
+      "root": "",
+      "suffix": "-wise（以…方式；关于…）",
+      "etymology": "来自古英语，通常以 'point' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "point(核心词干) + -wise(以…方式；关于…) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 149,
+      "bookId": "math",
+      "word": "measure",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'meas' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "meas(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "measured",
+        "measurable",
+        "measuring",
+        "measureless"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "math",
+      "word": "lebesgue",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 151,
+      "bookId": "math",
+      "word": "borel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 152,
+      "bookId": "math",
+      "word": "sigma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 153,
+      "bookId": "math",
+      "word": "random",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "randomized",
+        "randomly",
+        "randomness",
+        "randomization"
+      ]
+    },
+    {
+      "wordId": 154,
+      "bookId": "math",
+      "word": "distribution",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "trib(给予；部落)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 tribuere（给予）。由 dis-(否定；分开；不)+trib(给予；部落) 组合而成，原意与“给予；部落”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "dis-(否定；分开；不) + trib(给予；部落) + -tion(行为；过程；结果) → 产生“给予；部落”的意象 → 演变成该词",
+      "cognates": [
+        "distributed",
+        "distributive",
+        "distributional",
+        "distributively"
+      ]
+    },
+    {
+      "wordId": 155,
+      "bookId": "math",
+      "word": "expected",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pected' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pected(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 156,
+      "bookId": "math",
+      "word": "covariance",
+      "prefix": "co-（共同；一起）",
+      "root": "var(变化)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 co-(共同；一起)+var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "co-(共同；一起) + var(变化) + -ance(状态；性质；行为) → 产生“变化”的意象 → 演变成该词",
+      "cognates": [
+        "covariant",
+        "covariant"
+      ]
+    },
+    {
+      "wordId": 157,
+      "bookId": "math",
+      "word": "correlation",
+      "prefix": "cor-（共同（con-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'rel' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cor-(共同（con-变体）) + rel(核心词干) + -ation(行为；过程；结果) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "correlate",
+        "correlated",
+        "correlative",
+        "correlate"
+      ]
+    },
+    {
+      "wordId": 158,
+      "bookId": "math",
+      "word": "regression",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'gres' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + gres(核心词干) + -sion(行为；状态) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "regressive",
+        "regress",
+        "regress",
+        "regress"
+      ]
+    },
+    {
+      "wordId": 159,
+      "bookId": "math",
+      "word": "hypothesis",
+      "prefix": "hypo-（在下；不足）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'thesis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hypo-(在下；不足) + thesis(核心词干) → 产生“在下；不足”的意象 → 演变成该词",
+      "cognates": [
+        "hypothetical",
+        "hypothetically",
+        "hypothesize",
+        "hypothesise"
+      ]
+    },
+    {
+      "wordId": 160,
+      "bookId": "math",
+      "word": "test",
+      "prefix": "",
+      "root": "test(见证；证明)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "testing",
+        "tested",
+        "testing",
+        "tester"
+      ]
+    },
+    {
+      "wordId": 161,
+      "bookId": "math",
+      "word": "significance",
+      "prefix": "",
+      "root": "sign(记号；符号)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 signum（符号）。由 sign(记号；符号) 组合而成，原意与“记号；符号”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sign(记号；符号) + -ance(状态；性质；行为) → 产生“记号；符号”的意象 → 演变成该词",
+      "cognates": [
+        "significant",
+        "significative",
+        "significantly",
+        "significant"
+      ]
+    },
+    {
+      "wordId": 162,
+      "bookId": "math",
+      "word": "confidence",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "fid/fis(信任；忠诚)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 fidere（信任）。由 con-(共同；一起；完全)+fid/fis(信任；忠诚) 组合而成，原意与“信任；忠诚”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + fid/fis(信任；忠诚) + -ence(状态；性质；行为) → 产生“信任；忠诚”的意象 → 演变成该词",
+      "cognates": [
+        "confidential",
+        "confident",
+        "confidently",
+        "confidentially"
+      ]
+    },
+    {
+      "wordId": 163,
+      "bookId": "math",
+      "word": "interval",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + v(核心词干) + -al(…的；与…有关的) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 164,
+      "bookId": "math",
+      "word": "estimator",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'stimat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + stimat(核心词干) + -or(…者；做…的人或物) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "estimable",
+        "estimate",
+        "estimation",
+        "estimate"
+      ]
+    },
+    {
+      "wordId": 165,
+      "bookId": "math",
+      "word": "unbiased",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'biased' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + biased(核心词干) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 166,
+      "bookId": "math",
+      "word": "consistent",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "sist/stat/st(站立)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 stare（站立）。由 con-(共同；一起；完全)+sist/stat/st(站立) 组合而成，原意与“站立”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + sist/stat/st(站立) + -ent(…的人；具有…性质的) → 产生“站立”的意象 → 演变成该词",
+      "cognates": [
+        "consistently",
+        "consistency"
+      ]
+    },
+    {
+      "wordId": 167,
+      "bookId": "math",
+      "word": "efficient",
+      "prefix": "ef-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'fici' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ef-(出；向外（ex-变体）) + fici(核心词干) + -ent(…的人；具有…性质的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "efficacious",
+        "efficiently",
+        "efficaciously",
+        "efficiency"
+      ]
+    },
+    {
+      "wordId": 168,
+      "bookId": "math",
+      "word": "sufficient",
+      "prefix": "suf-（在下（sub-变体））",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'fici' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "suf-(在下（sub-变体）) + fici(核心词干) + -ent(…的人；具有…性质的) → 产生“在下（sub-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "sufficiently",
+        "suffice",
+        "suffice"
+      ]
+    },
+    {
+      "wordId": 169,
+      "bookId": "math",
+      "word": "maximum",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "maximal",
+        "maximally",
+        "maximization",
+        "maximizing"
+      ]
+    },
+    {
+      "wordId": 170,
+      "bookId": "math",
+      "word": "likelihood",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "like",
+        "likely",
+        "likable",
+        "likeable"
+      ]
+    },
+    {
+      "wordId": 171,
+      "bookId": "math",
+      "word": "bayesian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 172,
+      "bookId": "math",
+      "word": "prior",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'pri' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pri(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "priority",
+        "prioritize",
+        "prioritize"
+      ]
+    },
+    {
+      "wordId": 173,
+      "bookId": "math",
+      "word": "posterior",
+      "prefix": "post-（在…之后）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'eri' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "post-(在…之后) + eri(核心词干) + -or(…者；做…的人或物) → 产生“在…之后”的意象 → 演变成该词",
+      "cognates": [
+        "posteriority"
+      ]
+    },
+    {
+      "wordId": 174,
+      "bookId": "math",
+      "word": "conjugate",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "jug/junct(连接)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 jungere（连接）。由 con-(共同；一起；完全)+jug/junct(连接) 组合而成，原意与“连接”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + jug/junct(连接) + -ate(使…；具有…的) → 产生“连接”的意象 → 演变成该词",
+      "cognates": [
+        "conjugated",
+        "conjugation"
+      ]
+    },
+    {
+      "wordId": 175,
+      "bookId": "math",
+      "word": "markov",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 176,
+      "bookId": "math",
+      "word": "chain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "chained",
+        "chained"
+      ]
+    },
+    {
+      "wordId": 177,
+      "bookId": "math",
+      "word": "process",
+      "prefix": "pro-(向前)",
+      "root": "cess(走)",
+      "suffix": "",
+      "etymology": "来自拉丁语 processus，pro-(向前)+cedere(走)，意为向前行进",
+      "wordFormation": "pro-(向前) + cess(走) → 向前推进 → 过程",
+      "cognates": [
+        "exceed",
+        "proceed",
+        "succeed",
+        "recede",
+        "access"
+      ]
+    },
+    {
+      "wordId": 178,
+      "bookId": "math",
+      "word": "poisson",
+      "prefix": "",
+      "root": "son(声音)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 179,
+      "bookId": "math",
+      "word": "gaussian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gauss",
+        "gaussmeter"
+      ]
+    },
+    {
+      "wordId": 180,
+      "bookId": "math",
+      "word": "hypergeometric",
+      "prefix": "hyper-（超出；过度）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'geometr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hyper-(超出；过度) + geometr(核心词干) + -ic(…的；与…有关的) → 产生“超出；过度”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 181,
+      "bookId": "math",
+      "word": "euclidean",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'uclidean' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + uclidean(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "euclidian"
+      ]
+    },
+    {
+      "wordId": 182,
+      "bookId": "math",
+      "word": "non-euclidean",
+      "prefix": "non-（不；非；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 '-euclidean' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "non-(不；非；无) + -euclidean(核心词干) → 产生“不；非；无”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 183,
+      "bookId": "math",
+      "word": "projective",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "ject(投；抛)",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 pro-(向前；支持；代替)+ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + ject(投；抛) + -ive(有…性质的；倾向于…的) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 184,
+      "bookId": "math",
+      "word": "affine",
+      "prefix": "a-（不；无；在…上）",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 a-(不；无；在…上)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + fin(结束；界限) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "affinal",
+        "affined",
+        "affinity",
+        "affinal"
+      ]
+    },
+    {
+      "wordId": 185,
+      "bookId": "math",
+      "word": "algebraic",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'gebra' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + gebra(核心词干) + -ic(…的；与…有关的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "algebraical",
+        "algebraically",
+        "algebra",
+        "algebraist"
+      ]
+    },
+    {
+      "wordId": 186,
+      "bookId": "math",
+      "word": "analytic",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'alyt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + alyt(核心词干) + -ic(…的；与…有关的) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "analytical",
+        "analyzable",
+        "analytically",
+        "analysis"
+      ]
+    },
+    {
+      "wordId": 187,
+      "bookId": "math",
+      "word": "synthetic",
+      "prefix": "syn-（共同；一起）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'thet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "syn-(共同；一起) + thet(核心词干) + -ic(…的；与…有关的) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "synthetically",
+        "synthesis",
+        "synthesizer",
+        "synthesist"
+      ]
+    },
+    {
+      "wordId": 188,
+      "bookId": "math",
+      "word": "open",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "opening",
+        "opening",
+        "openness",
+        "opener"
+      ]
+    },
+    {
+      "wordId": 189,
+      "bookId": "math",
+      "word": "closed",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "close",
+        "closer",
+        "closing",
+        "close"
+      ]
+    },
+    {
+      "wordId": 190,
+      "bookId": "math",
+      "word": "compact",
+      "prefix": "com-（共同；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pact' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "com-(共同；完全) + pact(核心词干) → 产生“共同；完全”的意象 → 演变成该词",
+      "cognates": [
+        "compactly",
+        "compaction",
+        "compactness",
+        "compactor"
+      ]
+    },
+    {
+      "wordId": 191,
+      "bookId": "math",
+      "word": "connected",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'nected' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + nected(核心词干) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "connective",
+        "connectible",
+        "connection",
+        "connector"
+      ]
+    },
+    {
+      "wordId": 192,
+      "bookId": "math",
+      "word": "hausdorff",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 193,
+      "bookId": "math",
+      "word": "metric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'metr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "metr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "metrical",
+        "metrological",
+        "metrically",
+        "metrics"
+      ]
+    },
+    {
+      "wordId": 194,
+      "bookId": "math",
+      "word": "space",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spaced",
+        "spacial",
+        "spacing",
+        "spacing"
+      ]
+    },
+    {
+      "wordId": 195,
+      "bookId": "math",
+      "word": "homeomorphism",
+      "prefix": "",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 196,
+      "bookId": "math",
+      "word": "homotopy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 197,
+      "bookId": "math",
+      "word": "homology",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "homologous",
+        "homologic",
+        "homological",
+        "homonym"
+      ]
+    },
+    {
+      "wordId": 198,
+      "bookId": "math",
+      "word": "cohomology",
+      "prefix": "co-（共同；一起）",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 co-(共同；一起)+log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "co-(共同；一起) + log(词；说；逻辑) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 199,
+      "bookId": "math",
+      "word": "surface",
+      "prefix": "sur-（在上；超越）",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 facere（做）。由 sur-(在上；超越)+fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sur-(在上；超越) + fac/fect/fic(做；制造) → 产生“做；制造”的意象 → 演变成该词",
+      "cognates": [
+        "surfactant",
+        "surfactant",
+        "surfacing",
+        "surfacing"
+      ]
+    },
+    {
+      "wordId": 200,
+      "bookId": "math",
+      "word": "curve",
+      "prefix": "",
+      "root": "cur/cours(跑；流)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 currere（跑）。由 cur/cours(跑；流) 组合而成，原意与“跑；流”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "curved",
+        "curving",
+        "curvy",
+        "curvaceous"
+      ]
+    },
+    {
+      "wordId": 201,
+      "bookId": "math",
+      "word": "dimension",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自Latin/Greek，通常以 'men' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + men(核心词干) + -sion(行为；状态) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "dimensional",
+        "dimensionality"
+      ]
+    },
+    {
+      "wordId": 202,
+      "bookId": "math",
+      "word": "fractal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'fract' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fract(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 203,
+      "bookId": "math",
+      "word": "chaos",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 204,
+      "bookId": "math",
+      "word": "dynamical",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'dynam' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dynam(核心词干) + -ical(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "dynamic",
+        "dynamically",
+        "dynamic",
+        "dynamics"
+      ]
+    },
+    {
+      "wordId": 205,
+      "bookId": "math",
+      "word": "system",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "systematic",
+        "systematized",
+        "systematically",
+        "systematization"
+      ]
+    },
+    {
+      "wordId": 206,
+      "bookId": "math",
+      "word": "attractor",
+      "prefix": "at-（朝向（ad-变体））",
+      "root": "tract/trah(拉；拖)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 trahere。由 at-(朝向（ad-变体）)+tract/trah(拉；拖) 组合而成，原意与“拉；拖”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "at-(朝向（ad-变体）) + tract/trah(拉；拖) + -or(…者；做…的人或物) → 产生“拉；拖”的意象 → 演变成该词",
+      "cognates": [
+        "attractive",
+        "attractable",
+        "attractively",
+        "attraction"
+      ]
+    },
+    {
+      "wordId": 207,
+      "bookId": "math",
+      "word": "bifurcation",
+      "prefix": "bi-（两；双）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'furc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bi-(两；双) + furc(核心词干) + -ation(行为；过程；结果) → 产生“两；双”的意象 → 演变成该词",
+      "cognates": [
+        "bifurcate",
+        "bifurcated",
+        "bifurcated",
+        "bifurcate"
+      ]
+    },
+    {
+      "wordId": 208,
+      "bookId": "math",
+      "word": "logic",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "log(词；说；逻辑) + -ic(…的；与…有关的) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": [
+        "logistic",
+        "logical",
+        "logically",
+        "logician"
+      ]
+    },
+    {
+      "wordId": 209,
+      "bookId": "math",
+      "word": "proposition",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "pos/pon(放置)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 pro-(向前；支持；代替)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + pos/pon(放置) + -tion(行为；过程；结果) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "proposed",
+        "proposal",
+        "proposer",
+        "proposed"
+      ]
+    },
+    {
+      "wordId": 210,
+      "bookId": "math",
+      "word": "predicate",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'dic' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + dic(核心词干) + -ate(使…；具有…的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "predicative",
+        "predicatively",
+        "predicative",
+        "predication"
+      ]
+    },
+    {
+      "wordId": 211,
+      "bookId": "math",
+      "word": "quantifier",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'quantifi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quantifi(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "quantitative",
+        "quantitatively",
+        "quantity",
+        "quantify"
+      ]
+    },
+    {
+      "wordId": 212,
+      "bookId": "math",
+      "word": "boolean",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 213,
+      "bookId": "math",
+      "word": "set",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "setter"
+      ]
+    },
+    {
+      "wordId": 214,
+      "bookId": "math",
+      "word": "element",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 e-(出；向外（ex-变体）)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "elementary",
+        "elemental"
+      ]
+    },
+    {
+      "wordId": 215,
+      "bookId": "math",
+      "word": "subset",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'set' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + set(核心词干) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 216,
+      "bookId": "math",
+      "word": "union",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'ion' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + ion(核心词干) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": [
+        "unionized",
+        "unionism",
+        "unionization",
+        "unionist"
+      ]
+    },
+    {
+      "wordId": 217,
+      "bookId": "math",
+      "word": "intersection",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'sec' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + sec(核心词干) + -tion(行为；过程；结果) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "intersectant",
+        "intersect",
+        "intersect"
+      ]
+    },
+    {
+      "wordId": 218,
+      "bookId": "math",
+      "word": "complement",
+      "prefix": "com-（共同；完全）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 com-(共同；完全)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "com-(共同；完全) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "complementary",
+        "complemental",
+        "complementarity",
+        "complementation"
+      ]
+    },
+    {
+      "wordId": 219,
+      "bookId": "math",
+      "word": "difference",
+      "prefix": "di-（两；分开）",
+      "root": "fer(带；携带)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 di-(两；分开)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + fer(带；携带) + -ence(状态；性质；行为) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "different",
+        "differently",
+        "differentia",
+        "differ"
+      ]
+    },
+    {
+      "wordId": 220,
+      "bookId": "math",
+      "word": "cartesian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 221,
+      "bookId": "math",
+      "word": "product",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 pro-(向前；支持；代替)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + duc/duct(引导；带领) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "productive",
+        "productively",
+        "production",
+        "productivity"
+      ]
+    },
+    {
+      "wordId": 222,
+      "bookId": "math",
+      "word": "relation",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'l' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + l(核心词干) + -ation(行为；过程；结果) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "relative",
+        "related",
+        "relational",
+        "relative"
+      ]
+    },
+    {
+      "wordId": 223,
+      "bookId": "math",
+      "word": "mapping",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "mappable",
+        "map",
+        "mapper",
+        "mapmaking"
+      ]
+    },
+    {
+      "wordId": 224,
+      "bookId": "math",
+      "word": "injection",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "ject(投；抛)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 in-(不；否定；向内；进入)+ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + ject(投；抛) + -tion(行为；过程；结果) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": [
+        "injectable",
+        "injector",
+        "injectable",
+        "inject"
+      ]
+    },
+    {
+      "wordId": 225,
+      "bookId": "math",
+      "word": "surjection",
+      "prefix": "sur-（在上；超越）",
+      "root": "ject(投；抛)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 sur-(在上；超越)+ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sur-(在上；超越) + ject(投；抛) + -tion(行为；过程；结果) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 226,
+      "bookId": "math",
+      "word": "bijection",
+      "prefix": "bi-（两；双）",
+      "root": "ject(投；抛)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 bi-(两；双)+ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "bi-(两；双) + ject(投；抛) + -tion(行为；过程；结果) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 227,
+      "bookId": "math",
+      "word": "cardinality",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'cardinal' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cardinal(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "cardinal",
+        "cardinal"
+      ]
+    },
+    {
+      "wordId": 228,
+      "bookId": "math",
+      "word": "ordinal",
+      "prefix": "",
+      "root": "ord/ordin(顺序)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 ordo（顺序）。由 ord/ordin(顺序) 组合而成，原意与“顺序”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ord/ordin(顺序) + -al(…的；与…有关的) → 产生“顺序”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 229,
+      "bookId": "math",
+      "word": "countable",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语，通常以 'unt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + unt(核心词干) + -able(能…的；可…的) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "counter",
+        "countless",
+        "counter",
+        "count"
+      ]
+    },
+    {
+      "wordId": 230,
+      "bookId": "math",
+      "word": "uncountable",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自古英语，通常以 'count' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + count(核心词干) + -able(能…的；可…的) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 231,
+      "bookId": "math",
+      "word": "continuum",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tinuum' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + tinuum(核心词干) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "continuous",
+        "continuing",
+        "continuant",
+        "continuously"
+      ]
+    }
+  ]
+}

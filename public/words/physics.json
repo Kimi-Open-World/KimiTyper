@@ -1,0 +1,3327 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-03-02",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "physics",
+      "word": "mechanics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "mechanical",
+        "mechanistic",
+        "mechanized",
+        "mechanically"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "physics",
+      "word": "thermodynamics",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "thermodynamic"
+      ]
+    },
+    {
+      "wordId": 3,
+      "bookId": "physics",
+      "word": "quantum",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "quantized",
+        "quantization",
+        "quantisation",
+        "quantized"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "physics",
+      "word": "relativity",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'lativ' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + lativ(核心词干) + -ity(性质；状态；程度) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "relative",
+        "related",
+        "relational",
+        "relativistic"
+      ]
+    },
+    {
+      "wordId": 5,
+      "bookId": "physics",
+      "word": "velocity",
+      "prefix": "",
+      "root": "loc(地方)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 locus（地方）。由 loc(地方) 组合而成，原意与“地方”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "loc(地方) + -ity(性质；状态；程度) → 产生“地方”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 6,
+      "bookId": "physics",
+      "word": "acceleration",
+      "prefix": "ac-（朝向；加强）",
+      "root": "celer(快速)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 celer（快速的）。由 ac-(朝向；加强)+celer(快速) 组合而成，原意与“快速”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ac-(朝向；加强) + celer(快速) + -ation(行为；过程；结果) → 产生“快速”的意象 → 演变成该词",
+      "cognates": [
+        "accelerated",
+        "accelerating",
+        "accelerative",
+        "acceleratory"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "physics",
+      "word": "momentum",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 8,
+      "bookId": "physics",
+      "word": "gravity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'grav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "grav(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "grave",
+        "gravitational",
+        "graven",
+        "gravitative"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "physics",
+      "word": "electromagnetism",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，通常以 'lectromagnet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectromagnet(核心词干) + -ism(主义；行为；状态) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electromagnetic",
+        "electromagnet",
+        "electromagnetics"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "physics",
+      "word": "radiation",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'radi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "radi(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "radial",
+        "radiant",
+        "radiate",
+        "radioactive"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "physics",
+      "word": "entropy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'tropy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + tropy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 12,
+      "bookId": "physics",
+      "word": "kinematics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kinetic",
+        "kinesthetic",
+        "kinetics",
+        "kinesiology"
+      ]
+    },
+    {
+      "wordId": 13,
+      "bookId": "physics",
+      "word": "friction",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'fric' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fric(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "frictional",
+        "fricative",
+        "frictionless",
+        "fricative"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "physics",
+      "word": "inertia",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ertia' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + ertia(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inertial"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "physics",
+      "word": "wavelength",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 16,
+      "bookId": "physics",
+      "word": "frequency",
+      "prefix": "",
+      "root": "equ(相等；平衡)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 aequus（相等的）。由 equ(相等；平衡) 组合而成，原意与“相等；平衡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "frequent",
+        "frequently",
+        "frequent"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "physics",
+      "word": "particle",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 18,
+      "bookId": "physics",
+      "word": "nucleus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nucleonics"
+      ]
+    },
+    {
+      "wordId": 19,
+      "bookId": "physics",
+      "word": "electron",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectron' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectron(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electronic",
+        "electronically",
+        "electronics"
+      ]
+    },
+    {
+      "wordId": 20,
+      "bookId": "physics",
+      "word": "proton",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + ton(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 21,
+      "bookId": "physics",
+      "word": "neutron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 22,
+      "bookId": "physics",
+      "word": "photon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "photometric",
+        "photometrical",
+        "photometry",
+        "photometer"
+      ]
+    },
+    {
+      "wordId": 23,
+      "bookId": "physics",
+      "word": "quark",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 24,
+      "bookId": "physics",
+      "word": "lepton",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 25,
+      "bookId": "physics",
+      "word": "boson",
+      "prefix": "",
+      "root": "son(声音)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 26,
+      "bookId": "physics",
+      "word": "fermion",
+      "prefix": "",
+      "root": "fer(带；携带)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 27,
+      "bookId": "physics",
+      "word": "isotope",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "isotopic"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "physics",
+      "word": "radioactivity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'radioactiv' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "radioactiv(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "radioactive",
+        "radiography",
+        "radiobiology",
+        "radiocarbon"
+      ]
+    },
+    {
+      "wordId": 29,
+      "bookId": "physics",
+      "word": "fission",
+      "prefix": "",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'fis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fis(核心词干) + -sion(行为；状态) → 拼合演变成该词",
+      "cognates": [
+        "fissile",
+        "fissionable",
+        "fissiparous",
+        "fissure"
+      ]
+    },
+    {
+      "wordId": 30,
+      "bookId": "physics",
+      "word": "fusion",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fused",
+        "fusible",
+        "fuse",
+        "fused"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "physics",
+      "word": "plasma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "plasmapheresis"
+      ]
+    },
+    {
+      "wordId": 32,
+      "bookId": "physics",
+      "word": "solid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "solidified",
+        "solidly",
+        "solidarity",
+        "solidity"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "physics",
+      "word": "liquid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "liquor",
+        "liquidity",
+        "liquidation",
+        "liquidator"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "physics",
+      "word": "gas",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gaseous",
+        "gasify",
+        "gasify"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "physics",
+      "word": "condensation",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'dens' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + dens(核心词干) + -ation(行为；过程；结果) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "condensate",
+        "condenser",
+        "condensate",
+        "condensing"
+      ]
+    },
+    {
+      "wordId": 36,
+      "bookId": "physics",
+      "word": "evaporation",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'vapor' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vapor(核心词干) + -ation(行为；过程；结果) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "evaporated",
+        "evaporative",
+        "evaporable",
+        "evaporite"
+      ]
+    },
+    {
+      "wordId": 37,
+      "bookId": "physics",
+      "word": "sublimation",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'lim' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + lim(核心词干) + -ation(行为；过程；结果) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "sublime",
+        "sublimate",
+        "sublimely",
+        "sublime"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "physics",
+      "word": "deposition",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "pos/pon(放置)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 de-(向下；去除；否定)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + pos/pon(放置) + -tion(行为；过程；结果) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "deposit",
+        "deposit",
+        "depose",
+        "deposit"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "physics",
+      "word": "conduction",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 con-(共同；一起；完全)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + duc/duct(引导；带领) + -tion(行为；过程；结果) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "conductive",
+        "conduct",
+        "conductor",
+        "conductivity"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "physics",
+      "word": "convection",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'vec' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + vec(核心词干) + -tion(行为；过程；结果) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "convector",
+        "convect",
+        "convect"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "physics",
+      "word": "oscillation",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'oscill' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "oscill(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "oscillating",
+        "oscillatory",
+        "oscillator",
+        "oscillate"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "physics",
+      "word": "resonance",
+      "prefix": "re-（再；重新；回）",
+      "root": "son(声音)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 re-(再；重新；回)+son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + son(声音) + -ance(状态；性质；行为) → 产生“声音”的意象 → 演变成该词",
+      "cognates": [
+        "resonant",
+        "resonating",
+        "resonator",
+        "resonating"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "physics",
+      "word": "amplitude",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mplitude' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mplitude(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 44,
+      "bookId": "physics",
+      "word": "period",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'iod' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + iod(核心词干) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": [
+        "periodical",
+        "periodic",
+        "periodically",
+        "periodical"
+      ]
+    },
+    {
+      "wordId": 45,
+      "bookId": "physics",
+      "word": "phase",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 46,
+      "bookId": "physics",
+      "word": "spectrum",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spectroscopic",
+        "spectrographic",
+        "spectrometric",
+        "spectroscopy"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "physics",
+      "word": "dispersion",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'per' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dis-(否定；分开；不) + per(核心词干) + -sion(行为；状态) → 产生“否定；分开；不”的意象 → 演变成该词",
+      "cognates": [
+        "disperse",
+        "dispersed",
+        "dispersive",
+        "dispersal"
+      ]
+    },
+    {
+      "wordId": 48,
+      "bookId": "physics",
+      "word": "diffraction",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自Latin/Greek，通常以 'ffrac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + ffrac(核心词干) + -tion(行为；过程；结果) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "diffract",
+        "diffract"
+      ]
+    },
+    {
+      "wordId": 49,
+      "bookId": "physics",
+      "word": "interference",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "fer(带；携带)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 inter-(在…之间；相互)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "inter-(在…之间；相互) + fer(带；携带) + -ence(状态；性质；行为) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "interfering",
+        "interferon",
+        "interferometer",
+        "interfering"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "physics",
+      "word": "polarization",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'polariz' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "polariz(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "polar",
+        "polar",
+        "polarity",
+        "polaroid"
+      ]
+    },
+    {
+      "wordId": 51,
+      "bookId": "physics",
+      "word": "reflection",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'flec' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + flec(核心词干) + -tion(行为；过程；结果) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "reflective",
+        "reflected",
+        "reflecting",
+        "reflectively"
+      ]
+    },
+    {
+      "wordId": 52,
+      "bookId": "physics",
+      "word": "refraction",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'frac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + frac(核心词干) + -tion(行为；过程；结果) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "refractive",
+        "refractile",
+        "refractometer",
+        "refractivity"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "physics",
+      "word": "lens",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 54,
+      "bookId": "physics",
+      "word": "mirror",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'mirr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mirr(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "mirrored",
+        "mirrorlike",
+        "mirrored"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "physics",
+      "word": "focal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'foc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "foc(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "focus",
+        "focalization",
+        "focus",
+        "focalize"
+      ]
+    },
+    {
+      "wordId": 56,
+      "bookId": "physics",
+      "word": "magnification",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'magnific' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "magnific(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "magnified",
+        "magnifier",
+        "magnified",
+        "magnify"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "physics",
+      "word": "telescope",
+      "prefix": "tele-（远；远程）",
+      "root": "tele(远)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 tele（远）。由 tele-(远；远程)+tele(远) 组合而成，原意与“远”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "tele-(远；远程) + tele(远) → 产生“远”的意象 → 演变成该词",
+      "cognates": [
+        "telescopic",
+        "telescoped",
+        "telescopically",
+        "telescopy"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "physics",
+      "word": "microscope",
+      "prefix": "micro-（小；微观）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'scope' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "micro-(小；微观) + scope(核心词干) → 产生“小；微观”的意象 → 演变成该词",
+      "cognates": [
+        "microscopic",
+        "microscopical",
+        "microscopically",
+        "microscopy"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "physics",
+      "word": "voltage",
+      "prefix": "",
+      "root": "vol/volv(意志；卷绕)",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语，源于 velle（愿意）。由 vol/volv(意志；卷绕) 组合而成，原意与“意志；卷绕”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "vol/volv(意志；卷绕) + -age(行为；状态；集合) → 产生“意志；卷绕”的意象 → 演变成该词",
+      "cognates": [
+        "voltmeter"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "physics",
+      "word": "current",
+      "prefix": "",
+      "root": "cur/cours(跑；流)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 currere（跑）。由 cur/cours(跑；流) 组合而成，原意与“跑；流”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "cur/cours(跑；流) + -ent(…的人；具有…性质的) → 产生“跑；流”的意象 → 演变成该词",
+      "cognates": [
+        "currently"
+      ]
+    },
+    {
+      "wordId": 61,
+      "bookId": "physics",
+      "word": "resistance",
+      "prefix": "re-（再；重新；回）",
+      "root": "sist/stat/st(站立)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 stare（站立）。由 re-(再；重新；回)+sist/stat/st(站立) 组合而成，原意与“站立”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + sist/stat/st(站立) + -ance(状态；性质；行为) → 产生“站立”的意象 → 演变成该词",
+      "cognates": [
+        "resistant",
+        "resistive",
+        "resistible",
+        "resistless"
+      ]
+    },
+    {
+      "wordId": 62,
+      "bookId": "physics",
+      "word": "capacitance",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'capacit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "capacit(核心词干) + -ance(状态；性质；行为) → 拼合演变成该词",
+      "cognates": [
+        "capacitive",
+        "capacity",
+        "capability",
+        "capacitor"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "physics",
+      "word": "inductance",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 in-(不；否定；向内；进入)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + duc/duct(引导；带领) + -ance(状态；性质；行为) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "inductive",
+        "induced",
+        "induction",
+        "inductor"
+      ]
+    },
+    {
+      "wordId": 64,
+      "bookId": "physics",
+      "word": "impedance",
+      "prefix": "im-（不；否定；进入）",
+      "root": "",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'ped' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "im-(不；否定；进入) + ped(核心词干) + -ance(状态；性质；行为) → 产生“不；否定；进入”的意象 → 演变成该词",
+      "cognates": [
+        "impede"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "physics",
+      "word": "circuit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "circuitous",
+        "circuitry"
+      ]
+    },
+    {
+      "wordId": 66,
+      "bookId": "physics",
+      "word": "battery",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ery（…的行业；…的性质）",
+      "etymology": "来自拉丁语或法语，通常以 'batt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "batt(核心词干) + -ery(…的行业；…的性质) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 67,
+      "bookId": "physics",
+      "word": "generator",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -or(…者；做…的人或物) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "generative",
+        "generational",
+        "generation",
+        "genesis"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "physics",
+      "word": "motor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'mot' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mot(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "motive",
+        "motivated",
+        "motivational",
+        "motorized"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "physics",
+      "word": "transformer",
+      "prefix": "trans-（横越；转变；超越）",
+      "root": "form(形式；形状)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 trans-(横越；转变；超越)+form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "trans-(横越；转变；超越) + form(形式；形状) + -er(…者；做…的人) → 产生“形式；形状”的意象 → 演变成该词",
+      "cognates": [
+        "transformable",
+        "transformation",
+        "transform",
+        "transform"
+      ]
+    },
+    {
+      "wordId": 70,
+      "bookId": "physics",
+      "word": "magnetic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'magnet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "magnet(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "magnetized",
+        "magnetically",
+        "magnetism",
+        "magnetized"
+      ]
+    },
+    {
+      "wordId": 71,
+      "bookId": "physics",
+      "word": "electric",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'lectr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectr(核心词干) + -ic(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrical",
+        "electrically",
+        "electricity",
+        "electrician"
+      ]
+    },
+    {
+      "wordId": 72,
+      "bookId": "physics",
+      "word": "flux",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 73,
+      "bookId": "physics",
+      "word": "spacetime",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 74,
+      "bookId": "physics",
+      "word": "dimension",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自Latin/Greek，通常以 'men' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + men(核心词干) + -sion(行为；状态) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "dimensional",
+        "dimensionality"
+      ]
+    },
+    {
+      "wordId": 75,
+      "bookId": "physics",
+      "word": "singularity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'singular' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "singular(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "singular",
+        "singularly",
+        "singular"
+      ]
+    },
+    {
+      "wordId": 76,
+      "bookId": "physics",
+      "word": "universe",
+      "prefix": "uni-（一；单一）",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 uni-(一；单一)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "uni-(一；单一) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "universal",
+        "universal"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "physics",
+      "word": "galaxy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "galactic"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "physics",
+      "word": "nebula",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nebulous"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "physics",
+      "word": "supernova",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "nov(新)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 novus（新的）。由 sup-(在下（sub-变体）)+nov(新) 组合而成，原意与“新”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + nov(新) → 产生“新”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 80,
+      "bookId": "physics",
+      "word": "blackhole",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 81,
+      "bookId": "physics",
+      "word": "quasar",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 82,
+      "bookId": "physics",
+      "word": "pulsar",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pulsating",
+        "pulsing",
+        "pulsed",
+        "pulsing"
+      ]
+    },
+    {
+      "wordId": 83,
+      "bookId": "physics",
+      "word": "orbit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "orbital",
+        "orbiter"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "physics",
+      "word": "satellite",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 85,
+      "bookId": "physics",
+      "word": "trajectory",
+      "prefix": "",
+      "root": "ject(投；抛)",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ject(投；抛) + -ory(与…有关的；…的场所) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 86,
+      "bookId": "physics",
+      "word": "projectile",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "ject(投；抛)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 jacere（投掷）。由 pro-(向前；支持；代替)+ject(投；抛) 组合而成，原意与“投；抛”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + ject(投；抛) → 产生“投；抛”的意象 → 演变成该词",
+      "cognates": [
+        "projecting",
+        "projecting"
+      ]
+    },
+    {
+      "wordId": 87,
+      "bookId": "physics",
+      "word": "buoyancy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "buoyant",
+        "buoyantly"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "physics",
+      "word": "density",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'ns' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + ns(核心词干) + -ity(性质；状态；程度) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "dense",
+        "densely",
+        "denseness",
+        "densitometer"
+      ]
+    },
+    {
+      "wordId": 89,
+      "bookId": "physics",
+      "word": "pressure",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "press(压)",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 pre-(在…之前；预先)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pre-(在…之前；预先) + press(压) + -ure(行为；结果；状态) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "pressing",
+        "pressurized",
+        "pressor",
+        "pressingly"
+      ]
+    },
+    {
+      "wordId": 90,
+      "bookId": "physics",
+      "word": "tension",
+      "prefix": "",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'ten' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ten(核心词干) + -sion(行为；状态) → 拼合演变成该词",
+      "cognates": [
+        "tense",
+        "tensile",
+        "tensed",
+        "tensional"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "physics",
+      "word": "compression",
+      "prefix": "com-（共同；完全）",
+      "root": "press(压)",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 com-(共同；完全)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "com-(共同；完全) + press(压) + -sion(行为；状态) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "compressed",
+        "compressible",
+        "compressor",
+        "compressibility"
+      ]
+    },
+    {
+      "wordId": 92,
+      "bookId": "physics",
+      "word": "stress",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "stressful",
+        "stressor"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "physics",
+      "word": "strain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "strained",
+        "strainer",
+        "strained"
+      ]
+    },
+    {
+      "wordId": 94,
+      "bookId": "physics",
+      "word": "elasticity",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'lastic' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lastic(核心词干) + -ity(性质；状态；程度) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "elastic",
+        "elasticized",
+        "elastic",
+        "elastomer"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "physics",
+      "word": "plasticity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'plastic' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "plastic(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "plastic",
+        "plastic",
+        "plasticizer",
+        "plasticiser"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "physics",
+      "word": "viscosity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'viscos' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "viscos(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "viscous",
+        "viscometric",
+        "viscidity",
+        "viscometry"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "physics",
+      "word": "dynamics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "dynamic",
+        "dynamical",
+        "dynamic",
+        "dynamism"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "physics",
+      "word": "statics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "static",
+        "static"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "physics",
+      "word": "kinetics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kinematics"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "physics",
+      "word": "work",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "wrought",
+        "workaholic",
+        "working",
+        "workable"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "physics",
+      "word": "energy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'ergy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + ergy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "energetic",
+        "enervate",
+        "energetically",
+        "energize"
+      ]
+    },
+    {
+      "wordId": 102,
+      "bookId": "physics",
+      "word": "power",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'pow' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pow(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "powerlessly",
+        "powerful",
+        "powered",
+        "powerless"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "physics",
+      "word": "conservative",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "serv(保持；服务)",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，源于 servare（保持）。由 con-(共同；一起；完全)+serv(保持；服务) 组合而成，原意与“保持；服务”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + serv(保持；服务) + -ive(有…性质的；倾向于…的) → 产生“保持；服务”的意象 → 演变成该词",
+      "cognates": [
+        "conserved",
+        "conservatively",
+        "conservation",
+        "conservatism"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "physics",
+      "word": "potential",
+      "prefix": "",
+      "root": "potent(有力量的)",
+      "suffix": "-ial(形容词)",
+      "etymology": "来自拉丁语 potentialis，potens(有能力的)，源于posse(能够)，意为有可能的",
+      "wordFormation": "potent(力量) + -ial → 有力量可能的 → 潜在的",
+      "cognates": [
+        "potent",
+        "power",
+        "possible",
+        "impotent"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "physics",
+      "word": "kinetic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'kinet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "kinet(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "kinesthetic",
+        "kinematics",
+        "kinesiology",
+        "kinesis"
+      ]
+    },
+    {
+      "wordId": 106,
+      "bookId": "physics",
+      "word": "mechanical",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'mechan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mechan(核心词干) + -ical(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "mechanic",
+        "mechanistic",
+        "mechanized",
+        "mechanically"
+      ]
+    },
+    {
+      "wordId": 107,
+      "bookId": "physics",
+      "word": "thermal",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "her/hes(粘附) + -al(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "thermic",
+        "thermally"
+      ]
+    },
+    {
+      "wordId": 108,
+      "bookId": "physics",
+      "word": "internal",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'n' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + n(核心词干) + -al(…的；与…有关的) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "internally",
+        "interact",
+        "interaction",
+        "intercept"
+      ]
+    },
+    {
+      "wordId": 109,
+      "bookId": "physics",
+      "word": "enthalpy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'thalpy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + thalpy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 110,
+      "bookId": "physics",
+      "word": "free",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "freed",
+        "freely",
+        "freedom",
+        "freed"
+      ]
+    },
+    {
+      "wordId": 111,
+      "bookId": "physics",
+      "word": "gibbs",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 112,
+      "bookId": "physics",
+      "word": "helmholtz",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 113,
+      "bookId": "physics",
+      "word": "temperature",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'temperat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "temperat(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "temp",
+        "temperate",
+        "temperately",
+        "temp"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "physics",
+      "word": "heat",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "heated",
+        "heatable",
+        "heatless",
+        "heatedly"
+      ]
+    },
+    {
+      "wordId": 115,
+      "bookId": "physics",
+      "word": "specific",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "spec/spect(看) + -ic(…的；与…有关的) → 产生“看”的意象 → 演变成该词",
+      "cognates": [
+        "specified",
+        "specialty",
+        "specialized",
+        "specifiable"
+      ]
+    },
+    {
+      "wordId": 116,
+      "bookId": "physics",
+      "word": "capacity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'capac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "capac(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "capability",
+        "capacitance",
+        "capaciousness",
+        "capacitate"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "physics",
+      "word": "latent",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'lat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lat(核心词干) + -ent(…的人；具有…性质的) → 拼合演变成该词",
+      "cognates": [
+        "latency"
+      ]
+    },
+    {
+      "wordId": 118,
+      "bookId": "physics",
+      "word": "blackbody",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 119,
+      "bookId": "physics",
+      "word": "stefan",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 120,
+      "bookId": "physics",
+      "word": "boltzmann",
+      "prefix": "",
+      "root": "man/manu(手)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 manus（手）。由 man/manu(手) 组合而成，原意与“手”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 121,
+      "bookId": "physics",
+      "word": "wiens",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 122,
+      "bookId": "physics",
+      "word": "displacement",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 dis-(否定；分开；不)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "dis-(否定；分开；不) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "displace"
+      ]
+    },
+    {
+      "wordId": 123,
+      "bookId": "physics",
+      "word": "planck",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 124,
+      "bookId": "physics",
+      "word": "photoelectric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'photoelectr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "photoelectr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "photoconductive",
+        "photoemissive",
+        "photocell",
+        "photocathode"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "physics",
+      "word": "compton",
+      "prefix": "com-（共同；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "com-(共同；完全) + pton(核心词干) → 产生“共同；完全”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 126,
+      "bookId": "physics",
+      "word": "scattering",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "scattered",
+        "scattershot",
+        "scatter",
+        "scattershot"
+      ]
+    },
+    {
+      "wordId": 128,
+      "bookId": "physics",
+      "word": "heisenberg",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 129,
+      "bookId": "physics",
+      "word": "uncertainty",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自古英语，通常以 'certain' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + certain(核心词干) + -ty(性质；状态) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": [
+        "uncertainly"
+      ]
+    },
+    {
+      "wordId": 130,
+      "bookId": "physics",
+      "word": "schrodinger",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'schroding' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "schroding(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 131,
+      "bookId": "physics",
+      "word": "equation",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'qu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + qu(核心词干) + -ation(行为；过程；结果) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equate",
+        "equate"
+      ]
+    },
+    {
+      "wordId": 132,
+      "bookId": "physics",
+      "word": "wavefunction",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'wavefunc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "wavefunc(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 133,
+      "bookId": "physics",
+      "word": "probability",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "abil/il(能力)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 habilis（易于处理的）。由 pro-(向前；支持；代替)+abil/il(能力) 组合而成，原意与“能力”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + abil/il(能力) + -ity(性质；状态；程度) → 产生“能力”的意象 → 演变成该词",
+      "cognates": [
+        "probable",
+        "probabilistic",
+        "probably",
+        "probable"
+      ]
+    },
+    {
+      "wordId": 134,
+      "bookId": "physics",
+      "word": "superposition",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "pos/pon(放置)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 sup-(在下（sub-变体）)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + pos/pon(放置) + -tion(行为；过程；结果) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "superpose"
+      ]
+    },
+    {
+      "wordId": 135,
+      "bookId": "physics",
+      "word": "entanglement",
+      "prefix": "en-（使…进入；在内）",
+      "root": "tang/tact(接触)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 tangere（触碰）。由 en-(使…进入；在内)+tang/tact(接触) 组合而成，原意与“接触”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "en-(使…进入；在内) + tang/tact(接触) + -ment(行为；结果；状态) → 产生“接触”的意象 → 演变成该词",
+      "cognates": [
+        "entangled",
+        "entangled",
+        "entangle"
+      ]
+    },
+    {
+      "wordId": 136,
+      "bookId": "physics",
+      "word": "tunneling",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 137,
+      "bookId": "physics",
+      "word": "spin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spinning",
+        "spinnable",
+        "spinning",
+        "spinner"
+      ]
+    },
+    {
+      "wordId": 138,
+      "bookId": "physics",
+      "word": "pauli",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 139,
+      "bookId": "physics",
+      "word": "exclusion",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'clu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + clu(核心词干) + -sion(行为；状态) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exclusive",
+        "exclusively",
+        "exclusive",
+        "exclusiveness"
+      ]
+    },
+    {
+      "wordId": 140,
+      "bookId": "physics",
+      "word": "principle",
+      "prefix": "princi-(第一)",
+      "root": "pl(拿；取)",
+      "suffix": "-e",
+      "etymology": "来自拉丁语 principium，princeps(第一个人/首领)，primus(第一)+capere(拿取)",
+      "wordFormation": "princi(第一) + pl(取) + -e → 首要之物 → 原则",
+      "cognates": [
+        "prince",
+        "principal",
+        "primary",
+        "capture"
+      ]
+    },
+    {
+      "wordId": 141,
+      "bookId": "physics",
+      "word": "bose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 142,
+      "bookId": "physics",
+      "word": "einstein",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'instein' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + instein(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 143,
+      "bookId": "physics",
+      "word": "condensate",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'dens' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + dens(核心词干) + -ate(使…；具有…的) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "condensation",
+        "condenser",
+        "condensing",
+        "condensing"
+      ]
+    },
+    {
+      "wordId": 144,
+      "bookId": "physics",
+      "word": "superconductivity",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 sup-(在下（sub-变体）)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + duc/duct(引导；带领) + -ity(性质；状态；程度) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 145,
+      "bookId": "physics",
+      "word": "superfluidity",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "flu/flux(流动)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 sup-(在下（sub-变体）)+flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + flu/flux(流动) + -ity(性质；状态；程度) → 产生“流动”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 146,
+      "bookId": "physics",
+      "word": "magnetism",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自希腊语，通常以 'magnet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "magnet(核心词干) + -ism(主义；行为；状态) → 拼合演变成该词",
+      "cognates": [
+        "magnetic",
+        "magnetized",
+        "magnetically",
+        "magnet"
+      ]
+    },
+    {
+      "wordId": 147,
+      "bookId": "physics",
+      "word": "diamagnetism",
+      "prefix": "dia-（穿过；完全）",
+      "root": "",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自希腊语，通常以 'magnet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dia-(穿过；完全) + magnet(核心词干) + -ism(主义；行为；状态) → 产生“穿过；完全”的意象 → 演变成该词",
+      "cognates": [
+        "diamagnetic",
+        "diamagnetic",
+        "diamagnet"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "physics",
+      "word": "paramagnetism",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "par(相等；准备) + -ism(主义；行为；状态) → 产生“相等；准备”的意象 → 演变成该词",
+      "cognates": [
+        "paramagnetic",
+        "paramagnetic",
+        "paramagnet"
+      ]
+    },
+    {
+      "wordId": 149,
+      "bookId": "physics",
+      "word": "ferromagnetism",
+      "prefix": "",
+      "root": "fer(带；携带)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fer(带；携带) + -ism(主义；行为；状态) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "ferromagnetic"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "physics",
+      "word": "antiferromagnetism",
+      "prefix": "anti-（反对；对抗）",
+      "root": "fer(带；携带)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 anti-(反对；对抗)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "anti-(反对；对抗) + fer(带；携带) + -ism(主义；行为；状态) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "antiferromagnetic"
+      ]
+    },
+    {
+      "wordId": 151,
+      "bookId": "physics",
+      "word": "ferrimagnetism",
+      "prefix": "",
+      "root": "fer(带；携带)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fer(带；携带) + -ism(主义；行为；状态) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 152,
+      "bookId": "physics",
+      "word": "domain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 153,
+      "bookId": "physics",
+      "word": "hysteresis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 154,
+      "bookId": "physics",
+      "word": "curie",
+      "prefix": "",
+      "root": "cur/cours(跑；流)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 currere（跑）。由 cur/cours(跑；流) 组合而成，原意与“跑；流”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 155,
+      "bookId": "physics",
+      "word": "coulomb",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ulomb' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + ulomb(核心词干) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 156,
+      "bookId": "physics",
+      "word": "law",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lawful",
+        "lawless",
+        "lawfully",
+        "lawlessly"
+      ]
+    },
+    {
+      "wordId": 157,
+      "bookId": "physics",
+      "word": "field",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fielding",
+        "fielder",
+        "fielding"
+      ]
+    },
+    {
+      "wordId": 158,
+      "bookId": "physics",
+      "word": "gauss",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gaussian",
+        "gaussmeter"
+      ]
+    },
+    {
+      "wordId": 159,
+      "bookId": "physics",
+      "word": "ampere",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mpere' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mpere(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "amperage"
+      ]
+    },
+    {
+      "wordId": 160,
+      "bookId": "physics",
+      "word": "faraday",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 161,
+      "bookId": "physics",
+      "word": "induction",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 in-(不；否定；向内；进入)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + duc/duct(引导；带领) + -tion(行为；过程；结果) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "inductive",
+        "induced",
+        "inductor",
+        "inductance"
+      ]
+    },
+    {
+      "wordId": 162,
+      "bookId": "physics",
+      "word": "lenz",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 163,
+      "bookId": "physics",
+      "word": "maxwell",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 164,
+      "bookId": "physics",
+      "word": "equations",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'quations' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + quations(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 165,
+      "bookId": "physics",
+      "word": "electromagnetic",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'lectromagnet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectromagnet(核心词干) + -ic(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electromagnet",
+        "electromagnetism",
+        "electromagnetics"
+      ]
+    },
+    {
+      "wordId": 166,
+      "bookId": "physics",
+      "word": "wave",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "wavy",
+        "waving",
+        "wavering",
+        "wavelike"
+      ]
+    },
+    {
+      "wordId": 167,
+      "bookId": "physics",
+      "word": "radio",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 168,
+      "bookId": "physics",
+      "word": "microwave",
+      "prefix": "micro-（小；微观）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'wave' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "micro-(小；微观) + wave(核心词干) → 产生“小；微观”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 169,
+      "bookId": "physics",
+      "word": "infrared",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'frared' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + frared(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 170,
+      "bookId": "physics",
+      "word": "visible",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ible（能…的；可…的）",
+      "etymology": "来自拉丁语，通常以 'vis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "vis(核心词干) + -ible(能…的；可…的) → 拼合演变成该词",
+      "cognates": [
+        "visibly",
+        "vision",
+        "visibility",
+        "vision"
+      ]
+    },
+    {
+      "wordId": 171,
+      "bookId": "physics",
+      "word": "ultraviolet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 172,
+      "bookId": "physics",
+      "word": "xray",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 173,
+      "bookId": "physics",
+      "word": "gamma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 174,
+      "bookId": "physics",
+      "word": "ray",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "rayless"
+      ]
+    },
+    {
+      "wordId": 175,
+      "bookId": "physics",
+      "word": "optics",
+      "prefix": "op-（朝向（ob-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tics' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "op-(朝向（ob-变体）) + tics(核心词干) → 产生“朝向（ob-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "optical",
+        "optic",
+        "optically",
+        "optic"
+      ]
+    },
+    {
+      "wordId": 176,
+      "bookId": "physics",
+      "word": "snell",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 177,
+      "bookId": "physics",
+      "word": "total",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'tot' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tot(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "totally",
+        "tote",
+        "tot",
+        "totality"
+      ]
+    },
+    {
+      "wordId": 178,
+      "bookId": "physics",
+      "word": "young",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "younger",
+        "youthful",
+        "youngish",
+        "youthfully"
+      ]
+    },
+    {
+      "wordId": 179,
+      "bookId": "physics",
+      "word": "double",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "doubling",
+        "doubly",
+        "doubling",
+        "doubler"
+      ]
+    },
+    {
+      "wordId": 180,
+      "bookId": "physics",
+      "word": "slit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 181,
+      "bookId": "physics",
+      "word": "birefringence",
+      "prefix": "bi-（两；双）",
+      "root": "",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'refring' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bi-(两；双) + refring(核心词干) + -ence(状态；性质；行为) → 产生“两；双”的意象 → 演变成该词",
+      "cognates": [
+        "birefringent"
+      ]
+    },
+    {
+      "wordId": 182,
+      "bookId": "physics",
+      "word": "laser",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'las' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "las(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 183,
+      "bookId": "physics",
+      "word": "holography",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "holographic",
+        "hologram"
+      ]
+    },
+    {
+      "wordId": 184,
+      "bookId": "physics",
+      "word": "special",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "spec/spect(看) + -al(…的；与…有关的) → 产生“看”的意象 → 演变成该词",
+      "cognates": [
+        "specialist",
+        "specialized",
+        "specialised",
+        "specialistic"
+      ]
+    },
+    {
+      "wordId": 185,
+      "bookId": "physics",
+      "word": "general",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -al(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "generalized",
+        "generally",
+        "generalization",
+        "gen"
+      ]
+    },
+    {
+      "wordId": 186,
+      "bookId": "physics",
+      "word": "lorentz",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 187,
+      "bookId": "physics",
+      "word": "transformation",
+      "prefix": "trans-（横越；转变；超越）",
+      "root": "form(形式；形状)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 trans-(横越；转变；超越)+form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "trans-(横越；转变；超越) + form(形式；形状) + -ation(行为；过程；结果) → 产生“形式；形状”的意象 → 演变成该词",
+      "cognates": [
+        "transformable",
+        "transformer",
+        "transform",
+        "transform"
+      ]
+    },
+    {
+      "wordId": 188,
+      "bookId": "physics",
+      "word": "time",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "timely",
+        "timeless",
+        "timed",
+        "timely"
+      ]
+    },
+    {
+      "wordId": 189,
+      "bookId": "physics",
+      "word": "dilation",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自Latin/Greek，通常以 'l' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + l(核心词干) + -ation(行为；过程；结果) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "dilated",
+        "dilatation",
+        "dilater",
+        "dilator"
+      ]
+    },
+    {
+      "wordId": 190,
+      "bookId": "physics",
+      "word": "length",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "long",
+        "lengthy",
+        "lengthwise",
+        "longish"
+      ]
+    },
+    {
+      "wordId": 191,
+      "bookId": "physics",
+      "word": "contraction",
+      "prefix": "contra-（反对；相反）",
+      "root": "tract/trah(拉；拖)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 trahere。由 contra-(反对；相反)+tract/trah(拉；拖) 组合而成，原意与“拉；拖”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "contra-(反对；相反) + tract/trah(拉；拖) + -tion(行为；过程；结果) → 产生“拉；拖”的意象 → 演变成该词",
+      "cognates": [
+        "contractile",
+        "contract",
+        "contracture",
+        "contractility"
+      ]
+    },
+    {
+      "wordId": 192,
+      "bookId": "physics",
+      "word": "mass",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "massive",
+        "massively",
+        "massif",
+        "massiveness"
+      ]
+    },
+    {
+      "wordId": 193,
+      "bookId": "physics",
+      "word": "equivalence",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "val(价值；力量)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 valere（有力；有价值）。由 e-(出；向外（ex-变体）)+val(价值；力量) 组合而成，原意与“价值；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + val(价值；力量) + -ence(状态；性质；行为) → 产生“价值；力量”的意象 → 演变成该词",
+      "cognates": [
+        "equivalent",
+        "equivalent"
+      ]
+    },
+    {
+      "wordId": 194,
+      "bookId": "physics",
+      "word": "metric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'metr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "metr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "metrical",
+        "metrological",
+        "metrically",
+        "metrics"
+      ]
+    },
+    {
+      "wordId": 195,
+      "bookId": "physics",
+      "word": "tensor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'tens' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tens(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "tense",
+        "tensed",
+        "tensional",
+        "tensely"
+      ]
+    },
+    {
+      "wordId": 196,
+      "bookId": "physics",
+      "word": "geodesic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'geodes' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "geodes(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "geodetic",
+        "geodesy"
+      ]
+    },
+    {
+      "wordId": 197,
+      "bookId": "physics",
+      "word": "newton",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 198,
+      "bookId": "physics",
+      "word": "black",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "blackish",
+        "blackness",
+        "blackamoor",
+        "blackening"
+      ]
+    },
+    {
+      "wordId": 199,
+      "bookId": "physics",
+      "word": "hole",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "holey"
+      ]
+    },
+    {
+      "wordId": 200,
+      "bookId": "physics",
+      "word": "schwarzschild",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 201,
+      "bookId": "physics",
+      "word": "radius",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "radioprotection",
+        "radiosensitivity"
+      ]
+    },
+    {
+      "wordId": 202,
+      "bookId": "physics",
+      "word": "event",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'vent' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vent(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "eventual",
+        "eventful",
+        "eventuate"
+      ]
+    },
+    {
+      "wordId": 203,
+      "bookId": "physics",
+      "word": "horizon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "horizontal",
+        "horizontally",
+        "horizontal"
+      ]
+    },
+    {
+      "wordId": 204,
+      "bookId": "physics",
+      "word": "cosmology",
+      "prefix": "co-（共同；一起）",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 co-(共同；一起)+log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "co-(共同；一起) + log(词；说；逻辑) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": [
+        "cosmic",
+        "cosmological",
+        "cosmogenic",
+        "cosmologic"
+      ]
+    },
+    {
+      "wordId": 205,
+      "bookId": "physics",
+      "word": "big",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "bigger",
+        "bigness"
+      ]
+    },
+    {
+      "wordId": 206,
+      "bookId": "physics",
+      "word": "bang",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 207,
+      "bookId": "physics",
+      "word": "inflation",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'fl' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + fl(核心词干) + -ation(行为；过程；结果) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inflated",
+        "inflatable",
+        "inflationary",
+        "inflated"
+      ]
+    },
+    {
+      "wordId": 208,
+      "bookId": "physics",
+      "word": "expansion",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'pan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pan(核心词干) + -sion(行为；状态) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expanded",
+        "expansive",
+        "expandable",
+        "expansionist"
+      ]
+    },
+    {
+      "wordId": 209,
+      "bookId": "physics",
+      "word": "hubble",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 210,
+      "bookId": "physics",
+      "word": "cosmic",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'sm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + sm(核心词干) + -ic(…的；与…有关的) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "cosmological",
+        "cosmogenic",
+        "cosmologic",
+        "cosmology"
+      ]
+    },
+    {
+      "wordId": 211,
+      "bookId": "physics",
+      "word": "background",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "backgrounder"
+      ]
+    },
+    {
+      "wordId": 212,
+      "bookId": "physics",
+      "word": "dark",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "darkish",
+        "darkling",
+        "darkly",
+        "darkling"
+      ]
+    },
+    {
+      "wordId": 213,
+      "bookId": "physics",
+      "word": "matter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'matt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "matt(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "matrimonial"
+      ]
+    },
+    {
+      "wordId": 214,
+      "bookId": "physics",
+      "word": "standard",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "standardized",
+        "standardization",
+        "standardisation",
+        "standardized"
+      ]
+    },
+    {
+      "wordId": 215,
+      "bookId": "physics",
+      "word": "model",
+      "prefix": "",
+      "root": "mod(方式；节制)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 modus（方式）。由 mod(方式；节制) 组合而成，原意与“方式；节制”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "modeling",
+        "modeling",
+        "modelling",
+        "modeler"
+      ]
+    },
+    {
+      "wordId": 216,
+      "bookId": "physics",
+      "word": "physics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "physical",
+        "physiological",
+        "physicochemical",
+        "physiotherapeutic"
+      ]
+    },
+    {
+      "wordId": 217,
+      "bookId": "physics",
+      "word": "gauge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 218,
+      "bookId": "physics",
+      "word": "higgs",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 219,
+      "bookId": "physics",
+      "word": "symmetry",
+      "prefix": "sym-（共同；一起（syn-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'metry' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sym-(共同；一起（syn-变体）) + metry(核心词干) → 产生“共同；一起（syn-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "symmetrical",
+        "symmetrically",
+        "symmetrize"
+      ]
+    },
+    {
+      "wordId": 220,
+      "bookId": "physics",
+      "word": "breaking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "broke",
+        "broken",
+        "breakable",
+        "break"
+      ]
+    },
+    {
+      "wordId": 221,
+      "bookId": "physics",
+      "word": "strong",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "strongly",
+        "strength",
+        "strengthen",
+        "strengthen"
+      ]
+    },
+    {
+      "wordId": 222,
+      "bookId": "physics",
+      "word": "weak",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "weakling",
+        "weakly",
+        "weakly",
+        "weakness"
+      ]
+    },
+    {
+      "wordId": 223,
+      "bookId": "physics",
+      "word": "gravitational",
+      "prefix": "",
+      "root": "vit/viv(生命)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 vita/vivere（生命）。由 vit/viv(生命) 组合而成，原意与“生命”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "vit/viv(生命) + -al(…的；与…有关的) → 产生“生命”的意象 → 演变成该词",
+      "cognates": [
+        "gravitative",
+        "gravity",
+        "gravitation",
+        "gravimeter"
+      ]
+    },
+    {
+      "wordId": 224,
+      "bookId": "physics",
+      "word": "force",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forced",
+        "forceful",
+        "forcefully",
+        "forcefulness"
+      ]
+    },
+    {
+      "wordId": 225,
+      "bookId": "physics",
+      "word": "interaction",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'ac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + ac(核心词干) + -tion(行为；过程；结果) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "interactive",
+        "interactional",
+        "interact",
+        "interact"
+      ]
+    },
+    {
+      "wordId": 226,
+      "bookId": "physics",
+      "word": "gluon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 227,
+      "bookId": "physics",
+      "word": "w",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 228,
+      "bookId": "physics",
+      "word": "z",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 229,
+      "bookId": "physics",
+      "word": "graviton",
+      "prefix": "",
+      "root": "vit/viv(生命)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 vita/vivere（生命）。由 vit/viv(生命) 组合而成，原意与“生命”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "gravitational",
+        "gravitative",
+        "gravity",
+        "gravitation"
+      ]
+    },
+    {
+      "wordId": 230,
+      "bookId": "physics",
+      "word": "neutrino",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 231,
+      "bookId": "physics",
+      "word": "muon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 232,
+      "bookId": "physics",
+      "word": "tau",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 233,
+      "bookId": "physics",
+      "word": "hadron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 234,
+      "bookId": "physics",
+      "word": "baryon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 235,
+      "bookId": "physics",
+      "word": "meson",
+      "prefix": "",
+      "root": "son(声音)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 236,
+      "bookId": "physics",
+      "word": "pion",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 237,
+      "bookId": "physics",
+      "word": "kaon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 238,
+      "bookId": "physics",
+      "word": "hyperon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 239,
+      "bookId": "physics",
+      "word": "antimatter",
+      "prefix": "anti-（反对；对抗）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自希腊语，通常以 'matt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "anti-(反对；对抗) + matt(核心词干) + -er(…者；做…的人) → 产生“反对；对抗”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 240,
+      "bookId": "physics",
+      "word": "positron",
+      "prefix": "",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 241,
+      "bookId": "physics",
+      "word": "antiproton",
+      "prefix": "anti-（反对；对抗）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'proton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "anti-(反对；对抗) + proton(核心词干) → 产生“反对；对抗”的意象 → 演变成该词",
+      "cognates": []
+    }
+  ]
+}

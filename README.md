@@ -404,3 +404,10 @@ export default defineConfig({
 ---
 
 Made with ❤️ for efficient vocabulary learning.
+
+
+# 开发之后，在Local生成dist，上传到服务器
+npm run build
+
+# 在服务器上要重启nginx
+sudo systemctl restart nginx

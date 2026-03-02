@@ -1,0 +1,2016 @@
+{
+  "id": "physics",
+  "name": "物理专业英语词汇",
+  "description": "物理学核心必备词汇，共 240 词",
+  "wordCount": 240,
+  "language": "en",
+  "category": "理科专业",
+  "dataUrl": "/words/physics.json",
+  "version": "1.8",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Chapter 1",
+      "description": "Words 1 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 1,
+          "word": "mechanics",
+          "translation": "n. 机械学，力学；机制，运作方式；机械部件，运转部件；结构，构成",
+          "phonetic": "/məˈkænɪks/",
+          "example": "He has not studied mechanics or engineering.",
+          "exampleTranslation": "他没有学习过力学或者工程学。"
+        },
+        {
+          "id": 2,
+          "word": "thermodynamics",
+          "translation": "n. 热力学",
+          "phonetic": "/ˌθɜːməʊdaɪˈnæmɪks/",
+          "example": "Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics.",
+          "exampleTranslation": "在这种情况下，老化必须根据物理化学和热力学定律进行。"
+        },
+        {
+          "id": 3,
+          "word": "quantum",
+          "translation": "n.  量子；量子论；额（特指定额、定量）；（乙酰胆碱释放的）单元量；美国昆腾公司（世界领先的硬盘生产商）；adj. 量子的；(大小、数量的) 猛然剧增，(质量的) 突飞猛进",
+          "phonetic": "/ˈkwɒntəm/",
+          "example": "Both quantum mechanics and chaos theory suggest a world constantly in flux.",
+          "exampleTranslation": "量子力学和混沌理论都指出世界处在不断变化中。"
+        },
+        {
+          "id": 4,
+          "word": "relativity",
+          "translation": "n. （物理）相对论；相对性",
+          "phonetic": "/ˌreləˈtɪvəti/",
+          "example": "According to the theory of relativity, nothing can travel faster than light.",
+          "exampleTranslation": "根据相对论，任何东西都无法超越光速。"
+        },
+        {
+          "id": 5,
+          "word": "velocity",
+          "translation": "n. 速度，速率；高速，快速；（经济）周转率，流通速度",
+          "phonetic": "/vəˈlɒsəti/",
+          "example": "Acceleration and velocity are both vectors.",
+          "exampleTranslation": "加速度和速度都是矢量。"
+        },
+        {
+          "id": 6,
+          "word": "acceleration",
+          "translation": "n. 加速，加快；（车辆）加速能力，加速幅度；加速度",
+          "phonetic": "/əkˌseləˈreɪʃ(ə)n/",
+          "example": "Acceleration and velocity are both vectors.",
+          "exampleTranslation": "加速度和速度都是矢量。"
+        },
+        {
+          "id": 7,
+          "word": "momentum",
+          "translation": "n. 冲力，推力；动力，势头；动量，冲量",
+          "phonetic": "/məˈmentəm/",
+          "example": "The vehicle gained momentum as the road dipped.",
+          "exampleTranslation": "那辆车顺着坡越跑冲力越大。"
+        },
+        {
+          "id": 8,
+          "word": "gravity",
+          "translation": "n. 重力，地心引力；严重性；严肃，庄严；重（量）",
+          "phonetic": "/ˈɡrævəti/",
+          "example": "I don't think you realise the gravity of the situation.",
+          "exampleTranslation": "我认为你没有意识到形势的严重性。"
+        },
+        {
+          "id": 9,
+          "word": "electromagnetism",
+          "translation": "n. 电磁；电磁学",
+          "phonetic": "/ɪˌlektrəʊˈmæɡnətɪzəm/",
+          "example": "Each of the four fundamental forces (gravity, electromagnetism, and the strong and weak nuclear forces) has a kind of theoretical knob.",
+          "exampleTranslation": "四种基本力（万有引力、电磁力、强核力和弱核力）中的每一种都有一个理论上的旋钮。"
+        },
+        {
+          "id": 10,
+          "word": "radiation",
+          "translation": "n. 辐射，放射线；辐射的热（或能量等）；放射疗法；辐射形进化，发散状分化",
+          "phonetic": "/ˌreɪdiˈeɪʃn/",
+          "example": "The sun's radiation penetrates the skin.",
+          "exampleTranslation": "太阳的辐射能透进皮肤。"
+        },
+        {
+          "id": 11,
+          "word": "entropy",
+          "translation": "n. [热] 熵（热力学函数）",
+          "phonetic": "/ˈentrəpi/",
+          "example": "If we calculate the change in entropy during gas mixing, we will find that this quantity is positive.",
+          "exampleTranslation": "如果我们计算气体混合过程中熵的变化，我们会发现这个量是正的。"
+        },
+        {
+          "id": 12,
+          "word": "kinematics",
+          "translation": "n. 运动学；动力学",
+          "phonetic": "/ˌkɪnɪˈmætɪks/",
+          "example": "And the mathematical model of robot kinematics is established.",
+          "exampleTranslation": "建立了机器人小车的运动学数学模型。"
+        },
+        {
+          "id": 13,
+          "word": "friction",
+          "translation": "n. 不和，分歧；摩擦；摩擦力",
+          "phonetic": "/ˈfrɪkʃ(ə)n/",
+          "example": "The pistons are graphite-coated to reduce friction.",
+          "exampleTranslation": "活塞表面涂有石墨以减少摩擦。"
+        },
+        {
+          "id": 14,
+          "word": "inertia",
+          "translation": "n. 缺乏活力，惰性；无变化；惯性",
+          "phonetic": "/ɪnˈɜːʃə/",
+          "example": "We must remember that some people have a greater inertia than others.",
+          "exampleTranslation": "我们必须记住，有些人比其他人更有惰性。"
+        },
+        {
+          "id": 15,
+          "word": "wavelength",
+          "translation": "n. [物] 波长",
+          "phonetic": "/ˈweɪvleŋkθ/",
+          "example": "If this distance is large in comparison to the wavelength, this dam simply casts a shadow.",
+          "exampleTranslation": "如果这个距离比波长大，那么这个水坝就会投下阴影。"
+        },
+        {
+          "id": 16,
+          "word": "frequency",
+          "translation": "n. 出现次数；频繁；频率",
+          "phonetic": "/ˈfriːkwənsi/",
+          "example": "You can't hear waves of such a high frequency.",
+          "exampleTranslation": "你听不到这么高频率的声波。"
+        },
+        {
+          "id": 17,
+          "word": "particle",
+          "translation": "n. 微粒；极少量；粒子（原子的极微小成分，如电子、质子或中子）；（数）质点；（语法中的）小品词",
+          "phonetic": "/ˈpɑːtɪk(ə)l/",
+          "example": "A proton is an elementary particle of matter that possesses a positive charge.",
+          "exampleTranslation": "质子是带正电荷的物质的基本粒子。"
+        },
+        {
+          "id": 18,
+          "word": "nucleus",
+          "translation": "n. 原子核；细胞核；核心，中心；神经核；（彗星的）核",
+          "phonetic": "/ˈnjuːkliəs/",
+          "example": "Matt Cummings and Liko Soules-Ono form the nucleus of the team.",
+          "exampleTranslation": "马特·卡明斯和莱克·索尔斯-奥诺形成了这个团队的核心。"
+        },
+        {
+          "id": 19,
+          "word": "electron",
+          "translation": "n. 电子",
+          "phonetic": "/ɪˈlektrɒn/",
+          "example": "Magnetic coils focus the electron beams into fine spots.",
+          "exampleTranslation": "磁线圈将电子束聚焦成细小的点。"
+        },
+        {
+          "id": 20,
+          "word": "proton",
+          "translation": "n. [物]质子；n. （Proton）人名；（法）普罗东",
+          "phonetic": "/ˈprəʊtɒn/",
+          "example": "Every time you had one more proton, you had another element.",
+          "exampleTranslation": "每发现多一个质子，就会多一种元素。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2",
+      "description": "Words 21 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 21,
+          "word": "neutron",
+          "translation": "n. 中子",
+          "phonetic": "/ˈnjuːtrɒn/",
+          "example": "If the conditions are right, they will combine, fuse and form darmstadtium plus neutron.",
+          "exampleTranslation": "如果条件合适，它们将结合、聚变，形成鐽中子。"
+        },
+        {
+          "id": 22,
+          "word": "photon",
+          "translation": "n. [物]光子；辐射量子；见光度（等于 light quantum）",
+          "phonetic": "/ˈfəʊtɒn/",
+          "example": "The energy of a light photon or particle is different for each color.",
+          "exampleTranslation": "可见光子或粒子的能量因颜色不同而不同。"
+        },
+        {
+          "id": 23,
+          "word": "quark",
+          "translation": "n. [高能][天] 夸克（理论上一种比原子更小的基本粒子）",
+          "phonetic": "/kwɑːk/",
+          "example": "A quark cannot exist on its own, but must be bound to other quarks or an antiquark.",
+          "exampleTranslation": "一个夸克不能单独存在，必须与其它夸克或反夸克结合在一起。"
+        },
+        {
+          "id": 24,
+          "word": "lepton",
+          "translation": "n. 轻粒子（希腊的货币单位，古希腊的最小硬币）",
+          "phonetic": "/ˈleptɒn/",
+          "example": "A lepton star is probably a true white hole.",
+          "exampleTranslation": "轻子星也许就是真实的白洞。"
+        },
+        {
+          "id": 25,
+          "word": "boson",
+          "translation": "n. [高能]玻色子；n. （Boson）人名；（法）博松",
+          "phonetic": "/ˈbəʊzʌn/",
+          "example": "One thing we know for sure — it is not the Higgs boson.",
+          "exampleTranslation": "只有一件事我们相当确定——一定没有希格斯玻色子。"
+        },
+        {
+          "id": 26,
+          "word": "fermion",
+          "translation": "n. 费密子（费密系统的粒子）",
+          "phonetic": "/ˈfɜːmɪɒn/",
+          "example": "In this paper the SLAC bag model is discussed by using the method of fermion coherent state.",
+          "exampleTranslation": "作为应用费米相干态处理量子场论问题的一种尝试，本文利用费米相干态讨论了SLAC口袋模型。"
+        },
+        {
+          "id": 27,
+          "word": "isotope",
+          "translation": "n. 同位素",
+          "phonetic": "/ˈaɪsətəʊp/",
+          "example": "As an indicator of shifts in the Earth's climate, the isotope record has two advantages.",
+          "exampleTranslation": "作为地球气候变化的指标，同位素记录有两个优势。"
+        },
+        {
+          "id": 28,
+          "word": "radioactivity",
+          "translation": "n. 放射性，放射现象；放射物（或其辐射）",
+          "phonetic": "/ˌreɪdiəʊækˈtɪvəti/",
+          "example": "Element 43's radioactivity makes it easy to isolate and measure.",
+          "exampleTranslation": "43号元素的放射性使其易于分离和测量。"
+        },
+        {
+          "id": 29,
+          "word": "fission",
+          "translation": "n. 裂变；分裂；分体；分裂生殖法",
+          "phonetic": "/ˈfɪʃ(ə)n/",
+          "example": "The best part is that the process can power itself—plutonium releases energy as it destroyed by fission, and that energy can power the burner.",
+          "exampleTranslation": "最棒的是这一过程能够自我供能——钚被裂变破坏时释放能量，这一能量可以供给燃烧炉。"
+        },
+        {
+          "id": 30,
+          "word": "fusion",
+          "translation": "n. 融合，结合；核聚变；混合音乐；融合菜肴；熔化；融合物",
+          "phonetic": "/ˈfjuːʒ(ə)n/",
+          "example": "For the uninitiated, Western Swing is a fusion of jazz, rhythm and blues, rock and roll, and country music.",
+          "exampleTranslation": "可以向不懂西部摇摆乐的人解释，这是融合了爵士乐，节奏布鲁斯，摇滚乐和乡村乐的一种音乐形式。"
+        },
+        {
+          "id": 31,
+          "word": "plasma",
+          "translation": "n. 血浆；等离子（气）体；原浆，原生质；深绿玉髓；等离子显示屏；等离子电视机",
+          "phonetic": "/ˈplæzmə/",
+          "example": "After a pint of blood is collected, it is processed into its transfusible components: plasma, platelets and red blood cells.",
+          "exampleTranslation": "采集一品脱血液后，将其加工成可输血的成分：血浆、血小板和红细胞。"
+        },
+        {
+          "id": 32,
+          "word": "solid",
+          "translation": "adj. 固体的，坚硬的；结实的，牢固的；实心的，无空隙的；纯质的；纯色的，单色的；可靠的，可信赖的；一致的，坚定的；不中断的，连续的；相当不错（但谈不上出色或独特）的；立体的，立方的；<美，非正式>关系融洽的；<澳新，非正式>严厉的，不公平的；<英，非正式>很难的；n.  立体（图形）；固体；固体食物；（液体中的）固形物；【名】 （Solid）（瑞典）索利德（人名）",
+          "phonetic": "/ˈsɒlɪd/",
+          "example": "These chains seem fairly solid.",
+          "exampleTranslation": "这些链子看着挺结实。"
+        },
+        {
+          "id": 33,
+          "word": "liquid",
+          "translation": "n. 液体，液态物；流音；adj. 液态的，液化的；（资金等）流动的，易变为现金的；流畅自如的，舒展的；明亮的，清澈的；清脆的，流畅的；（市场）活跃的；液态的，液化的;（资金等）流动的，易变为现金的",
+          "phonetic": "/ˈlɪkwɪd/",
+          "example": "The liquid is then diluted.",
+          "exampleTranslation": "然后液体就变稀了。"
+        },
+        {
+          "id": 34,
+          "word": "gas",
+          "translation": "n. 气体；气体燃料；（手术）麻醉气；毒气，瓦斯；汽油；有趣的人（或事）；胀气，胃气；v. 用毒气杀死；闲聊，空谈；【名】 （Gas）（法、德、西）加斯（人名）",
+          "phonetic": "/ɡæs/",
+          "example": "This gas is highly poisonous.",
+          "exampleTranslation": "这种气体有剧毒。"
+        },
+        {
+          "id": 35,
+          "word": "condensation",
+          "translation": "n. 冷凝，凝结；凝结的水珠；（书等的）简缩；凝聚反应，缩合反应；精神凝缩（作用）",
+          "phonetic": "/ˌkɒndenˈseɪʃ(ə)n/",
+          "example": "It's constantly being recycled through evaporation and condensation.",
+          "exampleTranslation": "它通过蒸发和冷凝不断循环。"
+        },
+        {
+          "id": 36,
+          "word": "evaporation",
+          "translation": "n. 蒸发",
+          "phonetic": "/ɪˌvæpəˈreɪʃ(ə)n/",
+          "example": "Our bodies can sweat, thereby losing heat by evaporation.",
+          "exampleTranslation": "我们的身体会流汗，由此能通过蒸发散热。"
+        },
+        {
+          "id": 37,
+          "word": "sublimation",
+          "translation": "n. [物] 升华，[心理] 升华作用；高尚化；升华物",
+          "phonetic": "/ˌsʌblɪˈmeɪʃn/",
+          "example": "For sublimation. Or vaporization.",
+          "exampleTranslation": "对于升华和蒸发。"
+        },
+        {
+          "id": 38,
+          "word": "deposition",
+          "translation": "n. <法律> 证言，书面证词；<法律> 宣誓作证； 罢免，废黜；沉积（物），沉淀（物）；耶稣遗体从十字架上的取下（the Deposition）",
+          "phonetic": "/ˌdepəˈzɪʃn/",
+          "example": "Other reliable evidence suggests that the deposition of the boundary clay could not have taken one million years.",
+          "exampleTranslation": "其他可靠的证据表明，边界粘土的沉积不可能需要100万年。"
+        },
+        {
+          "id": 39,
+          "word": "conduction",
+          "translation": "n. [生理] 传导",
+          "phonetic": "/kənˈdʌkʃn/",
+          "example": "Temperature becomes uniform by heat conduction until finally a permanent state is reached.",
+          "exampleTranslation": "通过热传导，温度变得一致，直到最终达到一个恒定状态。"
+        },
+        {
+          "id": 40,
+          "word": "convection",
+          "translation": "n. 〔气体、液体的〕对流；传送",
+          "phonetic": "/kənˈvekʃn/",
+          "example": "It would be odd if the rising convection currents kept exact pace with them.",
+          "exampleTranslation": "如果上升的对流与它们保持保持完全一致，那就奇怪了。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3",
+      "description": "Words 41 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 41,
+          "word": "oscillation",
+          "translation": "n. 振荡；振动；摆动",
+          "phonetic": "/ˌɒsɪˈleɪʃn/",
+          "example": "Its oscillation depends on the strength of the gravitational field.",
+          "exampleTranslation": "它的摆动取决于重力场的力。"
+        },
+        {
+          "id": 42,
+          "word": "resonance",
+          "translation": "n. （声音的）深沉，洪亮；（情感的）共鸣，反响；（物理）共鸣，共振；（电路或设备）谐振；（天文）共振；（化）中介（现象）；（物理）共振态",
+          "phonetic": "/ˈrezənəns/",
+          "example": "The ideas of order, security, family, religion and country had the same resonance for them as for Michael.",
+          "exampleTranslation": "秩序、安全、家庭、宗教和国家这些概念在他们心里产生了和迈克尔一样的共鸣。"
+        },
+        {
+          "id": 43,
+          "word": "amplitude",
+          "translation": "n. 广度，阔度，量；（物理）波幅，振幅；（天文）（天体）出没方位角；（数）辐角",
+          "phonetic": "/ˈæmplɪtjuːd/",
+          "example": "The inebriant dose ethanol could enhance the amplitude of corticostriatal LTP through the way of activating the immediate-early gene.",
+          "exampleTranslation": "不育剂量的乙醇可以通过激活立即早期基因的方式来增强皮层皮质 LTP 的幅度。"
+        },
+        {
+          "id": 44,
+          "word": "period",
+          "translation": "n. 一段时间，时期；（人生或国家历史的）阶段，时代；（地质年代划分的）纪；课时，节；（练习、训练或学习的）时段；（妇女的）月经，经期；（体育比赛的）局；<美>句号，句点；（物理）（振动或循环的）周期；（天文）自转（或公转）周期；（数学）（周期函数的）周期；（化学）周期元素；（修辞）完整句；（乐）乐段，乐节；adj. 具有某个时代特征的；adv. <美>到此为止，不再说了",
+          "phonetic": "/ˈpɪəriəd/",
+          "example": "When did you last have a period ?",
+          "exampleTranslation": "你上一次月经是什么时候？"
+        },
+        {
+          "id": 45,
+          "word": "phase",
+          "translation": "n. （发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相；（动）（由遗传或季节引起的）动物颜色变化（期）；（物理）相位，相角；（线圈的）匝，（多相电机或电路的）连接；（语言学）（系统语法用语）相（指链接动词与后续动词的关系）；相结构（含有链接动词和后续动词的结构）；v. 分阶段进行；（物理）使相位同步，使定相",
+          "phonetic": "/feɪz/",
+          "example": "The investigation has entered a new phase.",
+          "exampleTranslation": "调查已进入新阶段。"
+        },
+        {
+          "id": 46,
+          "word": "spectrum",
+          "translation": "n. 范围，幅度；光谱；波谱，频谱；余象",
+          "phonetic": "/ˈspektrəm/",
+          "example": "Red and violet are at opposite ends of the spectrum.",
+          "exampleTranslation": "红色和紫色位于光谱的两端。"
+        },
+        {
+          "id": 47,
+          "word": "dispersion",
+          "translation": "n. 传播，散布；分布；（生态）分布；弥散，扩散；（将犹太人赶出以色列的）大流散（the Dispersion）；（物理）色散，频散；（统计）离中趋势，离散度",
+          "phonetic": "/dɪˈspɜːʃn/",
+          "example": "Corals provide a good example of how sedentary species achieve dispersion.",
+          "exampleTranslation": "珊瑚为固着物种如何实现色散提供了一个很好的例子。"
+        },
+        {
+          "id": 48,
+          "word": "diffraction",
+          "translation": "n. （光，声等的）衍射，绕射",
+          "phonetic": "/dɪˈfrækʃn/",
+          "example": "This is due to diffraction of light.",
+          "exampleTranslation": "这是由于光的衍射造成的。"
+        },
+        {
+          "id": 49,
+          "word": "interference",
+          "translation": "n. 干涉，干预；（收音机或电视机受到的）干扰信号；犯规阻挡；抵触，冲突",
+          "phonetic": "/ˌɪntəˈfɪərəns/",
+          "example": "Any outside criticism is routinely dismissed as interference.",
+          "exampleTranslation": "任何外来批评照例都被当作干涉而不予理睬。"
+        },
+        {
+          "id": 50,
+          "word": "polarization",
+          "translation": "n. 极化；偏振；两极分化",
+          "phonetic": "/ˌpəʊləraɪˈzeɪʃ(ə)n/",
+          "example": "None of these countries has found a way yet to get around the problem of the polarization of wealth.",
+          "exampleTranslation": "这些国家均未找到一个方案来解决贫富两极分化的问题。"
+        },
+        {
+          "id": 51,
+          "word": "reflection",
+          "translation": "n. （光、热或声音的）反射；反射光，反射热，回声；（反射出来的）影像，倒影；深思，反省；（尤指见诸语言的）想法，意见；表现，反映；坏的印象；（数）镜射，反射",
+          "phonetic": "/rɪˈflekʃ(ə)n/",
+          "example": "After days of reflection she decided to write back.",
+          "exampleTranslation": "经过几天的认真思考，她决定回信。"
+        },
+        {
+          "id": 52,
+          "word": "refraction",
+          "translation": "n. 折射；折光",
+          "phonetic": "/rɪˈfrækʃ(ə)n/",
+          "example": "One source of error is refraction, the bending of light beams as they pass through air layers of different temperature and pressure.",
+          "exampleTranslation": "误差的一个来源是折射，即光束通过不同温度和压力的空气层时发生的弯曲现象。"
+        },
+        {
+          "id": 53,
+          "word": "lens",
+          "translation": "n. 透镜，镜片；（相机的）镜头；（眼球的）晶状体；隐形眼镜；v. 给……摄影",
+          "phonetic": "/lenz/",
+          "example": "Some adjustment of the lens may be necessary.",
+          "exampleTranslation": "可能需要调整一下镜头。"
+        },
+        {
+          "id": 54,
+          "word": "mirror",
+          "translation": "n. 镜子；写照，真实反映；（计算机）镜像网点；榜样；vt.  反射，映照；反映；与……十分相似；（计算机）做……的镜像；（计算机）在（两个或数个硬盘）中做备份",
+          "phonetic": "/ˈmɪrə(r)/",
+          "example": "Steam had clouded the mirror.",
+          "exampleTranslation": "水蒸气使镜子变得模糊不清。"
+        },
+        {
+          "id": 55,
+          "word": "focal",
+          "translation": "adj. 焦点的，在焦点上的；灶的，病灶的",
+          "phonetic": "/ˈfəʊk(ə)l/",
+          "example": "The focal point for the town's many visitors is the museum.",
+          "exampleTranslation": "许多到该城的游客关注的重点是这座博物馆。"
+        },
+        {
+          "id": 56,
+          "word": "magnification",
+          "translation": "n. 放大；放大率；放大的复制品",
+          "phonetic": "/ˌmæɡnɪfɪˈkeɪʃ(ə)n/",
+          "example": "The telescope has a magnification of 50.",
+          "exampleTranslation": "这个望远镜可以放大50倍。"
+        },
+        {
+          "id": 57,
+          "word": "telescope",
+          "translation": "n. 望远镜；射电望远镜，无线电望远镜（radio telescope 的简称）；v. 叠套缩短，叠缩；缩短，精简；使（车辆）相撞而嵌进；压缩",
+          "phonetic": "/ˈtelɪskəʊp/",
+          "example": "The telescope has a magnification of 50.",
+          "exampleTranslation": "这个望远镜可以放大50倍。"
+        },
+        {
+          "id": 58,
+          "word": "microscope",
+          "translation": "n. 显微镜",
+          "phonetic": "/ˈmaɪkrəskəʊp/",
+          "example": "If you look at the paper under a microscope you will see the fibres.",
+          "exampleTranslation": "如果你在显微镜下观察这张纸，你就会看到纤维。"
+        },
+        {
+          "id": 59,
+          "word": "voltage",
+          "translation": "n. 电压，伏特数",
+          "phonetic": "/ˈvəʊltɪdʒ/",
+          "example": "The current lags behind the voltage.",
+          "exampleTranslation": "电流滞后于电压。"
+        },
+        {
+          "id": 60,
+          "word": "current",
+          "translation": "adj. 现行的，当前的；通用的，流行的；最近的；n. 水流，气流；电流；思潮，趋势；【名】 （Current）（英）柯伦特（人名）",
+          "phonetic": "/ˈkʌrənt/",
+          "example": "We were rowing against the current.",
+          "exampleTranslation": "我们划船逆流而上。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4",
+      "description": "Words 61 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 61,
+          "word": "resistance",
+          "translation": "n. 反对，抵制；抵抗，反抗；抵抗力，免疫力；阻力；电阻；（敌占区的）秘密抵抗组织",
+          "phonetic": "/rɪˈzɪstəns/",
+          "example": "The defenders put up a strong resistance.",
+          "exampleTranslation": "保卫者进行了顽强的抵抗。"
+        },
+        {
+          "id": 62,
+          "word": "capacitance",
+          "translation": "n. [电] 电容；电流容量",
+          "phonetic": "/kəˈpæsɪtəns/",
+          "example": "Mutual capacitance: A layer of driving lines carries current.",
+          "exampleTranslation": "互电容 ：一层含有电流的驱动线路。"
+        },
+        {
+          "id": 63,
+          "word": "inductance",
+          "translation": "n. 电感；感应系数；自感应",
+          "phonetic": "/ɪnˈdʌktəns/",
+          "example": "An electrical device that introduces inductance into a circuit.",
+          "exampleTranslation": "把感应系数引入电路的电用装置。"
+        },
+        {
+          "id": 64,
+          "word": "impedance",
+          "translation": "n. [电] 阻抗",
+          "phonetic": "/ɪmˈpiːdns/",
+          "example": "Match impedance to long-cycle database administration.",
+          "exampleTranslation": "与长周期的数据库管理的匹配阻抗。"
+        },
+        {
+          "id": 65,
+          "word": "circuit",
+          "translation": "n. 电路，回路；巡回活动，巡回地；环道，环线；巡回赛；赛车道；（英国）巡回审判区，巡回上诉法院；（一套）体操动作；统一经营的连锁剧院（或影院）；v. （绕……）环行",
+          "phonetic": "/ˈsɜːkɪt/",
+          "example": "Fewer workers are needed to solder circuit boards.",
+          "exampleTranslation": "焊接电路板需要较少的工人。"
+        },
+        {
+          "id": 66,
+          "word": "battery",
+          "translation": "n. 电池，蓄电池；一组，一系列；炮组，排炮；殴打罪；（棒球队的）投手和接球手；adj. 笼养的，层架式养殖的",
+          "phonetic": "/ˈbætri/",
+          "example": "I have a battery tester in my garage.",
+          "exampleTranslation": "我的车库里有台电池测试仪。"
+        },
+        {
+          "id": 67,
+          "word": "generator",
+          "translation": "n. 发电机；产生者；电力公司；母点，母线，母面",
+          "phonetic": "/ˈdʒenəreɪtə(r)/",
+          "example": "He brought it down, hooked it up, and we got the generator going.",
+          "exampleTranslation": "他把它放倒，连接好，然后我们让发电机开始运转。"
+        },
+        {
+          "id": 68,
+          "word": "motor",
+          "translation": "n. 发动机，马达；汽车，轿车；原动力；adj. 机动的；汽车的，车辆的；肌肉运动的，运动神经的；原动的，引起运动的；v. 乘车旅行，驾车旅行；使用发动机驾驶帆船；<非正式>快速移动，迅速增加；<英>用汽车运送",
+          "phonetic": "/ˈməʊtə(r)/",
+          "example": "He started the motor.",
+          "exampleTranslation": "他启动了发动机。"
+        },
+        {
+          "id": 69,
+          "word": "transformer",
+          "translation": "n. 变压器；促使改变的人（或物）；（计算机）转换器",
+          "phonetic": "/trænsˈfɔːmə(r)/",
+          "example": "I connected the wires for the transformer.",
+          "exampleTranslation": "我给变压器接上了电线。"
+        },
+        {
+          "id": 70,
+          "word": "magnetic",
+          "translation": "adj. 磁的，磁性的；磁化的；有吸引力的，有魅力的；（航向）根据磁北测定的",
+          "phonetic": "/mæɡˈnetɪk/",
+          "example": "The mineral is weakly magnetic.",
+          "exampleTranslation": "这种矿石有轻微的磁性。"
+        },
+        {
+          "id": 71,
+          "word": "electric",
+          "translation": "adj. 电的；令人激动的；电子扩音的；n. 电路系统；电气交通工具",
+          "phonetic": "/ɪˈlektrɪk/",
+          "example": "The electric will be off tomorrow.",
+          "exampleTranslation": "明天停电。"
+        },
+        {
+          "id": 72,
+          "word": "flux",
+          "translation": "n. 不断变化，波动；（血等体液的）流出，溢出；（物理）通量，能流；辐射（或粒子）通量；电通量，磁通量；焊剂，（助）熔剂；造渣；v. 用焊（或熔）剂处理；使熔融；【名】 （Flux）弗勒克斯（人名）",
+          "phonetic": "/flʌks/",
+          "example": "Our society is in a state of flux.",
+          "exampleTranslation": "我们的社会在不断演变。"
+        },
+        {
+          "id": 73,
+          "word": "spacetime",
+          "translation": "时空",
+          "phonetic": "/ˈspeɪstaɪm/",
+          "example": "In Einstein's theory, warped spacetime even affects light.",
+          "exampleTranslation": "在爱因斯坦的理论中，扭曲的时空甚至影响到光。"
+        },
+        {
+          "id": 74,
+          "word": "dimension",
+          "translation": "n. 大小，尺寸；（空间的）维度；范围，规模；方面，部分；v. 切削（或制作）成特定尺寸；标出尺寸",
+          "phonetic": "/daɪˈmenʃ(ə)n/",
+          "example": "You will open a new dimension to your life.",
+          "exampleTranslation": "你将为你的生活打开一个新的维度。"
+        },
+        {
+          "id": 75,
+          "word": "singularity",
+          "translation": "n. 奇特，奇怪；单一，独特；（数，物理）奇点",
+          "phonetic": "/ˌsɪŋɡjuˈlærəti/",
+          "example": "It would be wonderful to observe a singularity and obtain direct evidence of the undoubtedly bizarre phenomena that occur near one.",
+          "exampleTranslation": "如果能观察到一颗奇点，并获取关于奇点附近出现的可信的怪异现象的直接证据，那将非常好。"
+        },
+        {
+          "id": 76,
+          "word": "universe",
+          "translation": "n. 宇宙，天地万物（the universe）；领域，体系；（已知宇宙以外的）宇宙",
+          "phonetic": "/ˈjuːnɪvɜːs/",
+          "example": "The universe is slowly yielding up its secrets.",
+          "exampleTranslation": "宇宙慢慢地展现出它的秘密。"
+        },
+        {
+          "id": 77,
+          "word": "galaxy",
+          "translation": "n. 星系；银河，银河系（the Galaxy）；群英，人才荟萃",
+          "phonetic": "/ˈɡæləksi/",
+          "example": "The Galaxy consists of 100 billion stars.",
+          "exampleTranslation": "银河系由1千亿颗恒星组成。"
+        },
+        {
+          "id": 78,
+          "word": "nebula",
+          "translation": "n. 星云；角膜云翳",
+          "phonetic": "/ˈnebjələ/",
+          "example": "The size of the nebula at this stage is inversely proportional to its mass.",
+          "exampleTranslation": "这个阶段的星云大小与其质量成反比。"
+        },
+        {
+          "id": 79,
+          "word": "supernova",
+          "translation": "n. [天] 超新星",
+          "phonetic": "/ˈsuːpənəʊvə/",
+          "example": "At least one supernova occurs per decade in our galaxy.",
+          "exampleTranslation": "每十年至少有一颗超新星在我们的银河系中出现。"
+        },
+        {
+          "id": 80,
+          "word": "blackhole",
+          "translation": "n. 黑洞；无底洞，空洞；vt. 重新定向（网络流量）",
+          "phonetic": "",
+          "example": "Media BlackHole: So Much News That We'll Implode?",
+          "exampleTranslation": "媒体黑洞：如此多的新闻会让我们“内爆”吗？"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5",
+      "description": "Words 81 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 81,
+          "word": "quasar",
+          "translation": "n. [天] 类星体；恒星状球体",
+          "phonetic": "/ˈkweɪzɑː(r)/",
+          "example": "That is what makes a quasar.",
+          "exampleTranslation": "那就是，究竟是什么造就了一个类星体。"
+        },
+        {
+          "id": 82,
+          "word": "pulsar",
+          "translation": "n. 脉冲星",
+          "phonetic": "/ˈpʌlsɑː(r)/",
+          "example": "The Crab Pulsar is slowing down.",
+          "exampleTranslation": "蟹状星云脉冲星变慢。"
+        },
+        {
+          "id": 83,
+          "word": "orbit",
+          "translation": "n. （环绕地球、太阳等运行的）轨道；势力范围，影响范围；眼眶，眼窝；v. 沿轨道运行，环绕……运行；使（卫星）进入轨道",
+          "phonetic": "/ˈɔːbɪt/",
+          "example": "The two spacecraft will link up in orbit.",
+          "exampleTranslation": "两艘宇宙飞船将在轨道上对接。"
+        },
+        {
+          "id": 84,
+          "word": "satellite",
+          "translation": "n. 卫星；人造卫星；卫星国，附属国；卫星城镇，卫星郊区；卫星电视；随体DNA；adj. 卫星传送的，使用卫星技术的",
+          "phonetic": "/ˈsætəlaɪt/",
+          "example": "The moon is a satellite of earth.",
+          "exampleTranslation": "月球是地球的卫星。"
+        },
+        {
+          "id": 85,
+          "word": "trajectory",
+          "translation": "n. （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；（几何）常角轨道，轨线",
+          "phonetic": "/trəˈdʒektəri/",
+          "example": "Most of all it was the extraordinary trajectory of his life.",
+          "exampleTranslation": "但最重要的是他非凡的人生轨迹。"
+        },
+        {
+          "id": 86,
+          "word": "projectile",
+          "translation": "n. 炮弹；抛射体；自动推进武器；adj. 可抛射物体的；供抛射用的；（触角等）能伸出的",
+          "phonetic": "/prəˈdʒektaɪl/",
+          "example": "Therefore, it is unlikely that the projectile launched was a satellite.",
+          "exampleTranslation": "因此，这个发射并不像是一个卫星。"
+        },
+        {
+          "id": 87,
+          "word": "buoyancy",
+          "translation": "n. 浮力；轻快；轻松的心情；（股票）保持高价或回升",
+          "phonetic": "/ˈbɔɪənsi/",
+          "example": "Air can be pumped into the diving suit to increase buoyancy.",
+          "exampleTranslation": "可以往潜水衣中打气增加浮力。"
+        },
+        {
+          "id": 88,
+          "word": "density",
+          "translation": "n. 稠密，密集；密度",
+          "phonetic": "/ˈdensəti/",
+          "example": "The region has a very high population density.",
+          "exampleTranslation": "这一地区人口密度很高。"
+        },
+        {
+          "id": 89,
+          "word": "pressure",
+          "translation": "n. 压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压；v. 对……施加压力，强迫；使……增压",
+          "phonetic": "/ˈpreʃə(r)/",
+          "example": "Can you work under pressure?",
+          "exampleTranslation": "你能在压力下工作吗？"
+        },
+        {
+          "id": 90,
+          "word": "tension",
+          "translation": "n. 紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；（电线、绳子、肌肉等的）拉紧，绷紧；拉力，张力；（电影、书籍中的）紧张情绪，恐怖气氛；（编织的）针织密度；电压；v. 使拉紧，使紧张",
+          "phonetic": "/ˈtenʃ(ə)n/",
+          "example": "For several hours, tension mounted.",
+          "exampleTranslation": "几个小时中，紧张局势加剧了。"
+        },
+        {
+          "id": 91,
+          "word": "compression",
+          "translation": "n. 压紧，压缩",
+          "phonetic": "/kəmˈpreʃ(ə)n/",
+          "example": "The compression of the wood is easily achieved.",
+          "exampleTranslation": "木材压缩容易实现。"
+        },
+        {
+          "id": 92,
+          "word": "stress",
+          "translation": "n. 精神压力，紧张；压力，应力；强调，重要性；（单词）重音，重读，（音乐）加强音；压强；环境恶劣引起的疾病；v. 强调，着重；重读；焦虑，紧张；使受压力，使受重压；【名】 （Stress）（意）斯特雷斯 （人名）",
+          "phonetic": "/stres/",
+          "example": "It's vital to zap stress fast.",
+          "exampleTranslation": "快速消除压力非常重要。"
+        },
+        {
+          "id": 93,
+          "word": "strain",
+          "translation": "n. 焦虑，紧张；负担，紧张；张力，压力；损伤，扭伤；品种，类型；气质，个性特点；旋律，曲调；口吻，语气；（物理）应变，胁变；血缘；困难，负担；v. 拉伤，扭伤；绷紧，用力拉；竭力，使劲；过滤；使不堪忍受，使紧张；用力推（或拉），拉紧；【名】 （Strain）（英）斯特兰（人名）",
+          "phonetic": "/streɪn/",
+          "example": "The rope broke under the strain.",
+          "exampleTranslation": "绳子给拉断了。"
+        },
+        {
+          "id": 94,
+          "word": "elasticity",
+          "translation": "n. 弹性，弹力；灵活性",
+          "phonetic": "/ˌiːlæˈstɪsəti/",
+          "example": "Daily facial exercises help to retain the skin's elasticity.",
+          "exampleTranslation": "每日的面部运动有助于保持皮肤弹性。"
+        },
+        {
+          "id": 95,
+          "word": "plasticity",
+          "translation": "n. 塑性，可塑性；适应性；柔软性",
+          "phonetic": "/plæˈstɪsəti/",
+          "example": "\"Plasticity has become an industry of its own,\" he wrote in his May paper.",
+          "exampleTranslation": "他在自己5月份的一篇论文中写道：“可塑性自身已成为一个领域。”"
+        },
+        {
+          "id": 96,
+          "word": "viscosity",
+          "translation": "n. 黏性；黏度",
+          "phonetic": "/vɪˈskɒsəti/",
+          "example": "Synthesize polytrimethylene terephthalate with higher characteristic viscosity and nucleating agent.",
+          "exampleTranslation": "采用具有较高特性黏度、含成核剂的聚对苯二甲酸丙二醇酯（PTT）。"
+        },
+        {
+          "id": 97,
+          "word": "dynamics",
+          "translation": "n. 动力学，力学；动力；（乐曲的）力度变化；（团体或体系内部的）变革动力",
+          "phonetic": "/daɪˈnæmɪks/",
+          "example": "I don't think he understood the dynamics of how the police and the city administration relate.",
+          "exampleTranslation": "我认为他不理解警方与市政部门如何发生联系的动态原理。"
+        },
+        {
+          "id": 98,
+          "word": "statics",
+          "translation": "n. [力] 静力学",
+          "phonetic": "/ˈstætɪks/",
+          "example": "Spencer's 1850 book \"Social Statics\" shows Comtean as well as Victorian concern for social order.",
+          "exampleTranslation": "斯宾塞1850年的著作《社会静力学》展现了康提式以及维多利亚式的对社会秩序的关注。"
+        },
+        {
+          "id": 99,
+          "word": "kinetics",
+          "translation": "n. 反应动力学；动力学；运动学",
+          "phonetic": "/kɪˈnetɪks; kaɪˈnetɪks/",
+          "example": "Thermal Decomposition reaction kinetics of cerium carbonate was investigated with Netzsch thermal analyzer.",
+          "exampleTranslation": "利用德国耐驰综合热分析仪对碳酸铈分解过程动力学进行了研究。"
+        },
+        {
+          "id": 100,
+          "word": "work",
+          "translation": "n. 工作，职业；劳动，活计；职责，工作内容；作品，著作；工作成果，作为；工作地点，工作时间；工作所需的材料（或档案等）；（机器的）活动部件（the works）；<非正式>所有东西，全套物品（the works）；土木工程，建筑（works）；工厂（works）；善行，德行（works）；防御工事；（物理学）功；<非正式>整形手术；v. 工作，干活儿；从事体力（或脑力）劳动；从事……工作，在……工作；努力取得，力争；运转，运行；开动，操作（机器、装置等）；奏效，成功；产生……作用；（使）变成，逐步移动；（使）（身体某部位）抽动；（用某种材料）画画，创作；使成形，加工；博得，赢得（众人的支持或欢心）；<美>计算，算出；思考，动脑筋；以（某种假定或思想）为基础（或前提）；<非正式>安排；耕种；开采（矿）；adj. 工作的，与工作有关的；适合工作时穿戴的；用于工作的；【名】 （Work）（英、埃塞、丹、冰、美）沃克（人名）",
+          "phonetic": "/wɜːk/",
+          "example": "They work terrifically fast.",
+          "exampleTranslation": "他们工作极快。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6",
+      "description": "Words 101 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 101,
+          "word": "energy",
+          "translation": "n. 能力，力气；精力，活力；能源；能，能量",
+          "phonetic": "/ˈenədʒi/",
+          "example": "She's always full of energy.",
+          "exampleTranslation": "她总是充满活力。"
+        },
+        {
+          "id": 102,
+          "word": "power",
+          "translation": "n. 控制力，操控力；政权，统治；权力，职权；强国，大国；有影响力的人（或组织）；能力，本领；支配力，实力；（某事物或社会集团的）影响力，势力；力量，体能；能量，电力；动力，功率；幂，乘方，指数；放大率；神灵，神力；（基督教）掌权天使（powers）；（旨在提升某群体地位的）权力运动；v. 驱动，推动（机器或车辆）；（使）迅猛移动，快速前进；猛力踢（或推、顶）（尤指球）；adj. 电力的，电动的；强大的；有重要人士参与的；（服装）礼服的，显示权势的",
+          "phonetic": "/ˈpaʊə(r)/",
+          "example": "The kingdom's power declined.",
+          "exampleTranslation": "王国的势力衰落了。"
+        },
+        {
+          "id": 103,
+          "word": "conservative",
+          "translation": "adj. 保守的；保守派的，保守主义的（认为政府应该实行政治保守主义）；（衣着）守旧的，传统的；低估的；保守党的；不愿冒险的，谨慎的；n. 保守者，因循守旧者；保守党党员，保守党支持者",
+          "phonetic": "/kənˈsɜːvətɪv/",
+          "example": "Her style of dress was never conservative.",
+          "exampleTranslation": "她的服装式样一点儿也不保守。"
+        },
+        {
+          "id": 104,
+          "word": "potential",
+          "translation": "adj. 潜在的，可能的；n. （事物的）潜力，可能性；（人的）潜能，潜力；电势，电位，电压",
+          "phonetic": "/pəˈtenʃ(ə)l/",
+          "example": "Their potential is unrealized.",
+          "exampleTranslation": "他们没有发挥出潜力。"
+        },
+        {
+          "id": 105,
+          "word": "kinetic",
+          "translation": "adj. [力] 运动的；活跃的",
+          "phonetic": "/kɪˈnetɪk/",
+          "example": "We apply the kinetic analysis to investigate the role of the intersystem crossing.",
+          "exampleTranslation": "我们应用动力学分析来研究系统间交叉的作用。"
+        },
+        {
+          "id": 106,
+          "word": "mechanical",
+          "translation": "adj. 机械（方面）的；机械般的，呆板的；精通机械的；机械学的，力学的；独家灌录权的；n. 技工，机修工；劳工，工匠",
+          "phonetic": "/məˈkænɪkl/",
+          "example": "The breakdown was due to a mechanical failure.",
+          "exampleTranslation": "抛锚是机械故障造成的。"
+        },
+        {
+          "id": 107,
+          "word": "thermal",
+          "translation": "adj. 热的，热量的；（衣服）保暖的，御寒的；（水）天然温热的；地热的，地温的（同 geothermal）；n. 上升的热气流；保暖衣服，保暖内衣（thermals）； 上升的热气流",
+          "phonetic": "/ˈθɜːm(ə)l/",
+          "example": "He was found by a police helicopter using thermal imaging equipment.",
+          "exampleTranslation": "他被一架警用直升飞机用热成像设备找到了。"
+        },
+        {
+          "id": 108,
+          "word": "internal",
+          "translation": "adj. 内部的，体内的；内政的，国内的；本身的，本质的；内心的；<英>（大学生）本校生的；n. 内部部件，内部特征；内脏",
+          "phonetic": "/ɪnˈtɜːn(ə)l/",
+          "example": "The medicine is not for internal use.",
+          "exampleTranslation": "这种药不可内服。"
+        },
+        {
+          "id": 109,
+          "word": "enthalpy",
+          "translation": "n. [热] 焓；[热] 热函；热含量",
+          "phonetic": "/ˈenθælpɪ; ˈenθəlpɪ/",
+          "example": "Something I can measure and I can tabulate, and when I turn my dT knob, I know what's going to happen to the enthalpy.",
+          "exampleTranslation": "我可以测量它并制成表格，当我转动 dT 旋钮，我就知道焓的变化了。"
+        },
+        {
+          "id": 110,
+          "word": "free",
+          "translation": "adj. 免费的；自由的；随心所欲的；不含..…的；免于，不遭受；空闲的；未使用的，空着的；无阻碍的；不拘泥于原文的；游离的；不吝惜的；干净整洁的；不含……的；（风）顺的；adv. 自由地；免费地；帆脚索被松开地；v. 释放；使解脱出来；使免于；使可用于；使能腾出时间；n. <英，非正式>自由转会；【名】 （Free）（英）弗里（人名）",
+          "phonetic": "/friː/",
+          "example": "Sterling went into free fall.",
+          "exampleTranslation": "英镑陷入了自由跌落。"
+        },
+        {
+          "id": 111,
+          "word": "gibbs",
+          "translation": "n. 吉布斯（姓氏）",
+          "phonetic": "/ɡɪbz/",
+          "example": "Gibbs was arrested in the early hours of yesterday morning.",
+          "exampleTranslation": "吉布斯在昨天凌晨被捕。"
+        },
+        {
+          "id": 112,
+          "word": "helmholtz",
+          "translation": "n. 亥姆霍兹（德国生理学家，物理学家及解剖学家）",
+          "phonetic": "",
+          "example": "It's called the Gibbs-Helmholtz equation.",
+          "exampleTranslation": "就是吉布斯-亥姆霍兹方程。"
+        },
+        {
+          "id": 113,
+          "word": "temperature",
+          "translation": "n. 温度，气温；体温；发烧；热烈程度，情绪激烈程度",
+          "phonetic": "/ˈtemprətʃə(r)/",
+          "example": "Her temperature is normal.",
+          "exampleTranslation": "她的体温正常。"
+        },
+        {
+          "id": 114,
+          "word": "heat",
+          "translation": "n. 热能，热量；炎热，高温；（做饭的）热源，热度；辣味；愤怒，激动；压力，逼迫；暖气；预赛；（尤指在熔炉中熔炼金属时的）单次熔炼；v. <古>激起，使激动；加热，使变暖",
+          "phonetic": "/hiːt/",
+          "example": "Heat the butter until it browns.",
+          "exampleTranslation": "把黄油加热，使之呈棕色。"
+        },
+        {
+          "id": 115,
+          "word": "specific",
+          "translation": "adj. 明确的，具体的；特定的；特有的，独特的；有特殊功能的，有特效的；（生物）种的；（关税，税）按数量（根据固定税率）征取而非按货价征取的；（物理）（与参照物同一性质成）比率的；n. 细节，详情；特效药",
+          "phonetic": "/spəˈsɪfɪk/",
+          "example": "I gave you specific instructions.",
+          "exampleTranslation": "我给过你明确的指示。"
+        },
+        {
+          "id": 116,
+          "word": "capacity",
+          "translation": "n. 能力，才能；容积，容纳能力；职位，职责；功率，容积；生产量，生产能力；adj. 无虚席的，满场的",
+          "phonetic": "/kəˈpæsəti/",
+          "example": "Human beings have an infinite capacity for self-deception.",
+          "exampleTranslation": "人类自欺的能力是无穷尽的。"
+        },
+        {
+          "id": 117,
+          "word": "latent",
+          "translation": "adj. （性质，状态）潜在的，隐藏的；（芽、静止期等）休眠的，潜伏的；（微生物，尤指病毒）蛰伏的；（疾病）潜伏的",
+          "phonetic": "/ˈleɪt(ə)nt/",
+          "example": "These children have a huge reserve of latent talent.",
+          "exampleTranslation": "这些孩子蕴藏着极大的潜在天赋。"
+        },
+        {
+          "id": 118,
+          "word": "blackbody",
+          "translation": "n. 黑体（全部吸收辐射能的物体）",
+          "phonetic": "/ˈblækbɒdi/",
+          "example": "How does the blackbody spectrum of the sun compare to visible light?",
+          "exampleTranslation": "和可见光对比，太阳的黑体光谱是怎样的？"
+        },
+        {
+          "id": 119,
+          "word": "stefan",
+          "translation": "n. 斯蒂芬（男子名）",
+          "phonetic": "",
+          "example": "Stefan appreciated respect for the past.",
+          "exampleTranslation": "斯坦凡欣赏对历史的尊重。"
+        },
+        {
+          "id": 120,
+          "word": "boltzmann",
+          "translation": "n. （Boltzmann）（德、奥）波尔兹曼（人名）",
+          "phonetic": "",
+          "example": "This is called the Boltzmann equation.",
+          "exampleTranslation": "它就是玻尔兹曼公式。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7",
+      "description": "Words 121 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 121,
+          "word": "wiens",
+          "translation": "n. 维也纳（奥地利首都）",
+          "phonetic": "/viːn/",
+          "example": "“That’s a big question now: What’s keeping the other frogs from developing real teeth on the lower jaw?” Dr. Wiens said.",
+          "exampleTranslation": "恩斯博士说：“那是个大问题：什么才能促使其他蛙类在下颌继续长出正真的牙齿呢？”"
+        },
+        {
+          "id": 122,
+          "word": "displacement",
+          "translation": "n. 被迫迁徙，流亡；取代，代替； 排水量；情感转移；电位移",
+          "phonetic": "/dɪsˈpleɪsmənt/",
+          "example": "This is because, according to Archimedes' principle of displacement, floating objects displace their own weight in water.",
+          "exampleTranslation": "这是因为，根据阿基米德的位移原理，漂浮物在水中会转移自身的重量。"
+        },
+        {
+          "id": 123,
+          "word": "planck",
+          "translation": "n. 普朗克（德国物理学家）",
+          "phonetic": "/plɑːŋk/",
+          "example": "You can see that many scientists are good at playing music: Einstein played the violin, and German physicist Max Planck was talented in playing the piano.",
+          "exampleTranslation": "你可以看到很多科学家都擅长演奏音乐：爱因斯坦会拉小提琴，德国物理学家马克斯·普朗克在弹钢琴方面很有天赋。"
+        },
+        {
+          "id": 124,
+          "word": "photoelectric",
+          "translation": "adj. [电子] 光电的",
+          "phonetic": "/ˌfəʊtəʊɪˈlektrɪk/",
+          "example": "So, starting back with the photoelectric effect -- yes.",
+          "exampleTranslation": "好了，开始光电效应的话题，好。"
+        },
+        {
+          "id": 125,
+          "word": "compton",
+          "translation": "n. 康普顿（姓氏，美国城市）",
+          "phonetic": "/ˈkɒmptən/",
+          "example": "Compton was sending the ball here, there, and everywhere with each stroke.",
+          "exampleTranslation": "康普顿把球发到这儿，发到那儿，每一次击球都打到不同地方。"
+        },
+        {
+          "id": 126,
+          "word": "scattering",
+          "translation": "n. 散射；分散；adj. 分散的；v. 散射；散布；驱散（scatter 的 ing 形式）",
+          "phonetic": "/ˈskætərɪŋ/",
+          "example": "Transparent animals use different tricks to fight scattering.",
+          "exampleTranslation": "透明生物使用不同的技巧以对抗光的散射作用。"
+        },
+        {
+          "id": 128,
+          "word": "heisenberg",
+          "translation": "n. 海森堡（德国物理学家）",
+          "phonetic": "/ˈhaɪzənbɜːɡ/",
+          "example": "Heisenberg continued to work on it.",
+          "exampleTranslation": "海森堡也在继续这个工作。"
+        },
+        {
+          "id": 129,
+          "word": "uncertainty",
+          "translation": "n.  犹豫，无把握；拿不定的事，令人无把握的局面；紧张不安",
+          "phonetic": "/ʌnˈsɜːt(ə)nti/",
+          "example": "It was a time of terrible uncertainty.",
+          "exampleTranslation": "那是一段非常不确定的时期。"
+        },
+        {
+          "id": 130,
+          "word": "schrodinger",
+          "translation": "薛定谔；n. （Schrodinger）人名；（英、德）施罗丁格",
+          "phonetic": "",
+          "example": "That's what we're going to cover in terms of the energy portion of the Schrodinger equation.",
+          "exampleTranslation": "这就是我们要讨论的关于薛定谔方程的能量部分。"
+        },
+        {
+          "id": 131,
+          "word": "equation",
+          "translation": "n. 等式，方程（式）；等同（看待）；（必须考虑多种因素的）复杂局面（或问题）",
+          "phonetic": "/ɪˈkweɪʒ(ə)n/",
+          "example": "X and Y in the equation are both unknowns.",
+          "exampleTranslation": "等式中的X和Y都是未知数。"
+        },
+        {
+          "id": 132,
+          "word": "wavefunction",
+          "translation": "波函数",
+          "phonetic": "",
+          "example": "And the solution to this equation looks like this where it is written in terms of a quantity called a wavefunction.",
+          "exampleTranslation": "这个方程的解法是，看起来像是写成数学符号就是，波函数。"
+        },
+        {
+          "id": 133,
+          "word": "probability",
+          "translation": "n. 可能性，或然性；可能发生的事，可能真实的事；（数）概率，几率",
+          "phonetic": "/ˌprɒbəˈbɪləti/",
+          "example": "There seemed to be a high probability of success.",
+          "exampleTranslation": "成功的几率似乎很高。"
+        },
+        {
+          "id": 134,
+          "word": "superposition",
+          "translation": "n. [数] 叠加，重合",
+          "phonetic": "/ˌsuːpəpəˈzɪʃn; ˌsjuːpəpəˈzɪʃn/",
+          "example": "In this example, we exploited the quantum mechanics principle of superposition.",
+          "exampleTranslation": "在本例中，我们利用了量子力学的叠加原理。"
+        },
+        {
+          "id": 135,
+          "word": "entanglement",
+          "translation": "n. 纠缠；铁丝网；缠绕物；牵连",
+          "phonetic": "/ɪnˈtæŋɡlmənt/",
+          "example": "Many dolphins are accidentally killed through entanglement with fishing equipment.",
+          "exampleTranslation": "很多海豚因捕鱼设备的缠绕而意外死亡。"
+        },
+        {
+          "id": 136,
+          "word": "tunneling",
+          "translation": "n. 隧道效应；开挖隧道；v. 挖隧道（tunnel 的现在分词）",
+          "phonetic": "/ˈtʌn(ə)lɪŋ/",
+          "example": "Be sure to use SSH tunneling (extssh).",
+          "exampleTranslation": "请确保使用ssh隧道(extssh)。"
+        },
+        {
+          "id": 137,
+          "word": "spin",
+          "translation": "v. （使）快速旋转；（使）急转身；（头感到）眩晕；纺纱，纺织；飞驰，疾驰；编故事；有倾向性地陈述；（用甩干机或洗衣机）甩干（衣服）；（昆虫）吐（丝），结（网）；（用旋式诱饵）钓鱼；播放（唱片）；抛（硬币）；（球）旋转；（用车床将金属薄板）旋压成形；n. 高速旋转；兜风；带倾向性的解释（或说法）；（政治上的）倾向性报道；（尤指板球、网球、斯诺克球中的）旋转球；（飞机的）旋冲，螺旋下降；晕头转向，焦虑不安；（物理）核素总角动量",
+          "phonetic": "/spɪn/",
+          "example": "She puts a lot of spin on the ball.",
+          "exampleTranslation": "她打出的球旋转得很厉害。"
+        },
+        {
+          "id": 138,
+          "word": "pauli",
+          "translation": "n. （Pauli）泡利（奥地利理论物理学家）；n. （Pauli）（美、德、丹）保利（人名）",
+          "phonetic": "/ˈpɔːli; ˈpaʊli/",
+          "example": "Pauli says no two electrons in a given system can have the entire set of quantum numbers identical.",
+          "exampleTranslation": "泡利说在一个给定的系统内，没有两个电子有完全相同的量子数。"
+        },
+        {
+          "id": 139,
+          "word": "exclusion",
+          "translation": "n. 排斥，排除在外；被排除在外的人（或事物）；认为不可能；（合约中的）除外事项；<英>开除学籍",
+          "phonetic": "/ɪkˈskluːʒ(ə)n/",
+          "example": "Exclusion of air creates a vacuum in the bottle.",
+          "exampleTranslation": "瓶子里的空气排除后就产生真空。"
+        },
+        {
+          "id": 140,
+          "word": "principle",
+          "translation": "n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素",
+          "phonetic": "/ˈprɪnsəp(ə)l/",
+          "example": "It's not just a matter of principle.",
+          "exampleTranslation": "这不仅仅是个原则问题。"
+        },
+        {
+          "id": 141,
+          "word": "bose",
+          "translation": "n. （Bose）（印、美）博塞（人名）",
+          "phonetic": "/bəʊs/",
+          "example": "Many carmakers then offer pricey upgrades, such as a Bose sound system.",
+          "exampleTranslation": "许多汽车制造商会提供价格不菲的升级配件，例如BOSE音响系统。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8",
+      "description": "Words 141 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 142,
+          "word": "einstein",
+          "translation": "n. 爱因斯坦（著名物理学家）",
+          "phonetic": "/ˈaɪnstaɪn /",
+          "example": "Einstein had the chutzpah to discard long-established theory.",
+          "exampleTranslation": "爱因斯坦拥有抛弃早已既定的理论之胆识。"
+        },
+        {
+          "id": 143,
+          "word": "condensate",
+          "translation": "n. 冷凝物；浓缩物；adj. 浓缩的",
+          "phonetic": "/kənˈdenseɪt/",
+          "example": "Death's the way condensate tears in their eyes.",
+          "exampleTranslation": "死亡的，在他们眼中的方式冷凝泪水。"
+        },
+        {
+          "id": 144,
+          "word": "superconductivity",
+          "translation": "n. 超导电性",
+          "phonetic": "/ˌsuːpəˌkɒndʌkˈtɪvəti; ˌsjuːpəˌkɒndʌkˈtɪvəti/",
+          "example": "John Bardeen was also co-developer of the theory of superconductivity.",
+          "exampleTranslation": "约翰·巴丁也是超导理论的共同发展人。"
+        },
+        {
+          "id": 145,
+          "word": "superfluidity",
+          "translation": "n. [低温] 超流动性；超流态",
+          "phonetic": "/suːpəfluːˈɪdɪtɪ; sjuː-/",
+          "example": "Scientists have accumulated indirect evidence for such pairing and superfluidity.",
+          "exampleTranslation": "科学家们已经推测出了这种成对现象和超流现象的间接证据。"
+        },
+        {
+          "id": 146,
+          "word": "magnetism",
+          "translation": "n. 磁性，磁力；磁学；吸引力",
+          "phonetic": "/ˈmæɡnətɪzəm/",
+          "example": "There is some powerful magnetism attached to a Scorpio.",
+          "exampleTranslation": "天蝎座有强大的吸引力。"
+        },
+        {
+          "id": 147,
+          "word": "diamagnetism",
+          "translation": "n. 反磁性；逆磁性；反磁性学",
+          "phonetic": "/ˌdaɪəˈmæɡnɪˌtɪzəm/",
+          "example": "Perfect diamagnetism was found in 1933.",
+          "exampleTranslation": "完全抗磁性是在1933年发现的。"
+        },
+        {
+          "id": 148,
+          "word": "paramagnetism",
+          "translation": "n. [物] 顺磁性；常磁性",
+          "phonetic": "/ˌpærəˈmæɡnɪˌtɪzəm/",
+          "example": "And so what happens is the result is paramagnetism.",
+          "exampleTranslation": "产生的结果就是顺磁性。"
+        },
+        {
+          "id": 149,
+          "word": "ferromagnetism",
+          "translation": "n. [物] 铁磁性",
+          "phonetic": "/ˌferəʊˈmæɡnɪˌtɪzəm/",
+          "example": "The physical origin of the ferromagnetism and antiferromagnetism was explained.",
+          "exampleTranslation": "对材料产生铁磁性和反铁磁性的物理根源进行解释。"
+        },
+        {
+          "id": 150,
+          "word": "antiferromagnetism",
+          "translation": "n. [物] 反铁磁性",
+          "phonetic": "/ˌæntɪˌferəʊˈmæɡnɪˌtɪzəm/",
+          "example": "The physical origin of the ferromagnetism and antiferromagnetism was explained.",
+          "exampleTranslation": "对材料产生铁磁性和反铁磁性的物理根源进行解释。"
+        },
+        {
+          "id": 151,
+          "word": "ferrimagnetism",
+          "translation": "n. [物] 铁氧体磁性",
+          "phonetic": "/ˌferɪmæɡˈnɪtɪzəm/",
+          "example": "With increasing temperature, the samples undergo a transition from ferrimagnetism to paramagnetism.",
+          "exampleTranslation": "随温度升高，样品由亚铁磁性逐渐过渡到顺磁性。"
+        },
+        {
+          "id": 152,
+          "word": "domain",
+          "translation": "n. 领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产；【名】 （Domain）（英、法）多曼（人名）",
+          "phonetic": "/dəˈmeɪn/",
+          "example": "Physics used to be very much a male domain.",
+          "exampleTranslation": "物理学曾在很大程度上是男人的领域。"
+        },
+        {
+          "id": 153,
+          "word": "hysteresis",
+          "translation": "n. 滞后现象：在物理学、工程学等领域中，指一个系统在受到外部影响时，其响应与影响之间存在时间或状态的滞后。",
+          "phonetic": "/ˌhɪstəˈriːsɪs/",
+          "example": "The substance is then said to exhibit hysteresis .",
+          "exampleTranslation": "因此人们说这类物质出现滞后现象。"
+        },
+        {
+          "id": 154,
+          "word": "curie",
+          "translation": "n. [核]居里（姓氏）",
+          "phonetic": "/ˈkjʊəri/",
+          "example": "Irene Curie was born on September 12, 1897.",
+          "exampleTranslation": "艾琳·居里出生于1897年9月12日。"
+        },
+        {
+          "id": 155,
+          "word": "coulomb",
+          "translation": "n. 库仑（电量单位）；n. （Coulomb）人名；（法）库仑",
+          "phonetic": "/ˈkuːlɒm/",
+          "example": "What is the unit of charge in SI? Coulomb.",
+          "exampleTranslation": "国际单位制中的电荷单位是什么，库仑。"
+        },
+        {
+          "id": 156,
+          "word": "law",
+          "translation": "n. 法律（体系）；法令，法规；规律，法则，定律；法学，法律学；司法界，律师业；（道德或宗教上的）准则，守则；警方，警察；v. 起诉，控告；【名】 （Law）（英、缅、柬）劳（人名）",
+          "phonetic": "/lɔː/",
+          "example": "Motorists regularly flout the law.",
+          "exampleTranslation": "驾车者经常无视法律。"
+        },
+        {
+          "id": 157,
+          "word": "field",
+          "translation": "n. 田地，田野；专业，领域；现场，实地；体育场；全体参赛者；矿场，油田；战场；视野；（物理）场；信息栏，字段；外场员，防守队；盾面，底；v. 组建，派出；担任守方；接（球），守（球）；处理，应付（问题或电话）；adj. 实地的，野外的；（军事装备）轻便机动的，战役用的；（比赛）田赛的；【名】 （Field）（英、法、德、葡）菲尔德（人名）",
+          "phonetic": "/fiːld/",
+          "example": "He is an innovator in this field.",
+          "exampleTranslation": "他是这个领域的革新者。"
+        },
+        {
+          "id": 158,
+          "word": "gauss",
+          "translation": "n. [电磁]高斯（磁感应或磁场的单位）；n. （Gauss）人名；（英、德、西）[电磁]高斯",
+          "phonetic": "/ɡaʊs/",
+          "example": "The implement of Fourierism-Gauss spectrum analysis is the embedded programmer.",
+          "exampleTranslation": "傅高解谱技术的执行，是一个嵌入式的开发过程。"
+        },
+        {
+          "id": 159,
+          "word": "ampere",
+          "translation": "n. 安培（计算电流强度的标准单位）",
+          "phonetic": "/ˈæmpeə(r)/",
+          "example": "Megavolt Ampere of transformation capacity achieved the target of 75,000 MVA.",
+          "exampleTranslation": "新增变电能力完成了75000兆伏安的目标。"
+        },
+        {
+          "id": 160,
+          "word": "faraday",
+          "translation": "n. 法拉第（电量单位）",
+          "phonetic": "/ˈfærədei/",
+          "example": "But Faraday cages can be costly.",
+          "exampleTranslation": "但是法拉第笼很烧钱。"
+        },
+        {
+          "id": 161,
+          "word": "induction",
+          "translation": "n. 就职，就职仪式；<美>征召入伍；导致，引导；引产，催生；归纳，归纳法；电磁感应；（内燃机）进气，吸气",
+          "phonetic": "/ɪnˈdʌkʃ(ə)n/",
+          "example": "Callus induction and redifferentiation of black chokeberry leaf in vitro were studied.",
+          "exampleTranslation": "研究了黑苦莓叶片愈伤组织的诱导和再分化。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9",
+      "description": "Words 161 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 162,
+          "word": "lenz",
+          "translation": "n. 伦茨（姓氏）；楞茨定律",
+          "phonetic": "",
+          "example": "To conduct the study, Lawson and Lenz used data from two 2006 surveys of American voters.",
+          "exampleTranslation": "为了进行这项研究，罗森和楞兹使用了2006年两次美国民众调查数据。"
+        },
+        {
+          "id": 163,
+          "word": "maxwell",
+          "translation": "n. 麦克斯韦（磁通量单位）",
+          "phonetic": "/ˈmækswəl/",
+          "example": "Maxwell listened closely as Johnson laid out his plan.",
+          "exampleTranslation": "马克斯韦尔倾听约翰逊清晰地讲述他的计划。"
+        },
+        {
+          "id": 164,
+          "word": "equations",
+          "translation": "n. 方程式；等式；均等；均势（equation 的复数形式）",
+          "phonetic": "/ɪˈkweɪʒnz/",
+          "example": "Equations are generally written with an equal sign.",
+          "exampleTranslation": "等式通常用等号来写。"
+        },
+        {
+          "id": 165,
+          "word": "electromagnetic",
+          "translation": "adj. 电磁的",
+          "phonetic": "/ɪˌlektrəʊmæɡˈnetɪk/",
+          "example": "Callahan posits that chemical elements radiate electromagnetic signals.",
+          "exampleTranslation": "卡拉汉假定化学元素放射电磁信号。"
+        },
+        {
+          "id": 166,
+          "word": "wave",
+          "translation": "v. 挥手；挥手示意；挥舞，挥动；飘扬，摆动，摇晃；使（头发）略呈波形；（威胁地）举起（某物）；n. 海浪；大海（the waves）；（活动、行为的）爆发，浪潮；涌现的人（或物）；挥手；波，波状运动；（头发的）卷曲；波浪形；（地震、爆炸的）冲击波；人浪（the wave）",
+          "phonetic": "/weɪv/",
+          "example": "He dismissed her with an airy wave.",
+          "exampleTranslation": "他随意一挥手就把她打发走了。"
+        },
+        {
+          "id": 167,
+          "word": "radio",
+          "translation": "n. 收音机；无线电收发设备；无线电通讯；无线电广播节目；无线电广播事业；广播电台（或频道）；v. 用无线电通讯（或发送信息）；【名】 （Radio）（西）拉迪奥（人名）",
+          "phonetic": "/ˈreɪdiəʊ/",
+          "example": "He smashed the radio to pieces.",
+          "exampleTranslation": "他啪的一声把收音机摔得稀巴烂。"
+        },
+        {
+          "id": 168,
+          "word": "microwave",
+          "translation": "n. 微波炉；微波；v. 用微波炉烹调（或加热）",
+          "phonetic": "/ˈmaɪkrəweɪv/",
+          "example": "A microwave is a good investment.",
+          "exampleTranslation": "微波炉值得买。"
+        },
+        {
+          "id": 169,
+          "word": "infrared",
+          "translation": "adj. 红外线的；（设备，技术）使用红外的，涉及红外的；n. 红外区，红外线，红外辐射",
+          "phonetic": "/ˌɪnfrəˈred/",
+          "example": "Infrared detectors have many uses.",
+          "exampleTranslation": "红外探测器有多种用途。"
+        },
+        {
+          "id": 170,
+          "word": "visible",
+          "translation": "adj. 看得见的；明显的，引人注目的；（进出口贸易）有形商品的；（物理）（光）可见的；现有的，可得到的；n. 有形进出口货物（visibles）",
+          "phonetic": "/ˈvɪzəb(ə)l/",
+          "example": "The warning lights were clearly visible.",
+          "exampleTranslation": "警示灯清晰可见。"
+        },
+        {
+          "id": 171,
+          "word": "ultraviolet",
+          "translation": "adj. 紫外的，紫外线的；（设备，技术）产生紫外线的；n. 紫外光，紫外辐射",
+          "phonetic": "/ˌʌltrəˈvaɪələt/",
+          "example": "Exposure to ultraviolet light is closely linked to skin cancer.",
+          "exampleTranslation": "受紫外线照射与皮肤癌紧密相关。"
+        },
+        {
+          "id": 172,
+          "word": "xray",
+          "translation": "n. X 光",
+          "phonetic": "/ˈeksˌrei/",
+          "example": "It explicitly states that user Xray can only read.",
+          "exampleTranslation": "它明确地声明用户 Xray 只能读。"
+        },
+        {
+          "id": 173,
+          "word": "gamma",
+          "translation": "n. 希腊字母表的第3个字母；丙，γ项；（论文、成绩等）γ等，丙等；γ星（星座中第三颗星）；γ射线；伽马（磁场强度单位）；n. （Gamma）（美）贾马（人名）",
+          "phonetic": "/ˈɡæmə/",
+          "example": "We could only get a good look at the structure of the gears after gamma-rays were used to see inside, very similar to the way X-rays are used to see your bones.",
+          "exampleTranslation": "我们只有在用伽玛射线观察内部之后才能很好地了解齿轮的结构，这和用 X 射线看你的骨头非常相似。"
+        },
+        {
+          "id": 174,
+          "word": "ray",
+          "translation": "n. 光束，光线；（热、电或其他能源的）射线；一丝，一线（希望、慰藉等）；<非正式>（日光浴用语）阳光（rays）；半直线；长音阶第二音，C大调第二音；鳐，魟；辐射状东西；（菊科植物头状花序的）舌状花，（盘）边花；辐肋，鳍刺；（海星的）放射形口腕，辐腕；v. <文> 放射，射出（光线）；呈辐射状伸出，从中心四下延展；【名】 （Ray）雷（人名）",
+          "phonetic": "/reɪ/",
+          "example": "Ray was getting very hot and bothered about the idea.",
+          "exampleTranslation": "雷为这个想法感到焦虑不安。"
+        },
+        {
+          "id": 175,
+          "word": "optics",
+          "translation": "n. [光] 光学",
+          "phonetic": "/ˈɒptɪks/",
+          "example": "If such materials became generally available to the optics industry the payoffs from such a breakthrough would be enormous.",
+          "exampleTranslation": "如果此类材料能够普遍用于光学产业，这一突破带来的收益将是巨大的。"
+        },
+        {
+          "id": 176,
+          "word": "snell",
+          "translation": "n. 系钩线；adj. 精明的；敏捷的；n. （Snell）人名；（匈）什内尔；（英、德、芬、瑞典）斯内尔",
+          "phonetic": "/snel/",
+          "example": "Then Snell throws Siri a curveball: \"How about downtown?\"",
+          "exampleTranslation": "然后斯内尔绕起了弯子，“市中心怎么样？”"
+        },
+        {
+          "id": 177,
+          "word": "total",
+          "translation": "adj. 总的，全部的；完全的，绝对的；v. 总数达，总计；把……加起来；<美，非正式>彻底毁坏（汽车）；杀死，严重伤害（某人）；n. 总数，合计；【名】 （Total）（法、德）托塔尔（人名）",
+          "phonetic": "/ˈtəʊt(ə)l/",
+          "example": "Total recycling is a fiction.",
+          "exampleTranslation": "完全回收利用是假象。"
+        },
+        {
+          "id": 178,
+          "word": "young",
+          "translation": "adj. 幼小的，年轻的；存在不久的，新成立的；（显得）年轻的，（显得）岁数不大的；适合年轻人的；由年轻人（或儿童）构成的，青少年的，平均年龄小的；夭折的，早逝的；n. 年轻人（the young）；幼崽，雏鸟；【名】 （Young）（英、葡）扬，（柬）永，（中）杨，（广东话）威妥玛（人名）",
+          "phonetic": "/jʌŋ/",
+          "example": "He's a brilliant young scientist.",
+          "exampleTranslation": "他是一个才华横溢的青年科学家。"
+        },
+        {
+          "id": 179,
+          "word": "double",
+          "translation": "adj. 两倍的，双的；供两人用的；双重的；（花）重瓣的；（多米诺骨牌）两边点数相同的；低八度的；adv. 两倍地；v. 加倍；对折；击出二垒安打；兼任；握紧；兼奏，重复（一个音符）；n. 两倍，两倍量；酷似的人；替身演员；卧室；双打；双料冠军；一杯双份的烈酒；（掷镖游戏中的）得双倍分的一掷；（掷骰子游戏中的）两骰子点数相同的一掷；（赛马中的）复式下注；（棒球比赛中的）二垒打；det. 是……两倍；pron. 双倍数（或量）；【名】 （Double）（美）杜布勒（人名）",
+          "phonetic": "/ˈdʌb(ə)l/",
+          "example": "He earns double what she does.",
+          "exampleTranslation": "他挣的钱是她的两倍。"
+        },
+        {
+          "id": 180,
+          "word": "slit",
+          "translation": "n. 狭长的切口，狭缝；v. 划开，割开；撕开（某物），使成长条；使（眼睛）眯成一道缝，眯起眼睛",
+          "phonetic": "/slɪt/",
+          "example": "She watched them through a slit in the curtains.",
+          "exampleTranslation": "她透过窗帘的缝隙注视着他们。"
+        },
+        {
+          "id": 181,
+          "word": "birefringence",
+          "translation": "n. [光] 双折射",
+          "phonetic": "/ˌbaɪrɪˈfrɪndʒəns/",
+          "example": "Photic birefringence effect of magnetic fluid in magnetic field.",
+          "exampleTranslation": "磁流体磁光特性的研究及其应用。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chapter 10",
+      "description": "Words 181 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 182,
+          "word": "laser",
+          "translation": "n. 激光（器）；v. 使用激光器；【名】 （Laser）（德）拉泽（人名）",
+          "phonetic": "/ˈleɪzə(r)/",
+          "example": "She's had laser surgery on her eye.",
+          "exampleTranslation": "她做了眼部激光手术。"
+        },
+        {
+          "id": 183,
+          "word": "holography",
+          "translation": "n. 全息术；全息摄影；[摄][激光] 全息照相术",
+          "phonetic": "/hɒˈlɒɡrəfi/",
+          "example": "An alternative approach to creating 3-d images is based on holography.",
+          "exampleTranslation": "还有一种制造3d效果的方法是全息图像。"
+        },
+        {
+          "id": 184,
+          "word": "special",
+          "translation": "adj. 特殊的，特别的；格外看重的，特别要好的；专门的，特设的；特有的，独具特色的；格外的，分外的；（主题）研究深入的；（数）特殊（矩阵）的；n. 特色菜；特别节目；特价商品，折扣商品；特派员，临时警察，特约记者；专车；【名】 （Special）（印、美、俄）史派西娅乐（人名）",
+          "phonetic": "/ˈspeʃ(ə)l/",
+          "example": "You're very special to me, darling.",
+          "exampleTranslation": "你对我来说很特别，亲爱的。"
+        },
+        {
+          "id": 185,
+          "word": "general",
+          "translation": "adj. 总体的，普遍的；一般的，常规的；大致的，大概的；综合的，广泛的；首席的，总管的；n. 上将，将军；半军事化管理的宗教组织（如耶稣会修士、多明我会修士或救世军）的领袖；<古>大众，公众；【名】 （General）（英）杰纳勒尔（人名）",
+          "phonetic": "/ˈdʒen(ə)rəl/",
+          "example": "The General refused to be flustered.",
+          "exampleTranslation": "将军没有被搅得慌乱不安。"
+        },
+        {
+          "id": 186,
+          "word": "lorentz",
+          "translation": "n. 洛伦兹（姓氏）",
+          "phonetic": "",
+          "example": "Zoom out and space and time play equal parts, in line with Lorentz symmetry.",
+          "exampleTranslation": "缩小时空间和时间平分秋色，与洛伦兹对称相一致。"
+        },
+        {
+          "id": 187,
+          "word": "transformation",
+          "translation": "n. （彻底或重大的）改观，变化，转变；（用于南非）民主改革；舞台场景的突变；（动物生命周期中的）变态；（物理）嬗变，核的转换；（数，逻）变换；（语言学）转换；（生）遗传转化；（生）细胞转化",
+          "phonetic": "/ˌtrænsfəˈmeɪʃ(ə)n/",
+          "example": "The transformation of American sea power began in 1940.",
+          "exampleTranslation": "美国海军力量的改革开始于1940年。"
+        },
+        {
+          "id": 188,
+          "word": "time",
+          "translation": "n. （以分钟、小时、天等计量的）时间；（钟表上的）时刻；（世界各地不同的）计时体系；（某事发生或应该发生的）时候；一段时间，某段日子；规定时间，可用时间；时代，时期；时光，岁月；生命（期），期限；次，回；倍（times）；完成（竞赛等）的时间；（棒球，美橄）暂停；拍子，节奏；（用于报刊名）时报（the Times）；<英>（酒吧）打烊时间；刑期；服役期；计时工资率；分娩时间；学徒期；v. 为……安排时间；把握（击球、射门等）的时机；为……计时，测定……所需的时间；conj. 乘以（times）；adj. 定时的，定期的，分期的；【名】 （Time）（俄）季梅，（罗）蒂梅，（英）泰姆（人名）",
+          "phonetic": "/taɪm/",
+          "example": "This time they've messed up big time!",
+          "exampleTranslation": "这一次他们把事情搞得糟透了！"
+        },
+        {
+          "id": 189,
+          "word": "dilation",
+          "translation": "n. 扩张，扩大；膨胀；详述",
+          "phonetic": "/daɪˈleɪʃn/",
+          "example": "The patient may be examined with pupillary dilation.",
+          "exampleTranslation": "病人可做瞳孔扩张检查。"
+        },
+        {
+          "id": 190,
+          "word": "length",
+          "translation": "n. 长，长度；（持续）时间的长短；（书或文件等的）篇幅，（电影的）片长；（游泳池的）池长；（马或船的）自身长度；（行动的）程度；细长的一段（根，条）；（头发、衣服等）到身体某部位的长度；手中牌长（多指五张以上某同花牌）；（板球）球距；（元音或音节的）节奏音长",
+          "phonetic": "/leŋkθ; leŋθ/",
+          "example": "It is about a metre in length.",
+          "exampleTranslation": "它大约有一米长。"
+        },
+        {
+          "id": 191,
+          "word": "contraction",
+          "translation": "n. 收缩，缩小；痉挛，子宫收缩；缩约词，缩约形式；（疾病、习惯等的）招致，染上",
+          "phonetic": "/kənˈtrækʃ(ə)n/",
+          "example": "'He's' may be a contraction of 'he is' or 'he has'.",
+          "exampleTranslation": "he's可以是he is或he has的缩约形式。"
+        },
+        {
+          "id": 192,
+          "word": "mass",
+          "translation": "n. 团，块；大量，许多；（常指混乱的）一群，一堆；大量的东西；群众，平民百姓；大多数，多数；质量；（尤指罗马天主教的）弥撒；弥撒曲；adj. 民众的，大量的；v. （使）聚集，（使）集结",
+          "phonetic": "/mæs/",
+          "example": "Photons have no mass – they are weightless.",
+          "exampleTranslation": "光子没有质量——它们是没有重量的。"
+        },
+        {
+          "id": 193,
+          "word": "equivalence",
+          "translation": "n. 相等，对等",
+          "phonetic": "/ɪˈkwɪvələns/",
+          "example": "For women in the military, the search for equality will still be based on functional equivalence, not identity or even similarity of task.",
+          "exampleTranslation": "对于军队中的女性来说，寻求平等仍然是基于功能对等，而不是身份甚至任务上的相似性。"
+        },
+        {
+          "id": 194,
+          "word": "metric",
+          "translation": "adj. 米制的，公制的；度规的；用诗体写的，格律诗的；n. 诗韵；衡量标准；度规",
+          "phonetic": "/ˈmetrɪk/",
+          "example": "These screws are metric.",
+          "exampleTranslation": "这些螺丝钉是用公制尺码制造的。"
+        },
+        {
+          "id": 195,
+          "word": "tensor",
+          "translation": "n. [数] 张量；[解剖] 张肌",
+          "phonetic": "/ˈtensə(r); ˈtensɔː(r)/",
+          "example": "Tensor algebra is tied to coordinates.",
+          "exampleTranslation": "张量代数则离不开坐标系。"
+        },
+        {
+          "id": 196,
+          "word": "geodesic",
+          "translation": "adj. 测地线的；测量的（等于 geodetic）；[测]大地测量学的；n. [测]测地线",
+          "phonetic": "/ˌdʒiːəʊˈdesɪk; ˌdʒiːəʊˈdiːsɪk/",
+          "example": "Dome, the invention he is most famous for. The geodesic.",
+          "exampleTranslation": "上世纪40年代末，巴基提出了一个解决方法，即球型屋顶，这也是他最著名的发明。"
+        },
+        {
+          "id": 197,
+          "word": "newton",
+          "translation": "n. 牛顿（英国科学家）；牛顿（力的单位）",
+          "phonetic": "/ˈnjuːtən/",
+          "example": "Newton was an intellectual giant.",
+          "exampleTranslation": "牛顿是一个智力巨人。"
+        },
+        {
+          "id": 198,
+          "word": "black",
+          "translation": "adj. 黑的，黑色的；黑色人种的；不加牛奶的；脏的，布满污垢的；悲伤的，无望的；愤怒的，仇恨的；罪恶的，邪恶的；（幽默）黑色的；（滑雪道）难度最大的；（军事活动）秘密的；黑桃和梅花组牌的；n. 黑，黑色；<冒犯>黑人；黑色衣服；黑色的东西（尤指斯诺克中的黑球）；执黑子的一方；v. 使变黑，弄黑；<英>抵制，拒绝（货品或公司）；【名】 （Black）（英、西）布莱克，（德、葡、捷）布拉克",
+          "phonetic": "/blæk/",
+          "example": "The exhaust streamed black smoke.",
+          "exampleTranslation": "排气管里冒出黑烟。"
+        },
+        {
+          "id": 199,
+          "word": "hole",
+          "translation": "n. 洞，坑；裂口，开口；（高尔夫球运动中的）球洞；（小动物的）洞穴；令人不舒适的地方；缺点，破绽；<非正式>困境，窘境；禁闭室，单人牢房；空缺的地方（或位置）；（两个守场员间的）空地，空隙；v. （尤指给船）钻洞，打洞；击球入洞；【名】 （Hole）（瑞典、挪）霍勒，（英）霍尔（人名）；（Hole）（英）霍尔，（瑞典、挪）霍勒（人名）",
+          "phonetic": "/həʊl/",
+          "example": "There's a hole in the crotch.",
+          "exampleTranslation": "裤裆上有个洞。"
+        },
+        {
+          "id": 200,
+          "word": "schwarzschild",
+          "translation": "n. （德）史瓦西德（姓氏）",
+          "phonetic": "",
+          "example": "Schwarzschild himself thought it not to be physical.",
+          "exampleTranslation": "史瓦西他自己认为它不是物质的。"
+        },
+        {
+          "id": 201,
+          "word": "radius",
+          "translation": "n. 半径；半径范围，周围；（剖）桡骨；（昆）径脉；（棘皮动物或腔肠动物的）辐射对称轴；v. 使（角，边缘）成弧形；【名】 （Radius）（意、印尼）拉迪乌斯，（英）雷迪厄斯，（法）拉迪于斯（人名）",
+          "phonetic": "/ˈreɪdiəs/",
+          "example": "He indicated a semicircle with a radius of about thirty miles.",
+          "exampleTranslation": "他标示出一个半径大约三十英里的半圆。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Chapter 11",
+      "description": "Words 201 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 202,
+          "word": "event",
+          "translation": "n. 事件，大事；社交场合，既定活动；赛事，比赛项目；<古>结果",
+          "phonetic": "/ɪˈvent/",
+          "example": "The event was voted a great success.",
+          "exampleTranslation": "大家认为这项活动很成功。"
+        },
+        {
+          "id": 203,
+          "word": "horizon",
+          "translation": "n. 地平线；眼界；地平圈；地层；层位",
+          "phonetic": "/həˈraɪz(ə)n/",
+          "example": "Smoke appeared on the horizon.",
+          "exampleTranslation": "地平线上升起了烟雾。"
+        },
+        {
+          "id": 204,
+          "word": "cosmology",
+          "translation": "n. [天] 宇宙论，[天] 宇宙学",
+          "phonetic": "/kɒzˈmɒlədʒi/",
+          "example": "Cosmology, geology, and biology have provided a consistent, unified, and constantly improving account of what happened.",
+          "exampleTranslation": "宇宙学、地质学和生物学对所发生的事情提供了一致的、统一的和不断改进的解释。"
+        },
+        {
+          "id": 205,
+          "word": "big",
+          "translation": "adj. （尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的；adv. 大大，给人印象深地；夸口地；大量地；v. 招摇；【名】 （Big）（土）比格（人名）",
+          "phonetic": "/bɪɡ/",
+          "example": "This shirt isn't big enough.",
+          "exampleTranslation": "这件衬衣不够大。"
+        },
+        {
+          "id": 206,
+          "word": "bang",
+          "translation": "n. 突然的巨响；重击，猛撞；刘海（bangs）；v. 猛敲，砰然重击；猛摔；很响地使劲关上；（意外地）撞击；与……性交；砰砰作响；adv. 恰好，正好；完全，彻底；突然，猛然；int. 砰；突然，猛然；【名】 （Bang）（英、乍）班，（芬、德、丹）邦（人名）",
+          "phonetic": "/bæŋ/",
+          "example": "Suddenly there was a loud bang.",
+          "exampleTranslation": "突然发出砰的一声巨响。"
+        },
+        {
+          "id": 207,
+          "word": "inflation",
+          "translation": "n. 通货膨胀，通胀率；充气，膨胀，增大；（宇宙论某些理论）暴涨；夸张，自命不凡",
+          "phonetic": "/ɪnˈfleɪʃ(ə)n/",
+          "example": "Inflation is a constant threat.",
+          "exampleTranslation": "通货膨胀是一种持续的威胁。"
+        },
+        {
+          "id": 208,
+          "word": "expansion",
+          "translation": "n. 扩大，扩张；扩充，展开；扩张物；膨胀",
+          "phonetic": "/ɪkˈspænʃ(ə)n/",
+          "example": "The company intends a slow-down in expansion.",
+          "exampleTranslation": "公司准备放慢扩展速度。"
+        },
+        {
+          "id": 209,
+          "word": "hubble",
+          "translation": "n. （Hubble）哈勃（美国天文学家）；n. （Hubble）（美、英、加）哈布尔（人名）",
+          "phonetic": "/ˈhʌb(ə)l/",
+          "example": "NASA's Hubble Space Telescope caught Jupiter's moon, Ganymede, seemingly playing a game of peek-a-boo in this image in April 2007.",
+          "exampleTranslation": "2007年4月，NASA 的哈勃空间望远镜捕捉到木星的月亮——Ganymede——的踪迹，看起来像是正在玩躲猫猫的游戏。"
+        },
+        {
+          "id": 210,
+          "word": "cosmic",
+          "translation": "adj. 宇宙的，外层空间的；巨大的，极重要的；精神的，神灵的",
+          "phonetic": "/ˈkɒzmɪk/",
+          "example": "NASA plans to launch a satellite to study cosmic rays.",
+          "exampleTranslation": "美国国家航空航天局计划发射一颗卫星来研究宇宙射线。"
+        },
+        {
+          "id": 211,
+          "word": "background",
+          "translation": "n. 出身背景，学历，经历；（事件或情况的）背景；背景声音；（画等的）后景；底色；adj. 背景的，事先的；v. 作……的背景",
+          "phonetic": "/ˈbækɡraʊnd/",
+          "example": "Her background militates against her.",
+          "exampleTranslation": "她的背景妨碍了她。"
+        },
+        {
+          "id": 212,
+          "word": "dark",
+          "translation": "adj. 黑暗的，昏暗的；深色的，暗色的；恐怖的，悲惨的；神秘的，隐秘的；忧郁的，悲观的；邪恶的，阴险的；（头发、眼睛或皮肤）褐色的，黑色的；（剧院）关闭的，停业的；（嗓音）低沉圆润的；（语音）暗的；n. 黑暗，暗处；暗色，阴影；黄昏，夜幕；【名】 （Dark）（英）达克（人名）",
+          "phonetic": "/dɑːk/",
+          "example": "Her eyes gleamed in the dark.",
+          "exampleTranslation": "她的眼睛在黑暗中闪烁。"
+        },
+        {
+          "id": 213,
+          "word": "matter",
+          "translation": "n. 事情，问题；事态，情况；困境，麻烦（the matter）；物质；材料，物品，东西；书面材料，印刷品；（身体感染部位排出的）脓，黄水；命题内容；（表示数量或时间之少）大约，左右；（法庭审问或证明的）事项，案件；v. 要紧，有关系；（伤口）化脓，流脓；【名】 （Matter）（英、法）马特，（西）马特尔（人名）",
+          "phonetic": "/ˈmætə(r)/",
+          "example": "This matter is their concern.",
+          "exampleTranslation": "这件事由他们负责。"
+        },
+        {
+          "id": 214,
+          "word": "standard",
+          "translation": "n. （品质的）标准，水平，规范；正常的水平，应达到的标准；行为标准，道德水准（standards）；<英，史>（小学）（考试达到的）级别；法定度量衡标准；旗杆；流行曲调（或歌曲）；茎干挺直的树（或灌木）；（植）（蝶形花的）旗瓣；（植）（鸢尾属植物的）直立花瓣；直立水管（或煤气管）；adj. 普通的，标准的；（大小、尺寸、式样等）常规的，一般性的；权威的，广泛认可的；（语言）合乎规范的，符合标准的；茎干挺直的树（或灌木）；（整成树形并嫁接于挺直茎干上的）灌木",
+          "phonetic": "/ˈstændəd/",
+          "example": "The paper was of non-standard size.",
+          "exampleTranslation": "这种纸的大小不标准。"
+        },
+        {
+          "id": 215,
+          "word": "model",
+          "translation": "人名 n. 模型；模式；（机器等的）型号；模范，典型；模特儿；样本，范例；（小说中人物或地点的）原型；（著名设计师设计的）款式；v. （为艺术家）当模特儿；模特儿展示（服装）；（用黏土、木头等）做……的模型，塑造；（用计算机）做出（情景、事件）的模型；使仿效，使模仿；adj. 模范的，榜样的；模型的；【名】 （Model）（英、德、俄）莫德尔",
+          "phonetic": "/ˈmɒd(ə)l/",
+          "example": "There she began to model in clay.",
+          "exampleTranslation": "她开始在那儿用黏土做模型。"
+        },
+        {
+          "id": 216,
+          "word": "physics",
+          "translation": "n. 物理学；物理特性，物理现象",
+          "phonetic": "/ˈfɪzɪks/",
+          "example": "Have you read this month's 'Physics World'?",
+          "exampleTranslation": "你看过这个月的《物理世界》吗？"
+        },
+        {
+          "id": 217,
+          "word": "gauge",
+          "translation": "n. 测量仪器；宽度，厚度；（测量或判断的）尺度，标准；（铁道的）轨距；（枪管的）口径；（汽车）胎压计；v. 估计，判断；测量",
+          "phonetic": "/ɡeɪdʒ/",
+          "example": "The fuel gauge had gone on the blink.",
+          "exampleTranslation": "燃料计出毛病了。"
+        },
+        {
+          "id": 218,
+          "word": "higgs",
+          "translation": "n. 希格斯粒子",
+          "phonetic": "",
+          "example": "Discovering the Higgs is important, no question.",
+          "exampleTranslation": "毫无疑问，发现希格斯介子是非常重要的。"
+        },
+        {
+          "id": 219,
+          "word": "symmetry",
+          "translation": "n. 对称（性）；相似，相等；（物理，数） 对称",
+          "phonetic": "/ˈsɪmətri/",
+          "example": "Classical dance in its purest form requires symmetry and balance.",
+          "exampleTranslation": "真正的古典舞蹈要求对称与平衡。"
+        },
+        {
+          "id": 220,
+          "word": "breaking",
+          "translation": "n. 破坏；阻断；v. 破坏（break 的 ing 形式）",
+          "phonetic": "/ˈbreɪkɪŋ/",
+          "example": "He fell through the window, breaking the glass.",
+          "exampleTranslation": "他打破玻璃，从窗口摔了出去。"
+        },
+        {
+          "id": 221,
+          "word": "strong",
+          "translation": "adj. 强壮的，健壮的；坚固的，结实的；坚强的，有主见的；坚定的，强烈的；有影响的，深刻的；（关系）稳固的，持久的；强有力的，有说服力的；实力强的，厉害的；有望成功的，可能性大的；精通的，擅长的；健康的；味重的；浓的；强效的；明显的，显著的；（货币）坚挺的，（行业）景气的；强劲的，高速移动的；大量的，众多的；多达……的，计有……的；强硬的，冒犯的；（语法）（动词）强变化的，强变格的；（语音学）强读式的，重读的；（物理）强；adv. 强劲地，猛烈地；n. 强势群体（the strong）；【名】 （Strong）（英）斯特朗（人名）",
+          "phonetic": "/strɒŋ/",
+          "example": "He's the strong silent type.",
+          "exampleTranslation": "他是那种强悍而沉默寡言的人。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chapter 12",
+      "description": "Words 221 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 222,
+          "word": "weak",
+          "translation": "adj. 虚弱的，无力的；不牢固的；懦弱的，无判断力的；无影响力的，无权力的；疲软的，萧条的；不擅长的；无说服力的；力量微弱的，无强度的；（光、热或声音）微弱的；无活力的，无生气的；（饮品）稀的；（脸的部分）瘦小的，（容貌）不突出的；（受强烈情感影响而）腿发软的；无效力的，没有吸引力的；（动词）弱的，规则的；非重读的；弱电解的，弱电解质的；n. 穷人，弱者，病人（the weak）",
+          "phonetic": "/wiːk/",
+          "example": "Geography was my weak subject.",
+          "exampleTranslation": "地理课是我的弱项。"
+        },
+        {
+          "id": 223,
+          "word": "gravitational",
+          "translation": "adj. [力] 重力的，[力] 引力的",
+          "phonetic": "/ˌɡrævɪˈteɪʃən(ə)l/",
+          "example": "Its oscillation depends on the strength of the gravitational field.",
+          "exampleTranslation": "它的摆动取决于重力场的力。"
+        },
+        {
+          "id": 224,
+          "word": "force",
+          "translation": "n. 暴力，武力；力，力量；自然力；（有某目的）一群人；有影响力的人（或事）；影响力；武装部队；警察部门；风力；v. 强迫；用力推；使发生；勉强做出；【名】 （Force）（英、法）福斯，（意）福尔切（人名）",
+          "phonetic": "/fɔːs/",
+          "example": "Is religion always a force for good?",
+          "exampleTranslation": "宗教一向是诲人行善的力量吗？"
+        },
+        {
+          "id": 225,
+          "word": "interaction",
+          "translation": "n. 互动，交流；相互影响，相互作用",
+          "phonetic": "/ˌɪntərˈækʃ(ə)n/",
+          "example": "They scored higher on social interaction.",
+          "exampleTranslation": "他们在社交互动方面得分更高。"
+        },
+        {
+          "id": 226,
+          "word": "gluon",
+          "translation": "n. [物] 胶子（一种理论上假设的无质量的粒子）",
+          "phonetic": "/ˈɡluːɒn/",
+          "example": "The ALICE experiment has confirmed the quark-gluon plasma is a ultra-low viscosity liquid at these energies.",
+          "exampleTranslation": "ALICE 实验已经确认了在这样的能量下，夸克——胶子等离子体是一种超低粘度的液体。"
+        },
+        {
+          "id": 227,
+          "word": "w",
+          "translation": "n. 英语字母中的第二十三个字母",
+          "phonetic": "/ˈdʌbljuː/",
+          "example": "Note that this means, unlike vowels, intervening H and W characters do not act as a barrier to combining runs of letters with the same code.",
+          "exampleTranslation": "请注意：这意味着，与元音不同同，插在中间的字符 H 和 W 不会对组合相同代码的字母形成障碍。"
+        },
+        {
+          "id": 228,
+          "word": "z",
+          "translation": "n. 英语字母表的第二十六个字母; Z 字形；abbr. 零（zero）；地区（zone）",
+          "phonetic": "/zed/",
+          "example": "The possible permutations of x, y and z are xyz, xzy, yxz, yzx, zxy and zyx.",
+          "exampleTranslation": "x、y和z的可能的组合方式为xyz、xzy、yxz、yzx、zxy和zyx。"
+        },
+        {
+          "id": 229,
+          "word": "graviton",
+          "translation": "n. [相对][高能] 引力子；万有吸引力",
+          "phonetic": "/ˈɡrævɪˌtɒn/",
+          "example": "They are deadly unless you have high damage output units or disablers like Graviton Beam.",
+          "exampleTranslation": "除非你有高伤害输出单位或控制技能强的单位比如凤凰的重力力场，否则它们是非常致命的。"
+        },
+        {
+          "id": 230,
+          "word": "neutrino",
+          "translation": "【核物理学】中微子",
+          "phonetic": "/njuːˈtriːnəʊ/",
+          "example": "They strongly suggest that the neutrino has mass, albeit an infinitesimal amount.",
+          "exampleTranslation": "他们强烈表明中微子是有质量的，尽管质量是无穷小的。"
+        },
+        {
+          "id": 231,
+          "word": "muon",
+          "translation": "n. [高能] μ介子；n. （Muon）人名；（老）孟",
+          "phonetic": "/ˈmjuːɒn/",
+          "example": "The Muon Counter is one of the important detectors in BES.",
+          "exampleTranslation": "子探测器是安装在北京谱仪上面的重要的探测器之一。"
+        },
+        {
+          "id": 232,
+          "word": "tau",
+          "translation": "n. 希腊语的第十九个字母；n. （Tau）（美、阿、罗、澳、丹）塔乌（人名）",
+          "phonetic": "/tɔː; taʊ/",
+          "example": "BETA or tau?",
+          "exampleTranslation": "贝塔还是陶？"
+        },
+        {
+          "id": 233,
+          "word": "hadron",
+          "translation": "n. [高能] 强子（参与强相互作用的基本粒子）",
+          "phonetic": "/ˈhædrɒn/",
+          "example": "Large Hadron Collider - September 10th, 2008.",
+          "exampleTranslation": "大型强子对撞机—2008年9月10日。"
+        },
+        {
+          "id": 234,
+          "word": "baryon",
+          "translation": "n. [高能] 重子",
+          "phonetic": "/ˈbærɪˌɒn/",
+          "example": "The baryon numbers are absolutely conserved in the Standard Model.",
+          "exampleTranslation": "在标准模型中重子数是绝对守恒的。"
+        },
+        {
+          "id": 235,
+          "word": "meson",
+          "translation": "n. [高能]介子；正中面；n. （Meson）人名；（西）梅松",
+          "phonetic": "/ˈmiːzɒn/",
+          "example": "Strange meson production in heavy ion collisions has been studied.",
+          "exampleTranslation": "我们研究了重离子碰撞中的奇异介子产生。"
+        },
+        {
+          "id": 236,
+          "word": "pion",
+          "translation": "n. 介子；n. （Pion）人名；（法、俄、罗）皮翁",
+          "phonetic": "/ˈpaɪɒn/",
+          "example": "It's not easy to kill a full-grown tree - especially one like the pion pine.",
+          "exampleTranslation": "要弄死一棵成年的树，尤其是像矮松这样的树并不容易。"
+        },
+        {
+          "id": 237,
+          "word": "kaon",
+          "translation": "n. K 中介子",
+          "phonetic": "/ˈkeɪɒn/",
+          "example": "Persistence mechanisms of KAON are based on relational databases.",
+          "exampleTranslation": "KAON 的一致性维护是基于关系数据库。"
+        },
+        {
+          "id": 238,
+          "word": "hyperon",
+          "translation": "n. 超子，重核子",
+          "phonetic": "/ˈhaɪp(ə)rɒn/",
+          "example": "A brief review is given on recent studies of hyperon rare decay both in theory and experiment.",
+          "exampleTranslation": "简述了近些年来超子稀有衰变的理论和实验研究进展及其待解决的问题。"
+        },
+        {
+          "id": 239,
+          "word": "antimatter",
+          "translation": "n. [物] 反物质",
+          "phonetic": "/ˈæntimætə(r)/",
+          "example": "That's because matter and antimatter are basically opposites of each other.",
+          "exampleTranslation": "那是因为物质和反物质本质上是对立的。"
+        },
+        {
+          "id": 240,
+          "word": "positron",
+          "translation": "n. [物] 正电子，阳电子",
+          "phonetic": "/ˈpɒzɪtrɒn/",
+          "example": "It was a very difficult first step to accept the positron.",
+          "exampleTranslation": "接受正电子是艰难的第一步。"
+        },
+        {
+          "id": 241,
+          "word": "antiproton",
+          "translation": "n. [高能]反质子（等于 negative proton）；[高能]负质子",
+          "phonetic": "/ˈæntiprəʊtɒn/",
+          "example": "The antihydrogen atoms are composed of a positron (an antimatter electron) orbiting an antiproton nucleus.",
+          "exampleTranslation": "反氢原子是正电子(所谓正电子就是反物质的电子)围绕着以反质子为核心，作轨道运行所形成。"
+        }
+      ]
+    }
+  ]
+}

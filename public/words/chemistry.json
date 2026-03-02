@@ -1,0 +1,3033 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-03-02",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "chemistry",
+      "word": "atom",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'tom' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + tom(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "atomic",
+        "atomistic",
+        "atomization",
+        "atomism"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "chemistry",
+      "word": "molecule",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 3,
+      "bookId": "chemistry",
+      "word": "reaction",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'ac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + ac(核心词干) + -tion(行为；过程；结果) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "reactive",
+        "reactionary",
+        "reactionist",
+        "reactor"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "chemistry",
+      "word": "catalyst",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "catalytic",
+        "catalytically",
+        "catalytic",
+        "catalysis"
+      ]
+    },
+    {
+      "wordId": 5,
+      "bookId": "chemistry",
+      "word": "isotope",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "isotopic"
+      ]
+    },
+    {
+      "wordId": 6,
+      "bookId": "chemistry",
+      "word": "covalent",
+      "prefix": "co-（共同；一起）",
+      "root": "val(价值；力量)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 valere（有力；有价值）。由 co-(共同；一起)+val(价值；力量) 组合而成，原意与“价值；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "co-(共同；一起) + val(价值；力量) + -ent(…的人；具有…性质的) → 产生“价值；力量”的意象 → 演变成该词",
+      "cognates": [
+        "covalence"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "chemistry",
+      "word": "ionic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'ion' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ion(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 8,
+      "bookId": "chemistry",
+      "word": "oxidation",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'oxid' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "oxid(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "oxidative",
+        "oxidized",
+        "oxidizable",
+        "oxidant"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "chemistry",
+      "word": "reduction",
+      "prefix": "re-（再；重新；回）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 re-(再；重新；回)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + duc/duct(引导；带领) + -tion(行为；过程；结果) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "reduced",
+        "reductive",
+        "reducible",
+        "reductionist"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "chemistry",
+      "word": "acid",
+      "prefix": "a-（不；无；在…上）",
+      "root": "cid/cis(切；杀)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 caedere（切割）。由 a-(不；无；在…上)+cid/cis(切；杀) 组合而成，原意与“切；杀”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + cid/cis(切；杀) → 产生“切；杀”的意象 → 演变成该词",
+      "cognates": [
+        "acidity",
+        "acidify",
+        "acidify"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "chemistry",
+      "word": "base",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "based",
+        "basal",
+        "baseless",
+        "basely"
+      ]
+    },
+    {
+      "wordId": 12,
+      "bookId": "chemistry",
+      "word": "titration",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'titr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "titr(核心词干) + -ation(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "titrate",
+        "titre",
+        "titrator",
+        "titrate"
+      ]
+    },
+    {
+      "wordId": 13,
+      "bookId": "chemistry",
+      "word": "polymer",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自希腊语，通常以 'm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + m(核心词干) + -er(…者；做…的人) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": [
+        "polymeric",
+        "polymerous",
+        "polymerization",
+        "polymerase"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "chemistry",
+      "word": "isomer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'isom' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "isom(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "isomeric",
+        "isomerization",
+        "isomerism",
+        "isomerase"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "chemistry",
+      "word": "electronegativity",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'lectronegativ' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectronegativ(核心词干) + -ity(性质；状态；程度) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electronegative"
+      ]
+    },
+    {
+      "wordId": 16,
+      "bookId": "chemistry",
+      "word": "stoichiometry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "stoichiometric"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "chemistry",
+      "word": "bonding",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "bonded",
+        "bond",
+        "bonded",
+        "bond"
+      ]
+    },
+    {
+      "wordId": 18,
+      "bookId": "chemistry",
+      "word": "metallic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'metall' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "metall(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "metal",
+        "metalloid",
+        "metalworking",
+        "metal"
+      ]
+    },
+    {
+      "wordId": 19,
+      "bookId": "chemistry",
+      "word": "hydrocarbon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "hydrated",
+        "hydrate",
+        "hydrocracking",
+        "hydrated"
+      ]
+    },
+    {
+      "wordId": 20,
+      "bookId": "chemistry",
+      "word": "alkane",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kane' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kane(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 21,
+      "bookId": "chemistry",
+      "word": "alkene",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kene' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kene(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 22,
+      "bookId": "chemistry",
+      "word": "alkyne",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kyne' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kyne(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 23,
+      "bookId": "chemistry",
+      "word": "aromatic",
+      "prefix": "ar-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'omat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ar-(朝向（ad-变体）) + omat(核心词干) + -ic(…的；与…有关的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "aroma",
+        "aromatize"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "chemistry",
+      "word": "alcohol",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'cohol' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + cohol(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "alcoholic",
+        "alcoholic",
+        "alcoholism",
+        "alcoholize"
+      ]
+    },
+    {
+      "wordId": 25,
+      "bookId": "chemistry",
+      "word": "ether",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'th' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + th(核心词干) + -er(…者；做…的人) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "etherify",
+        "etherize"
+      ]
+    },
+    {
+      "wordId": 26,
+      "bookId": "chemistry",
+      "word": "aldehyde",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'dehyde' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + dehyde(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 27,
+      "bookId": "chemistry",
+      "word": "ketone",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 28,
+      "bookId": "chemistry",
+      "word": "carboxylic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'carboxyl' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "carboxyl(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "carboxyl"
+      ]
+    },
+    {
+      "wordId": 29,
+      "bookId": "chemistry",
+      "word": "ester",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'st' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + st(核心词干) + -er(…者；做…的人) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "esterify",
+        "esterify"
+      ]
+    },
+    {
+      "wordId": 30,
+      "bookId": "chemistry",
+      "word": "amine",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mine(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 31,
+      "bookId": "chemistry",
+      "word": "amide",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mide' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mide(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 32,
+      "bookId": "chemistry",
+      "word": "protein",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'tein' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + tein(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "proteolytic",
+        "proteinaceous",
+        "proteolytic",
+        "proteolysis"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "chemistry",
+      "word": "carbohydrate",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'carbohydr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "carbohydr(核心词干) + -ate(使…；具有…的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 34,
+      "bookId": "chemistry",
+      "word": "lipid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "liposome"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "chemistry",
+      "word": "nucleic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'nucle' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "nucle(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 36,
+      "bookId": "chemistry",
+      "word": "enzyme",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'zyme' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + zyme(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 37,
+      "bookId": "chemistry",
+      "word": "substrate",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'str' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + str(核心词干) + -ate(使…；具有…的) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "substratum"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "chemistry",
+      "word": "inhibitor",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'hibit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + hibit(核心词干) + -or(…者；做…的人或物) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inhibitory",
+        "inhibition",
+        "inhibit"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "chemistry",
+      "word": "kinetics",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kinematics"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "chemistry",
+      "word": "equilibrium",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'quilibrium' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + quilibrium(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equilibrate",
+        "equilibrate",
+        "equilibrize"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "chemistry",
+      "word": "enthalpy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'thalpy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + thalpy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 42,
+      "bookId": "chemistry",
+      "word": "entropy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'tropy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + tropy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 43,
+      "bookId": "chemistry",
+      "word": "gibbs",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 44,
+      "bookId": "chemistry",
+      "word": "calorimetry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "caloric",
+        "calorifacient",
+        "calorimetric",
+        "caloric"
+      ]
+    },
+    {
+      "wordId": 45,
+      "bookId": "chemistry",
+      "word": "solubility",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'solubil' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "solubil(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "soluble",
+        "solute",
+        "solved",
+        "solvable"
+      ]
+    },
+    {
+      "wordId": 46,
+      "bookId": "chemistry",
+      "word": "concentration",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 con-(共同；一起；完全)+cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + cent/acent(唱；呼喊) + -ation(行为；过程；结果) → 产生“唱；呼喊”的意象 → 演变成该词",
+      "cognates": [
+        "concentrated",
+        "concentrate",
+        "concentricity",
+        "concentrated"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "chemistry",
+      "word": "molarity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'molar' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "molar(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "mol",
+        "molality"
+      ]
+    },
+    {
+      "wordId": 48,
+      "bookId": "chemistry",
+      "word": "molality",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'molal' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "molal(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "mol",
+        "molarity"
+      ]
+    },
+    {
+      "wordId": 49,
+      "bookId": "chemistry",
+      "word": "normality",
+      "prefix": "",
+      "root": "norm(规则；标准)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 norma（规则）。由 norm(规则；标准) 组合而成，原意与“规则；标准”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "norm(规则；标准) + -ity(性质；状态；程度) → 产生“规则；标准”的意象 → 演变成该词",
+      "cognates": [
+        "normal",
+        "normally",
+        "normal",
+        "norm"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "chemistry",
+      "word": "solvent",
+      "prefix": "",
+      "root": "solv/solut(溶解；解决)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 solvere（解开）。由 solv/solut(溶解；解决) 组合而成，原意与“溶解；解决”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "solv/solut(溶解；解决) + -ent(…的人；具有…性质的) → 产生“溶解；解决”的意象 → 演变成该词",
+      "cognates": [
+        "solute",
+        "solved",
+        "solvable",
+        "solution"
+      ]
+    },
+    {
+      "wordId": 51,
+      "bookId": "chemistry",
+      "word": "solute",
+      "prefix": "",
+      "root": "solut(解开；释放)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 solvere（解开）。由 solut(解开；释放) 组合而成，原意与“解开；释放”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "solvent",
+        "solution",
+        "solvent",
+        "solvency"
+      ]
+    },
+    {
+      "wordId": 52,
+      "bookId": "chemistry",
+      "word": "solution",
+      "prefix": "",
+      "root": "solut(解开；释放)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 solvere（解开）。由 solut(解开；释放) 组合而成，原意与“解开；释放”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "solut(解开；释放) + -tion(行为；过程；结果) → 产生“解开；释放”的意象 → 演变成该词",
+      "cognates": [
+        "solvent",
+        "soluble",
+        "solute",
+        "solved"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "chemistry",
+      "word": "colloid",
+      "prefix": "col-（共同（con-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'loid' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "col-(共同（con-变体）) + loid(核心词干) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "colloidal"
+      ]
+    },
+    {
+      "wordId": 54,
+      "bookId": "chemistry",
+      "word": "suspension",
+      "prefix": "sus-（在下（sub-变体））",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'pen' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sus-(在下（sub-变体）) + pen(核心词干) + -sion(行为；状态) → 产生“在下（sub-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "suspended",
+        "suspenseful",
+        "suspensive",
+        "suspensory"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "chemistry",
+      "word": "precipitate",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'cipit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + cipit(核心词干) + -ate(使…；具有…的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "precipitant",
+        "precipitating",
+        "precipitately",
+        "precipitation"
+      ]
+    },
+    {
+      "wordId": 56,
+      "bookId": "chemistry",
+      "word": "filtrate",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'filtr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "filtr(核心词干) + -ate(使…；具有…的) → 拼合演变成该词",
+      "cognates": [
+        "filter",
+        "filtration",
+        "filter",
+        "filter"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "chemistry",
+      "word": "distillation",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'till' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dis-(否定；分开；不) + till(核心词干) + -ation(行为；过程；结果) → 产生“否定；分开；不”的意象 → 演变成该词",
+      "cognates": [
+        "distillate",
+        "distiller",
+        "distillery",
+        "distillment"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "chemistry",
+      "word": "chromatography",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "chromatographic",
+        "chromatographically",
+        "chromatogram"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "chemistry",
+      "word": "spectroscopy",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spectroscopic",
+        "spectrographic",
+        "spectrometric",
+        "spectrum"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "chemistry",
+      "word": "nuclear",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nucleonics"
+      ]
+    },
+    {
+      "wordId": 61,
+      "bookId": "chemistry",
+      "word": "orbital",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'orbit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "orbit(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "orbit",
+        "orb",
+        "orbit",
+        "orb"
+      ]
+    },
+    {
+      "wordId": 62,
+      "bookId": "chemistry",
+      "word": "electron",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectron' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectron(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electronic",
+        "electronically",
+        "electronics"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "chemistry",
+      "word": "proton",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + ton(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 64,
+      "bookId": "chemistry",
+      "word": "neutron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 65,
+      "bookId": "chemistry",
+      "word": "cation",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cationic",
+        "cationic"
+      ]
+    },
+    {
+      "wordId": 66,
+      "bookId": "chemistry",
+      "word": "anion",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'ion' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + ion(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "anionic"
+      ]
+    },
+    {
+      "wordId": 67,
+      "bookId": "chemistry",
+      "word": "electrolyte",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectrolyte' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrolyte(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrolytic",
+        "electrolysis"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "chemistry",
+      "word": "galvanic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'galvan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "galvan(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "galvanometer",
+        "galvanise"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "chemistry",
+      "word": "electrolysis",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectrolysis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrolysis(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrolytic",
+        "electrolyte",
+        "electrocute"
+      ]
+    },
+    {
+      "wordId": 70,
+      "bookId": "chemistry",
+      "word": "anode",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'ode' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + ode(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "anodic",
+        "anodal",
+        "anodise",
+        "anodize"
+      ]
+    },
+    {
+      "wordId": 71,
+      "bookId": "chemistry",
+      "word": "cathode",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cathodic"
+      ]
+    },
+    {
+      "wordId": 72,
+      "bookId": "chemistry",
+      "word": "valence",
+      "prefix": "",
+      "root": "val(价值；力量)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 valere（有力；有价值）。由 val(价值；力量) 组合而成，原意与“价值；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "val(价值；力量) + -ence(状态；性质；行为) → 产生“价值；力量”的意象 → 演变成该词",
+      "cognates": [
+        "valency"
+      ]
+    },
+    {
+      "wordId": 73,
+      "bookId": "chemistry",
+      "word": "octet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 74,
+      "bookId": "chemistry",
+      "word": "lattice",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "latticed",
+        "latticelike",
+        "latticed"
+      ]
+    },
+    {
+      "wordId": 75,
+      "bookId": "chemistry",
+      "word": "amorphous",
+      "prefix": "a-（不；无；在…上）",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 a-(不；无；在…上)+mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + mor/mort(死亡) + -ous(有…的；充满…的) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 76,
+      "bookId": "chemistry",
+      "word": "crystalline",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "crystal",
+        "crystal"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "chemistry",
+      "word": "allotrope",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lotrope' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + lotrope(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "allotropic",
+        "allotropism",
+        "allotropy"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "chemistry",
+      "word": "metalloid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "metal",
+        "metallic",
+        "metalworking",
+        "metal"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "chemistry",
+      "word": "halogen",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 80,
+      "bookId": "chemistry",
+      "word": "noble",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nobly",
+        "nobility",
+        "nobleness"
+      ]
+    },
+    {
+      "wordId": 81,
+      "bookId": "chemistry",
+      "word": "transition",
+      "prefix": "trans-（横越；转变；超越）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'i' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "trans-(横越；转变；超越) + i(核心词干) + -tion(行为；过程；结果) → 产生“横越；转变；超越”的意象 → 演变成该词",
+      "cognates": [
+        "transitional",
+        "transitive",
+        "transit",
+        "transitive"
+      ]
+    },
+    {
+      "wordId": 82,
+      "bookId": "chemistry",
+      "word": "alkali",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kali' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kali(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "alkalescent",
+        "alkalic",
+        "alkalinity",
+        "alkalify"
+      ]
+    },
+    {
+      "wordId": 83,
+      "bookId": "chemistry",
+      "word": "alkaline",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kaline' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kaline(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "alkalescent",
+        "alkalic",
+        "alkalinity",
+        "alkalify"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "chemistry",
+      "word": "lanthanide",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 85,
+      "bookId": "chemistry",
+      "word": "actinide",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tinide' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + tinide(核心词干) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 86,
+      "bookId": "chemistry",
+      "word": "periodic",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'iod' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + iod(核心词干) + -ic(…的；与…有关的) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": [
+        "period",
+        "periodical",
+        "periodically",
+        "period"
+      ]
+    },
+    {
+      "wordId": 87,
+      "bookId": "chemistry",
+      "word": "element",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 e-(出；向外（ex-变体）)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "elementary",
+        "elemental"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "chemistry",
+      "word": "compound",
+      "prefix": "com-（共同；完全）",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 com-(共同；完全)+und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "com-(共同；完全) + und(波浪；丰富) → 产生“波浪；丰富”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 89,
+      "bookId": "chemistry",
+      "word": "mixture",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'mixt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mixt(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "mixed",
+        "mixable",
+        "mix",
+        "mixer"
+      ]
+    },
+    {
+      "wordId": 90,
+      "bookId": "chemistry",
+      "word": "homogeneous",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ous(有…的；充满…的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "homogenized",
+        "homogeneously",
+        "homogeneity",
+        "homoeopathy"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "chemistry",
+      "word": "heterogeneous",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ous(有…的；充满…的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "heterogenous",
+        "heterocyclic",
+        "heterologous",
+        "heterogeneity"
+      ]
+    },
+    {
+      "wordId": 92,
+      "bookId": "chemistry",
+      "word": "exothermic",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "her/hes(粘附)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 ex-(出；向外；前…)+her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + her/hes(粘附) + -ic(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "exothermal",
+        "exotherm"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "chemistry",
+      "word": "endothermic",
+      "prefix": "en-（使…进入；在内）",
+      "root": "her/hes(粘附)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 en-(使…进入；在内)+her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "en-(使…进入；在内) + her/hes(粘附) + -ic(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "endothermal"
+      ]
+    },
+    {
+      "wordId": 94,
+      "bookId": "chemistry",
+      "word": "activation",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'tiv' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + tiv(核心词干) + -ation(行为；过程；结果) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": [
+        "active",
+        "acting",
+        "activated",
+        "actively"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "chemistry",
+      "word": "mechanism",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自希腊语，通常以 'mechan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mechan(核心词干) + -ism(主义；行为；状态) → 拼合演变成该词",
+      "cognates": [
+        "mechanical",
+        "mechanistic",
+        "mechanized",
+        "mechanically"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "chemistry",
+      "word": "intermediate",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'medi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + medi(核心词干) + -ate(使…；具有…的) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "intermediary",
+        "interlocking",
+        "interlocutory",
+        "intermediately"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "chemistry",
+      "word": "thermodynamics",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "thermodynamic"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "chemistry",
+      "word": "principle",
+      "prefix": "princi-(第一)",
+      "root": "pl(拿；取)",
+      "suffix": "-e",
+      "etymology": "来自拉丁语 principium，princeps(第一个人/首领)，primus(第一)+capere(拿取)",
+      "wordFormation": "princi(第一) + pl(取) + -e → 首要之物 → 原则",
+      "cognates": [
+        "prince",
+        "principal",
+        "primary",
+        "capture"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "chemistry",
+      "word": "catalysis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "catalytic",
+        "catalytically",
+        "catalyst",
+        "catalytic"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "chemistry",
+      "word": "active",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 't' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + t(核心词干) + -ive(有…性质的；倾向于…的) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": [
+        "activated",
+        "actively",
+        "action",
+        "activity"
+      ]
+    },
+    {
+      "wordId": 102,
+      "bookId": "chemistry",
+      "word": "site",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "situation"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "chemistry",
+      "word": "inhibition",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'hibi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + hibi(核心词干) + -tion(行为；过程；结果) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inhibitory",
+        "inhibitor",
+        "inhibit"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "chemistry",
+      "word": "competitive",
+      "prefix": "com-（共同；完全）",
+      "root": "pet/pit(追求；飞)",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，源于 petere（追求）。由 com-(共同；完全)+pet/pit(追求；飞) 组合而成，原意与“追求；飞”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "com-(共同；完全) + pet/pit(追求；飞) + -ive(有…性质的；倾向于…的) → 产生“追求；飞”的意象 → 演变成该词",
+      "cognates": [
+        "competing",
+        "competitory",
+        "competitively",
+        "competition"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "chemistry",
+      "word": "noncompetitive",
+      "prefix": "non-（不；非；无）",
+      "root": "pet/pit(追求；飞)",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，源于 petere（追求）。由 non-(不；非；无)+pet/pit(追求；飞) 组合而成，原意与“追求；飞”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "non-(不；非；无) + pet/pit(追求；飞) + -ive(有…性质的；倾向于…的) → 产生“追求；飞”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 106,
+      "bookId": "chemistry",
+      "word": "uncompetitive",
+      "prefix": "un-（不；否定；相反）",
+      "root": "pet/pit(追求；飞)",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，源于 petere（追求）。由 un-(不；否定；相反)+pet/pit(追求；飞) 组合而成，原意与“追求；飞”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "un-(不；否定；相反) + pet/pit(追求；飞) + -ive(有…性质的；倾向于…的) → 产生“追求；飞”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 107,
+      "bookId": "chemistry",
+      "word": "allosteric",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'loster' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + loster(核心词干) + -ic(…的；与…有关的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 108,
+      "bookId": "chemistry",
+      "word": "michaelis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 109,
+      "bookId": "chemistry",
+      "word": "menten",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 110,
+      "bookId": "chemistry",
+      "word": "equation",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'qu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + qu(核心词干) + -ation(行为；过程；结果) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equate",
+        "equate"
+      ]
+    },
+    {
+      "wordId": 111,
+      "bookId": "chemistry",
+      "word": "lineweaver",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'lineweav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lineweav(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 112,
+      "bookId": "chemistry",
+      "word": "burk",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 113,
+      "bookId": "chemistry",
+      "word": "plot",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "plotted",
+        "plotter",
+        "plotted"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "chemistry",
+      "word": "electrochemistry",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectrochemistry' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrochemistry(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrochemical"
+      ]
+    },
+    {
+      "wordId": 115,
+      "bookId": "chemistry",
+      "word": "redox",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'dox' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + dox(核心词干) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 116,
+      "bookId": "chemistry",
+      "word": "half",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "halfway",
+        "halfway",
+        "halve"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "chemistry",
+      "word": "electrochemical",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'lectrochem' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrochem(核心词干) + -ical(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrician",
+        "electrification",
+        "electrochemistry",
+        "electrify"
+      ]
+    },
+    {
+      "wordId": 118,
+      "bookId": "chemistry",
+      "word": "cell",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cellularity"
+      ]
+    },
+    {
+      "wordId": 119,
+      "bookId": "chemistry",
+      "word": "voltaic",
+      "prefix": "",
+      "root": "vol/volv(意志；卷绕)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 velle（愿意）。由 vol/volv(意志；卷绕) 组合而成，原意与“意志；卷绕”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "vol/volv(意志；卷绕) + -ic(…的；与…有关的) → 产生“意志；卷绕”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 120,
+      "bookId": "chemistry",
+      "word": "electrolytic",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'lectrolyt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrolyt(核心词干) + -ic(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "electrolyte",
+        "electrolysis"
+      ]
+    },
+    {
+      "wordId": 121,
+      "bookId": "chemistry",
+      "word": "salt",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "salty",
+        "salted",
+        "saltish",
+        "salter"
+      ]
+    },
+    {
+      "wordId": 122,
+      "bookId": "chemistry",
+      "word": "bridge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "bridgeable"
+      ]
+    },
+    {
+      "wordId": 123,
+      "bookId": "chemistry",
+      "word": "standard",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "standardized",
+        "standardization",
+        "standardisation",
+        "standardized"
+      ]
+    },
+    {
+      "wordId": 124,
+      "bookId": "chemistry",
+      "word": "hydrogen",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "hydrogenated",
+        "hydrogenation",
+        "hydrogenated",
+        "hydrogenate"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "chemistry",
+      "word": "electrode",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectrode' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectrode(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 126,
+      "bookId": "chemistry",
+      "word": "nernst",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 127,
+      "bookId": "chemistry",
+      "word": "faraday",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 128,
+      "bookId": "chemistry",
+      "word": "law",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lawful",
+        "lawless",
+        "lawfully",
+        "lawlessly"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "chemistry",
+      "word": "electroplating",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lectroplating' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + lectroplating(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 130,
+      "bookId": "chemistry",
+      "word": "corrosion",
+      "prefix": "cor-（共同（con-变体））",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'ro' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cor-(共同（con-变体）) + ro(核心词干) + -sion(行为；状态) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "corrosive",
+        "corroded",
+        "corroding",
+        "corrosive"
+      ]
+    },
+    {
+      "wordId": 131,
+      "bookId": "chemistry",
+      "word": "analytical",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'alyt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + alyt(核心词干) + -ical(…的；与…有关的) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "analytic",
+        "analyzable",
+        "analytically",
+        "analysis"
+      ]
+    },
+    {
+      "wordId": 132,
+      "bookId": "chemistry",
+      "word": "chemistry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "chemical",
+        "chemic",
+        "chemotherapeutic",
+        "chemically"
+      ]
+    },
+    {
+      "wordId": 133,
+      "bookId": "chemistry",
+      "word": "qualitative",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'qualitat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "qualitat(核心词干) + -ive(有…性质的；倾向于…的) → 拼合演变成该词",
+      "cognates": [
+        "qualitatively"
+      ]
+    },
+    {
+      "wordId": 134,
+      "bookId": "chemistry",
+      "word": "quantitative",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'quantitat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quantitat(核心词干) + -ive(有…性质的；倾向于…的) → 拼合演变成该词",
+      "cognates": [
+        "quantitatively",
+        "quantity",
+        "quantification",
+        "quantifier"
+      ]
+    },
+    {
+      "wordId": 135,
+      "bookId": "chemistry",
+      "word": "gravimetric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'gravimetr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "gravimetr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "gravimetry"
+      ]
+    },
+    {
+      "wordId": 136,
+      "bookId": "chemistry",
+      "word": "volumetric",
+      "prefix": "",
+      "root": "vol/volv(意志；卷绕)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 velle（愿意）。由 vol/volv(意志；卷绕) 组合而成，原意与“意志；卷绕”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "vol/volv(意志；卷绕) + -ic(…的；与…有关的) → 产生“意志；卷绕”的意象 → 演变成该词",
+      "cognates": [
+        "volume",
+        "volume",
+        "volumeter",
+        "voluminosity"
+      ]
+    },
+    {
+      "wordId": 137,
+      "bookId": "chemistry",
+      "word": "indicator",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'dicat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + dicat(核心词干) + -or(…者；做…的人或物) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "indicative",
+        "indicant",
+        "indicatory",
+        "indication"
+      ]
+    },
+    {
+      "wordId": 138,
+      "bookId": "chemistry",
+      "word": "endpoint",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'dpoint' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + dpoint(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 139,
+      "bookId": "chemistry",
+      "word": "equivalence",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "val(价值；力量)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 valere（有力；有价值）。由 e-(出；向外（ex-变体）)+val(价值；力量) 组合而成，原意与“价值；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + val(价值；力量) + -ence(状态；性质；行为) → 产生“价值；力量”的意象 → 演变成该词",
+      "cognates": [
+        "equivalent",
+        "equivalent"
+      ]
+    },
+    {
+      "wordId": 140,
+      "bookId": "chemistry",
+      "word": "point",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pointless",
+        "pointed",
+        "pointedly",
+        "pointlessly"
+      ]
+    },
+    {
+      "wordId": 141,
+      "bookId": "chemistry",
+      "word": "buffer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'buff' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "buff(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "buff"
+      ]
+    },
+    {
+      "wordId": 142,
+      "bookId": "chemistry",
+      "word": "capacity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'capac' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "capac(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "capability",
+        "capacitance",
+        "capaciousness",
+        "capacitate"
+      ]
+    },
+    {
+      "wordId": 143,
+      "bookId": "chemistry",
+      "word": "henderson",
+      "prefix": "",
+      "root": "son(声音)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 145,
+      "bookId": "chemistry",
+      "word": "uv",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 146,
+      "bookId": "chemistry",
+      "word": "vis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 147,
+      "bookId": "chemistry",
+      "word": "ir",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 148,
+      "bookId": "chemistry",
+      "word": "nmr",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 149,
+      "bookId": "chemistry",
+      "word": "mass",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "massive",
+        "massively",
+        "massif",
+        "massiveness"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "chemistry",
+      "word": "spectrometry",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spectral",
+        "spectroscopic",
+        "spectrographic",
+        "spectrometric"
+      ]
+    },
+    {
+      "wordId": 151,
+      "bookId": "chemistry",
+      "word": "gas",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gaseous",
+        "gasify",
+        "gasify"
+      ]
+    },
+    {
+      "wordId": 152,
+      "bookId": "chemistry",
+      "word": "liquid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "liquor",
+        "liquidity",
+        "liquidation",
+        "liquidator"
+      ]
+    },
+    {
+      "wordId": 153,
+      "bookId": "chemistry",
+      "word": "hplc",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 154,
+      "bookId": "chemistry",
+      "word": "tlc",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 155,
+      "bookId": "chemistry",
+      "word": "column",
+      "prefix": "col-（共同（con-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'umn' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "col-(共同（con-变体）) + umn(核心词干) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "columned",
+        "columnist"
+      ]
+    },
+    {
+      "wordId": 156,
+      "bookId": "chemistry",
+      "word": "ion",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ionizing",
+        "ionized",
+        "ionization",
+        "ionisation"
+      ]
+    },
+    {
+      "wordId": 157,
+      "bookId": "chemistry",
+      "word": "exchange",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'change' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + change(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exchanged",
+        "exchangeable",
+        "exchanger",
+        "exchangeability"
+      ]
+    },
+    {
+      "wordId": 158,
+      "bookId": "chemistry",
+      "word": "size",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "sizable",
+        "sizeable",
+        "sized",
+        "sizing"
+      ]
+    },
+    {
+      "wordId": 159,
+      "bookId": "chemistry",
+      "word": "exclusion",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'clu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + clu(核心词干) + -sion(行为；状态) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exclusive",
+        "exclusively",
+        "exclusive",
+        "exclusiveness"
+      ]
+    },
+    {
+      "wordId": 160,
+      "bookId": "chemistry",
+      "word": "affinity",
+      "prefix": "a-（不；无；在…上）",
+      "root": "fin(结束；界限)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 a-(不；无；在…上)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + fin(结束；界限) + -ity(性质；状态；程度) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "affine",
+        "affinal",
+        "affined",
+        "affine"
+      ]
+    },
+    {
+      "wordId": 161,
+      "bookId": "chemistry",
+      "word": "organic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'organ' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "organ(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "organizational",
+        "organised",
+        "organismal",
+        "organically"
+      ]
+    },
+    {
+      "wordId": 162,
+      "bookId": "chemistry",
+      "word": "functional",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'function' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "function(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "functionalist",
+        "functionally",
+        "function",
+        "functionality"
+      ]
+    },
+    {
+      "wordId": 163,
+      "bookId": "chemistry",
+      "word": "group",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "grouping",
+        "grouping"
+      ]
+    },
+    {
+      "wordId": 164,
+      "bookId": "chemistry",
+      "word": "benzene",
+      "prefix": "be-（使…；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'nzene' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "be-(使…；完全) + nzene(核心词干) → 产生“使…；完全”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 165,
+      "bookId": "chemistry",
+      "word": "toluene",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 166,
+      "bookId": "chemistry",
+      "word": "phenol",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "phenolic",
+        "phenolic"
+      ]
+    },
+    {
+      "wordId": 167,
+      "bookId": "chemistry",
+      "word": "aniline",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'iline' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + iline(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 168,
+      "bookId": "chemistry",
+      "word": "methanol",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 169,
+      "bookId": "chemistry",
+      "word": "ethanol",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'thanol' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + thanol(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 170,
+      "bookId": "chemistry",
+      "word": "propanol",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'panol' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + panol(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 171,
+      "bookId": "chemistry",
+      "word": "butanol",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 172,
+      "bookId": "chemistry",
+      "word": "formaldehyde",
+      "prefix": "",
+      "root": "form(形式；形状)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 173,
+      "bookId": "chemistry",
+      "word": "acetaldehyde",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'etaldehyde' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + etaldehyde(核心词干) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 174,
+      "bookId": "chemistry",
+      "word": "acetone",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'etone' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + etone(核心词干) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 175,
+      "bookId": "chemistry",
+      "word": "formic",
+      "prefix": "",
+      "root": "form(形式；形状)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "form(形式；形状) + -ic(…的；与…有关的) → 产生“形式；形状”的意象 → 演变成该词",
+      "cognates": [
+        "formication"
+      ]
+    },
+    {
+      "wordId": 176,
+      "bookId": "chemistry",
+      "word": "acetic",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'et' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + et(核心词干) + -ic(…的；与…有关的) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": [
+        "acetin"
+      ]
+    },
+    {
+      "wordId": 177,
+      "bookId": "chemistry",
+      "word": "propionic",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自Latin/Greek，通常以 'pion' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + pion(核心词干) + -ic(…的；与…有关的) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 178,
+      "bookId": "chemistry",
+      "word": "butyric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'butyr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "butyr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 179,
+      "bookId": "chemistry",
+      "word": "primary",
+      "prefix": "",
+      "root": "prim(第一；首要)",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，源于 primus（第一的）。由 prim(第一；首要) 组合而成，原意与“第一；首要”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "prim(第一；首要) + -ary(与…有关；…的场所) → 产生“第一；首要”的意象 → 演变成该词",
+      "cognates": [
+        "prime",
+        "primal",
+        "prima",
+        "prime"
+      ]
+    },
+    {
+      "wordId": 180,
+      "bookId": "chemistry",
+      "word": "secondary",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'cond' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + cond(核心词干) + -ary(与…有关；…的场所) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": [
+        "second",
+        "second",
+        "secondly",
+        "secondarily"
+      ]
+    },
+    {
+      "wordId": 181,
+      "bookId": "chemistry",
+      "word": "tertiary",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'terti' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "terti(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 182,
+      "bookId": "chemistry",
+      "word": "quaternary",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'quatern' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "quatern(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": [
+        "quaternate",
+        "quaternion",
+        "quaternity"
+      ]
+    },
+    {
+      "wordId": 183,
+      "bookId": "chemistry",
+      "word": "ammonium",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mmonium' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mmonium(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 184,
+      "bookId": "chemistry",
+      "word": "amino",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mino' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mino(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 185,
+      "bookId": "chemistry",
+      "word": "peptide",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 186,
+      "bookId": "chemistry",
+      "word": "structure",
+      "prefix": "",
+      "root": "struct(建造)",
+      "suffix": "-ure(名词)",
+      "etymology": "来自拉丁语 structura，struere(建造、堆积)的名词形式",
+      "wordFormation": "struct(建造) + -ure → 建造出来的东西 → 结构",
+      "cognates": [
+        "construct",
+        "instruct",
+        "destroy",
+        "obstruct"
+      ]
+    },
+    {
+      "wordId": 187,
+      "bookId": "chemistry",
+      "word": "alpha",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pha' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + pha(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "alphabetical",
+        "alphanumeric",
+        "alphabetic",
+        "alphameric"
+      ]
+    },
+    {
+      "wordId": 188,
+      "bookId": "chemistry",
+      "word": "helix",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 189,
+      "bookId": "chemistry",
+      "word": "beta",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 190,
+      "bookId": "chemistry",
+      "word": "sheet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "sheeting",
+        "sheeting"
+      ]
+    },
+    {
+      "wordId": 191,
+      "bookId": "chemistry",
+      "word": "disulfide",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "fid/fis(信任；忠诚)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fidere（信任）。由 dis-(否定；分开；不)+fid/fis(信任；忠诚) 组合而成，原意与“信任；忠诚”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "dis-(否定；分开；不) + fid/fis(信任；忠诚) → 产生“信任；忠诚”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 192,
+      "bookId": "chemistry",
+      "word": "bond",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "bonding",
+        "bonded",
+        "bonding",
+        "bonding"
+      ]
+    },
+    {
+      "wordId": 193,
+      "bookId": "chemistry",
+      "word": "monosaccharide",
+      "prefix": "mono-（单一；一个）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'saccharide' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mono-(单一；一个) + saccharide(核心词干) → 产生“单一；一个”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 194,
+      "bookId": "chemistry",
+      "word": "disaccharide",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'accharide' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dis-(否定；分开；不) + accharide(核心词干) → 产生“否定；分开；不”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 195,
+      "bookId": "chemistry",
+      "word": "polysaccharide",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'saccharide' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + saccharide(核心词干) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 196,
+      "bookId": "chemistry",
+      "word": "glucose",
+      "prefix": "",
+      "root": "luc/lumin(光)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 lux/lucis（光）。由 luc/lumin(光) 组合而成，原意与“光”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 197,
+      "bookId": "chemistry",
+      "word": "fructose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 198,
+      "bookId": "chemistry",
+      "word": "galactose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 199,
+      "bookId": "chemistry",
+      "word": "sucrose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 200,
+      "bookId": "chemistry",
+      "word": "lactose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 201,
+      "bookId": "chemistry",
+      "word": "maltose",
+      "prefix": "mal-（坏；错误）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tose' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mal-(坏；错误) + tose(核心词干) → 产生“坏；错误”的意象 → 演变成该词",
+      "cognates": [
+        "malted",
+        "maltster",
+        "malted"
+      ]
+    },
+    {
+      "wordId": 202,
+      "bookId": "chemistry",
+      "word": "starch",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "starchy"
+      ]
+    },
+    {
+      "wordId": 203,
+      "bookId": "chemistry",
+      "word": "glycogen",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "glycogenic",
+        "glycogenesis"
+      ]
+    },
+    {
+      "wordId": 204,
+      "bookId": "chemistry",
+      "word": "cellulose",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cellulosic",
+        "cellularity"
+      ]
+    },
+    {
+      "wordId": 205,
+      "bookId": "chemistry",
+      "word": "chitin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "chitinous"
+      ]
+    },
+    {
+      "wordId": 206,
+      "bookId": "chemistry",
+      "word": "fatty",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自拉丁语，通常以 'fat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fat(核心词干) + -ty(性质；状态) → 拼合演变成该词",
+      "cognates": [
+        "fat",
+        "fattening",
+        "fatly",
+        "fat"
+      ]
+    },
+    {
+      "wordId": 207,
+      "bookId": "chemistry",
+      "word": "saturated",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "saturate",
+        "saturation",
+        "saturate"
+      ]
+    },
+    {
+      "wordId": 208,
+      "bookId": "chemistry",
+      "word": "unsaturated",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'saturated' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + saturated(核心词干) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 209,
+      "bookId": "chemistry",
+      "word": "triglyceride",
+      "prefix": "tri-（三）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'glyceride' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tri-(三) + glyceride(核心词干) → 产生“三”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 210,
+      "bookId": "chemistry",
+      "word": "phospholipid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 211,
+      "bookId": "chemistry",
+      "word": "steroid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "steroidal"
+      ]
+    },
+    {
+      "wordId": 212,
+      "bookId": "chemistry",
+      "word": "cholesterol",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 213,
+      "bookId": "chemistry",
+      "word": "hormone",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "hormonal"
+      ]
+    },
+    {
+      "wordId": 214,
+      "bookId": "chemistry",
+      "word": "dna",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 215,
+      "bookId": "chemistry",
+      "word": "rna",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 216,
+      "bookId": "chemistry",
+      "word": "nucleotide",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 217,
+      "bookId": "chemistry",
+      "word": "nucleoside",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 218,
+      "bookId": "chemistry",
+      "word": "purine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 219,
+      "bookId": "chemistry",
+      "word": "adenine",
+      "prefix": "ad-（朝向；添加）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'enine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ad-(朝向；添加) + enine(核心词干) → 产生“朝向；添加”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 220,
+      "bookId": "chemistry",
+      "word": "guanine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 221,
+      "bookId": "chemistry",
+      "word": "pyrimidine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 222,
+      "bookId": "chemistry",
+      "word": "cytosine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 223,
+      "bookId": "chemistry",
+      "word": "thymine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 224,
+      "bookId": "chemistry",
+      "word": "uracil",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 225,
+      "bookId": "chemistry",
+      "word": "double",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "doubling",
+        "doubly",
+        "doubling",
+        "doubler"
+      ]
+    },
+    {
+      "wordId": 226,
+      "bookId": "chemistry",
+      "word": "pair",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pairing"
+      ]
+    },
+    {
+      "wordId": 227,
+      "bookId": "chemistry",
+      "word": "replication",
+      "prefix": "re-（再；重新；回）",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 re-(再；重新；回)+plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + plic/plex/ply(折叠；复杂) + -ation(行为；过程；结果) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "replicate",
+        "replicate",
+        "replica",
+        "replicate"
+      ]
+    }
+  ]
+}

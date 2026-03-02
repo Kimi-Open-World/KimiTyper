@@ -26,7 +26,8 @@ export async function initializeBooks(): Promise<WordBook[]> {
   const dynamicIds = [
     'yilin_1', 'yilin_2', 'yilin_3',
     'yilin_elective_1', 'yilin_elective_2', 'yilin_elective_3',
-    'cet6', 'kaoyan', 'biomedical', 'toefl', 'ielts'
+    'cet6', 'kaoyan', 'biomedical', 'toefl', 'ielts',
+    'math', 'physics', 'chemistry'
   ];
   for (const id of dynamicIds) {
     try {
@@ -35,6 +36,18 @@ export async function initializeBooks(): Promise<WordBook[]> {
         const bookData = await res.json();
         const b = Array.isArray(bookData) ? bookData[0] : bookData;
         if (b) {
+          if (b.chapters) {
+            for (const chapter of b.chapters) {
+              if (chapter.words) {
+                for (const word of chapter.words) {
+                  // Map translation field to meaning field if meaning is missing
+                  if (!word.meaning && word.translation) {
+                    word.meaning = word.translation;
+                  }
+                }
+              }
+            }
+          }
           const index = loadedBooks.findIndex(existing => existing.id === b.id);
           if (index >= 0) {
             loadedBooks[index] = b;

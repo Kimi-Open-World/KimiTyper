@@ -1,0 +1,1896 @@
+{
+  "id": "chemistry",
+  "name": "化学专业英语词汇",
+  "description": "化学核心必备词汇，共 225 词",
+  "wordCount": 225,
+  "language": "en",
+  "category": "理科专业",
+  "dataUrl": "/words/chemistry.json",
+  "version": "1.8",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Chapter 1",
+      "description": "Words 1 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 1,
+          "word": "atom",
+          "translation": "n. 原子；微量，极小量",
+          "phonetic": "/ˈætəm/",
+          "example": "Neutrons and protons are bound together in the nucleus of an atom.",
+          "exampleTranslation": "在一个原子的核内，中子和质子聚合在一起。"
+        },
+        {
+          "id": 2,
+          "word": "molecule",
+          "translation": "n. 分子，摩尔；少量，一点儿；微小颗粒，微粒",
+          "phonetic": "/ˈmɒlɪkjuːl/",
+          "example": "The DNA molecule is compounded from many smaller molecules.",
+          "exampleTranslation": "脱氧核糖核酸分子是由许多更小的分子组成的。"
+        },
+        {
+          "id": 3,
+          "word": "reaction",
+          "translation": "n. 反应，回应；反应能力（reactions）；（药物或食物引起的）不良反应；化学反应；反作用力；（对旧观念等的）抗拒；反动，守旧",
+          "phonetic": "/riˈækʃn/",
+          "example": "Reaction to the visit is mixed.",
+          "exampleTranslation": "对这次访问的反应不一。"
+        },
+        {
+          "id": 4,
+          "word": "catalyst",
+          "translation": "n. （化学）催化剂；诱因，诱导者",
+          "phonetic": "/ˈkætəlɪst/",
+          "example": "Many policy makers insist that consumer spending is a strong economic catalyst and, therefore, a paucity of retail stores is a contributing factor to low-performing economies.",
+          "exampleTranslation": "许多政策制定者坚持认为，消费者支出是一个强大的经济催化剂，因此，零售商店稀缺是经济表现不佳的一个促成因素。"
+        },
+        {
+          "id": 5,
+          "word": "isotope",
+          "translation": "n. 同位素",
+          "phonetic": "/ˈaɪsətəʊp/",
+          "example": "As an indicator of shifts in the Earth's climate, the isotope record has two advantages.",
+          "exampleTranslation": "作为地球气候变化的指标，同位素记录有两个优势。"
+        },
+        {
+          "id": 6,
+          "word": "covalent",
+          "translation": "adj. 共价的；共有原子价的",
+          "phonetic": "/ˌkəʊˈveɪlənt/",
+          "example": "These three components are interwoven, and direct covalent linkages.",
+          "exampleTranslation": "这三种成分相互交织，直接形成共价键。"
+        },
+        {
+          "id": 7,
+          "word": "ionic",
+          "translation": "adj. 离子的；电价的；爱奥尼亚柱式的（古希腊建筑风格，有涡卷饰）；n. 爱奥尼亚语；【印】一种粗字面铅字",
+          "phonetic": "/aɪˈɒnɪk/",
+          "example": "The ion-supported hypervalent iodine(iii) reagent is a kind of \"task-specific ionic liquids\".",
+          "exampleTranslation": "离子负载的高价碘（iii）试剂是一种“功能化离子液体”。"
+        },
+        {
+          "id": 8,
+          "word": "oxidation",
+          "translation": "n. [化学] 氧化",
+          "phonetic": "/ˌɒksɪˈdeɪʃn/",
+          "example": "Chemoautotrophs and chemoheterotrophs obtain energy from inorganic oxidation reactions.",
+          "exampleTranslation": "化学自养生物和化学异养生物从无机氧化反应获得能量。"
+        },
+        {
+          "id": 9,
+          "word": "reduction",
+          "translation": "n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）；浓汤，浓汁；脱臼（或断骨）复位；（化学）还原，被还原；（语音）弱化",
+          "phonetic": "/rɪˈdʌkʃ(ə)n/",
+          "example": "There has been some reduction in unemployment.",
+          "exampleTranslation": "失业人数有所减少。"
+        },
+        {
+          "id": 10,
+          "word": "acid",
+          "translation": "n. 酸；<非正式>迷幻药；尖刻（或尖酸）的言语（或语调）；质子供体，电子对受体；adj. 酸的；酸性的；尖酸的，刻薄的；（颜色）刺目的，鲜亮的；（岩石，尤指熔岩）含相当量硅石的",
+          "phonetic": "/ˈæsɪd/",
+          "example": "Rye is tolerant of poor, acid soils.",
+          "exampleTranslation": "黑麦耐贫瘠的酸性土壤。"
+        },
+        {
+          "id": 11,
+          "word": "base",
+          "translation": "n. 根基，底部；基础；基地；基础成分；（数字进位制中的）基数；（棒球）垒；碱，盐基；（晶体管的）基极；词根；v. 以……为基础；把基地设在……；adj. 卑鄙的，下流的；低劣的；【名】 （Base）（英、美、爱尔兰）马濑（人名）",
+          "phonetic": "/beɪs/",
+          "example": "He's gone AWOL from his base.",
+          "exampleTranslation": "他从基地开了小差。"
+        },
+        {
+          "id": 12,
+          "word": "titration",
+          "translation": "n. （化学）滴定，滴定法",
+          "phonetic": "/taɪˈtreɪʃn; tɪˈtreɪʃn/",
+          "example": "In Dr Nersesian’s titration the litmus was a species called the brushtail possum.",
+          "exampleTranslation": "涅尔谢相博士的滴定实验中的“石蕊指示剂”是一种叫帚尾袋貂的动物。"
+        },
+        {
+          "id": 13,
+          "word": "polymer",
+          "translation": "n. [高分子]聚合物；n. （Polymer）人名；（英）波利默",
+          "phonetic": "/ˈpɒlɪmə(r)/",
+          "example": "The nature of the polymer is currently a trade secret.",
+          "exampleTranslation": "该聚合物的属性目前是个行业秘密。"
+        },
+        {
+          "id": 14,
+          "word": "isomer",
+          "translation": "n. [化学] 同分异构物；[核] 同质异能素",
+          "phonetic": "/ˈaɪsəmə(r)/",
+          "example": "It is a constitutional isomer of dimethyl ether.",
+          "exampleTranslation": "这是二甲醚的结构异构体。"
+        },
+        {
+          "id": 15,
+          "word": "electronegativity",
+          "translation": "n. [化学] 电负性；[化学] 电负度",
+          "phonetic": "/ɪˌlektrəʊˌneɡəˈtɪvɪti/",
+          "example": "The affection on the enthalpies of formation aroused by factors, such as size factor, electronegativity, the energy of orbit of selectron etc, is also discussed.",
+          "exampleTranslation": "还讨论了尺寸因子，电负性，选择子的轨道能量等因素对形成焓的影响。"
+        },
+        {
+          "id": 16,
+          "word": "stoichiometry",
+          "translation": "n. 化学计量学",
+          "phonetic": "/ˌstɔɪkɪˈɒmɪtri/",
+          "example": "We will cover stoichiometry and solution chemistry this semester.",
+          "exampleTranslation": "本学期下半学期我们将涵盖化学计量学和溶液化。"
+        },
+        {
+          "id": 17,
+          "word": "bonding",
+          "translation": "v. 黏合；建立关系；把（货物）存入关栈中（bond 的现在分词）；n. 人与人之间的关系；键合；粘合",
+          "phonetic": "/ˈbɒndɪŋ/",
+          "example": "Brick works in high-temperature furnaces, maybe tiles on the shuttle, to resist high temperatures because of the high internal bonding.",
+          "exampleTranslation": "砖在高温熔炉中工作，比如航天飞机上的贴的砖，因其强内部键可以抵抗高温。"
+        },
+        {
+          "id": 18,
+          "word": "metallic",
+          "translation": "adj. 含金属的，金属制的；（金属碰撞发出的）叮当声的；（色彩）似金属的，像金属般闪烁的；金属味的；尖利刺耳的，难听的；n. 金属制品，含金属物；金属色泽",
+          "phonetic": "/məˈtælɪk/",
+          "example": "There was a metallic click and the gates swung open.",
+          "exampleTranslation": "一声金属碰撞的咔嗒声后，大门打开了。"
+        },
+        {
+          "id": 19,
+          "word": "hydrocarbon",
+          "translation": "n. [有化] 碳氢化合物",
+          "phonetic": "/ˌhaɪdrəˈkɑːbən/",
+          "example": "These reactions increase the probability of incomplete combustion and are more likely to release uncombusted and photochemically active hydrocarbon compounds into the atmosphere.",
+          "exampleTranslation": "这些反应增加了不完全燃烧的可能性，更有可能释放未燃尽和光化学活性碳氢化合物到大气中。"
+        },
+        {
+          "id": 20,
+          "word": "alkane",
+          "translation": "n. [有化] 链烷；烷属烃",
+          "phonetic": "/ˈælkeɪn/",
+          "example": "That means each of its molecules contains an oxygen atom as well as the carbon and hydrogen found in an alkane.",
+          "exampleTranslation": "就是说每个分子也都含有氧原子以及在烷烃中存在的碳和氢。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2",
+      "description": "Words 21 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 21,
+          "word": "alkene",
+          "translation": "n. [有化] 烯烃；链烯烃",
+          "phonetic": "/ˈælkiːn/",
+          "example": "Diastereoselective transfer of the diazene hydrogen to one face of the prochiral alkene was studied.",
+          "exampleTranslation": "研究了重氮烯氢向前手性烯烃单侧的非对映选择性转移。"
+        },
+        {
+          "id": 22,
+          "word": "alkyne",
+          "translation": "n. 炔属烃",
+          "phonetic": "/ˈælkaɪn/",
+          "example": "Introduction to the Alkyne Triple Bond.",
+          "exampleTranslation": "炔烃三键介绍。"
+        },
+        {
+          "id": 23,
+          "word": "aromatic",
+          "translation": "adj. 芳香的，芬芳的；芳香族的；n. 芳香植物；芳香剂",
+          "phonetic": "/ˌærəˈmætɪk/",
+          "example": "Technically speaking, a spice is part of an aromatic plant that is not a leaf or herb.",
+          "exampleTranslation": "从技术上讲，香料是芳香植物的一部分，不只是叶子或药草。"
+        },
+        {
+          "id": 24,
+          "word": "alcohol",
+          "translation": "n. 含酒精饮品，酒；酒精，乙醇；醇",
+          "phonetic": "/ˈælkəhɒl/",
+          "example": "Wine contains about 10% alcohol.",
+          "exampleTranslation": "葡萄酒含有约10%的酒精。"
+        },
+        {
+          "id": 25,
+          "word": "ether",
+          "translation": "n. 乙醚；[有化] 以太；苍天；天空醚",
+          "phonetic": "/ˈiːθə(r)/",
+          "example": "Her words disappeared into the ether.",
+          "exampleTranslation": "她的话消失在九霄云外。"
+        },
+        {
+          "id": 26,
+          "word": "aldehyde",
+          "translation": "n. 醛；乙醛",
+          "phonetic": "/ˈældɪhaɪd/",
+          "example": "An aldehyde is an organic compound containing a formyl group.",
+          "exampleTranslation": "醛是一种含有甲酰组的有机化合物。"
+        },
+        {
+          "id": 27,
+          "word": "ketone",
+          "translation": "n. 酮",
+          "phonetic": "/ˈkiːtəʊn/",
+          "example": "Methanethiol, furanthiol, pyrazine, trans, trans-2,4-nonadienal and furfuran ketone were used to develop beef flavor.",
+          "exampleTranslation": "采用甲硫醇、呋喃硫醇、吡嗪、反-2，4-壬二烯醛和呋喃酮等主要的牛肉香气成分香原料，可以调配出香气逼真的炖牛肉香精。"
+        },
+        {
+          "id": 28,
+          "word": "carboxylic",
+          "translation": "adj. [有化] 羧基的",
+          "phonetic": "/ˌkɑːbɒkˈsɪlɪk/",
+          "example": "Carboxylic acid esters are important chemical raw materials.",
+          "exampleTranslation": "羧酸酯是重要的化工原料。"
+        },
+        {
+          "id": 29,
+          "word": "ester",
+          "translation": "n. [有化]酯；n. （Ester）人名；（法）埃斯泰；（德、西、意、葡、罗、挪、丹、芬、爱沙）埃斯特尔",
+          "phonetic": "/ˈestə(r)/",
+          "example": "The invention relates to the application of elaidic acid ethyl ester.",
+          "exampleTranslation": "本发明涉及到反油酸乙酯的应用。"
+        },
+        {
+          "id": 30,
+          "word": "amine",
+          "translation": "n. [有化]胺（等于 amin）；n. （Amine）人名；（阿拉伯）阿明；（俄）阿米涅",
+          "phonetic": "/əˈmiːn/",
+          "example": "The chiral HMPA analogues were prepared in high yield by nucleophilic substitution between the chiral secondary amine and phosphoryl chloride.",
+          "exampleTranslation": "通过磷酰氯与手性仲胺的亲核取代反应高产率地合成了手性 HMPA 类似物。"
+        },
+        {
+          "id": 31,
+          "word": "amide",
+          "translation": "n. 氨基化合物；酰胺",
+          "phonetic": "/ˈæmaɪd/",
+          "example": "The effect of content of water on the yield of 2-phenylbenzmide by using sodium amide was studied.",
+          "exampleTranslation": "研究了水分含量对氨基化钠制备2-苯基苯甲酸胺收率的影响。"
+        },
+        {
+          "id": 32,
+          "word": "protein",
+          "translation": "n. 蛋白质，朊；adj. 蛋白质的",
+          "phonetic": "/ˈprəʊtiːn/",
+          "example": "You need more protein to build you up.",
+          "exampleTranslation": "你需要更多蛋白质以增强体质。"
+        },
+        {
+          "id": 33,
+          "word": "carbohydrate",
+          "translation": "n. 碳水化合物，糖类；含碳水化合物的食物，糖类食物；含碳水化合物的食物，糖类食物",
+          "phonetic": "/ˌkɑːbəʊˈhaɪdreɪt/",
+          "example": "Protein and carbohydrate have 4 calories per gram, per unit weight.",
+          "exampleTranslation": "每克每单位重量蛋白质和碳水化合物产生4卡路里。"
+        },
+        {
+          "id": 34,
+          "word": "lipid",
+          "translation": "n. 脂质；油脂",
+          "phonetic": "/ˈlɪpɪd/",
+          "example": "MsbA is a lipid flippase.",
+          "exampleTranslation": "MsbA是一种脂质反转酶。"
+        },
+        {
+          "id": 35,
+          "word": "nucleic",
+          "translation": "adj. 核的",
+          "phonetic": "/njuːˈkleɪɪk/",
+          "example": "Biochemists call it the central dogma: Genetic material, in the form of a long nucleic acid polymer called DNA, stores a digital record of every protein's design.",
+          "exampleTranslation": "生物化学家将这套系统称之为中心法则(central dogma)：以长链核酸聚合物形式存在的DNA是遗传物质，它储存着每种蛋白质设计的数据记录。"
+        },
+        {
+          "id": 36,
+          "word": "enzyme",
+          "translation": "n. 酶",
+          "phonetic": "/ˈenzaɪm/",
+          "example": "This enzyme would make the filtration of beer easier.",
+          "exampleTranslation": "这种酶会使啤酒更容易过滤"
+        },
+        {
+          "id": 37,
+          "word": "substrate",
+          "translation": "n. 培养基，基质，基层；底物，酶作用物；（供放置或刻的）底面",
+          "phonetic": "/ˈsʌbstreɪt/",
+          "example": "Adults of this species burrow deeply into the substrate where it is cooler and perhaps moister.",
+          "exampleTranslation": "这个物种的成虫深入到底层中，那里更凉爽，也许也更湿润。"
+        },
+        {
+          "id": 38,
+          "word": "inhibitor",
+          "translation": "n. [助剂] 抑制剂，抗化剂；抑制者",
+          "phonetic": "/ɪnˈhɪbɪtə(r)/",
+          "example": "Inhibitor drugs have been developed to block two of the proteins, to slow progression of the disease after infection.",
+          "exampleTranslation": "已经开发出抑制药物来阻断其中两种蛋白质，以减缓感染后疾病的进程。"
+        },
+        {
+          "id": 39,
+          "word": "kinetics",
+          "translation": "n. 反应动力学；动力学；运动学",
+          "phonetic": "/kɪˈnetɪks; kaɪˈnetɪks/",
+          "example": "Thermal Decomposition reaction kinetics of cerium carbonate was investigated with Netzsch thermal analyzer.",
+          "exampleTranslation": "利用德国耐驰综合热分析仪对碳酸铈分解过程动力学进行了研究。"
+        },
+        {
+          "id": 40,
+          "word": "equilibrium",
+          "translation": "n. 平衡，均衡；（心情的）平静，心理平衡；（经济）（供求的）平衡；（化）平衡；能量均分",
+          "phonetic": "/ˌiːkwɪˈlɪbriəm/",
+          "example": "We have achieved an equilibrium in the economy.",
+          "exampleTranslation": "我们已在经济上达到平衡。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3",
+      "description": "Words 41 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 41,
+          "word": "enthalpy",
+          "translation": "n. [热] 焓；[热] 热函；热含量",
+          "phonetic": "/ˈenθælpɪ; ˈenθəlpɪ/",
+          "example": "Something I can measure and I can tabulate, and when I turn my dT knob, I know what's going to happen to the enthalpy.",
+          "exampleTranslation": "我可以测量它并制成表格，当我转动 dT 旋钮，我就知道焓的变化了。"
+        },
+        {
+          "id": 42,
+          "word": "entropy",
+          "translation": "n. [热] 熵（热力学函数）",
+          "phonetic": "/ˈentrəpi/",
+          "example": "If we calculate the change in entropy during gas mixing, we will find that this quantity is positive.",
+          "exampleTranslation": "如果我们计算气体混合过程中熵的变化，我们会发现这个量是正的。"
+        },
+        {
+          "id": 43,
+          "word": "gibbs",
+          "translation": "n. 吉布斯（姓氏）",
+          "phonetic": "/ɡɪbz/",
+          "example": "Gibbs was arrested in the early hours of yesterday morning.",
+          "exampleTranslation": "吉布斯在昨天凌晨被捕。"
+        },
+        {
+          "id": 44,
+          "word": "calorimetry",
+          "translation": "n. [热] 量热学；热量测定",
+          "phonetic": "/kæləˈrɪmɪtri/",
+          "example": "All right, let me just go through one numerical example of a calorimetry calculation, OK.",
+          "exampleTranslation": "好，让我们来做一个量热，法计算的例子，我不会把所有的。"
+        },
+        {
+          "id": 45,
+          "word": "solubility",
+          "translation": "n. 溶解度；可解决性",
+          "phonetic": "/ˌsɒljuˈbɪləti/",
+          "example": "The results showed that he solubility of xylitolincreased with adding impurities such as sorbitol or adonitol.",
+          "exampleTranslation": "结果表明，木糖醇的溶解度随加入山梨糖醇或山梨糖醇等杂质而增加。"
+        },
+        {
+          "id": 46,
+          "word": "concentration",
+          "translation": "n. 专心，专注；关注，重视；集中，聚集；含量，浓度",
+          "phonetic": "/ˌkɒns(ə)nˈtreɪʃ(ə)n/",
+          "example": "Tiredness affects your powers of concentration.",
+          "exampleTranslation": "疲劳影响注意力的集中。"
+        },
+        {
+          "id": 47,
+          "word": "molarity",
+          "translation": "n. [化学] 摩尔浓度；容模",
+          "phonetic": "/məʊˈlærɪti/",
+          "example": "These two solutions still contain exactly the same number of molecules because they are of the same molarity.",
+          "exampleTranslation": "这两种溶液仍然含有相同数量的分子，因为它们的克分子浓度相同。"
+        },
+        {
+          "id": 48,
+          "word": "molality",
+          "translation": "n. 质量摩尔浓度 [分化] 重量摩尔浓度 [化学]（旧称重量克分子浓度）",
+          "phonetic": "/mɒˈlæləti/",
+          "example": "I said we're going to use molality.",
+          "exampleTranslation": "刚才说我们要用质量摩尔浓度。"
+        },
+        {
+          "id": 49,
+          "word": "normality",
+          "translation": "n. 常态；[化学] 当量浓度；[化学] 规定浓度",
+          "phonetic": "/nɔːˈmæləti/",
+          "example": "A semblance of normality has returned with people going to work and shops reopening.",
+          "exampleTranslation": "随着人们上班、商店重新营业，表面已恢复了常态。"
+        },
+        {
+          "id": 50,
+          "word": "solvent",
+          "translation": "adj. （尤指公司）有偿付能力的，付得起的；有溶解力的；n. 溶剂；（对处境的某种态度）起削弱（或瓦解）作用的事物；解决方法",
+          "phonetic": "/ˈsɒlvənt/",
+          "example": "Lead is more solvent in acidic water.",
+          "exampleTranslation": "铅在酸性水中更易溶解。"
+        },
+        {
+          "id": 51,
+          "word": "solute",
+          "translation": "n. 溶质，溶解物；adj. 溶解的",
+          "phonetic": "/ˈsɒljuːt; sɒˈljuːt/",
+          "example": "So now the CS2 is the solute.",
+          "exampleTranslation": "那么CS2就是溶质。"
+        },
+        {
+          "id": 52,
+          "word": "solution",
+          "translation": "n. （问题、困难等的）解决办法；（练习或竞赛的）解答，答案；溶液；溶解过程，溶解状态；（满足特定需要的）产品（或服务）（solutions）",
+          "phonetic": "/səˈluːʃ(ə)n/",
+          "example": "Do you have a better solution?",
+          "exampleTranslation": "你有更好的解决办法吗？"
+        },
+        {
+          "id": 53,
+          "word": "colloid",
+          "translation": "adj. 胶质的，胶体的；n. 胶状体",
+          "phonetic": "/ˈkɒlɔɪd/",
+          "example": "Colloid tumour pretty is troublesome.",
+          "exampleTranslation": "胶质瘤蛮麻烦的。"
+        },
+        {
+          "id": 54,
+          "word": "suspension",
+          "translation": "n. 暂停，中止；暂令停职（或停学、停赛等）；（车辆的）悬架，减震装置；悬浮液，悬胶体；（乐）延留音",
+          "phonetic": "/səˈspenʃ(ə)n/",
+          "example": "The car's improved suspension gives you a smoother ride.",
+          "exampleTranslation": "汽车悬架经过改进，乘坐起来更平稳。"
+        },
+        {
+          "id": 55,
+          "word": "precipitate",
+          "translation": "v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）（precipitate sb./sth. into）；（使）沉淀，（使）淀析；<正式>使急落直下，使陡然下落；降水（如雨、雪、冰雹）；adj. <正式>鲁莽的，仓促的（=precipitous）；（事件，情况）突如其来的，突然的；猛地落下的；n. 沉淀物，析出物",
+          "phonetic": "/prɪˈsɪpɪteɪt/",
+          "example": "I don't think we should make precipitate decisions.",
+          "exampleTranslation": "我认为我们不应该做出仓促的决定。"
+        },
+        {
+          "id": 56,
+          "word": "filtrate",
+          "translation": "n. 滤液；滤气；v. 过滤；筛选",
+          "phonetic": "/ˈfɪltreɪt/",
+          "example": "A filtrate collection box sits underneath, and seals against, the upper belt.",
+          "exampleTranslation": "滤液收集盒紧靠着上方皮带的下面密封。"
+        },
+        {
+          "id": 57,
+          "word": "distillation",
+          "translation": "n. 精馏，蒸馏，净化；蒸馏法；精华，蒸馏物",
+          "phonetic": "/ˌdɪstɪˈleɪʃn/",
+          "example": "The Arabs are usually accredited with the discovery of distillation.",
+          "exampleTranslation": "通常认为，阿拉伯人发明了蒸馏法。"
+        },
+        {
+          "id": 58,
+          "word": "chromatography",
+          "translation": "n. 色层分析；色谱分析法",
+          "phonetic": "/ˌkrəʊməˈtɒɡrəfi/",
+          "example": "The measurement of urine kynurenic is acid by high-performance liquid chromatography.",
+          "exampleTranslation": "用高效液相色谱法测定尿中尿碱含量。"
+        },
+        {
+          "id": 59,
+          "word": "spectroscopy",
+          "translation": "n. [光] 光谱学",
+          "phonetic": "/spekˈtrɒskəpi/",
+          "example": "The element was found using X-ray spectroscopy.",
+          "exampleTranslation": "这种元素是利用 X 射线光谱学发现的。"
+        },
+        {
+          "id": 60,
+          "word": "nuclear",
+          "translation": "adj. 核子的，原子核的；核武器的；原子能的，核能的；核心的，中心的；细胞核的，构成细胞核的",
+          "phonetic": "/ˈnjuːkliə(r)/",
+          "example": "Nuclear power is cleaner than coal.",
+          "exampleTranslation": "核能比煤更清洁。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4",
+      "description": "Words 61 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 61,
+          "word": "orbital",
+          "translation": "adj. 轨道的；<英>（公路）环城的；眼眶的；n. <英>外环高速公路；（物理）轨道电子密度",
+          "phonetic": "/ˈɔːbɪt(ə)l/",
+          "example": "In molecular orbital theory, we named orbits based on their symmetry.",
+          "exampleTranslation": "在分子轨道理论中，我们基于轨道的对称性给它们命名。"
+        },
+        {
+          "id": 62,
+          "word": "electron",
+          "translation": "n. 电子",
+          "phonetic": "/ɪˈlektrɒn/",
+          "example": "Magnetic coils focus the electron beams into fine spots.",
+          "exampleTranslation": "磁线圈将电子束聚焦成细小的点。"
+        },
+        {
+          "id": 63,
+          "word": "proton",
+          "translation": "n. [物]质子；n. （Proton）人名；（法）普罗东",
+          "phonetic": "/ˈprəʊtɒn/",
+          "example": "Every time you had one more proton, you had another element.",
+          "exampleTranslation": "每发现多一个质子，就会多一种元素。"
+        },
+        {
+          "id": 64,
+          "word": "neutron",
+          "translation": "n. 中子",
+          "phonetic": "/ˈnjuːtrɒn/",
+          "example": "If the conditions are right, they will combine, fuse and form darmstadtium plus neutron.",
+          "exampleTranslation": "如果条件合适，它们将结合、聚变，形成鐽中子。"
+        },
+        {
+          "id": 65,
+          "word": "cation",
+          "translation": "n. （化）正离子，阳离子；【名】  （Cation）凯申（人名）； （Cation）（英）凯申（人名）",
+          "phonetic": "/ˈkætaɪən/",
+          "example": "The 2-norbornyl cation has been made from a variety of norbornane derivatives and reagents.",
+          "exampleTranslation": "2-降冰片基阳离子已经由多种降冰片烷衍生物和试剂制成。"
+        },
+        {
+          "id": 66,
+          "word": "anion",
+          "translation": "n. 阴离子，负离子",
+          "phonetic": "/ˈænaɪən/",
+          "example": "The mechanism of organic acids on an anion exchange column Shim pack (Shimadzu, Japan) have been studied.",
+          "exampleTranslation": "研究了有机酸在阴离子交换柱垫片组（日本岛津）上的作用机制。"
+        },
+        {
+          "id": 67,
+          "word": "electrolyte",
+          "translation": "n. 电解液，电解质；电解",
+          "phonetic": "/ɪˈlektrəlaɪt/",
+          "example": "Proton exchange membrane fuel cells use a perfluorosulfonic solid polymer film as electrolyte.",
+          "exampleTranslation": "质子交换膜燃料电池采用全氟磺酸固体聚合物膜为电解质。"
+        },
+        {
+          "id": 68,
+          "word": "galvanic",
+          "translation": "adj. 电流的；使人震惊的；触电似的",
+          "phonetic": "/ɡælˈvænɪk/",
+          "example": "This corrosion is also galvanic.",
+          "exampleTranslation": "这种腐蚀也是电池腐蚀。"
+        },
+        {
+          "id": 69,
+          "word": "electrolysis",
+          "translation": "n. [化学] 电解，[化学] 电解作用；以电针除痣",
+          "phonetic": "/ɪˌlekˈtrɒləsɪs/",
+          "example": "Faraday conducted electrolysis of silver.",
+          "exampleTranslation": "法拉第做了银的电解实验。"
+        },
+        {
+          "id": 70,
+          "word": "anode",
+          "translation": "n. （在电解池中）阳极，正极；（在原电池中）负极",
+          "phonetic": "/ˈænəʊd/",
+          "example": "When a battery charges, energy moves between its cathode and anode.",
+          "exampleTranslation": "电池充电时，能量从阴极移至阳极。"
+        },
+        {
+          "id": 71,
+          "word": "cathode",
+          "translation": "n. 阴极，负极（在电解池中，发生还原反应的电极）；正极（在原电池中，发生还原反应的电极）",
+          "phonetic": "/ˈkæθəʊd/",
+          "example": "XRD patterns showed that the cathode material is well-crystallized, homogeneous olivine-type phase, with only tiny trivalence iron impurities.",
+          "exampleTranslation": "XRD 图谱表明，阴极材料结晶完整，为均一橄榄石型结构，仅含少量三价铁杂质。"
+        },
+        {
+          "id": 72,
+          "word": "valence",
+          "translation": "n. [化学]价；[化学]原子价；[化学]化合价；效价；n. （Valence）人名；（法）瓦朗斯",
+          "phonetic": "/ˈvæləns; ˈveɪləns/",
+          "example": "What if we capture all of the valence electrons?",
+          "exampleTranslation": "如果我们捕获了所有价电子会怎样呢？"
+        },
+        {
+          "id": 73,
+          "word": "octet",
+          "translation": "n. 八重奏，八重唱；八行诗；八个一组的物品；[计] 八位字节",
+          "phonetic": "/ɒkˈtet/",
+          "example": "An array of octet would not.",
+          "exampleTranslation": "而octet数组却不会。"
+        },
+        {
+          "id": 74,
+          "word": "lattice",
+          "translation": "n. [晶体] 晶格；格子；格架；vt. 使成格子状",
+          "phonetic": "/ˈlætɪs/",
+          "example": "We were crawling along the narrow steel lattice of the bridge.",
+          "exampleTranslation": "我们沿着大桥窄窄的钢制格子爬行着。"
+        },
+        {
+          "id": 75,
+          "word": "amorphous",
+          "translation": "adj. 无定形的；无组织的；[物] 非晶形的",
+          "phonetic": "/əˈmɔːfəs/",
+          "example": "These are amorphous targets.",
+          "exampleTranslation": "这些都是无形的目标。"
+        },
+        {
+          "id": 76,
+          "word": "crystalline",
+          "translation": "adj. 透明的；水晶般的；水晶制的",
+          "phonetic": "/ˈkrɪstəlaɪn/",
+          "example": "There have been so much solid crystalline salt beneath the floor of the Mediterranean.",
+          "exampleTranslation": "在地中海的海底下曾经有那么多的固态结晶盐。"
+        },
+        {
+          "id": 77,
+          "word": "allotrope",
+          "translation": "n. [物化] 同素异形体",
+          "phonetic": "/ˈælətrəʊp/",
+          "example": "Naturally occurring transparent, colorless crystalline allotrope of carbon.",
+          "exampleTranslation": "天然存在的透明、无色、结晶的碳的同素异形体。"
+        },
+        {
+          "id": 78,
+          "word": "metalloid",
+          "translation": "n. 非金属；[材] 类金属；准金属；adj. 非金属的；类似金属性的；准金属的",
+          "phonetic": "/ˈmetlɔɪd/",
+          "example": "Polonium is a highly radioactive element and a metalloid.",
+          "exampleTranslation": "钋是高放射性的元素，金属。"
+        },
+        {
+          "id": 79,
+          "word": "halogen",
+          "translation": "n. [化学] 卤素",
+          "phonetic": "/ˈhælədʒən/",
+          "example": "Are those halogen lamps?",
+          "exampleTranslation": "这些灯是射灯吗？"
+        },
+        {
+          "id": 80,
+          "word": "noble",
+          "translation": "adj. 崇高的，高尚的；宏伟的，卓越的；贵族的，高贵的；惰性的；n. （旧时的）贵族；【名】 （Noble）（英、法、意）诺布尔，（西）诺夫莱，（阿拉伯）努布莱（人名）",
+          "phonetic": "/ˈnəʊb(ə)l/",
+          "example": "He died for a noble cause.",
+          "exampleTranslation": "他为了高尚的事业而牺牲。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5",
+      "description": "Words 81 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 81,
+          "word": "transition",
+          "translation": "n. 过渡，转变；（分子生物）转换；（乐）临时转调；（物理）跃迁，转变；v. 转变，过渡",
+          "phonetic": "/trænˈzɪʃ(ə)n/",
+          "example": "The transition from school to work can be difficult.",
+          "exampleTranslation": "从在学校念书到上班工作，这一转变有时候可真不容易。"
+        },
+        {
+          "id": 82,
+          "word": "alkali",
+          "translation": "n. 碱；可溶性无机盐；adj. 碱性的；n. （Alkali）人名；（冈、乍、尼日利）阿尔卡利",
+          "phonetic": "/ˈælkəlaɪ/",
+          "example": "Both China and many other countries around the world have large saline-alkali land.",
+          "exampleTranslation": "中国和世界上其他许多国家都有大片盐碱地。"
+        },
+        {
+          "id": 83,
+          "word": "alkaline",
+          "translation": "adj. 碱性的；含碱的",
+          "phonetic": "/ˈælkəlaɪn/",
+          "example": "Some soils are actually too alkaline for certain plant life.",
+          "exampleTranslation": "有些土壤的碱性，实际上对某些植物的生长是过高的。"
+        },
+        {
+          "id": 84,
+          "word": "lanthanide",
+          "translation": "n. [化学] 镧系元素",
+          "phonetic": "/ˈlænθəˌnaɪd/",
+          "example": "CONCLUSION: Lanthanide ions affected degradation and crosslinking on genomic DNA of E. coli.",
+          "exampleTranslation": "结论镧离子对大肠杆菌基因组dna可能具有降解或交联作用。"
+        },
+        {
+          "id": 85,
+          "word": "actinide",
+          "translation": "n. [化学] 锕类；锕系元素",
+          "phonetic": "/ˈæktɪˌnaɪd/",
+          "example": "Note3: Actinide abundance ratios may be applied to measurements of stellar ages.",
+          "exampleTranslation": "注3：锕充足比率可用于测量恒星的年龄。"
+        },
+        {
+          "id": 86,
+          "word": "periodic",
+          "translation": "adj. 阶段性的，定期的；（化学）元素周期表的；（修辞）完整句的",
+          "phonetic": "/ˌpɪəriˈɒdɪk/",
+          "example": "Periodic checks are carried out on the equipment.",
+          "exampleTranslation": "设备定期进行检查。"
+        },
+        {
+          "id": 87,
+          "word": "element",
+          "translation": "n. 基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒；【名】 （Element）（英）埃利门特，（德）埃勒门特（人名）",
+          "phonetic": "/ˈelɪmənt/",
+          "example": "Cost was a key element in our decision.",
+          "exampleTranslation": "价钱是我们决策时考虑的主要因素。"
+        },
+        {
+          "id": 88,
+          "word": "compound",
+          "translation": "n. 混合物，化合物；复合词；大院，有围墙的场地；adj. 复合的，混合的；以复利计算的；v. 使加重，使恶化；合成，混合；以复利计算支付；和解，私了",
+          "phonetic": "/ˈkɒmpaʊnd/",
+          "example": "Common salt is a compound of sodium and chlorine.",
+          "exampleTranslation": "普通食盐是钠和氯的化合物。"
+        },
+        {
+          "id": 89,
+          "word": "mixture",
+          "translation": "n. 混合体，结合体；混合物，混合料；混合；（未经化学反应而形成的）混合物；（内燃机汽缸中）混合气；混合音栓",
+          "phonetic": "/ˈmɪkstʃə(r)/",
+          "example": "Air is a mixture of gases.",
+          "exampleTranslation": "空气为混合气体。"
+        },
+        {
+          "id": 90,
+          "word": "homogeneous",
+          "translation": "adj. 同种类的，同性质的；齐性的，齐次的；同形态（固态、液态或气态）的",
+          "phonetic": "/ˌhɒməˈdʒiːniəs/",
+          "example": "Audiences are smaller and more homogeneous than they have been in the past.",
+          "exampleTranslation": "受众规模比过去更小、更同质。"
+        },
+        {
+          "id": 91,
+          "word": "heterogeneous",
+          "translation": "adj. 有很多种类组成的；（化）不均一的，多相的；（数）不纯一的，参差的",
+          "phonetic": "/ˌhetərəˈdʒiːniəs/",
+          "example": "Geologists have long known that the Earth's mantle is heterogeneous, but its spatial arrangement remains unresolved—is the mantle essentially layered or irregu larly heterogeneous?",
+          "exampleTranslation": "地质学家早就知道地球的地幔是不均匀的，但是它的空间排列仍然没有确定——地幔本质上是分层的还是完全不均匀的？"
+        },
+        {
+          "id": 92,
+          "word": "exothermic",
+          "translation": "adj. 发热的；放出热量的；[热] 放热的",
+          "phonetic": "/ˌeksəʊˈθɜːmɪk/",
+          "example": "Is Hell exothermic or endothermic?",
+          "exampleTranslation": "地狱是放热还是吸热？"
+        },
+        {
+          "id": 93,
+          "word": "endothermic",
+          "translation": "adj. [热] 吸热的；温血的",
+          "phonetic": "/ˌendəʊˈθɜːmɪk/",
+          "example": "Is Hell exothermic or endothermic?",
+          "exampleTranslation": "地狱是放热还是吸热？"
+        },
+        {
+          "id": 94,
+          "word": "activation",
+          "translation": "n. [电子][物] 激活；活化作用",
+          "phonetic": "/ˌæktɪˈveɪʃn/",
+          "example": "Arousal is at first general, with a flooding of impulses in the brain stem; then gradually the activation is channeled.",
+          "exampleTranslation": "一开始觉醒是普遍的，在脑干中有大量的脉冲，然后激活作用逐渐被输送。"
+        },
+        {
+          "id": 95,
+          "word": "mechanism",
+          "translation": "n. 机械装置，机件；途径，方法；（生物体内的）机制，构造；机械论；（产生自然现象等的）物理过程",
+          "phonetic": "/ˈmekənɪzəm/",
+          "example": "Pain acts as a natural defence mechanism.",
+          "exampleTranslation": "疼痛算是一种自然防护机制的作用。"
+        },
+        {
+          "id": 96,
+          "word": "intermediate",
+          "translation": "adj. 居中的，中间的；中等程度的，中级的；n. 中级水平者，中级学生；中间事物；（化合物）中间体；v. 充当调解人，斡旋",
+          "phonetic": "/ˌɪntəˈmiːdiət/",
+          "example": "Students are categorized as novice, intermediate, or advanced.",
+          "exampleTranslation": "学生分为新生、中级生或高级生。"
+        },
+        {
+          "id": 97,
+          "word": "thermodynamics",
+          "translation": "n. 热力学",
+          "phonetic": "/ˌθɜːməʊdaɪˈnæmɪks/",
+          "example": "Ageing in this case must occur according to the laws of physical chemistry and of thermodynamics.",
+          "exampleTranslation": "在这种情况下，老化必须根据物理化学和热力学定律进行。"
+        },
+        {
+          "id": 99,
+          "word": "principle",
+          "translation": "n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素",
+          "phonetic": "/ˈprɪnsəp(ə)l/",
+          "example": "It's not just a matter of principle.",
+          "exampleTranslation": "这不仅仅是个原则问题。"
+        },
+        {
+          "id": 100,
+          "word": "catalysis",
+          "translation": "n. 催化作用；刺激作用",
+          "phonetic": "/kəˈtæləsɪs/",
+          "example": "I went into the archive of Elsevier's Applied Catalysis.",
+          "exampleTranslation": "我进入了爱思唯尔应用催化的档案室。"
+        },
+        {
+          "id": 101,
+          "word": "active",
+          "translation": "adj. 好动的；积极主动的；定期进行的，起作用的；（思想等）活跃的；切实的；（火山）活的；主动语态的；活性的；（疾病）恶化的；服役的；参战的；（动词）表动作的；（电路系统）在运转中的；n. 主动语态",
+          "phonetic": "/ˈæktɪv/",
+          "example": "They were both politically active.",
+          "exampleTranslation": "他们两人在政治上都很积极。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6",
+      "description": "Words 101 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 102,
+          "word": "site",
+          "translation": "n. （建筑的）工地，用地；（某事发生的）地点，现场；（作某种用途的）场所，场地；网站，站点（=website）；（身体的某个）部位；（城镇、建筑物或纪念碑的）地基，选址；遗址，原址；（帐篷或大篷车内）歇脚的地方；v. 使坐落在，为......选址",
+          "phonetic": "/saɪt/",
+          "example": "Do you want to bookmark this site?",
+          "exampleTranslation": "你想给这个站点做书签吗？"
+        },
+        {
+          "id": 103,
+          "word": "inhibition",
+          "translation": "n. 拘谨，拘束感；阻止，抑制；<法律>（尤指对处理指明土地或财产的）禁令",
+          "phonetic": "/ˌɪnhɪˈbɪʃ(ə)n/",
+          "example": "Some drugs can cause the inhibition of normal bodily activity.",
+          "exampleTranslation": "有些药剂会对正常的身体功能产生抑制作用。"
+        },
+        {
+          "id": 104,
+          "word": "competitive",
+          "translation": "adj. 竞争的；好竞争的，好胜的；有竞争力的",
+          "phonetic": "/kəmˈpetətɪv/",
+          "example": "It's hard to maintain competitive pricing.",
+          "exampleTranslation": "很难保持有竞争力的定价。"
+        },
+        {
+          "id": 105,
+          "word": "noncompetitive",
+          "translation": "adj. 非竞争性的",
+          "phonetic": "/ˌnɑːnkəmˈpetətɪv/",
+          "example": "Enzymatic kinetics analysis indicated that the inhibition is noncompetitive.",
+          "exampleTranslation": "动力学分析表明，其抑制作用为非竞争性。"
+        },
+        {
+          "id": 106,
+          "word": "uncompetitive",
+          "translation": "adj. 无竞争力的",
+          "phonetic": "/ˌʌnkəmˈpetətɪv/",
+          "example": "U.S. business had become uncompetitive globally and began restructuring massively, with huge layoffs.",
+          "exampleTranslation": "美国企业在全球范围内失去了竞争力，并开始大规模重组，大量裁员。"
+        },
+        {
+          "id": 107,
+          "word": "allosteric",
+          "translation": "adj. 变构（象）的",
+          "phonetic": "/ˌæləʊˈstɪərɪk/",
+          "example": "Such targets are called allosteric modulators.",
+          "exampleTranslation": "这样的靶称为别构调节物。"
+        },
+        {
+          "id": 108,
+          "word": "michaelis",
+          "translation": "米凯利斯；n. （Michaelis）人名；（英、西、丹）米凯利斯；（法、德、意）米夏埃利斯",
+          "phonetic": "",
+          "example": "So Michaelis could keep his tail up.",
+          "exampleTranslation": "所以蔑克里斯是可以高举着他的尾巴的。"
+        },
+        {
+          "id": 109,
+          "word": "menten",
+          "translation": "n. （Menten）人名；（德）门滕",
+          "phonetic": "",
+          "example": "The kinetics of enzymatic reaction is fit to Michaelis-Menten equation.",
+          "exampleTranslation": "红茶的酶促动力学符合米氏方程。"
+        },
+        {
+          "id": 110,
+          "word": "equation",
+          "translation": "n. 等式，方程（式）；等同（看待）；（必须考虑多种因素的）复杂局面（或问题）",
+          "phonetic": "/ɪˈkweɪʒ(ə)n/",
+          "example": "X and Y in the equation are both unknowns.",
+          "exampleTranslation": "等式中的X和Y都是未知数。"
+        },
+        {
+          "id": 111,
+          "word": "lineweaver",
+          "translation": "n. （Lineweaver）人名；（英）莱恩威弗",
+          "phonetic": "",
+          "example": "Charles Lineweaver from the Australian National University's Mount Stromlo Observatory says Bousso's team are simply imposing a catastrophe for statistical reasons.",
+          "exampleTranslation": "来自澳大利亚国利大学斯特朗洛山天文台的查尔斯莱恩威弗说，布索团队通过统计推论更加加深了大灾难。"
+        },
+        {
+          "id": 112,
+          "word": "burk",
+          "translation": "n. 傻瓜（等于 berk）；n. （Burk）人名；（德）布尔克；（法）比尔克；（英）伯克",
+          "phonetic": "/bɜːk/",
+          "example": "\"That's substantial,\" Burk said.",
+          "exampleTranslation": "“那很大一笔钱”伯克说。"
+        },
+        {
+          "id": 113,
+          "word": "plot",
+          "translation": "n. 阴谋，密谋；情节；（专用的）小块地；（表现两个变量关系的）图表；<美>图表，地图；<美>底层平面图；v. 密谋，暗中策划；（在地图上）画出，标出；构思（情节）；绘制（曲线）；绘制（图表）；在图表上标记，布置；用图表说明；计划，制订；【名】 （Plot）（捷、法）普洛特，普洛（人名）",
+          "phonetic": "/plɒt/",
+          "example": "Can you follow the plot so far?",
+          "exampleTranslation": "你到目前能理解这个情节吗？"
+        },
+        {
+          "id": 114,
+          "word": "electrochemistry",
+          "translation": "n. [物化] 电化学",
+          "phonetic": "/ɪˌlektrəʊˈkemɪstri/",
+          "example": "So, my research is electrochemistry.",
+          "exampleTranslation": "我的研究是电化学。"
+        },
+        {
+          "id": 115,
+          "word": "redox",
+          "translation": "n. 氧化还原反应；[化学] 氧化还原剂",
+          "phonetic": "/ˈriːdɒks; ˈredɒks/",
+          "example": "Phosphomolybdic acid is widely used as active catalyst owing to its acid and redox activity.",
+          "exampleTranslation": "磷钼酸具有良好的酸性和氧化还原活性，被广泛用作活性催化剂。"
+        },
+        {
+          "id": 116,
+          "word": "half",
+          "translation": "n. 一半，二分之一；半场，半局；（足球、橄榄球等的）中场队员；<英，非正式>半品脱；<英，非正式>儿童半票；<英>半学年，一学期；（高尔夫）一穴击球得分与对手相等；pron. 一半；（时间）……点半（=half past）；大量，许多；det. 一半；adj. 一半的；不完整的，部分的；adv. 一半地，接近一半地；部分地，不完全地；极其，非常（强调情况很糟）；一半……血统地；【名】 （Half）（英）哈夫，（德）哈尔夫，（阿拉伯）哈勒夫（人名）",
+          "phonetic": "/hɑːf/",
+          "example": "Children travel (at) half fare.",
+          "exampleTranslation": "儿童交通费减半。"
+        },
+        {
+          "id": 117,
+          "word": "electrochemical",
+          "translation": "adj. [物化] 电化学的；[物化] 电气化学的",
+          "phonetic": "/ɪˌlektrəʊˈkemɪkəl/",
+          "example": "In this work, copper underpotential deposition on gold is studied under realistic electrochemical conditions",
+          "exampleTranslation": "本文研究了在实际电化学条件下铜在金表面的低电位沉积"
+        },
+        {
+          "id": 118,
+          "word": "cell",
+          "translation": "n. 细胞；小牢房；电解槽，电池；电芯；（政治组织的）小组，基层组织；（修道院中的）单人小室；（巢穴中单个的）巢室；（计算机屏幕上的）单元格；【名】 （Cell）（英）塞尔（人名）",
+          "phonetic": "/sel/",
+          "example": "Each cell of our bodies contains 46 chromosomes.",
+          "exampleTranslation": "我们体内的每个细胞都有46条染色体。"
+        },
+        {
+          "id": 119,
+          "word": "voltaic",
+          "translation": "adj. 电流的；流电的",
+          "phonetic": "/vɒlˈteɪɪk/",
+          "example": "A voltaic battery consisting of two or more dry cells.",
+          "exampleTranslation": "由两个或多个干电池组成的伏打电池。"
+        },
+        {
+          "id": 120,
+          "word": "electrolytic",
+          "translation": "adj. 电解的；电解质的；由电解产生的",
+          "phonetic": "/ɪˌlektrəˈlɪtɪk/",
+          "example": "On top of this, coconut water has the same level of electrolytic balance human blood.",
+          "exampleTranslation": "此外，在帮助人体血液达到电解与平衡上，椰子汁也有同样的功效。"
+        },
+        {
+          "id": 121,
+          "word": "salt",
+          "translation": "n. 盐，食盐（=common salt）；（化学）盐；盐状物（用于某种特殊目的的物质或药品）（salts）；<文>风趣，刺激性；<非正式>有经验的水手，老水手（old salt）；v. 给（食物）加盐调味；用盐腌制（食物）（=salt down）；（为融化雪或冰）撒盐于（道路）上；给……增添刺激，使……更有趣；<非正式>使（矿区、矿山）呈虚假的富矿状；adj. 含盐的，咸的；用盐腌制的；（植物）海生的，生长于盐沼的；<旧>猥亵的；abbr. （美俄）限制战略武器谈判（Strategic Arms Limitation Talks）；【名】 （Salt）（美、爱尔兰、马耳他）索尔特（姓氏）",
+          "phonetic": "/sɔːlt; sɒlt/",
+          "example": "He read a poem entitled 'Salt'.",
+          "exampleTranslation": "他朗诵一首题为《盐》的诗。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7",
+      "description": "Words 121 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 122,
+          "word": "bridge",
+          "translation": "n. 桥；桥梁，纽带；船桥，舰桥；鼻梁，鼻梁架；琴马；（固定的）假牙，齿桥；（连接两地的）狭窄地带；过渡乐节，间奏；球杆的凹口支架；桥牌；v. 弥合（分歧），消除（隔阂）；兼具……的特点；在……上架桥，横跨；【名】 （Bridge）（英）布里奇（人名）",
+          "phonetic": "/brɪdʒ/",
+          "example": "When was the bridge constructed?",
+          "exampleTranslation": "那座桥是何时修建的？"
+        },
+        {
+          "id": 123,
+          "word": "standard",
+          "translation": "n. （品质的）标准，水平，规范；正常的水平，应达到的标准；行为标准，道德水准（standards）；<英，史>（小学）（考试达到的）级别；法定度量衡标准；旗杆；流行曲调（或歌曲）；茎干挺直的树（或灌木）；（植）（蝶形花的）旗瓣；（植）（鸢尾属植物的）直立花瓣；直立水管（或煤气管）；adj. 普通的，标准的；（大小、尺寸、式样等）常规的，一般性的；权威的，广泛认可的；（语言）合乎规范的，符合标准的；茎干挺直的树（或灌木）；（整成树形并嫁接于挺直茎干上的）灌木",
+          "phonetic": "/ˈstændəd/",
+          "example": "The paper was of non-standard size.",
+          "exampleTranslation": "这种纸的大小不标准。"
+        },
+        {
+          "id": 124,
+          "word": "hydrogen",
+          "translation": "n. 氢，氢气",
+          "phonetic": "/ˈhaɪdrədʒən/",
+          "example": "Hydrogen and oxygen combine to form water.",
+          "exampleTranslation": "氢与氧化合成水。"
+        },
+        {
+          "id": 125,
+          "word": "electrode",
+          "translation": "n. [电] 电极；电焊条",
+          "phonetic": "/ɪˈlektrəʊd/",
+          "example": "Metals are opaque, so the other electrode must be transparent.",
+          "exampleTranslation": "金属是不透明的，因此另一个电极必须是透明的。"
+        },
+        {
+          "id": 126,
+          "word": "nernst",
+          "translation": "能斯脱（人名）",
+          "phonetic": "/nɜːrnst/",
+          "example": "Based on the general Nernst equation, thermodynamics model of the submonolayer equilibrium potential was set up.",
+          "exampleTranslation": "基于普通的能斯特方程，建立了单原子层平衡电势的热力学模型。"
+        },
+        {
+          "id": 127,
+          "word": "faraday",
+          "translation": "n. 法拉第（电量单位）",
+          "phonetic": "/ˈfærədei/",
+          "example": "But Faraday cages can be costly.",
+          "exampleTranslation": "但是法拉第笼很烧钱。"
+        },
+        {
+          "id": 128,
+          "word": "law",
+          "translation": "n. 法律（体系）；法令，法规；规律，法则，定律；法学，法律学；司法界，律师业；（道德或宗教上的）准则，守则；警方，警察；v. 起诉，控告；【名】 （Law）（英、缅、柬）劳（人名）",
+          "phonetic": "/lɔː/",
+          "example": "Motorists regularly flout the law.",
+          "exampleTranslation": "驾车者经常无视法律。"
+        },
+        {
+          "id": 129,
+          "word": "electroplating",
+          "translation": "n. 电镀；电镀术",
+          "phonetic": "/ɪˈlektrəʊˌpleɪtɪŋ/",
+          "example": "Electroplating time mixing effect is bad.",
+          "exampleTranslation": "电镀时间搅拌效果不良。"
+        },
+        {
+          "id": 130,
+          "word": "corrosion",
+          "translation": "n. 腐蚀，侵蚀；腐蚀产生的物质",
+          "phonetic": "/kəˈrəʊʒ(ə)n/",
+          "example": "Zinc is used to protect other metals from corrosion.",
+          "exampleTranslation": "锌被用来保护其他金属免受腐蚀。"
+        },
+        {
+          "id": 131,
+          "word": "analytical",
+          "translation": "adj. 具备分析能力的，善于分析的；分析的，分析性的",
+          "phonetic": "/ˌænəˈlɪtɪk(ə)l/",
+          "example": "She has a clear analytical mind.",
+          "exampleTranslation": "她头脑清醒，善于分析。"
+        },
+        {
+          "id": 132,
+          "word": "chemistry",
+          "translation": "n. 化学；化学成分，化学反应；（彼此间的）吸引",
+          "phonetic": "/ˈkemɪstri/",
+          "example": "I'm hoping to do a chemistry degree.",
+          "exampleTranslation": "我希望攻读化学学位课程。"
+        },
+        {
+          "id": 133,
+          "word": "qualitative",
+          "translation": "adj. 质量的，定性的，性质的",
+          "phonetic": "/ˈkwɒlɪtətɪv/",
+          "example": "There are qualitative differences between the two products.",
+          "exampleTranslation": "这两种产品存在着质的差别。"
+        },
+        {
+          "id": 134,
+          "word": "quantitative",
+          "translation": "adj. 数量的，量化的，定量的；（诗）由长短步组成的",
+          "phonetic": "/ˈkwɒntɪtətɪv/",
+          "example": "There is no difference between the two in quantitative terms.",
+          "exampleTranslation": "两者在数量上毫无差别。"
+        },
+        {
+          "id": 135,
+          "word": "gravimetric",
+          "translation": "adj. （测定）重量的；重量分析的",
+          "phonetic": "/ˌɡrævɪˈmetrɪk/",
+          "example": "Gravimetric and volumetric configurations.",
+          "exampleTranslation": "重量和体积配置。"
+        },
+        {
+          "id": 136,
+          "word": "volumetric",
+          "translation": "adj. [物] 体积的；[物] 容积的；[物] 测定体积的",
+          "phonetic": "/ˌvɒljʊˈmetrɪk/",
+          "example": "It shows that unelastic volumetric strain is directly prepositional to the number of micro-cracks.",
+          "exampleTranslation": "结果表明，非弹性体积应变与微裂纹数量直接相关。"
+        },
+        {
+          "id": 137,
+          "word": "indicator",
+          "translation": "n. 标志，迹象；方向灯，转向指示灯；指示器，显示器；指示剂；指示（物）种",
+          "phonetic": "/ˈɪndɪkeɪtə(r)/",
+          "example": "But it's not the only indicator and, paradoxically, its significance is declining.",
+          "exampleTranslation": "但这并不是唯一的指标，而且矛盾的是，它的重要性正在下降。"
+        },
+        {
+          "id": 138,
+          "word": "endpoint",
+          "translation": "n. 端点；末端，终结点",
+          "phonetic": "/ˈendˌpɔɪnt/",
+          "example": "Develop the endpoint interface.",
+          "exampleTranslation": "开发端点接口。"
+        },
+        {
+          "id": 139,
+          "word": "equivalence",
+          "translation": "n. 相等，对等",
+          "phonetic": "/ɪˈkwɪvələns/",
+          "example": "For women in the military, the search for equality will still be based on functional equivalence, not identity or even similarity of task.",
+          "exampleTranslation": "对于军队中的女性来说，寻求平等仍然是基于功能对等，而不是身份甚至任务上的相似性。"
+        },
+        {
+          "id": 140,
+          "word": "point",
+          "translation": "n. 观点，论点；要点，核心问题；目的，意图；具体细节；特点，特征；地点；时刻，阶段；得分；小数点，点；罗盘（方位）点；点（标度）；（电影的）利润百分比；尖端，尖头；岬角；光点，色点；<英>插座；（字号的）磅值；<英>轨尖，道岔（points）；（芭蕾）脚尖（points）；（分电器中的）接点；<非正式>称赞，认可（points）；（板球）防守；尖兵队；<美>排头位置；（动物的）外部位；（猎）直窜（位置）；<史>束衣带；束帆绳；狗指方向；（乐曲的）重要乐句或主题；v. 指，指向；对准，瞄准；朝向，对着；指路；引导，指引；暗示，表明；强调（话语或行动）；（用水泥）勾缝；绷直（脚趾）；削尖；使（光标）指着；插入点号；（狗）示意有（猎物）；【名】 （Point）（法）普安（人名）",
+          "phonetic": "/pɔɪnt/",
+          "example": "He elucidated a point of grammar.",
+          "exampleTranslation": "他解释了一个语法要点。"
+        },
+        {
+          "id": 141,
+          "word": "buffer",
+          "translation": "n. 起缓冲作用的人（物）；<英，非正式>老家伙，老头；缓冲存储器，缓存；（铁路机车头尾的）缓冲器，减震器；（用于擦亮表面的）抛光工具；v. 保护（某物）；缓解，缓冲；存储，缓存（数据等）",
+          "phonetic": "/ˈbʌfə(r)/",
+          "example": "For each line in the line buffer for a CU, we need to check for the low address match to find the first line number.",
+          "exampleTranslation": "要获得 CU 的行缓冲的每一行，我们需要检查低位地址匹配以找到函数的第一行的行号。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8",
+      "description": "Words 141 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 142,
+          "word": "capacity",
+          "translation": "n. 能力，才能；容积，容纳能力；职位，职责；功率，容积；生产量，生产能力；adj. 无虚席的，满场的",
+          "phonetic": "/kəˈpæsəti/",
+          "example": "Human beings have an infinite capacity for self-deception.",
+          "exampleTranslation": "人类自欺的能力是无穷尽的。"
+        },
+        {
+          "id": 143,
+          "word": "henderson",
+          "translation": "n. 亨德森（姓氏）",
+          "phonetic": "/ˈhendəsən/",
+          "example": "Henderson recalled that he first met Pollard during a business trip to Washington.",
+          "exampleTranslation": "亨德森记起他是在一次去华盛顿出差的途中第一次与波拉德结识的。"
+        },
+        {
+          "id": 145,
+          "word": "uv",
+          "translation": "abbr. 紫外的（ultraviolet）；abbr. 访问某个站点或点击某条新闻的不同IP地址的人数（unique visitor）",
+          "phonetic": "/ˌjuː ˈviː/",
+          "example": "Children should have glasses which filter out UV rays.",
+          "exampleTranslation": "孩子们应该佩戴可以滤除紫外线的眼镜。"
+        },
+        {
+          "id": 146,
+          "word": "vis",
+          "translation": "n. 力，活力；n. （Vis）（美、荷、加、法）维斯（人名）",
+          "phonetic": "/vɪs/",
+          "example": "Each currency is given a value vis-à-vis the other currencies.",
+          "exampleTranslation": "相对于其他货币，每一种货币都被赋予一定的价值。"
+        },
+        {
+          "id": 147,
+          "word": "ir",
+          "translation": "abbr. 红外辐射（Infrared Radiation）；信息检索（information retrieval）；伊利诺斯研究（美国期刊）（Illinois Research）；n. （Ir）人名；（柬）伊；（朝）一",
+          "phonetic": "/ɪr/",
+          "example": "During tests over several days, the pointer or tracker tracked an IR source and directed a laser beam at that source.",
+          "exampleTranslation": "在几天的测试中，指示器或跟踪器跟踪一个红外光源，并引导激光束击中目标。"
+        },
+        {
+          "id": 148,
+          "word": "nmr",
+          "translation": "abbr. 核磁共振（nuclear magnetic resonance）",
+          "phonetic": "",
+          "example": "NMR spectra are often calibrated against the known solvent residual proton peak instead of added tetramethylsilane.",
+          "exampleTranslation": "核磁共振谱通常是根据已知的溶剂残留质子峰进行校正，而不是添加四甲基硅烷。"
+        },
+        {
+          "id": 149,
+          "word": "mass",
+          "translation": "n. 团，块；大量，许多；（常指混乱的）一群，一堆；大量的东西；群众，平民百姓；大多数，多数；质量；（尤指罗马天主教的）弥撒；弥撒曲；adj. 民众的，大量的；v. （使）聚集，（使）集结",
+          "phonetic": "/mæs/",
+          "example": "Photons have no mass – they are weightless.",
+          "exampleTranslation": "光子没有质量——它们是没有重量的。"
+        },
+        {
+          "id": 150,
+          "word": "spectrometry",
+          "translation": "n. [光][分化][物] 光谱测定法，[光] 度谱术",
+          "phonetic": "/spekˈtrɒmɪtri/",
+          "example": "On-line liquid chromatography-mass spectrometry is a high throughput method for the analysis of small molecules in biofluids.",
+          "exampleTranslation": "在线液相色谱-质谱联用法是一种高通量的方法，用于分析生物流体中的小分子。"
+        },
+        {
+          "id": 151,
+          "word": "gas",
+          "translation": "n. 气体；气体燃料；（手术）麻醉气；毒气，瓦斯；汽油；有趣的人（或事）；胀气，胃气；v. 用毒气杀死；闲聊，空谈；【名】 （Gas）（法、德、西）加斯（人名）",
+          "phonetic": "/ɡæs/",
+          "example": "This gas is highly poisonous.",
+          "exampleTranslation": "这种气体有剧毒。"
+        },
+        {
+          "id": 152,
+          "word": "liquid",
+          "translation": "n. 液体，液态物；流音；adj. 液态的，液化的；（资金等）流动的，易变为现金的；流畅自如的，舒展的；明亮的，清澈的；清脆的，流畅的；（市场）活跃的；液态的，液化的;（资金等）流动的，易变为现金的",
+          "phonetic": "/ˈlɪkwɪd/",
+          "example": "The liquid is then diluted.",
+          "exampleTranslation": "然后液体就变稀了。"
+        },
+        {
+          "id": 153,
+          "word": "hplc",
+          "translation": "abbr. 高效液相色谱法（High Performance Liquid Chromatography）",
+          "phonetic": "",
+          "example": "HPLC was used on a survey of Hypersil ODS column.",
+          "exampleTranslation": "高效液相色谱法被应用于黄芪的指纹图谱的研究。"
+        },
+        {
+          "id": 154,
+          "word": "tlc",
+          "translation": "abbr. 薄层色谱法（Thin-Layer Chromatography）；温柔的体贴（tender loving care）",
+          "phonetic": "/ˌtiː el ˈsiː/",
+          "example": "What he needs now is just rest and a lot of TLC.",
+          "exampleTranslation": "他现在需要的只是休息和充分的亲切关怀。"
+        },
+        {
+          "id": 155,
+          "word": "column",
+          "translation": "n. 圆柱，纪念柱；柱状物；纵队，纵行（列）；（报纸、杂志上的）栏；（报纸或杂志的）专栏（文章）",
+          "phonetic": "/ˈkɒləm/",
+          "example": "I always read her column in the local paper.",
+          "exampleTranslation": "我一直读她在当地报纸上的专栏文章。"
+        },
+        {
+          "id": 156,
+          "word": "ion",
+          "translation": "n. 离子；n. (Ion) （罗马尼亚、美）扬（人名）",
+          "phonetic": "/ˈaɪən/",
+          "example": "It is a naked electron and is a sodium positive ion.",
+          "exampleTranslation": "它是个裸电子，是钠正离子。"
+        },
+        {
+          "id": 157,
+          "word": "exchange",
+          "translation": "n. 交换，互换；短暂的交谈，争吵；交战，交火；兑换，汇兑；交流，互访；交易所；（商品的）调换；电话局，电话交换台；换子，兑子；v. 调换，更换；交流，交谈；交换，互换；兑换，交易",
+          "phonetic": "/ɪksˈtʃeɪndʒ/",
+          "example": "Shares soared on the New York stock exchange.",
+          "exampleTranslation": "纽约证券交易所股票暴涨。"
+        },
+        {
+          "id": 158,
+          "word": "size",
+          "translation": "n. 大小，尺寸；庞大，巨大；数量，规模；（尤指衣服、鞋子等的）尺寸，尺码；特定尺寸；相应尺码的人（或衣物）；（使纸张、布料坚挺且光亮的）浆料，（贴壁纸用的）涂料；v. 依大小分类（或排列）；按一定大小制作；改变......的大小； 给（衣服、纸张等）上浆，给......涂胶；<非正式> 大致评价，估量；估算（或测量某物）大小；可比拟；adj. 一定大小（或尺码）的",
+          "phonetic": "/saɪz/",
+          "example": "The jacket was the wrong size.",
+          "exampleTranslation": "这件夹克尺码不对。"
+        },
+        {
+          "id": 159,
+          "word": "exclusion",
+          "translation": "n. 排斥，排除在外；被排除在外的人（或事物）；认为不可能；（合约中的）除外事项；<英>开除学籍",
+          "phonetic": "/ɪkˈskluːʒ(ə)n/",
+          "example": "Exclusion of air creates a vacuum in the bottle.",
+          "exampleTranslation": "瓶子里的空气排除后就产生真空。"
+        },
+        {
+          "id": 160,
+          "word": "affinity",
+          "translation": "n. 喜好，喜爱；类同，密切关系；亲近感，亲和；适应性，匹配度；（与血缘关系相对的）姻亲关系；亲和力，亲和性",
+          "phonetic": "/əˈfɪnəti/",
+          "example": "The details of her skeleton proclaim her human affinity.",
+          "exampleTranslation": "她骨骼的细节证明了她与人类的密切关系。"
+        },
+        {
+          "id": 161,
+          "word": "organic",
+          "translation": "adj. 有机的，绿色的；有机物的，生物的；构成有机整体的，不可分割的；（发生、发展过程）自然的，演进的；器官的，器质性的；仿自然形态的；n. 有机物质；有机食品",
+          "phonetic": "/ɔːˈɡænɪk/",
+          "example": "I've converted to organic food.",
+          "exampleTranslation": "我改吃有机食物了。"
+        },
+        {
+          "id": 162,
+          "word": "functional",
+          "translation": "adj. 实用的；功能的，机能的；运转正常的；函数的；（精神病）找不出器质性原因的",
+          "phonetic": "/ˈfʌŋkʃən(ə)l/",
+          "example": "These units played a key functional role in the military operation.",
+          "exampleTranslation": "这些单位在军事行动中起到了主要的职能作用。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9",
+      "description": "Words 161 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 163,
+          "word": "group",
+          "translation": "n. 集体，团体；组，群；集团；乐团，乐队；空军大队（通常由两个或两个以上的基地组成）；（元素周期表中的）族；（系统语法中的）词组；原子团；v. （使）成组，聚集；将……分类",
+          "phonetic": "/ɡruːp/",
+          "example": "The group encompasses all ages.",
+          "exampleTranslation": "这个小组各种年龄的人都有。"
+        },
+        {
+          "id": 164,
+          "word": "benzene",
+          "translation": "n. [有化] 苯",
+          "phonetic": "/ˈbenziːn/",
+          "example": "The benzene vaporized and formed a huge cloud of gas.",
+          "exampleTranslation": "苯蒸发形成了一大团气体。"
+        },
+        {
+          "id": 165,
+          "word": "toluene",
+          "translation": "n. [有化] 甲苯",
+          "phonetic": "/ˈtɒljʊˌiːn/",
+          "example": "The synthesis of feruloylated monoacylglycerol catalyzed by P-Toluene sulfonic acid was investigated.",
+          "exampleTranslation": "研究了对甲基苯磺酸催化合成阿魏酸单甘油酯的工艺。"
+        },
+        {
+          "id": 166,
+          "word": "phenol",
+          "translation": "n. 石碳酸，[有化] 苯酚",
+          "phonetic": "/ˈfiːnɒl/",
+          "example": "Because of its irritating effect on humans, the use of phenol as a general antiseptic has been largely discontinued.",
+          "exampleTranslation": "由于苯酚对人体有刺激性作用，它基本上已不再被当作常用的防腐剂了。"
+        },
+        {
+          "id": 167,
+          "word": "aniline",
+          "translation": "n. 苯胺；adj. 苯胺的",
+          "phonetic": "/ˈænɪlɪn/",
+          "example": "He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product.",
+          "exampleTranslation": "他试图用苯胺批量制造奎宁，苯胺是一种廉价且容易获得的煤焦油废料。"
+        },
+        {
+          "id": 168,
+          "word": "methanol",
+          "translation": "n. [有化] 甲醇（methyl alcohol）",
+          "phonetic": "/ˈmeθənɒl/",
+          "example": "Like any alternative fuel, methanol has its critics.",
+          "exampleTranslation": "像任何替代燃料一样，甲醇也受到批评。"
+        },
+        {
+          "id": 169,
+          "word": "ethanol",
+          "translation": "n. [有化] 乙醇，[有化] 酒精",
+          "phonetic": "/ˈeθənɒl/",
+          "example": "In fact, most biofuels are still based on ethanol.",
+          "exampleTranslation": "事实上，大多数生物燃料仍然以乙醇为基础。"
+        },
+        {
+          "id": 170,
+          "word": "propanol",
+          "translation": "n. [有化] 丙醇",
+          "phonetic": "/ˈprəʊpənɒl/",
+          "example": "The steady-state kinetics of deep oxidation of propanol obeyed the L-H model.",
+          "exampleTranslation": "丙醇深度氧化稳态动力学报从L-H机理模型。"
+        },
+        {
+          "id": 171,
+          "word": "butanol",
+          "translation": "n. [有化] 丁醇，同分异构酒精",
+          "phonetic": "/ˈbjuːtəˌnɒl/",
+          "example": "\"The most important about this discovery is TU-103's ability to produce butanol directly from cellulose,\" said Mullin.",
+          "exampleTranslation": "“关于这个发现最重要的是 TU-103 从纤维素直接生产丁醇的能力。”穆林说。"
+        },
+        {
+          "id": 172,
+          "word": "formaldehyde",
+          "translation": "n. 蚁醛，[有化] 甲醛",
+          "phonetic": "/fɔːˈmældɪhaɪd/",
+          "example": "The level of formaldehyde gas in her kitchen was twice the maximum allowed by federal standards for chemical workers.",
+          "exampleTranslation": "她厨房的甲醛气体含量是联邦为化工工人设立的最大值标准的两倍。"
+        },
+        {
+          "id": 173,
+          "word": "acetaldehyde",
+          "translation": "n. [有化] 乙醛；醋醛",
+          "phonetic": "/ˌæsɪˈtældɪˌhaɪd/",
+          "example": "Acetaldehyde is toxic and has been shown to damage DNA.",
+          "exampleTranslation": "乙醛是有毒物质，会损害人体的DNA。"
+        },
+        {
+          "id": 174,
+          "word": "acetone",
+          "translation": "n. [有化] 丙酮",
+          "phonetic": "/ˈæsɪtəʊn/",
+          "example": "After some initial problems, acetone was successfully produced in quantity.",
+          "exampleTranslation": "解决了最初的一些问题后，成功地生产出了大量丙酮。"
+        },
+        {
+          "id": 175,
+          "word": "formic",
+          "translation": "adj. 甲酸的；蚁的；蚁酸的",
+          "phonetic": "/ˈfɔːmɪk/",
+          "example": "Of derived from or containing formic acid.",
+          "exampleTranslation": "甲酸的甲酸的，由甲酸衍生的，含有甲酸的。"
+        },
+        {
+          "id": 176,
+          "word": "acetic",
+          "translation": "adj. 醋的，乙酸的",
+          "phonetic": "/əˈsiːtɪk/",
+          "example": "RPC for pilotscale experiment was used to do the pilotscale experiment on acetic acid complex extraction process.",
+          "exampleTranslation": "采用中试振动筛板萃取塔对醋酸稀溶液的络合萃取过程进行了中试实验研究。"
+        },
+        {
+          "id": 177,
+          "word": "propionic",
+          "translation": "adj. 丙酸的",
+          "phonetic": "/prɒpaˈɪɒnɪk/",
+          "example": "Propionic acid is product heavily short of in our country.",
+          "exampleTranslation": "丙酸是目前国内十分紧缺的一种产品。"
+        },
+        {
+          "id": 178,
+          "word": "butyric",
+          "translation": "adj. 奶油的；酪酸的；由奶油中提取的",
+          "phonetic": "/buːˈtɪrɪk/",
+          "example": "The conversion of butyric acid was over 80%.",
+          "exampleTranslation": "在此条件下正丁酸的转化率在80%以上。"
+        },
+        {
+          "id": 179,
+          "word": "primary",
+          "translation": "adj. 主要的，首要的；<英>小学教育的，初级教育的；初级的，原发性的；最基本的，最根本的；第一手的，直接的；（有机化合物）连上一个碳原子的；（多指胺）（氨基酸顺序）一级的；n. （选举过程中的党内）初选（=primary election）；原色；初级飞羽；主星；初级线圈，原线圈",
+          "phonetic": "/ˈpraɪməri/",
+          "example": "We turn now to our primary question.",
+          "exampleTranslation": "我们现在转到我们的主要问题上。"
+        },
+        {
+          "id": 180,
+          "word": "secondary",
+          "translation": "adj. （教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的；<旧>（地质）中生代的（Secondary）；n. 副手，下属；第二防线；<英>中学（secondary school 的简称）；（鸟）次级飞羽（secondary feather 的简称）；（变压器中的）次级线圈；<旧>（地质）中生代（the Secondary）",
+          "phonetic": "/ˈsekənd(ə)ri/",
+          "example": "She taught history at a secondary school.",
+          "exampleTranslation": "她在一所中学教过历史。"
+        },
+        {
+          "id": 181,
+          "word": "tertiary",
+          "translation": "adj. 第三的，第三位的，第三级的；高等（教育）；第三产业的；次要的；第三期治疗的；（化）叔的，特的；（地质）第三纪（或系）的；n. （地质）第三纪，第三系，第三纪岩（the Tertiary）；第三修道会会员（某些基督教组织做杂务的会支）",
+          "phonetic": "/ˈtɜːʃəri/",
+          "example": "He must have come to know those philosophers through secondary or tertiary sources.",
+          "exampleTranslation": "他一定是通过第二手或第三手资料了解那些哲学家的。"
+        },
+        {
+          "id": 182,
+          "word": "quaternary",
+          "translation": "adj. [数] 四进制的；四个一组的；n. 四；四个一组",
+          "phonetic": "/kwəˈtɜːn(ə)rɪ/",
+          "example": "We know little of a quaternary compound.",
+          "exampleTranslation": "我们对四元化合物了解得很少。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chapter 10",
+      "description": "Words 181 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 183,
+          "word": "ammonium",
+          "translation": "n. [无化] 铵；氨盐基",
+          "phonetic": "/əˈməʊniəm/",
+          "example": "Dimethylpyrazine reacted with phenylacetic acid, silver nitrate and ammonium persulfate.",
+          "exampleTranslation": "二甲基吡嗪与苯乙酸，硝酸银和过硫酸铵反应。"
+        },
+        {
+          "id": 184,
+          "word": "amino",
+          "translation": "n. （化学）氨基；adj. 氨基的；n. （Amino）（美）阿米诺（人名）",
+          "phonetic": "/əˈmiːnəʊ/",
+          "example": "Over time, the protein in the eggshell breaks down into its constituent amino acids.",
+          "exampleTranslation": "随着时间的推移,蛋壳中的蛋白质分解成其构成成分氨基酸。"
+        },
+        {
+          "id": 185,
+          "word": "peptide",
+          "translation": "n. 肽",
+          "phonetic": "/ˈpeptaɪd/",
+          "example": "In contrast, the nonenzymatic process adds glucose haphazardly to any of several sites along any available peptide chain within a protein molecule.",
+          "exampleTranslation": "相反，非酶法过程中，葡萄糖被随意地添加到蛋白质分子中任意肽链的随意几个位置。"
+        },
+        {
+          "id": 186,
+          "word": "structure",
+          "translation": "n. 结构，构造；结构体，（尤指）大型建筑物；周密安排，精心组织；机构，组织，体系；v. 计划，组织，安排",
+          "phonetic": "/ˈstrʌktʃə(r)/",
+          "example": "Your essay needs (a) structure.",
+          "exampleTranslation": "你这篇文章组织不好。"
+        },
+        {
+          "id": 187,
+          "word": "alpha",
+          "translation": "n. 希腊字母表的第一个字母；甲，α项，α类（一系列项目、分类中的第一位，如化合物的第一种形式）；（学校考试成绩或作业）Α等 , 甲等；（人或动物特定群体中的）头领，首领；特定领域内的主导人；α测试，智力测验（alpha test）；（天文）α星（星座中第一颗星，多为最亮的星）；α衰变（或α粒子）；（无线电通信中字母 A 的代码词）Α，α；开端，最初；adj. （兽群或人群中）最有权势的；（产品）初版的，雏形的",
+          "phonetic": "/ˈælfə/",
+          "example": "We broke up into groups, and each group designed its own toy and made an alpha prototype.",
+          "exampleTranslation": "我们分成几个小组，每个小组都设计了自己的玩具并制作了一个 alpha 原型。"
+        },
+        {
+          "id": 188,
+          "word": "helix",
+          "translation": "n. 螺旋，螺旋状物；[解剖] 耳轮",
+          "phonetic": "/ˈhiːlɪks/",
+          "example": "The alpha helix is found in muscle protein and keratin.",
+          "exampleTranslation": "α螺旋存在于肌肉蛋白和角蛋白中。"
+        },
+        {
+          "id": 189,
+          "word": "beta",
+          "translation": "n. β（希腊字母表的第二个字母）；β项，β类；β等，乙等；β星；β衰变的，β粒子的；β系数，β因素；n. （Beta）（罗马尼亚、波兰、美、印度）布蕾塔（人名）",
+          "phonetic": "/ˈbiːtə/",
+          "example": "Moving rapidly through school, he graduated Phi Beta Kappa from the University of Kentucky at age 18.",
+          "exampleTranslation": "在学校进步迅速，他十八岁时以优等生身份从肯塔基大学毕业。"
+        },
+        {
+          "id": 190,
+          "word": "sheet",
+          "translation": "n. 床单，被单；布罩，盖布；纸片，纸张；（Excel 中的）工作表；简要记录，纪要；一整版邮票；（尤指大地区系列地图的一部分的）一张地图；薄板，薄片；（冰或水的）一大片；（雨或火）一大片；拉帆绳，帆脚索；敞舱船的首尾区域；v. （用布）盖上，裹上；把（帆）扣紧（或放松）；（雨）倾盆（或瓢泼）而下；【名】 （Sheet）（英）希特（人名）",
+          "phonetic": "/ʃiːt/",
+          "example": "This sheet has a tear in it.",
+          "exampleTranslation": "这条床单上有个破洞。"
+        },
+        {
+          "id": 191,
+          "word": "disulfide",
+          "translation": "n. [无化]二硫化物（等于 disulphide）",
+          "phonetic": "/daɪˈsʌlfaɪd/",
+          "example": "Ziram was synthesized in an one-step with aqueous solution of dimethylamine carbon disulfide and zinc oxide.",
+          "exampleTranslation": "以二甲胺水溶液、二硫化碳和氧化锌为原料一步合成了福美锌。"
+        },
+        {
+          "id": 192,
+          "word": "bond",
+          "translation": "n. 纽带，联系；公债，债券；结合，黏合；承诺，契约；枷锁，桎梏；v. （使）建立亲密关系；与……黏合（或连接）；【名】 （Bond）（英、德、西、瑞典）邦德（人名）",
+          "phonetic": "/bɒnd/",
+          "example": "She works for Bond & Green.",
+          "exampleTranslation": "她在邦德—格林公司工作。"
+        },
+        {
+          "id": 193,
+          "word": "monosaccharide",
+          "translation": "n. [有化] 单糖，单醣类（最简单的糖类）",
+          "phonetic": "/mɒnə(ʊ)ˈsækəraɪd/",
+          "example": "A compound containing three monosaccharide units is a trisaccharide.",
+          "exampleTranslation": "一个含有三个单糖单元的化物称三糖。"
+        },
+        {
+          "id": 194,
+          "word": "disaccharide",
+          "translation": "n. [生化] 二糖",
+          "phonetic": "/daɪˈsækəˌraɪd/",
+          "example": "Each disaccharide is composed of two monosaccharides.",
+          "exampleTranslation": "每一种双糖都是由两个单糖组成。"
+        },
+        {
+          "id": 195,
+          "word": "polysaccharide",
+          "translation": "n. [有化]多糖；多聚糖（等于 polysaccharid）",
+          "phonetic": "/ˌpɒlɪˈsækəraɪd/",
+          "example": "Milk was used as material for fermentation and pollen polysaccharide was added into to produce yoghourt.",
+          "exampleTranslation": "以牛乳为原料进行发酵，并添加花粉多糖研制多糖酸奶。"
+        },
+        {
+          "id": 196,
+          "word": "glucose",
+          "translation": "n. 葡萄糖；葡糖（等于 dextrose）",
+          "phonetic": "/ˈɡluːkəʊs/",
+          "example": "Glucose is soluble in water.",
+          "exampleTranslation": "葡萄糖可溶于水。"
+        },
+        {
+          "id": 197,
+          "word": "fructose",
+          "translation": "n. [有化] 果糖；左旋糖",
+          "phonetic": "/ˈfrʌktəʊs; ˈfrʌktəʊz/",
+          "example": "Glucose and fructose have the same chemical formula but have very different properties.",
+          "exampleTranslation": "葡萄糖和果糖具有相同的化学分子式但有很不同的特性。"
+        },
+        {
+          "id": 198,
+          "word": "galactose",
+          "translation": "n. [有化] 半乳糖",
+          "phonetic": "/ɡəˈlæktəʊz/",
+          "example": "Both heteroglycans contain the same main residues of glucose, galactose, arabinose, rhamnose, lyxose and galacturonic acid.",
+          "exampleTranslation": "这两种杂聚糖都含有相同的主要残基：葡萄糖、半乳糖、阿拉伯糖、鼠李糖、乳糖和半乳糖醛酸。"
+        },
+        {
+          "id": 199,
+          "word": "sucrose",
+          "translation": "n. [食品][有化] 蔗糖",
+          "phonetic": "/ˈsuːkrəʊz; ˈsuːkrəʊs/",
+          "example": "The sucrose contained in molasses is obviously cheaper.",
+          "exampleTranslation": "糖蜜含有的蔗糖明显便宜。"
+        },
+        {
+          "id": 200,
+          "word": "lactose",
+          "translation": "n. [有化] 乳糖",
+          "phonetic": "/ˈlæktəʊs/",
+          "example": "Lactose is a naturally occurring sugar found in milk.",
+          "exampleTranslation": "乳糖是牛奶中的天然糖分。"
+        },
+        {
+          "id": 201,
+          "word": "maltose",
+          "translation": "n. [有化] 麦芽糖",
+          "phonetic": "/ˈmɔːltəʊz; ˈmɔːltəʊs/",
+          "example": "One day, in the mall to see the shadow of maltose, when excited, and a look of joy buy it.",
+          "exampleTranslation": "某天，在商场里看到了麦芽糖的影子，那时兴奋异常，一脸欢喜的买下来。"
+        },
+        {
+          "id": 202,
+          "word": "starch",
+          "translation": "n. 淀粉，含淀粉的食物；（浆衣服的）浆粉，淀粉浆；（喻）（风格、性格上的）古板，刻板，拘谨；v. 给……上浆；<美，非正式>（拳击手）击倒对手；【名】 （Starch）（英）斯塔奇，（德、捷）施塔希（人名）",
+          "phonetic": "/stɑːtʃ/",
+          "example": "There's too much starch in your diet.",
+          "exampleTranslation": "你的日常饮食中淀粉含量太高。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Chapter 11",
+      "description": "Words 201 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 203,
+          "word": "glycogen",
+          "translation": "n. 糖原；动物淀粉",
+          "phonetic": "/ˈɡlaɪkəʊdʒən/",
+          "example": "The polysaccharides are the complex carbohydrates, including starch, glycogen, and cellulose.",
+          "exampleTranslation": "多糖是复杂的碳水化合物，包括淀粉、糖原和纤维素。"
+        },
+        {
+          "id": 204,
+          "word": "cellulose",
+          "translation": "n. 纤维素；（植物的）细胞膜质",
+          "phonetic": "/ˈseljuləʊs/",
+          "example": "Ants can't digest the cellulose in leaves—but some fungi can.",
+          "exampleTranslation": "蚂蚁不能消化树叶中的纤维素，但有些真菌可以。"
+        },
+        {
+          "id": 205,
+          "word": "chitin",
+          "translation": "n. 壳质；几丁质；角素；甲壳素",
+          "phonetic": "/ˈkaɪtɪn/",
+          "example": "But chitin deposits never build up on the sea or forest floor.",
+          "exampleTranslation": "但是，甲壳素沉积从来没有积累成海洋或森林有机质层。"
+        },
+        {
+          "id": 206,
+          "word": "fatty",
+          "translation": "adj. 脂肪的；肥胖的；多脂肪的；脂肪过多的；n. 胖子",
+          "phonetic": "/ˈfæti/",
+          "example": "I'm trying to keep off fatty foods.",
+          "exampleTranslation": "我尽量不吃高脂肪食物。"
+        },
+        {
+          "id": 207,
+          "word": "saturated",
+          "translation": "adj. 湿透的；（溶液）饱和的，（有机分子）饱和的；充满的；（颜色）深的；v. 使湿透；使充满；使（化学溶液）饱和（saturate的过去式和过去分词）",
+          "phonetic": "/ˈsætʃəreɪtɪd/",
+          "example": "Fish oils are less saturated than animal fats.",
+          "exampleTranslation": "鱼油不如动物脂肪饱和。"
+        },
+        {
+          "id": 208,
+          "word": "unsaturated",
+          "translation": "adj. 不饱和的",
+          "phonetic": "/ʌnˈsætʃəˌreɪtɪd/",
+          "example": "Mediterranean cooking uses smaller amounts of saturated fat and higher amounts of unsaturated fat, mostly in the form of olive oil.",
+          "exampleTranslation": "地中海料理较少使用饱和脂肪，较多使用不饱和脂肪，大部分是以橄榄油的形式。"
+        },
+        {
+          "id": 209,
+          "word": "triglyceride",
+          "translation": "n. 甘油三酯",
+          "phonetic": "/traɪˈɡlɪsəraɪd/",
+          "example": "Low triglyceride levels, weight control.",
+          "exampleTranslation": "低甘油三酯水平，控制体重。"
+        },
+        {
+          "id": 210,
+          "word": "phospholipid",
+          "translation": "n. [生化] 磷脂",
+          "phonetic": "/ˌfɒsfəˈlɪpɪd/",
+          "example": "Objective To evaluate the therapeutic action of soybean phospholipid in Silybin Capsule.",
+          "exampleTranslation": "目的评价益肝灵胶囊中辅料大豆磷脂的治疗作用。"
+        },
+        {
+          "id": 211,
+          "word": "steroid",
+          "translation": "n. 类固醇；[有化] 甾族化合物",
+          "phonetic": "/ˈsterɔɪd; ˈstɪərɔɪd/",
+          "example": "Vitamin D, or calciferol, is another fat-soluble steroid vitamin that functions to stimulate calcium uptake from the gut and its deposition in bone.",
+          "exampleTranslation": "维生素 D，或钙醇，是另一种脂溶性类固醇维生素，其功能是促进肠道吸收钙并强化骨骼。"
+        },
+        {
+          "id": 212,
+          "word": "cholesterol",
+          "translation": "n. 胆固醇",
+          "phonetic": "/kəˈlestərɒl/",
+          "example": "Only the yolk contains cholesterol.",
+          "exampleTranslation": "只有蛋黄含胆固醇。"
+        },
+        {
+          "id": 213,
+          "word": "hormone",
+          "translation": "n. 激素，荷尔蒙；人造激素；性激素（hormones）",
+          "phonetic": "/ˈhɔːməʊn/",
+          "example": "Oestrogen is a female sex hormone.",
+          "exampleTranslation": "雌激素是一种雌性荷尔蒙。"
+        },
+        {
+          "id": 214,
+          "word": "dna",
+          "translation": "abbr. 脱氧核糖核酸（deoxyribonucleic acid）；（美国）国防部核子局（Defense Nuclear Agency）",
+          "phonetic": "/ˌdiː en ˈeɪ/",
+          "example": "A routine DNA sample was taken.",
+          "exampleTranslation": "采集了一份常规的脱氧核糖核酸样本。"
+        },
+        {
+          "id": 215,
+          "word": "rna",
+          "translation": "abbr. 核糖核酸（Ribonucleic Acid）；浪漫派小说家协会（Romantic Novelists ' Association）",
+          "phonetic": "/ˌɑːr en ˈeɪ/",
+          "example": "The virus is a single-stranded RNA virus belonging to the virus family Arenaviridae.",
+          "exampleTranslation": "该病毒是一种单链核糖核酸（RNA）病毒，属于沙粒病毒科。"
+        },
+        {
+          "id": 216,
+          "word": "nucleotide",
+          "translation": "n. （生化）核苷酸",
+          "phonetic": "/ˈnjuːklɪətaɪd/",
+          "example": "DNASIS program was used to analyse the nucleotide sequence and deduce the amino acide sequence.",
+          "exampleTranslation": "使用 DNASIS 程序分析核苷酸序列并推导氨基酸序列。"
+        },
+        {
+          "id": 217,
+          "word": "nucleoside",
+          "translation": "n. [生化] 核苷",
+          "phonetic": "/ˈnjuːklɪəˌsaɪd/",
+          "example": "The purine and pyrimidine may be complexed with a sugar to produce a nucleoside.",
+          "exampleTranslation": "嘌呤和嘧啶可以同一个糖复合，产生一个核苷。"
+        },
+        {
+          "id": 218,
+          "word": "purine",
+          "translation": "n. [有化] 嘌呤（四氮杂茚，尿杂环）；咖啡碱",
+          "phonetic": "/ˈpjʊəriːn/",
+          "example": "Purine content livestock meat and beans food also many.",
+          "exampleTranslation": "家畜肉类食品及豆类的普林含量也不少。"
+        },
+        {
+          "id": 219,
+          "word": "adenine",
+          "translation": "n. [生化] 腺嘌呤",
+          "phonetic": "/ˈædənɪn/",
+          "example": "Adenine refers to a portion of the molecule, the nitrogenous base.",
+          "exampleTranslation": "腺嘌呤指分子的一部分，即含氮碱基。"
+        },
+        {
+          "id": 220,
+          "word": "guanine",
+          "translation": "n. [生化]鸟嘌呤（核酸的基本成分）；n. （Guanine）人名；（法）加尼纳",
+          "phonetic": "/ˈɡwɑːniːn/",
+          "example": "It is a layer of guanine crystals which glow at night.",
+          "exampleTranslation": "这是的氨基羟尿环水晶层数发光在晚上。"
+        },
+        {
+          "id": 221,
+          "word": "pyrimidine",
+          "translation": "n. 嘧啶（二氮三烯陆环）",
+          "phonetic": "/ˌpaɪˈrɪmɪˌdiːn; pɪˈrɪmɪdiːn/",
+          "example": "Heterocycle is always pyrimidine or triazine.",
+          "exampleTranslation": "其中杂环部分常为嘧啶环或均三嗪环。"
+        },
+        {
+          "id": 222,
+          "word": "cytosine",
+          "translation": "n. [生化] 胞嘧啶；胞核嘧啶",
+          "phonetic": "/ˈsaɪtəsɪn/",
+          "example": "There are several options to deliver the cytosine gene.",
+          "exampleTranslation": "有几个选项，以提供胞嘧啶基因。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chapter 12",
+      "description": "Words 221 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 223,
+          "word": "thymine",
+          "translation": "n. [生化] 胸腺嘧啶",
+          "phonetic": "/ˈθaɪmiːn/",
+          "example": "Thymine or thymine nucleotide concentration was all disqulified.",
+          "exampleTranslation": "胸腺嘧啶或胸腺嘧啶核苷均不合格。"
+        },
+        {
+          "id": 224,
+          "word": "uracil",
+          "translation": "n. [生化] 尿嘧啶",
+          "phonetic": "/ˈjʊərəsɪl/",
+          "example": "Uracil -- a pyrimidine found in RNA that base-pares with adenine.",
+          "exampleTranslation": "尿嘧啶--核糖核酸中的一种嘧啶，与腺嘌呤形成碱基对。"
+        },
+        {
+          "id": 225,
+          "word": "double",
+          "translation": "adj. 两倍的，双的；供两人用的；双重的；（花）重瓣的；（多米诺骨牌）两边点数相同的；低八度的；adv. 两倍地；v. 加倍；对折；击出二垒安打；兼任；握紧；兼奏，重复（一个音符）；n. 两倍，两倍量；酷似的人；替身演员；卧室；双打；双料冠军；一杯双份的烈酒；（掷镖游戏中的）得双倍分的一掷；（掷骰子游戏中的）两骰子点数相同的一掷；（赛马中的）复式下注；（棒球比赛中的）二垒打；det. 是……两倍；pron. 双倍数（或量）；【名】 （Double）（美）杜布勒（人名）",
+          "phonetic": "/ˈdʌb(ə)l/",
+          "example": "He earns double what she does.",
+          "exampleTranslation": "他挣的钱是她的两倍。"
+        },
+        {
+          "id": 226,
+          "word": "pair",
+          "translation": "n. （成双的两物品）一对，一双；（由两个相连的类似部分组成的）一套，一副；两个共事（或有特殊关系）的人；（成对物的）另一只，（搭档的）另一人；（交配的）一对动物；两匹并排驾车的马；对子（指两张同点的纸牌）；（议会中）相约放弃投票权的敌对两党的两名议员（或其中一名）；v. 使成对，配对；（使）结成一对（恋人）（pair off/up）；（动物）交配（=pair up）；使（敌对两党的两名议员）组成不投票的一对；【名】 （Pair）佩尔（姓氏）",
+          "phonetic": "/peə(r)/",
+          "example": "Maximo put on a pair of glasses.",
+          "exampleTranslation": "马克西莫戴上了一副眼镜。"
+        },
+        {
+          "id": 227,
+          "word": "replication",
+          "translation": "n. 复制；回答；反响",
+          "phonetic": "/ˌreplɪˈkeɪʃn/",
+          "example": "That rapid replication rate also increased the chances of strains evolving in ways that allowed them to evade hog immune systems.",
+          "exampleTranslation": "那样迅速的复制速度也增加了菌株进化的机会，使它们能够用种种方式避开猪的免疫系统。"
+        }
+      ]
+    }
+  ]
+}
