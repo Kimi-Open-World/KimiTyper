@@ -8,7 +8,7 @@ export const cet4Book: WordBook = {
   language: 'en',
   category: '大学英语',
   dataUrl: '/words/cet4.json',  // 词语详情按需加载 JSON
-  version: "1.6",               // 更新此版本号可触发缓存刷新
+  version: "1.7",               // 更新此版本号可触发缓存刷新
   chapters: [] /* LOADED DYNAMICALLY */,
 }
 
@@ -22,11 +22,15 @@ export async function initializeBooks(): Promise<WordBook[]> {
       book.chapters = module.cet4Chapters;
     }
   }
-  // 动态自动注入高中必修课本
-  const compulsoryIds = ['yilin_1', 'yilin_2', 'yilin_3'];
-  for (const id of compulsoryIds) {
+  // 动态自动注入拓展词库：包括高中必修、选修以及大学拓展（六级、考研）
+  const dynamicIds = [
+    'yilin_1', 'yilin_2', 'yilin_3',
+    'yilin_elective_1', 'yilin_elective_2', 'yilin_elective_3',
+    'cet6', 'kaoyan', 'biomedical', 'toefl', 'ielts'
+  ];
+  for (const id of dynamicIds) {
     try {
-      const res = await fetch(`/books/${id}_book.json`);
+      const res = await fetch(`/books/${id}_book.json?v=${Date.now()}`);
       if (res.ok) {
         const bookData = await res.json();
         const b = Array.isArray(bookData) ? bookData[0] : bookData;

@@ -1,0 +1,2151 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-02-27",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "yilin_elective_2",
+      "word": "fifty",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自拉丁语，通常以 'fif' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fif(核心词干) + -ty(性质；状态) → 拼合演变成该词",
+      "cognates": [
+        "fiftieth",
+        "fiftieth"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "yilin_elective_2",
+      "word": "fight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fighting",
+        "fighting",
+        "fighter",
+        "fighting"
+      ]
+    },
+    {
+      "wordId": 3,
+      "bookId": "yilin_elective_2",
+      "word": "fight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fighting",
+        "fighting",
+        "fighter",
+        "fighting"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "yilin_elective_2",
+      "word": "fighter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'fight' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fight(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "fighting",
+        "fighting",
+        "fighting",
+        "fight"
+      ]
+    },
+    {
+      "wordId": 5,
+      "bookId": "yilin_elective_2",
+      "word": "figure",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'fig' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fig(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "figurative",
+        "figured",
+        "figural",
+        "figuration"
+      ]
+    },
+    {
+      "wordId": 6,
+      "bookId": "yilin_elective_2",
+      "word": "file",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "filing",
+        "filer",
+        "filing"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "yilin_elective_2",
+      "word": "fill",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "filling",
+        "filler",
+        "filling"
+      ]
+    },
+    {
+      "wordId": 8,
+      "bookId": "yilin_elective_2",
+      "word": "film",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "filmable",
+        "filmy",
+        "filmmaker"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "yilin_elective_2",
+      "word": "final",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fin(结束；界限) + -al(…的；与…有关的) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "finally",
+        "finale",
+        "finalist",
+        "finality"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "yilin_elective_2",
+      "word": "finance",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fin(结束；界限) + -ance(状态；性质；行为) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "financial",
+        "financially",
+        "financing",
+        "financier"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "yilin_elective_2",
+      "word": "find",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "finding",
+        "finder",
+        "found",
+        "finding"
+      ]
+    },
+    {
+      "wordId": 12,
+      "bookId": "yilin_elective_2",
+      "word": "fine",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "finable",
+        "fineable",
+        "finely",
+        "fineness"
+      ]
+    },
+    {
+      "wordId": 13,
+      "bookId": "yilin_elective_2",
+      "word": "finger",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fin(结束；界限) + -er(…者；做…的人) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "fingered",
+        "fingerless",
+        "fingernail",
+        "fingering"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "yilin_elective_2",
+      "word": "fingernail",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "fingered",
+        "finger",
+        "fingering",
+        "fingering"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "yilin_elective_2",
+      "word": "finish",
+      "prefix": "",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "finished",
+        "finishing",
+        "finishing",
+        "finis"
+      ]
+    },
+    {
+      "wordId": 16,
+      "bookId": "yilin_elective_2",
+      "word": "fire",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "firing",
+        "firing"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "yilin_elective_2",
+      "word": "firefighter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'firefight' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "firefight(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "fireman",
+        "firefight",
+        "firehouse",
+        "fireplug"
+      ]
+    },
+    {
+      "wordId": 18,
+      "bookId": "yilin_elective_2",
+      "word": "fireplace",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 19,
+      "bookId": "yilin_elective_2",
+      "word": "firewood",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 20,
+      "bookId": "yilin_elective_2",
+      "word": "firework",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 21,
+      "bookId": "yilin_elective_2",
+      "word": "firm",
+      "prefix": "",
+      "root": "firm(坚固)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 firmus（坚固的）。由 firm(坚固) 组合而成，原意与“坚固”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "firmness"
+      ]
+    },
+    {
+      "wordId": 22,
+      "bookId": "yilin_elective_2",
+      "word": "firmly",
+      "prefix": "",
+      "root": "firm(坚固)",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，源于 firmus（坚固的）。由 firm(坚固) 组合而成，原意与“坚固”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "firm(坚固) + -ly(以…方式；具有…性质) → 产生“坚固”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 23,
+      "bookId": "yilin_elective_2",
+      "word": "first",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "firstly"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "yilin_elective_2",
+      "word": "fish",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fishing",
+        "fishy",
+        "fishily",
+        "fishing"
+      ]
+    },
+    {
+      "wordId": 25,
+      "bookId": "yilin_elective_2",
+      "word": "fisherman",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 26,
+      "bookId": "yilin_elective_2",
+      "word": "fist",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 27,
+      "bookId": "yilin_elective_2",
+      "word": "fit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fitting",
+        "fitted",
+        "fitter",
+        "fittingly"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "yilin_elective_2",
+      "word": "fitting room",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 29,
+      "bookId": "yilin_elective_2",
+      "word": "five",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fiver",
+        "fivesome"
+      ]
+    },
+    {
+      "wordId": 30,
+      "bookId": "yilin_elective_2",
+      "word": "fix",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fixed",
+        "fixative",
+        "fixedly",
+        "fixture"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "yilin_elective_2",
+      "word": "flag",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flagging",
+        "flagship",
+        "flagging",
+        "flagging"
+      ]
+    },
+    {
+      "wordId": 32,
+      "bookId": "yilin_elective_2",
+      "word": "flame",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flamboyant",
+        "flaming",
+        "flamboyant",
+        "flamethrower"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "yilin_elective_2",
+      "word": "flaming",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flame",
+        "flame"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "yilin_elective_2",
+      "word": "flash",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flashing",
+        "flashy",
+        "flashily",
+        "flashing"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "yilin_elective_2",
+      "word": "flashlight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flashing",
+        "flashy",
+        "flashing",
+        "flasher"
+      ]
+    },
+    {
+      "wordId": 36,
+      "bookId": "yilin_elective_2",
+      "word": "flat",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flatly",
+        "flatness",
+        "flatmate",
+        "flatten"
+      ]
+    },
+    {
+      "wordId": 37,
+      "bookId": "yilin_elective_2",
+      "word": "flee",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 38,
+      "bookId": "yilin_elective_2",
+      "word": "flexible",
+      "prefix": "",
+      "root": "flex/flect(弯曲)",
+      "suffix": "-ible（能…的；可…的）",
+      "etymology": "来自拉丁语，源于 flectere（弯曲）。由 flex/flect(弯曲) 组合而成，原意与“弯曲”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "flex/flect(弯曲) + -ible(能…的；可…的) → 产生“弯曲”的意象 → 演变成该词",
+      "cognates": [
+        "flex",
+        "flexile",
+        "flexuous",
+        "flexibly"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "yilin_elective_2",
+      "word": "flesh",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fleshy",
+        "fleshly",
+        "fleshiness"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "yilin_elective_2",
+      "word": "flight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flightless"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "yilin_elective_2",
+      "word": "float",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "floating",
+        "floaty",
+        "floatation",
+        "floater"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "yilin_elective_2",
+      "word": "flood",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flooding"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "yilin_elective_2",
+      "word": "floor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'flo' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "flo(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "flooring",
+        "floorboard",
+        "flooring"
+      ]
+    },
+    {
+      "wordId": 44,
+      "bookId": "yilin_elective_2",
+      "word": "flour",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "floury",
+        "flourish",
+        "flourish",
+        "flourish"
+      ]
+    },
+    {
+      "wordId": 45,
+      "bookId": "yilin_elective_2",
+      "word": "flow",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flowing",
+        "flowage",
+        "flowing"
+      ]
+    },
+    {
+      "wordId": 46,
+      "bookId": "yilin_elective_2",
+      "word": "flower",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'flow' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "flow(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "flowery",
+        "flowering",
+        "flowered",
+        "flowerless"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "yilin_elective_2",
+      "word": "flu",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 48,
+      "bookId": "yilin_elective_2",
+      "word": "fluency",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "fluent",
+        "fluently"
+      ]
+    },
+    {
+      "wordId": 49,
+      "bookId": "yilin_elective_2",
+      "word": "fluent",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "flu/flux(流动) + -ent(…的人；具有…性质的) → 产生“流动”的意象 → 演变成该词",
+      "cognates": [
+        "fluently",
+        "fluency"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "yilin_elective_2",
+      "word": "fly",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "flying",
+        "flyaway",
+        "flyblown",
+        "flyer"
+      ]
+    },
+    {
+      "wordId": 51,
+      "bookId": "yilin_elective_2",
+      "word": "fly flew flown",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 52,
+      "bookId": "yilin_elective_2",
+      "word": "focus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "focal",
+        "focalization",
+        "focalize",
+        "focalize"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "yilin_elective_2",
+      "word": "fog",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "foggy",
+        "fogged",
+        "fogger",
+        "fogged"
+      ]
+    },
+    {
+      "wordId": 54,
+      "bookId": "yilin_elective_2",
+      "word": "foggy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fogged",
+        "fog",
+        "fogger",
+        "fogged"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "yilin_elective_2",
+      "word": "fold",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "folding",
+        "foldaway",
+        "folder"
+      ]
+    },
+    {
+      "wordId": 56,
+      "bookId": "yilin_elective_2",
+      "word": "folk",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "folksy"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "yilin_elective_2",
+      "word": "follow",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "following",
+        "following",
+        "follower",
+        "following"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "yilin_elective_2",
+      "word": "following",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "follow",
+        "follower",
+        "follow",
+        "follow"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "yilin_elective_2",
+      "word": "fond",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fondly",
+        "fondness",
+        "fondling",
+        "fondling"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "yilin_elective_2",
+      "word": "food",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 61,
+      "bookId": "yilin_elective_2",
+      "word": "fool",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "foolish",
+        "foolishly",
+        "fooling",
+        "foolishness"
+      ]
+    },
+    {
+      "wordId": 62,
+      "bookId": "yilin_elective_2",
+      "word": "foolish",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fool",
+        "foolishly",
+        "fool",
+        "fooling"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "yilin_elective_2",
+      "word": "foot feet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 64,
+      "bookId": "yilin_elective_2",
+      "word": "football",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "footballer"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "yilin_elective_2",
+      "word": "for",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 66,
+      "bookId": "yilin_elective_2",
+      "word": "forbid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forbidden",
+        "forbidding",
+        "forbiddance",
+        "forbidding"
+      ]
+    },
+    {
+      "wordId": 67,
+      "bookId": "yilin_elective_2",
+      "word": "force",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forced",
+        "forceful",
+        "forcefully",
+        "forcefulness"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "yilin_elective_2",
+      "word": "forecast",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'cast' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + cast(核心词干) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "forecasting",
+        "forecaster",
+        "forecasting"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "yilin_elective_2",
+      "word": "forehead",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'head' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + head(核心词干) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 70,
+      "bookId": "yilin_elective_2",
+      "word": "foreign",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'ign' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + ign(核心词干) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "foreigner",
+        "foreignness"
+      ]
+    },
+    {
+      "wordId": 71,
+      "bookId": "yilin_elective_2",
+      "word": "foreigner",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'ign' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + ign(核心词干) + -er(…者；做…的人) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "foreign",
+        "foreignness"
+      ]
+    },
+    {
+      "wordId": 72,
+      "bookId": "yilin_elective_2",
+      "word": "foresee",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'see' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + see(核心词干) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "foreseeable"
+      ]
+    },
+    {
+      "wordId": 73,
+      "bookId": "yilin_elective_2",
+      "word": "forest",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forestry",
+        "forester"
+      ]
+    },
+    {
+      "wordId": 74,
+      "bookId": "yilin_elective_2",
+      "word": "forever",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + v(核心词干) + -er(…者；做…的人) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "forevermore"
+      ]
+    },
+    {
+      "wordId": 75,
+      "bookId": "yilin_elective_2",
+      "word": "forget",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forgetful",
+        "forgettable",
+        "forgetfully",
+        "forgetfulness"
+      ]
+    },
+    {
+      "wordId": 76,
+      "bookId": "yilin_elective_2",
+      "word": "forgetful",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ful（充满…的；有…的）",
+      "etymology": "来自古英语，通常以 'forget' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "forget(核心词干) + -ful(充满…的；有…的) → 拼合演变成该词",
+      "cognates": [
+        "forgettable",
+        "forgetfully",
+        "forgetfulness",
+        "forget"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "yilin_elective_2",
+      "word": "forgive",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'forg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "forg(核心词干) + -ive(有…性质的；倾向于…的) → 拼合演变成该词",
+      "cognates": [
+        "forgiving",
+        "forgivable",
+        "forgiveness",
+        "forgiving"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "yilin_elective_2",
+      "word": "fork",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "forked",
+        "forked"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "yilin_elective_2",
+      "word": "form",
+      "prefix": "",
+      "root": "form(形式；形状)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "former",
+        "formal",
+        "formalized",
+        "formless"
+      ]
+    },
+    {
+      "wordId": 80,
+      "bookId": "yilin_elective_2",
+      "word": "format",
+      "prefix": "",
+      "root": "form(形式；形状)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "formative",
+        "formalized",
+        "formative",
+        "formatting"
+      ]
+    },
+    {
+      "wordId": 81,
+      "bookId": "yilin_elective_2",
+      "word": "former",
+      "prefix": "",
+      "root": "form(形式；形状)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 forma（形状）。由 form(形式；形状) 组合而成，原意与“形式；形状”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "form(形式；形状) + -er(…者；做…的人) → 产生“形式；形状”的意象 → 演变成该词",
+      "cognates": [
+        "formative",
+        "formalized",
+        "formless",
+        "formally"
+      ]
+    },
+    {
+      "wordId": 82,
+      "bookId": "yilin_elective_2",
+      "word": "fortnight",
+      "prefix": "",
+      "root": "fort(强壮；力量)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fortis（强壮的）。由 fort(强壮；力量) 组合而成，原意与“强壮；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "fortnightly",
+        "fortnightly",
+        "fortnightly"
+      ]
+    },
+    {
+      "wordId": 83,
+      "bookId": "yilin_elective_2",
+      "word": "fortunate",
+      "prefix": "",
+      "root": "fort(强壮；力量)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 fortis（强壮的）。由 fort(强壮；力量) 组合而成，原意与“强壮；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fort(强壮；力量) + -ate(使…；具有…的) → 产生“强壮；力量”的意象 → 演变成该词",
+      "cognates": [
+        "fortunately"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "yilin_elective_2",
+      "word": "fortune",
+      "prefix": "",
+      "root": "fort(强壮；力量)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 fortis（强壮的）。由 fort(强壮；力量) 组合而成，原意与“强壮；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "fortuitous",
+        "fortuitously",
+        "fortuity"
+      ]
+    },
+    {
+      "wordId": 85,
+      "bookId": "yilin_elective_2",
+      "word": "forty",
+      "prefix": "",
+      "root": "fort(强壮；力量)",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自拉丁语，源于 fortis（强壮的）。由 fort(强壮；力量) 组合而成，原意与“强壮；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fort(强壮；力量) + -ty(性质；状态) → 产生“强壮；力量”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 86,
+      "bookId": "yilin_elective_2",
+      "word": "forward",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ward（朝向…方向）",
+      "etymology": "来自古英语，通常以 'for' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "for(核心词干) + -ward(朝向…方向) → 拼合演变成该词",
+      "cognates": [
+        "forwarding",
+        "forwards",
+        "forwarding",
+        "forwardness"
+      ]
+    },
+    {
+      "wordId": 87,
+      "bookId": "yilin_elective_2",
+      "word": "found",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "foundation",
+        "find",
+        "founder",
+        "finding"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "yilin_elective_2",
+      "word": "founding",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 89,
+      "bookId": "yilin_elective_2",
+      "word": "fountain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 90,
+      "bookId": "yilin_elective_2",
+      "word": "four",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fourth",
+        "foursome",
+        "fourteenth",
+        "fourth"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "yilin_elective_2",
+      "word": "fourteen",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fourteenth",
+        "fourteenth",
+        "fourteenth"
+      ]
+    },
+    {
+      "wordId": 92,
+      "bookId": "yilin_elective_2",
+      "word": "fourth",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "four",
+        "fourteenth",
+        "fourthly",
+        "fourteenth"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "yilin_elective_2",
+      "word": "fox",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "foxy",
+        "foxiness"
+      ]
+    },
+    {
+      "wordId": 94,
+      "bookId": "yilin_elective_2",
+      "word": "franc",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 95,
+      "bookId": "yilin_elective_2",
+      "word": "France",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "Francophile",
+        "Francophobe",
+        "Francophile",
+        "Francophobe"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "yilin_elective_2",
+      "word": "fragile",
+      "prefix": "",
+      "root": "frag/fract(打破)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 frangere（破碎）。由 frag/fract(打破) 组合而成，原意与“打破”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "fragility"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "yilin_elective_2",
+      "word": "fragrant",
+      "prefix": "",
+      "root": "frag/fract(打破)",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 frangere（破碎）。由 frag/fract(打破) 组合而成，原意与“打破”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "frag/fract(打破) + -ant(…的人；具有…性质的) → 产生“打破”的意象 → 演变成该词",
+      "cognates": [
+        "fragrance",
+        "fragrancy"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "yilin_elective_2",
+      "word": "framework",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "framed",
+        "framing",
+        "framing",
+        "framed"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "yilin_elective_2",
+      "word": "free",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "freed",
+        "freely",
+        "freedom",
+        "freed"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "yilin_elective_2",
+      "word": "freedom",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "free",
+        "freelance",
+        "freed",
+        "freeborn"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "yilin_elective_2",
+      "word": "freeway",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 102,
+      "bookId": "yilin_elective_2",
+      "word": "freeze",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "frozen",
+        "freezing",
+        "freezer",
+        "frozen"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "yilin_elective_2",
+      "word": "freezing",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "freeze",
+        "freezer",
+        "freeze",
+        "freeze"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "yilin_elective_2",
+      "word": "French",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "Frenchy",
+        "Frenglish",
+        "Frenchman",
+        "Frenchness"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "yilin_elective_2",
+      "word": "Frenchman",
+      "prefix": "",
+      "root": "man/manu(手)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 manus（手）。由 man/manu(手) 组合而成，原意与“手”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "French",
+        "Frenchy",
+        "Frenglish",
+        "French"
+      ]
+    },
+    {
+      "wordId": 106,
+      "bookId": "yilin_elective_2",
+      "word": "frequent",
+      "prefix": "",
+      "root": "equ(相等；平衡)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 aequus（相等的）。由 equ(相等；平衡) 组合而成，原意与“相等；平衡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "equ(相等；平衡) + -ent(…的人；具有…性质的) → 产生“相等；平衡”的意象 → 演变成该词",
+      "cognates": [
+        "frequently",
+        "frequency",
+        "frequenter"
+      ]
+    },
+    {
+      "wordId": 107,
+      "bookId": "yilin_elective_2",
+      "word": "fresh",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "freshwater",
+        "freshly",
+        "freshness",
+        "fresher"
+      ]
+    },
+    {
+      "wordId": 108,
+      "bookId": "yilin_elective_2",
+      "word": "Friday",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "Fridays",
+        "Fridays"
+      ]
+    },
+    {
+      "wordId": 109,
+      "bookId": "yilin_elective_2",
+      "word": "friction",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'fric' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fric(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "frictional",
+        "fricative",
+        "frictionless",
+        "fricative"
+      ]
+    },
+    {
+      "wordId": 110,
+      "bookId": "yilin_elective_2",
+      "word": "fridge =refrigerator",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'fridge =refrigerat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fridge =refrigerat(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 111,
+      "bookId": "yilin_elective_2",
+      "word": "fried",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fry",
+        "frying",
+        "fryer",
+        "friedcake"
+      ]
+    },
+    {
+      "wordId": 112,
+      "bookId": "yilin_elective_2",
+      "word": "friend",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "friendly",
+        "friendless",
+        "friendly",
+        "friendliness"
+      ]
+    },
+    {
+      "wordId": 113,
+      "bookId": "yilin_elective_2",
+      "word": "friendly",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'friend' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "friend(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "friendless",
+        "friend",
+        "friendliness"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "yilin_elective_2",
+      "word": "friendship",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 115,
+      "bookId": "yilin_elective_2",
+      "word": "fright",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "frightening",
+        "frightened",
+        "frightful",
+        "frighteningly"
+      ]
+    },
+    {
+      "wordId": 116,
+      "bookId": "yilin_elective_2",
+      "word": "frighten",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "frightening",
+        "frightened",
+        "frightful",
+        "frighteningly"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "yilin_elective_2",
+      "word": "frog",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 118,
+      "bookId": "yilin_elective_2",
+      "word": "from",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 119,
+      "bookId": "yilin_elective_2",
+      "word": "front",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "frontal",
+        "frontal",
+        "frontage"
+      ]
+    },
+    {
+      "wordId": 120,
+      "bookId": "yilin_elective_2",
+      "word": "frontier",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'fronti' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fronti(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 121,
+      "bookId": "yilin_elective_2",
+      "word": "frost",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "frosted",
+        "frosty",
+        "frosting",
+        "frostily"
+      ]
+    },
+    {
+      "wordId": 122,
+      "bookId": "yilin_elective_2",
+      "word": "fruit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fruitful",
+        "fruitless",
+        "fruity",
+        "fruitfully"
+      ]
+    },
+    {
+      "wordId": 123,
+      "bookId": "yilin_elective_2",
+      "word": "fruit juice",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 124,
+      "bookId": "yilin_elective_2",
+      "word": "fry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fried",
+        "frying",
+        "fryer",
+        "fried"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "yilin_elective_2",
+      "word": "fuel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 126,
+      "bookId": "yilin_elective_2",
+      "word": "full",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fully",
+        "fullness"
+      ]
+    },
+    {
+      "wordId": 127,
+      "bookId": "yilin_elective_2",
+      "word": "fun",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "funny",
+        "funnily",
+        "funny"
+      ]
+    },
+    {
+      "wordId": 128,
+      "bookId": "yilin_elective_2",
+      "word": "function",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'func' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "func(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "functional",
+        "functionalist",
+        "functionally",
+        "functionality"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "yilin_elective_2",
+      "word": "fundamental",
+      "prefix": "",
+      "root": "fund/found(基础；底部)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 fundus（底部）。由 fund/found(基础；底部) 组合而成，原意与“基础；底部”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fund/found(基础；底部) + -al(…的；与…有关的) → 产生“基础；底部”的意象 → 演变成该词",
+      "cognates": [
+        "fundamentalist",
+        "fundamentally",
+        "fundamentalist",
+        "fundament"
+      ]
+    },
+    {
+      "wordId": 130,
+      "bookId": "yilin_elective_2",
+      "word": "funeral",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'funer' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "funer(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "funerary",
+        "funereal"
+      ]
+    },
+    {
+      "wordId": 131,
+      "bookId": "yilin_elective_2",
+      "word": "funny",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fun",
+        "funnily",
+        "fun",
+        "fun"
+      ]
+    },
+    {
+      "wordId": 132,
+      "bookId": "yilin_elective_2",
+      "word": "fur",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "furry",
+        "furred",
+        "furring",
+        "furred"
+      ]
+    },
+    {
+      "wordId": 133,
+      "bookId": "yilin_elective_2",
+      "word": "furnished",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 134,
+      "bookId": "yilin_elective_2",
+      "word": "furniture",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'furnit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "furnit(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 135,
+      "bookId": "yilin_elective_2",
+      "word": "future",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'fut' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fut(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "futuristic",
+        "futurist",
+        "futureless",
+        "futurism"
+      ]
+    },
+    {
+      "wordId": 136,
+      "bookId": "yilin_elective_2",
+      "word": "gain",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gainful",
+        "gainfully",
+        "gainer",
+        "gainfulness"
+      ]
+    },
+    {
+      "wordId": 137,
+      "bookId": "yilin_elective_2",
+      "word": "gale",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 138,
+      "bookId": "yilin_elective_2",
+      "word": "gallery",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ery（…的行业；…的性质）",
+      "etymology": "来自拉丁语或法语，通常以 'gall' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "gall(核心词干) + -ery(…的行业；…的性质) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 139,
+      "bookId": "yilin_elective_2",
+      "word": "gallon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 140,
+      "bookId": "yilin_elective_2",
+      "word": "game",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gamy",
+        "gamey",
+        "gamely",
+        "gambling"
+      ]
+    },
+    {
+      "wordId": 141,
+      "bookId": "yilin_elective_2",
+      "word": "garage",
+      "prefix": "",
+      "root": "",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语或法语，通常以 'gar' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "gar(核心词干) + -age(行为；状态；集合) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 142,
+      "bookId": "yilin_elective_2",
+      "word": "garbage",
+      "prefix": "",
+      "root": "",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语或法语，通常以 'garb' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "garb(核心词干) + -age(行为；状态；集合) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 143,
+      "bookId": "yilin_elective_2",
+      "word": "garden",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gardener",
+        "gardening"
+      ]
+    },
+    {
+      "wordId": 144,
+      "bookId": "yilin_elective_2",
+      "word": "gardening",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "garden",
+        "gardener",
+        "garden",
+        "garden"
+      ]
+    },
+    {
+      "wordId": 145,
+      "bookId": "yilin_elective_2",
+      "word": "garlic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'garl' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "garl(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "garlicky"
+      ]
+    },
+    {
+      "wordId": 146,
+      "bookId": "yilin_elective_2",
+      "word": "garment",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 147,
+      "bookId": "yilin_elective_2",
+      "word": "gas",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gaseous",
+        "gasify",
+        "gasify"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "yilin_elective_2",
+      "word": "gate",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gating",
+        "gating"
+      ]
+    },
+    {
+      "wordId": 149,
+      "bookId": "yilin_elective_2",
+      "word": "gather",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'gath' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "gath(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "gathering",
+        "gatherer",
+        "gathering"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "yilin_elective_2",
+      "word": "gay",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gaily",
+        "gayly",
+        "gayness"
+      ]
+    }
+  ]
+}

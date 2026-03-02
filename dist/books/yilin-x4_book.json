@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "yilin-x4",
+    "name": "高中选修4",
+    "description": "译林版高中选修4",
+    "wordCount": 200,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": [
+      {
+        "id": "ch-1",
+        "name": "Unit 1",
+        "description": "第1单元",
+        "words": [
+          {
+            "id": 1,
+            "word": "action - french",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 2,
+            "word": "alerted",
+            "phonetic": "",
+            "meaning": "v．警告，提醒，使警觉：通知某人某事，使他们意识到可能发生的危险或问题。"
+          },
+          {
+            "id": 3,
+            "word": "airstream",
+            "phonetic": "/ˈeəstriːm/",
+            "meaning": "n. （尤指与飞机前进方向相反者）气流"
+          },
+          {
+            "id": 4,
+            "word": "acosta",
+            "phonetic": "",
+            "meaning": "n. 极地阳光（博客名）；阿科斯塔（姓氏）"
+          },
+          {
+            "id": 5,
+            "word": "agenticness",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 6,
+            "word": "abetting",
+            "phonetic": "",
+            "meaning": "v．教唆，煽动，帮助：指在他人犯罪过程中提供帮助、支持或鼓励。"
+          },
+          {
+            "id": 7,
+            "word": "aeronautical",
+            "phonetic": "/ˌeərəˈnɔːtɪkl/",
+            "meaning": "adj. 航空的；航空学的；飞机驾驶员的（等于 aeronautic）"
+          },
+          {
+            "id": 8,
+            "word": "adjusted",
+            "phonetic": "/əˈdʒʌstɪd/",
+            "meaning": "adj. 调整过的，调节了的；v. 调整；校正（adjust 的过去分词）"
+          },
+          {
+            "id": 9,
+            "word": "agricultural systems",
+            "phonetic": "",
+            "meaning": "农业系统，农业体系，农业制度，农业生产制度"
+          },
+          {
+            "id": 10,
+            "word": "air current",
+            "phonetic": "/eə ˈkʌrənt/",
+            "meaning": "气流：气流是指风的集中区域，主要由大气压力或温度差异引起。它们分为水平和垂直气流；水平气流主要存在于中尺度，而垂直气流主导于天气尺度。气流不仅存在于对流层，还延伸到平流层和中间层。"
+          },
+          {
+            "id": 11,
+            "word": "activase",
+            "phonetic": "",
+            "meaning": "n. 活化酶；阿克伐司"
+          },
+          {
+            "id": 12,
+            "word": "abstention",
+            "phonetic": "/əbˈstenʃ(ə)n/",
+            "meaning": "n. 弃权；节制；戒绝"
+          },
+          {
+            "id": 13,
+            "word": "abides",
+            "phonetic": "",
+            "meaning": "v．；1. 忍受，容忍：容忍某人或某事，尤指在困难或不愉快的情况下。；2. 遵守，坚守：遵循或坚持某种原则、规定或协议。；3. 居住，逗留：在某地停留或居住。"
+          },
+          {
+            "id": 14,
+            "word": "affect display",
+            "phonetic": "",
+            "meaning": "情感表达：指声音、表情、手势或姿势等外部展示的情感或情感，无论是自愿的还是非自愿的。"
+          },
+          {
+            "id": 15,
+            "word": "accuses",
+            "phonetic": "",
+            "meaning": "v．指责，控告：指责某人犯了错误或犯罪，通常涉及法律诉讼。"
+          },
+          {
+            "id": 16,
+            "word": "advanced kit",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 17,
+            "word": "airless",
+            "phonetic": "/ˈeələs/",
+            "meaning": "adj. 不通风的；没有风的；缺少空气的"
+          },
+          {
+            "id": 18,
+            "word": "abjectly",
+            "phonetic": "/ˈæbdʒektli/",
+            "meaning": "adv. 悲惨地；卑鄙地；不自爱"
+          },
+          {
+            "id": 19,
+            "word": "aerophile",
+            "phonetic": "",
+            "meaning": "好氧的"
+          },
+          {
+            "id": 20,
+            "word": "affray",
+            "phonetic": "/əˈfreɪ/",
+            "meaning": "n. 滋事；骚乱；争论"
+          }
+        ]
+      },
+      {
+        "id": "ch-2",
+        "name": "Unit 2",
+        "description": "第2单元",
+        "words": [
+          {
+            "id": 21,
+            "word": "algal free pond",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 22,
+            "word": "airworthy",
+            "phonetic": "/ˈeəwɜːði/",
+            "meaning": "adj. 适宜航空的；耐飞的；飞机性能良好的"
+          },
+          {
+            "id": 23,
+            "word": "aculeus",
+            "phonetic": "/əˈkjuːliəs/",
+            "meaning": "n. 刺；[生物] 皮刺；螫刺"
+          },
+          {
+            "id": 24,
+            "word": "affixial",
+            "phonetic": "",
+            "meaning": "adj. 词缀的"
+          },
+          {
+            "id": 25,
+            "word": "advisory body",
+            "phonetic": "",
+            "meaning": "咨询机构：由专家、学者、业内人士等组成的机构，为政府、企业或组织提供咨询意见和建议。"
+          },
+          {
+            "id": 26,
+            "word": "admonitions",
+            "phonetic": "",
+            "meaning": "n．警告，告诫：提醒某人注意某事或改正错误的行为。"
+          },
+          {
+            "id": 27,
+            "word": "aircraft",
+            "phonetic": "/ˈeəkrɑːft/",
+            "meaning": "n. 飞机，航空器"
+          },
+          {
+            "id": 28,
+            "word": "academic misfit",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 29,
+            "word": "additive notation",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 30,
+            "word": "aeroplane",
+            "phonetic": "/ˈeərəpleɪn/",
+            "meaning": "n. <英> 飞机"
+          },
+          {
+            "id": 31,
+            "word": "accelerating",
+            "phonetic": "/əkˈseləreɪtɪŋ/",
+            "meaning": "adj. 促进的，[物] 加速的；催化的"
+          },
+          {
+            "id": 32,
+            "word": "adaptive system",
+            "phonetic": "/əˈdæptɪv ˈsɪstəm/",
+            "meaning": "自适应系统：一种能够根据环境变化和输入数据自动调整其行为和参数的系统。"
+          },
+          {
+            "id": 33,
+            "word": "acetyl",
+            "phonetic": "/ˈæsɪˌtaɪl/",
+            "meaning": "n. [有化] 乙酰；乙酰基"
+          },
+          {
+            "id": 34,
+            "word": "algolagnic",
+            "phonetic": "/ˌælɡəʊˈlæɡnɪk/",
+            "meaning": "adj. 性虐狂的"
+          },
+          {
+            "id": 35,
+            "word": "algorithmic efficiency",
+            "phonetic": "",
+            "meaning": "算法效率"
+          },
+          {
+            "id": 36,
+            "word": "a pond",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 37,
+            "word": "adumbrates",
+            "phonetic": "",
+            "meaning": "v．；1. 预示，预兆：暗示或预示未来的事物。；2. 轮廓勾画，简要描述：简要地描述或勾画某事物的轮廓。"
+          },
+          {
+            "id": 38,
+            "word": "admittible",
+            "phonetic": "/ədˈmɪtəbl/",
+            "meaning": "adj. 有进入资格的"
+          },
+          {
+            "id": 39,
+            "word": "adnoun",
+            "phonetic": "/ˈædnaʊn/",
+            "meaning": "n. 形名词（用作名词的形容词）"
+          },
+          {
+            "id": 40,
+            "word": "additional number problem",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          }
+        ]
+      },
+      {
+        "id": "ch-3",
+        "name": "Unit 3",
+        "description": "第3单元",
+        "words": [
+          {
+            "id": 41,
+            "word": "affected areas",
+            "phonetic": "",
+            "meaning": "受影响的地区：指受到某种灾害、疾病、战争等影响的地区。"
+          },
+          {
+            "id": 42,
+            "word": "accounts",
+            "phonetic": "/əˈkaʊnts/",
+            "meaning": "n. 账目（account 的复数）；账号；会计账簿；v. 以为；把…归因于（account 的第三人称单数）"
+          },
+          {
+            "id": 43,
+            "word": "a hundred",
+            "phonetic": "/ə ˈhʌndrəd/",
+            "meaning": "一百"
+          },
+          {
+            "id": 44,
+            "word": "africander",
+            "phonetic": "/ˌæfrɪˈkændə(r)/",
+            "meaning": "n. 南非牛"
+          },
+          {
+            "id": 45,
+            "word": "alabaman",
+            "phonetic": "",
+            "meaning": "n. 阿拉巴马州人"
+          },
+          {
+            "id": 46,
+            "word": "academic disinterest",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 47,
+            "word": "abutted",
+            "phonetic": "",
+            "meaning": "v．毗邻，邻接：指建筑物、土地等与其他物体相邻或接触。"
+          },
+          {
+            "id": 48,
+            "word": "academic community leaders",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 49,
+            "word": "academic theoretical descriptor",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 50,
+            "word": "advantaging",
+            "phonetic": "",
+            "meaning": "vt. 有利于，使处于优势地位（advantage 的现在分词）"
+          },
+          {
+            "id": 51,
+            "word": "agreeable",
+            "phonetic": "/əˈɡriːəb(ə)l/",
+            "meaning": "adj. 愉悦的，讨人喜欢的；欣然同意的；可接受的"
+          },
+          {
+            "id": 52,
+            "word": "academic historical term",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 53,
+            "word": "acridid",
+            "phonetic": "/ˈækrɪdɪd/",
+            "meaning": "n. 蝗虫"
+          },
+          {
+            "id": 54,
+            "word": "aflare",
+            "phonetic": "/əˈfleə/",
+            "meaning": "adj. 燃烧的，闪耀的：指火焰或光线明亮地燃烧或闪耀。"
+          },
+          {
+            "id": 55,
+            "word": "activity theme",
+            "phonetic": "",
+            "meaning": "活动主题：指在特定活动中所关注的主题或核心内容。"
+          },
+          {
+            "id": 56,
+            "word": "aftermath effects",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 57,
+            "word": "accentor",
+            "phonetic": "/ækˈsentə(r)/",
+            "meaning": "n. 鸣禽；领唱者"
+          },
+          {
+            "id": 58,
+            "word": "academic language use",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 59,
+            "word": "accelerating force",
+            "phonetic": "",
+            "meaning": "加速力量；[力] 加速力"
+          },
+          {
+            "id": 60,
+            "word": "abettors",
+            "phonetic": "/əˈbetə(r)/",
+            "meaning": "n. 教唆犯；唆使者"
+          }
+        ]
+      },
+      {
+        "id": "ch-4",
+        "name": "Unit 4",
+        "description": "第4单元",
+        "words": [
+          {
+            "id": 61,
+            "word": "administrative decision",
+            "phonetic": "",
+            "meaning": "行政决定；[管理] 管理决策；行政判决结果"
+          },
+          {
+            "id": 62,
+            "word": "acute emotional loneliness",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 63,
+            "word": "abhors",
+            "phonetic": "",
+            "meaning": "v．憎恶，厌恶：对某事物或某人感到强烈的不喜欢或反感。"
+          },
+          {
+            "id": 64,
+            "word": "adjudicator ruling",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 65,
+            "word": "accommodation",
+            "phonetic": "/əˌkɒməˈdeɪʃ(ə)n/",
+            "meaning": "n.  <美>住宿，膳宿；<英>住处，办公处，停留处；（楼房或交通工具内的）空间，座位；和解，调和；（通过改变眼球晶状体形状）自动调焦"
+          },
+          {
+            "id": 66,
+            "word": "airstrip",
+            "phonetic": "/ˈeəstrɪp/",
+            "meaning": "n. 飞机跑道"
+          },
+          {
+            "id": 67,
+            "word": "abscissas",
+            "phonetic": "",
+            "meaning": "n. [数][天] 横坐标（横线）"
+          },
+          {
+            "id": 68,
+            "word": "accustomed",
+            "phonetic": "/əˈkʌstəmd/",
+            "meaning": "adj. 习惯的，适应的；惯常的，通常的；（眼睛对光线变化）习惯了的，适应了的；v. 使习惯于，使适应（accustom 的过去式和过去分词）"
+          },
+          {
+            "id": 69,
+            "word": "aguish",
+            "phonetic": "/ˈeɪɡjʊɪʃ/",
+            "meaning": "adj. 疟疾的；患了疟疾的；易患疟疾的"
+          },
+          {
+            "id": 70,
+            "word": "adverb form",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 71,
+            "word": "adamant",
+            "phonetic": "/ˈædəmənt/",
+            "meaning": "adj. 固执的，坚强的；坚定不移的；坚硬无比的；n. 坚硬的东西；坚石"
+          },
+          {
+            "id": 72,
+            "word": "admonitory",
+            "phonetic": "/ədˈmɒnɪtri/",
+            "meaning": "adj. 劝告的，警告的"
+          },
+          {
+            "id": 73,
+            "word": "adult plants",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 74,
+            "word": "agonizingly",
+            "phonetic": "/ˈæɡənaɪzɪŋli/",
+            "meaning": "adv. 使人烦恼地；苦闷地"
+          },
+          {
+            "id": 75,
+            "word": "acquitted",
+            "phonetic": "/əˈkwɪtɪd/",
+            "meaning": "adj. 无罪；无罪开释；v. 释放（acquit 的过去分词）"
+          },
+          {
+            "id": 76,
+            "word": "algorithm choices",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 77,
+            "word": "aesthetic standard",
+            "phonetic": "",
+            "meaning": "审美标准：评价美的事物时所遵循的一种标准或准则，通常受文化、历史和个人喜好等因素影响。"
+          },
+          {
+            "id": 78,
+            "word": "acanthurus",
+            "phonetic": "",
+            "meaning": "n. 刺尾鱼属"
+          },
+          {
+            "id": 79,
+            "word": "alford",
+            "phonetic": "",
+            "meaning": "奥尔福德（地名）"
+          },
+          {
+            "id": 80,
+            "word": "agitators",
+            "phonetic": "",
+            "meaning": "n. [机]搅拌器；挑拨者（agitator 的复数）"
+          }
+        ]
+      },
+      {
+        "id": "ch-5",
+        "name": "Unit 5",
+        "description": "第5单元",
+        "words": [
+          {
+            "id": 81,
+            "word": "acidified",
+            "phonetic": "/əˈsɪdɪfaɪd/",
+            "meaning": "[化学] 酸化"
+          },
+          {
+            "id": 82,
+            "word": "aisles",
+            "phonetic": "/aɪlz/",
+            "meaning": "n. [建]通道；[建]走廊（aisle 的复数）"
+          },
+          {
+            "id": 83,
+            "word": "accelerative",
+            "phonetic": "/ækˈselərətɪv/",
+            "meaning": "adj. 加速的；促进的；催促的"
+          },
+          {
+            "id": 84,
+            "word": "accordant",
+            "phonetic": "/əˈkɔːdənt/",
+            "meaning": "adj. 一致的；调和的"
+          },
+          {
+            "id": 85,
+            "word": "abductors",
+            "phonetic": "",
+            "meaning": "n．；1. 外展肌：一组肌肉，负责将身体的某部分从中线向外移动。；2. 绑架者：从事绑架行为的人。"
+          },
+          {
+            "id": 86,
+            "word": "alfalfa",
+            "phonetic": "/ælˈfælfə/",
+            "meaning": "n. [作物] 苜蓿；紫花苜蓿"
+          },
+          {
+            "id": 87,
+            "word": "adduces",
+            "phonetic": "",
+            "meaning": "v．举例；引证：提出证据或论据以支持某种观点。"
+          },
+          {
+            "id": 88,
+            "word": "affirm a creed",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 89,
+            "word": "agricultural technology",
+            "phonetic": "",
+            "meaning": "农业技术：应用于农业生产和管理的各种技术和方法，包括种植、养殖、土壤管理、农业机械等方面。"
+          },
+          {
+            "id": 90,
+            "word": "abstractedly",
+            "phonetic": "/æbˈstræktɪdli/",
+            "meaning": "adv. 茫然地；抽象地；心不在焉地"
+          },
+          {
+            "id": 91,
+            "word": "activity",
+            "phonetic": "/ækˈtɪvəti/",
+            "meaning": "n. 活跃状况，热闹；活动；（Activity）热力活性，活度"
+          },
+          {
+            "id": 92,
+            "word": "absolutest",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 93,
+            "word": "administrative",
+            "phonetic": "/ədˈmɪnɪstrətɪv/",
+            "meaning": "adj. 管理的，行政的"
+          },
+          {
+            "id": 94,
+            "word": "agricultural ecosystem health",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 95,
+            "word": "agglomerations",
+            "phonetic": "",
+            "meaning": "n. 人口密集地带，城市群；凝聚体（agglomeration 的复数）"
+          },
+          {
+            "id": 96,
+            "word": "adeptly",
+            "phonetic": "/əˈdeptli/",
+            "meaning": "老练地；熟练地"
+          },
+          {
+            "id": 97,
+            "word": "adolescent",
+            "phonetic": "/ˌædəˈles(ə)nt/",
+            "meaning": "n. 青少年；adj. 青春期的；不成熟的"
+          },
+          {
+            "id": 98,
+            "word": "affects",
+            "phonetic": "/əˈfekts/",
+            "meaning": "v. 影响；喜欢（affect 的三单形式）；假装；n. 感情；引起感情的因素；情绪反应（affect 的复数）"
+          },
+          {
+            "id": 99,
+            "word": "act on impulse",
+            "phonetic": "",
+            "meaning": "冲动行事：在没有深思熟虑的情况下，凭借一时的冲动做出决定或行动。"
+          },
+          {
+            "id": 100,
+            "word": "aftermaths",
+            "phonetic": "",
+            "meaning": "n．后果，余波：事件、灾难或冲突之后的结果或影响。"
+          }
+        ]
+      },
+      {
+        "id": "ch-6",
+        "name": "Unit 6",
+        "description": "第6单元",
+        "words": [
+          {
+            "id": 101,
+            "word": "absorber",
+            "phonetic": "/əbˈsɔːbə(r)/",
+            "meaning": "n. 减震器；吸收器；吸收体"
+          },
+          {
+            "id": 102,
+            "word": "accessory",
+            "phonetic": "/əkˈsesəri/",
+            "meaning": "n. 附件，配件；装饰品，配饰；同谋，从犯；adj. 辅助的，副的；附属的；同谋的"
+          },
+          {
+            "id": 103,
+            "word": "acanthuses",
+            "phonetic": "/əˈkænθəsɪz/",
+            "meaning": "n. 爵床科植物；茛苕（acanthus 的复数）"
+          },
+          {
+            "id": 104,
+            "word": "acknowledgement",
+            "phonetic": "/əkˈnɒlɪdʒmənt/",
+            "meaning": "n. 承认；感谢；（作者的）致谢；回执；（表示注意到了某人或某事的）示意"
+          },
+          {
+            "id": 105,
+            "word": "agitations",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 106,
+            "word": "adult plant",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 107,
+            "word": "adjoins",
+            "phonetic": "",
+            "meaning": "v．毗邻，邻接：指两个物体或地区紧密相连或相邻。"
+          },
+          {
+            "id": 108,
+            "word": "acrididae",
+            "phonetic": "",
+            "meaning": "蝗科"
+          },
+          {
+            "id": 109,
+            "word": "agency",
+            "phonetic": "/ˈeɪdʒənsi/",
+            "meaning": "n. 代理行，经销处；政府专门机构，政府内的局，部，处；（尤指产生某效果的）作用；起作用的事物（或人）;社会行为者独立选择的能力"
+          },
+          {
+            "id": 110,
+            "word": "airlifting",
+            "phonetic": "",
+            "meaning": "vt. 空运（airlift 的现在分词）"
+          },
+          {
+            "id": 111,
+            "word": "academic competition prep",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 112,
+            "word": "achiever",
+            "phonetic": "/əˈtʃiːvə(r)/",
+            "meaning": "n. 获得成功的人"
+          },
+          {
+            "id": 113,
+            "word": "aesthetic descriptor",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 114,
+            "word": "academician",
+            "phonetic": "/əˌkædəˈmɪʃn/",
+            "meaning": "n. 学会会员，院士；<美>学者，知识分子；<美>大学教师"
+          },
+          {
+            "id": 115,
+            "word": "adult second language learner",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 116,
+            "word": "affect behavior",
+            "phonetic": "",
+            "meaning": "影响行为：指外部因素对个体行为的影响，可能是积极的或消极的。"
+          },
+          {
+            "id": 117,
+            "word": "abysses",
+            "phonetic": "",
+            "meaning": "n．深渊（abyss的复数形式）：深不见底的深渊，通常用于形容深海、深洞或无尽的空间。"
+          },
+          {
+            "id": 118,
+            "word": "aeolia",
+            "phonetic": "/iːˈəʊlɪə/",
+            "meaning": "n. 埃俄利亚（古希腊在小亚细亚的西北部沿海地区的一个殖民地）"
+          },
+          {
+            "id": 119,
+            "word": "alfredo",
+            "phonetic": "",
+            "meaning": "n. 阿尔弗雷多（古代国王的名字）"
+          },
+          {
+            "id": 120,
+            "word": "abacinate",
+            "phonetic": "",
+            "meaning": "v. 用火烧瞎眼睛：一种古老的惩罚方法，通过将火焰或热物体靠近眼睛使其失明。"
+          }
+        ]
+      },
+      {
+        "id": "ch-7",
+        "name": "Unit 7",
+        "description": "第7单元",
+        "words": [
+          {
+            "id": 121,
+            "word": "aimless",
+            "phonetic": "/ˈeɪmləs/",
+            "meaning": "adj. 没有目标的；无目的的"
+          },
+          {
+            "id": 122,
+            "word": "academic federation",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 123,
+            "word": "abnegate",
+            "phonetic": "/ˈæbnɪˌɡeɪt/",
+            "meaning": "vt. 放弃；舍弃；禁忌"
+          },
+          {
+            "id": 124,
+            "word": "affiliative",
+            "phonetic": "/əˈfɪlɪˌeɪtɪv/",
+            "meaning": "有亲和力的"
+          },
+          {
+            "id": 125,
+            "word": "agateware",
+            "phonetic": "/ˈæɡɪtˌweə/",
+            "meaning": "n. 玛瑙彩釉的搪瓷铁器；仿玛瑙斑纹之陶器"
+          },
+          {
+            "id": 126,
+            "word": "agricultural field",
+            "phonetic": "",
+            "meaning": "农田：用于种植农作物的土地。"
+          },
+          {
+            "id": 127,
+            "word": "absolving",
+            "phonetic": "",
+            "meaning": "vt. 宣告……无罪；赦免，免除（absolve 的现在分词）"
+          },
+          {
+            "id": 128,
+            "word": "agentic learning",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 129,
+            "word": "a million",
+            "phonetic": "/ə ˈmɪljən/",
+            "meaning": "一百万"
+          },
+          {
+            "id": 130,
+            "word": "ad hoc design",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 131,
+            "word": "aerial",
+            "phonetic": "/ˈeəriəl/",
+            "meaning": "n. 天线；（滑雪等运动的）空中腾越；adj. 航空的，从飞机上的；空中的，地表以上的；由飞机实施的；（植物的某部分）气生的；在空中翱翔的；（在）大气（中）的"
+          },
+          {
+            "id": 132,
+            "word": "aglitter",
+            "phonetic": "/əˈɡlɪtə(r)/",
+            "meaning": "adj. 灿烂的；adv. 灿烂地"
+          },
+          {
+            "id": 133,
+            "word": "administrative act",
+            "phonetic": "",
+            "meaning": "行政行为"
+          },
+          {
+            "id": 134,
+            "word": "aesthetic term",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 135,
+            "word": "algebraic invariant",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 136,
+            "word": "administrative personnel",
+            "phonetic": "",
+            "meaning": "行政人员：指在组织或机构中从事管理和行政工作的人员。他们负责制定政策、规划和组织工作流程，协调各部门之间的合作，处理日常行政事务等。"
+          },
+          {
+            "id": 137,
+            "word": "adroitly",
+            "phonetic": "/əˈdrɔɪtli/",
+            "meaning": "adv. 熟练地；敏捷地"
+          },
+          {
+            "id": 138,
+            "word": "acheron",
+            "phonetic": "/ˈækəˌrɒn/",
+            "meaning": "n. 阿刻戎（希腊神话中的冥河）；地狱，阴间"
+          },
+          {
+            "id": 139,
+            "word": "acquiescence under pressure",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 140,
+            "word": "academic excitement",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          }
+        ]
+      },
+      {
+        "id": "ch-8",
+        "name": "Unit 8",
+        "description": "第8单元",
+        "words": [
+          {
+            "id": 141,
+            "word": "agroecosystem",
+            "phonetic": "/æɡrəʊiːkəʊˈsɪstəm/",
+            "meaning": "n. 农业生态系统"
+          },
+          {
+            "id": 142,
+            "word": "aesthetes",
+            "phonetic": "/ˈiːsθiːts/",
+            "meaning": "n. 美学家；[无脊椎] 微眼"
+          },
+          {
+            "id": 143,
+            "word": "agreements",
+            "phonetic": "",
+            "meaning": "n. [法]协议；同意；[法]契约（agreement 的复数形式）"
+          },
+          {
+            "id": 144,
+            "word": "agleam",
+            "phonetic": "/əˈɡliːm/",
+            "meaning": "adj. 闪亮的；adv. 闪亮地"
+          },
+          {
+            "id": 145,
+            "word": "aesthetic critique",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 146,
+            "word": "activational",
+            "phonetic": "",
+            "meaning": "adj. 激活的，活化的：与激活、启动或使活跃有关的。"
+          },
+          {
+            "id": 147,
+            "word": "action rule",
+            "phonetic": "",
+            "meaning": "行动准则，行为规则"
+          },
+          {
+            "id": 148,
+            "word": "aftershaft",
+            "phonetic": "/ˈɑːftəˌʃɑːft/",
+            "meaning": "n. 后羽，副羽"
+          },
+          {
+            "id": 149,
+            "word": "abcoulomb",
+            "phonetic": "/æbˈkuːlɒm/",
+            "meaning": "n. C.G.S（厘米一克一秒）制的电荷单位；电磁库仑（1电磁库仑等于10库仑）"
+          },
+          {
+            "id": 150,
+            "word": "abeyance",
+            "phonetic": "/əˈbeɪəns/",
+            "meaning": "n. 中止，停顿；归属待定，暂搁"
+          },
+          {
+            "id": 151,
+            "word": "adrenalin",
+            "phonetic": "/əˈdrenəlɪn/",
+            "meaning": "n. 肾上腺素"
+          },
+          {
+            "id": 152,
+            "word": "accordion section",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 153,
+            "word": "advertising budget",
+            "phonetic": "",
+            "meaning": "广告预算：指企业或组织在特定时间段内用于广告宣传的资金或资源。广告预算通常用于制定广告策略、选择媒体渠道、制作广告内容等方面。"
+          },
+          {
+            "id": 154,
+            "word": "adelges",
+            "phonetic": "",
+            "meaning": "球蚜属"
+          },
+          {
+            "id": 155,
+            "word": "agnostic",
+            "phonetic": "/æɡˈnɒstɪk/",
+            "meaning": "n. 不可知论者；adj. 不可知论的；怀疑的"
+          },
+          {
+            "id": 156,
+            "word": "abomination",
+            "phonetic": "/əˌbɒmɪˈneɪʃ(ə)n/",
+            "meaning": "n. 厌恶；憎恨；令人厌恶的事物"
+          },
+          {
+            "id": 157,
+            "word": "agricultural output",
+            "phonetic": "/ˌæɡrɪˈkʌltʃərəl ˈaʊtpʊt/",
+            "meaning": "农业产量：指农业生产中所产生的农作物、畜禽产品等的总量。"
+          },
+          {
+            "id": 158,
+            "word": "algorithmic property",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 159,
+            "word": "agriculture activity",
+            "phonetic": "",
+            "meaning": "农业活动：涉及种植和养殖作物、家畜等的各种活动，以生产食物、纤维和其他产品为目的。"
+          },
+          {
+            "id": 160,
+            "word": "academic attribute",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          }
+        ]
+      },
+      {
+        "id": "ch-9",
+        "name": "Unit 9",
+        "description": "第9单元",
+        "words": [
+          {
+            "id": 161,
+            "word": "acerbity",
+            "phonetic": "/əˈsɜːbəti/",
+            "meaning": "n. 酸，涩；刻薄"
+          },
+          {
+            "id": 162,
+            "word": "affectively intelligent",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 163,
+            "word": "acknowledge",
+            "phonetic": "/əkˈnɒlɪdʒ/",
+            "meaning": "v. 承认；认可； 跟……打招呼，理会；告知收到；（公开）感谢"
+          },
+          {
+            "id": 164,
+            "word": "agrarian communalist",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 165,
+            "word": "airsickness",
+            "phonetic": "/ˈeəsɪknəs/",
+            "meaning": "n. 晕机"
+          },
+          {
+            "id": 166,
+            "word": "algorithmic metric",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 167,
+            "word": "advanced session",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 168,
+            "word": "abrogator",
+            "phonetic": "",
+            "meaning": "n. <正式>废除者"
+          },
+          {
+            "id": 169,
+            "word": "adsorbable",
+            "phonetic": "/ædˈsɔːrbəbəl; ædˈzɔːrbəbəl/",
+            "meaning": "adj. 能吸附的"
+          },
+          {
+            "id": 170,
+            "word": "affirmatively",
+            "phonetic": "/əˈfɜːmətɪvli/",
+            "meaning": "adv. 肯定地；断然地"
+          },
+          {
+            "id": 171,
+            "word": "aggregation",
+            "phonetic": "/ˌæɡrɪˈɡeɪʃn/",
+            "meaning": "n. 聚集，聚合；（互联网）相关内容项的集合；聚集体，集合体"
+          },
+          {
+            "id": 172,
+            "word": "algebraic form",
+            "phonetic": "",
+            "meaning": "[数] 代数形式"
+          },
+          {
+            "id": 173,
+            "word": "adynamic",
+            "phonetic": "/ˌædɪˈnæmɪk/",
+            "meaning": "adj. [临床] 无力的；衰弱的"
+          },
+          {
+            "id": 174,
+            "word": "acquirement",
+            "phonetic": "/əˈkwaɪəm(ə)nt/",
+            "meaning": "n. 取得；学得；才能；成就"
+          },
+          {
+            "id": 175,
+            "word": "abstinent",
+            "phonetic": "/ˈæbstɪnənt/",
+            "meaning": "adj. 禁欲的；有节制的；饮食有度的；n. 禁欲者"
+          },
+          {
+            "id": 176,
+            "word": "abstract reasoning",
+            "phonetic": "/ˈæbstrækt ˈriːznɪŋ/",
+            "meaning": "抽象推理：指人们在处理抽象概念和信息时所采用的思维方式，通常涉及到逻辑推理、归纳和演绎等方面。"
+          },
+          {
+            "id": 177,
+            "word": "accrues",
+            "phonetic": "",
+            "meaning": "v．积累，累积：逐渐增加或发展。"
+          },
+          {
+            "id": 178,
+            "word": "abandonment",
+            "phonetic": "/əˈbændənmənt/",
+            "meaning": "n. 抛弃；放纵"
+          },
+          {
+            "id": 179,
+            "word": "acapnia",
+            "phonetic": "/əˈkæpnɪə/",
+            "meaning": "n. [内科] 血液二氧化碳缺乏"
+          },
+          {
+            "id": 180,
+            "word": "aciduric",
+            "phonetic": "/ˌæsɪˈdjʊərɪk/",
+            "meaning": "adj. [生物] 耐酸的"
+          }
+        ]
+      },
+      {
+        "id": "ch-10",
+        "name": "Unit 10",
+        "description": "第10单元",
+        "words": [
+          {
+            "id": 181,
+            "word": "aesthetic disgust",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 182,
+            "word": "algae dominated pond ecosystem",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 183,
+            "word": "admonition",
+            "phonetic": "/ˌædməˈnɪʃ(ə)n/",
+            "meaning": "n. 警告"
+          },
+          {
+            "id": 184,
+            "word": "acanthosis",
+            "phonetic": "/əˈkænθəʊsɪs/",
+            "meaning": "n. 棘皮；[皮肤] 棘皮症"
+          },
+          {
+            "id": 185,
+            "word": "adjective modifier",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 186,
+            "word": "agentive verb",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 187,
+            "word": "acute symptom",
+            "phonetic": "",
+            "meaning": "[临床] 急性症状"
+          },
+          {
+            "id": 188,
+            "word": "accords",
+            "phonetic": "/əˈkɔːdz/",
+            "meaning": "n. 协议；符合（accord 的复数）；v. 给予，授予（权力、地位）；符合，一致（accord 的第三人称单数）"
+          },
+          {
+            "id": 189,
+            "word": "administrative matters",
+            "phonetic": "",
+            "meaning": "行政事务：指与组织、管理、监督、协调等有关的事务，通常涉及政府、企业、组织等机构的日常运营和管理。"
+          },
+          {
+            "id": 190,
+            "word": "act lawlessly",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 191,
+            "word": "academic personal interest",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 192,
+            "word": "affecting understanding",
+            "phonetic": "",
+            "meaning": "网络：未知释义"
+          },
+          {
+            "id": 193,
+            "word": "adult form",
+            "phonetic": "",
+            "meaning": "成虫态"
+          },
+          {
+            "id": 194,
+            "word": "achievement",
+            "phonetic": "/əˈtʃiːvmənt/",
+            "meaning": "n. 成绩，成就；完成，实现；（纹章）纹章牌"
+          },
+          {
+            "id": 195,
+            "word": "affined",
+            "phonetic": "/əˈfaɪnd/",
+            "meaning": "adj. 同盟的；姻亲的；受约束的"
+          },
+          {
+            "id": 196,
+            "word": "abstract",
+            "phonetic": "/ˈæbstrækt/",
+            "meaning": "adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的；n. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念；v. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出"
+          },
+          {
+            "id": 197,
+            "word": "acidulent",
+            "phonetic": "/əˈsɪdjʊˌlənt/",
+            "meaning": "酸化剂"
+          },
+          {
+            "id": 198,
+            "word": "aertex",
+            "phonetic": "/ˈeəteks/",
+            "meaning": "n. 埃尔特克斯网眼织物（商标名称）"
+          },
+          {
+            "id": 199,
+            "word": "ablest",
+            "phonetic": "/ˈeɪb(ə)lɪst/",
+            "meaning": "adj. 最有能力的；最有才干的（able 的最高级）"
+          },
+          {
+            "id": 200,
+            "word": "algeria",
+            "phonetic": "/ælˈdʒɪəriə/",
+            "meaning": "n. 阿尔及利亚（北非国家）"
+          }
+        ]
+      }
+    ],
+    "dataUrl": "/words/yilin-x4.json",
+    "version": "1.3"
+  }
+]

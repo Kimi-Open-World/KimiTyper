@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { Volume2, ArrowLeft, RotateCcw, ChevronLeft, Check, X, Star, Info, List } from 'lucide-react'
 import { useAppStore } from '@/store'
@@ -131,7 +131,7 @@ export default function TypingPractice() {
         if (bookData) {
           setCurrentBook(bookData)
           if (chapterId && bookData.chapters && bookData.chapters.length > 0) {
-            const chapter = bookData.chapters.find((c) => c.id === chapterId)
+            const chapter = bookData.chapters.find((c) => String(c.id) === String(chapterId))
             if (chapter) {
               setCurrentChapter(chapter)
             } else {
@@ -146,7 +146,7 @@ export default function TypingPractice() {
         }
       } else {
         if (chapterId && bookData.chapters && bookData.chapters.length > 0) {
-          const chapter = bookData.chapters.find((c) => c.id === chapterId)
+          const chapter = bookData.chapters.find((c) => String(c.id) === String(chapterId))
           if (chapter) setCurrentChapter(chapter)
         } else if (bookData.chapters && bookData.chapters.length > 0) {
           setCurrentChapter(bookData.chapters[0])
@@ -563,6 +563,63 @@ export default function TypingPractice() {
     playWordAudio(currentWord.word)
   }, [currentWord, playWordAudio])
 
+  const words = currentChapter ? currentChapter.words : book?.words
+  const totalWords = words?.length || 0
+  const progressPercent = Math.round(((currentIndex + 1) / totalWords) * 100)
+
+  const renderedWordList = useMemo(() => {
+    return words?.map((w, idx) => {
+      const isActive = currentIndex === idx
+      return (
+        <button
+          key={w.id}
+          ref={isActive ? activeWordRef : null}
+          onClick={() => {
+            if (idx !== currentIndex) {
+              setCurrentIndex(idx)
+              setInput('')
+              setIsCorrect(null)
+              setShowError(false)
+              setShowDetail(false)
+            }
+          }}
+          className={cn(
+            "w-full text-left p-4 rounded-xl transition-all flex flex-col gap-1.5 group cursor-pointer border",
+            isActive
+              ? 'bg-card border-border shadow-md scale-[1.02]'
+              : 'bg-transparent border-transparent hover:bg-muted/50 hover:border-border'
+          )}
+        >
+          <div className="flex items-center justify-between w-full">
+            <span className={cn(
+              "font-mono text-lg tracking-wide",
+              isActive ? 'font-bold text-foreground' : 'font-medium text-muted-foreground group-hover:text-foreground'
+            )}>
+              {w.word}
+            </span>
+            <Volume2
+              className={cn(
+                "h-4 w-4 shrink-0 transition-opacity",
+                isActive ? "opacity-100 text-muted-foreground hover:text-foreground" : "opacity-0 group-hover:opacity-100 text-muted-foreground hover:text-foreground"
+              )}
+              onClick={(e) => {
+                e.stopPropagation();
+                e.preventDefault();
+                playWordAudio(w.word);
+              }}
+            />
+          </div>
+          <span className={cn(
+            "text-xs leading-relaxed line-clamp-2",
+            isActive ? 'text-gray-400' : 'text-gray-500'
+          )}>
+            {w.meaning}
+          </span>
+        </button>
+      )
+    })
+  }, [words, currentIndex, playWordAudio])
+
   // 完成弹窗
   if (showComplete) {
     const finalAccuracy = totalKeystrokes > 0 ? Math.round((correctKeystrokes / totalKeystrokes) * 100) : 0
@@ -710,9 +767,7 @@ export default function TypingPractice() {
     )
   }
 
-  const words = currentChapter ? currentChapter.words : book.words
-  const totalWords = words?.length || 0
-  const progressPercent = Math.round(((currentIndex + 1) / totalWords) * 100)
+
 
   return (
     <div className="mx-auto max-w-[1280px] flex flex-col gap-8 w-full lg:mt-6 px-4">
@@ -739,56 +794,7 @@ export default function TypingPractice() {
           </button>
         </div>
         <div className="flex-1 overflow-y-auto p-3 space-y-2 custom-scrollbar">
-          {words?.map((w, idx) => {
-            const isActive = currentIndex === idx
-            return (
-              <button
-                key={w.id}
-                ref={isActive ? activeWordRef : null}
-                onClick={() => {
-                  if (idx !== currentIndex) {
-                    setCurrentIndex(idx)
-                    setInput('')
-                    setIsCorrect(null)
-                    setShowError(false)
-                    setShowDetail(false)
-                  }
-                }}
-                className={cn(
-                  "w-full text-left p-4 rounded-xl transition-all flex flex-col gap-1.5 group cursor-pointer border",
-                  isActive
-                    ? 'bg-card border-border shadow-md scale-[1.02]'
-                    : 'bg-transparent border-transparent hover:bg-muted/50 hover:border-border'
-                )}
-              >
-                <div className="flex items-center justify-between w-full">
-                  <span className={cn(
-                    "font-mono text-lg tracking-wide",
-                    isActive ? 'font-bold text-foreground' : 'font-medium text-muted-foreground group-hover:text-foreground'
-                  )}>
-                    {w.word}
-                  </span>
-                  <Volume2
-                    className={cn(
-                      "h-4 w-4 shrink-0 transition-opacity",
-                      isActive ? "opacity-100 text-muted-foreground hover:text-foreground" : "opacity-0 group-hover:opacity-100 text-muted-foreground hover:text-foreground"
-                    )}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      e.preventDefault();
-                      playWordAudio(w.word);
-                    }}
-                  />
-                </div>
-                <span className={cn(
-                  "text-xs leading-relaxed line-clamp-2",
-                  isActive ? 'text-gray-400' : 'text-gray-500'
-                )}>
-                  {w.meaning}
-                </span>
-              </button>
-            )
-          })}
+          {renderedWordList}
         </div>
       </div>
 

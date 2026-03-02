@@ -1,0 +1,6778 @@
+{
+  "_version": "1.0",
+  "_generated": "2026-03-02",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "biomedical",
+      "word": "lipid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "liposome"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "biomedical",
+      "word": "photosynthetic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'photosynthet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "photosynthet(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "photosynthesis"
+      ]
+    },
+    {
+      "wordId": 3,
+      "bookId": "biomedical",
+      "word": "enzyme",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'zyme' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + zyme(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 4,
+      "bookId": "biomedical",
+      "word": "extracellular",
+      "prefix": "extra-（超出；在外）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'cellular' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "extra-(超出；在外) + cellular(核心词干) → 产生“超出；在外”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 5,
+      "bookId": "biomedical",
+      "word": "cytosol",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cytoplasmic",
+        "cytotoxic",
+        "cytolytic",
+        "cytopathogenic"
+      ]
+    },
+    {
+      "wordId": 6,
+      "bookId": "biomedical",
+      "word": "detergent",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'terg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + terg(核心词干) + -ent(…的人；具有…性质的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "detergence",
+        "detergency",
+        "deterge"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "biomedical",
+      "word": "fluorescence",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "flu/flux(流动) + -ence(状态；性质；行为) → 产生“流动”的意象 → 演变成该词",
+      "cognates": [
+        "fluorescent",
+        "fluorescent",
+        "fluorescein",
+        "fluoroscopy"
+      ]
+    },
+    {
+      "wordId": 8,
+      "bookId": "biomedical",
+      "word": "Fluorescence",
+      "prefix": "",
+      "root": "flu/flux(流动)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 fluere（流动）。由 flu/flux(流动) 组合而成，原意与“流动”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "flu/flux(流动) + -ence(状态；性质；行为) → 产生“流动”的意象 → 演变成该词",
+      "cognates": [
+        "fluorescent",
+        "fluorescent",
+        "fluorescein",
+        "fluoroscopy"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "biomedical",
+      "word": "Rafts",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 10,
+      "bookId": "biomedical",
+      "word": "numerical",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'numer' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "numer(核心词干) + -ical(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "numeric",
+        "numeral",
+        "numerically",
+        "numeric"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "biomedical",
+      "word": "trypsin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 12,
+      "bookId": "biomedical",
+      "word": "Trypsin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 13,
+      "bookId": "biomedical",
+      "word": "yeast",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "yeastlike",
+        "yeasty"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "biomedical",
+      "word": "detect",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + tect(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "detective",
+        "detectable",
+        "detection",
+        "detective"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "biomedical",
+      "word": "halt",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "halting",
+        "haltingly",
+        "halting"
+      ]
+    },
+    {
+      "wordId": 16,
+      "bookId": "biomedical",
+      "word": "convert",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "vert/vers(转变；转向)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 vertere（转动）。由 con-(共同；一起；完全)+vert/vers(转变；转向) 组合而成，原意与“转变；转向”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + vert/vers(转变；转向) → 产生“转变；转向”的意象 → 演变成该词",
+      "cognates": [
+        "convertible",
+        "converted",
+        "conversion",
+        "converter"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "biomedical",
+      "word": "whereby",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 18,
+      "bookId": "biomedical",
+      "word": "amino",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'mino' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + mino(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 19,
+      "bookId": "biomedical",
+      "word": "peptides",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 20,
+      "bookId": "biomedical",
+      "word": "dissolved",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "solv/solut(溶解；解决)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 solvere（解开）。由 dis-(否定；分开；不)+solv/solut(溶解；解决) 组合而成，原意与“溶解；解决”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "dis-(否定；分开；不) + solv/solut(溶解；解决) → 产生“溶解；解决”的意象 → 演变成该词",
+      "cognates": [
+        "dissolving",
+        "dissoluble",
+        "dissolvable",
+        "dissolvent"
+      ]
+    },
+    {
+      "wordId": 21,
+      "bookId": "biomedical",
+      "word": "sap",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "sappy",
+        "sapless",
+        "sapper"
+      ]
+    },
+    {
+      "wordId": 22,
+      "bookId": "biomedical",
+      "word": "endocrine",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'docrine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + docrine(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "endocrinology"
+      ]
+    },
+    {
+      "wordId": 23,
+      "bookId": "biomedical",
+      "word": "pancreas",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pancreatic"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "biomedical",
+      "word": "gland",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 25,
+      "bookId": "biomedical",
+      "word": "glucouse",
+      "prefix": "",
+      "root": "luc/lumin(光)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 lux/lucis（光）。由 luc/lumin(光) 组合而成，原意与“光”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 26,
+      "bookId": "biomedical",
+      "word": "insulin",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'sulin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + sulin(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 27,
+      "bookId": "biomedical",
+      "word": "regulate",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'gul' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + gul(核心词干) + -ate(使…；具有…的) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "regulation",
+        "regulatory",
+        "regulative",
+        "regulation"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "biomedical",
+      "word": "paracrine",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 29,
+      "bookId": "biomedical",
+      "word": "diffuse",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'ffuse' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + ffuse(核心词干) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "diffused",
+        "diffusive",
+        "diffusely",
+        "diffusion"
+      ]
+    },
+    {
+      "wordId": 30,
+      "bookId": "biomedical",
+      "word": "mediator",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'mediat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mediat(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "mediate",
+        "mediatorial",
+        "mediatory",
+        "mediation"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "biomedical",
+      "word": "autocrine",
+      "prefix": "auto-（自动；自己）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'crine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "auto-(自动；自己) + crine(核心词干) → 产生“自动；自己”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 32,
+      "bookId": "biomedical",
+      "word": "proliferation",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "fer(带；携带)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 pro-(向前；支持；代替)+fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + fer(带；携带) + -ation(行为；过程；结果) → 产生“带；携带”的意象 → 演变成该词",
+      "cognates": [
+        "proliferate",
+        "proliferate"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "biomedical",
+      "word": "neuronal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'neuron' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "neuron(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "neurological",
+        "neurologic",
+        "neuromuscular",
+        "neuroleptic"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "biomedical",
+      "word": "axon",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'xon' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + xon(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "axonal",
+        "axone"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "biomedical",
+      "word": "synapse",
+      "prefix": "syn-（共同；一起）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'apse' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "syn-(共同；一起) + apse(核心词干) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "synaptic",
+        "synapsis"
+      ]
+    },
+    {
+      "wordId": 36,
+      "bookId": "biomedical",
+      "word": "spinal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'spin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "spin(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "spineless",
+        "spiny",
+        "spinally",
+        "spine"
+      ]
+    },
+    {
+      "wordId": 37,
+      "bookId": "biomedical",
+      "word": "cord",
+      "prefix": "",
+      "root": "cord(心；一致)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 cor/cordis（心脏）。由 cord(心；一致) 组合而成，原意与“心；一致”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "cordless",
+        "corded",
+        "cordless",
+        "cordage"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "biomedical",
+      "word": "toe",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "toed",
+        "toed"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "biomedical",
+      "word": "neurotransmitter",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mit/miss(发送) + -er(…者；做…的人) → 产生“发送”的意象 → 演变成该词",
+      "cognates": [
+        "neurotic",
+        "neurotoxic",
+        "neurotropic",
+        "neurotically"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "biomedical",
+      "word": "intimate",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'tim' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + tim(核心词干) + -ate(使…；具有…的) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "intimately",
+        "intimacy",
+        "intimation"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "biomedical",
+      "word": "lodge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lodging",
+        "lodgement",
+        "lodger"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "biomedical",
+      "word": "embryonic",
+      "prefix": "em-（使…进入；在内（en-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语或法语，通常以 'bryon' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "em-(使…进入；在内（en-变体）) + bryon(核心词干) + -ic(…的；与…有关的) → 产生“使…进入；在内（en-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "embryo",
+        "embryo",
+        "embryology",
+        "embryologist"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "biomedical",
+      "word": "adjacent",
+      "prefix": "ad-（朝向；添加）",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 ad-(朝向；添加)+cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ad-(朝向；添加) + cent/acent(唱；呼喊) + -ent(…的人；具有…性质的) → 产生“唱；呼喊”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 44,
+      "bookId": "biomedical",
+      "word": "akin",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'kin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + kin(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 45,
+      "bookId": "biomedical",
+      "word": "epithelial",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'pitheli' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + pitheli(核心词干) + -al(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "epithelium",
+        "epithelioma"
+      ]
+    },
+    {
+      "wordId": 46,
+      "bookId": "biomedical",
+      "word": "bind",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "binding",
+        "binding",
+        "binder",
+        "bindery"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "biomedical",
+      "word": "mediate",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'medi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "medi(核心词干) + -ate(使…；具有…的) → 拼合演变成该词",
+      "cognates": [
+        "mediatorial",
+        "mediatory",
+        "medially",
+        "mediation"
+      ]
+    },
+    {
+      "wordId": 48,
+      "bookId": "biomedical",
+      "word": "disorder",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "ord/ordin(顺序)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 ordo（顺序）。由 dis-(否定；分开；不)+ord/ordin(顺序) 组合而成，原意与“顺序”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "dis-(否定；分开；不) + ord/ordin(顺序) + -er(…者；做…的人) → 产生“顺序”的意象 → 演变成该词",
+      "cognates": [
+        "disordered",
+        "disorderly",
+        "disorderly",
+        "disorderliness"
+      ]
+    },
+    {
+      "wordId": 49,
+      "bookId": "biomedical",
+      "word": "kinase",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 50,
+      "bookId": "biomedical",
+      "word": "Kinase",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 51,
+      "bookId": "biomedical",
+      "word": "trimeric",
+      "prefix": "tri-（三）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自Latin/Greek，通常以 'mer' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tri-(三) + mer(核心词干) + -ic(…的；与…有关的) → 产生“三”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 52,
+      "bookId": "biomedical",
+      "word": "circuit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "circuitous",
+        "circuitry"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "biomedical",
+      "word": "ligand",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 54,
+      "bookId": "biomedical",
+      "word": "physiology",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "physiological",
+        "physiologically",
+        "physics",
+        "physicist"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "biomedical",
+      "word": "hijacking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 56,
+      "bookId": "biomedical",
+      "word": "cholera",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "choleraic"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "biomedical",
+      "word": "ion",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ionizing",
+        "ionized",
+        "ionization",
+        "ionisation"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "biomedical",
+      "word": "Ion",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ionizing",
+        "ionized",
+        "ionization",
+        "ionisation"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "biomedical",
+      "word": "stretch",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "stretchy",
+        "stretchable",
+        "stretcher",
+        "stretchability"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "biomedical",
+      "word": "Stretch",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "stretchy",
+        "stretchable",
+        "stretcher",
+        "stretchability"
+      ]
+    },
+    {
+      "wordId": 61,
+      "bookId": "biomedical",
+      "word": "hypertonic",
+      "prefix": "hyper-（超出；过度）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hyper-(超出；过度) + ton(核心词干) + -ic(…的；与…有关的) → 产生“超出；过度”的意象 → 演变成该词",
+      "cognates": [
+        "hyperthyroidism",
+        "hypersplenism",
+        "hypertonia",
+        "hypertonicity"
+      ]
+    },
+    {
+      "wordId": 62,
+      "bookId": "biomedical",
+      "word": "Hypertonic",
+      "prefix": "hyper-（超出；过度）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hyper-(超出；过度) + ton(核心词干) + -ic(…的；与…有关的) → 产生“超出；过度”的意象 → 演变成该词",
+      "cognates": [
+        "hyperthyroidism",
+        "hypersplenism",
+        "hypertonia",
+        "hypertonicity"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "biomedical",
+      "word": "hypotonic",
+      "prefix": "hypo-（在下；不足）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hypo-(在下；不足) + ton(核心词干) + -ic(…的；与…有关的) → 产生“在下；不足”的意象 → 演变成该词",
+      "cognates": [
+        "hypothyroidism",
+        "hypotonia",
+        "hypotonicity"
+      ]
+    },
+    {
+      "wordId": 64,
+      "bookId": "biomedical",
+      "word": "Hypotonic",
+      "prefix": "hypo-（在下；不足）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'ton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hypo-(在下；不足) + ton(核心词干) + -ic(…的；与…有关的) → 产生“在下；不足”的意象 → 演变成该词",
+      "cognates": [
+        "hypothyroidism",
+        "hypotonia",
+        "hypotonicity"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "biomedical",
+      "word": "isotonic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'isoton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "isoton(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 66,
+      "bookId": "biomedical",
+      "word": "Isotonic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'isoton' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "isoton(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 67,
+      "bookId": "biomedical",
+      "word": "osmosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 68,
+      "bookId": "biomedical",
+      "word": "osmosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 69,
+      "bookId": "biomedical",
+      "word": "aquaporin",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'quaporin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + quaporin(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 70,
+      "bookId": "biomedical",
+      "word": "Aquaporin",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'quaporin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + quaporin(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 71,
+      "bookId": "biomedical",
+      "word": "aquaporin(AQP)",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'quaporin(aqp)' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + quaporin(aqp)(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 72,
+      "bookId": "biomedical",
+      "word": "congenital",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 con-(共同；一起；完全)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + gen(产生；出生；种类) + -al(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 73,
+      "bookId": "biomedical",
+      "word": "Congenital",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 con-(共同；一起；完全)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + gen(产生；出生；种类) + -al(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 74,
+      "bookId": "biomedical",
+      "word": "nephrogenic",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ic(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 75,
+      "bookId": "biomedical",
+      "word": "Nephrogenic",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ic(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 76,
+      "bookId": "biomedical",
+      "word": "diabetes",
+      "prefix": "dia-（穿过；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'betes' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dia-(穿过；完全) + betes(核心词干) → 产生“穿过；完全”的意象 → 演变成该词",
+      "cognates": [
+        "diabetic",
+        "diabetic"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "biomedical",
+      "word": "Diabetes",
+      "prefix": "dia-（穿过；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'betes' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dia-(穿过；完全) + betes(核心词干) → 产生“穿过；完全”的意象 → 演变成该词",
+      "cognates": [
+        "diabetic",
+        "diabetic"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "biomedical",
+      "word": "physician",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 79,
+      "bookId": "biomedical",
+      "word": "Physician",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 80,
+      "bookId": "biomedical",
+      "word": "alternatively",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "nat/nasc(出生)",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，源于 nasci（出生）。由 al-(朝向（ad-变体）)+nat/nasc(出生) 组合而成，原意与“出生”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "al-(朝向（ad-变体）) + nat/nasc(出生) + -ly(以…方式；具有…性质) → 产生“出生”的意象 → 演变成该词",
+      "cognates": [
+        "alternative",
+        "alternative"
+      ]
+    },
+    {
+      "wordId": 81,
+      "bookId": "biomedical",
+      "word": "Alternatively",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "nat/nasc(出生)",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，源于 nasci（出生）。由 al-(朝向（ad-变体）)+nat/nasc(出生) 组合而成，原意与“出生”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "al-(朝向（ad-变体）) + nat/nasc(出生) + -ly(以…方式；具有…性质) → 产生“出生”的意象 → 演变成该词",
+      "cognates": [
+        "alternative",
+        "alternative"
+      ]
+    },
+    {
+      "wordId": 82,
+      "bookId": "biomedical",
+      "word": "abbreviation",
+      "prefix": "ab-（离开；脱离）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'brevi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ab-(离开；脱离) + brevi(核心词干) + -ation(行为；过程；结果) → 产生“离开；脱离”的意象 → 演变成该词",
+      "cognates": [
+        "abbreviated",
+        "abbreviator",
+        "abbreviated",
+        "abbreviate"
+      ]
+    },
+    {
+      "wordId": 83,
+      "bookId": "biomedical",
+      "word": "Abbreviation",
+      "prefix": "ab-（离开；脱离）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'brevi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ab-(离开；脱离) + brevi(核心词干) + -ation(行为；过程；结果) → 产生“离开；脱离”的意象 → 演变成该词",
+      "cognates": [
+        "abbreviated",
+        "abbreviator",
+        "abbreviated",
+        "abbreviate"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "biomedical",
+      "word": "calcium",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 85,
+      "bookId": "biomedical",
+      "word": "Calcium",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 86,
+      "bookId": "biomedical",
+      "word": "unsubscribe",
+      "prefix": "un-（不；否定；相反）",
+      "root": "scrib/script(写)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 scribere（写）。由 un-(不；否定；相反)+scrib/script(写) 组合而成，原意与“写”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "un-(不；否定；相反) + scrib/script(写) → 产生“写”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 87,
+      "bookId": "biomedical",
+      "word": "antiserum",
+      "prefix": "anti-（反对；对抗）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'serum' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "anti-(反对；对抗) + serum(核心词干) → 产生“反对；对抗”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 88,
+      "bookId": "biomedical",
+      "word": "Antiserum",
+      "prefix": "anti-（反对；对抗）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'serum' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "anti-(反对；对抗) + serum(核心词干) → 产生“反对；对抗”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 89,
+      "bookId": "biomedical",
+      "word": "oocyte",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 90,
+      "bookId": "biomedical",
+      "word": "Oocyte",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 91,
+      "bookId": "biomedical",
+      "word": "advocate",
+      "prefix": "ad-（朝向；添加）",
+      "root": "voc/vok(声音；呼唤)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 vocare（呼唤）。由 ad-(朝向；添加)+voc/vok(声音；呼唤) 组合而成，原意与“声音；呼唤”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ad-(朝向；添加) + voc/vok(声音；呼唤) + -ate(使…；具有…的) → 产生“声音；呼唤”的意象 → 演变成该词",
+      "cognates": [
+        "advocacy",
+        "advocator"
+      ]
+    },
+    {
+      "wordId": 92,
+      "bookId": "biomedical",
+      "word": "derive",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'r' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + r(核心词干) + -ive(有…性质的；倾向于…的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "derived",
+        "derivational",
+        "derivation",
+        "derived"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "biomedical",
+      "word": "bracket",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 94,
+      "bookId": "biomedical",
+      "word": "refine",
+      "prefix": "re-（再；重新；回）",
+      "root": "fin(结束；界限)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 finis（终点）。由 re-(再；重新；回)+fin(结束；界限) 组合而成，原意与“结束；界限”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + fin(结束；界限) → 产生“结束；界限”的意象 → 演变成该词",
+      "cognates": [
+        "refined",
+        "refinement",
+        "refinery",
+        "refining"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "biomedical",
+      "word": "crude",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "crudely",
+        "crud",
+        "crudity",
+        "crudeness"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "biomedical",
+      "word": "Crude",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "crudely",
+        "crud",
+        "crudity",
+        "crudeness"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "biomedical",
+      "word": "consistent",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "sist/stat/st(站立)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 stare（站立）。由 con-(共同；一起；完全)+sist/stat/st(站立) 组合而成，原意与“站立”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + sist/stat/st(站立) + -ent(…的人；具有…性质的) → 产生“站立”的意象 → 演变成该词",
+      "cognates": [
+        "consistently",
+        "consistency"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "biomedical",
+      "word": "striking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "struck",
+        "strikebound",
+        "strikingly",
+        "strike"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "biomedical",
+      "word": "sustain",
+      "prefix": "sus-（在下（sub-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tain' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sus-(在下（sub-变体）) + tain(核心词干) → 产生“在下（sub-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "sustainable",
+        "sustained",
+        "sustainability",
+        "sustainer"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "biomedical",
+      "word": "moisture",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'moist' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "moist(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "moist",
+        "moistly",
+        "moist",
+        "moistener"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "biomedical",
+      "word": "laboratory",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，通常以 'laborat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "laborat(核心词干) + -ory(与…有关的；…的场所) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 102,
+      "bookId": "biomedical",
+      "word": "perceive",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'ce' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + ce(核心词干) + -ive(有…性质的；倾向于…的) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": [
+        "perceived",
+        "perceptive",
+        "perceptible",
+        "perceivable"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "biomedical",
+      "word": "fabric",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'fabr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fabr(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "fabricated",
+        "fabrication",
+        "fabricated",
+        "fabricate"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "biomedical",
+      "word": "synthetic",
+      "prefix": "syn-（共同；一起）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'thet' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "syn-(共同；一起) + thet(核心词干) + -ic(…的；与…有关的) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "synthetically",
+        "synthesis",
+        "synthesizer",
+        "synthesist"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "biomedical",
+      "word": "bred",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 106,
+      "bookId": "biomedical",
+      "word": "probability",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "abil/il(能力)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 habilis（易于处理的）。由 pro-(向前；支持；代替)+abil/il(能力) 组合而成，原意与“能力”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + abil/il(能力) + -ity(性质；状态；程度) → 产生“能力”的意象 → 演变成该词",
+      "cognates": [
+        "probable",
+        "probabilistic",
+        "probably",
+        "probable"
+      ]
+    },
+    {
+      "wordId": 107,
+      "bookId": "biomedical",
+      "word": "Possibility",
+      "prefix": "",
+      "root": "pos/pon(放置)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pos/pon(放置) + -ity(性质；状态；程度) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "possible",
+        "possibly",
+        "possible"
+      ]
+    },
+    {
+      "wordId": 108,
+      "bookId": "biomedical",
+      "word": "feasibility",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'feasibil' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "feasibil(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "feasible"
+      ]
+    },
+    {
+      "wordId": 109,
+      "bookId": "biomedical",
+      "word": "soluble",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "solved",
+        "solvable",
+        "solution",
+        "solvency"
+      ]
+    },
+    {
+      "wordId": 110,
+      "bookId": "biomedical",
+      "word": "subunit",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'unit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + unit(核心词干) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 111,
+      "bookId": "biomedical",
+      "word": "filamentous",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ment(心智) + -ous(有…的；充满…的) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "filar",
+        "filament",
+        "filaria"
+      ]
+    },
+    {
+      "wordId": 112,
+      "bookId": "biomedical",
+      "word": "polymer",
+      "prefix": "poly-（多；许多）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自希腊语，通常以 'm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poly-(多；许多) + m(核心词干) + -er(…者；做…的人) → 产生“多；许多”的意象 → 演变成该词",
+      "cognates": [
+        "polymeric",
+        "polymerous",
+        "polymerization",
+        "polymerase"
+      ]
+    },
+    {
+      "wordId": 113,
+      "bookId": "biomedical",
+      "word": "reassembly",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，通常以 'assemb' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + assemb(核心词干) + -ly(以…方式；具有…性质) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "reassemble",
+        "reassemble"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "biomedical",
+      "word": "segment",
+      "prefix": "se-（分离；独自）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 se-(分离；独自)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "se-(分离；独自) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "segmented",
+        "segmental",
+        "segmentation",
+        "segmented"
+      ]
+    },
+    {
+      "wordId": 115,
+      "bookId": "biomedical",
+      "word": "shrink",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "shrinking",
+        "shrunken",
+        "shrinkage",
+        "shrinking"
+      ]
+    },
+    {
+      "wordId": 116,
+      "bookId": "biomedical",
+      "word": "cytoplasm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cytoplasmic",
+        "cytotoxic",
+        "cytologic",
+        "cytological"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "biomedical",
+      "word": "conduit",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'duit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + duit(核心词干) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 118,
+      "bookId": "biomedical",
+      "word": "permeability",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "abil/il(能力)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 habilis（易于处理的）。由 per-(贯穿；完全；每)+abil/il(能力) 组合而成，原意与“能力”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "per-(贯穿；完全；每) + abil/il(能力) + -ity(性质；状态；程度) → 产生“能力”的意象 → 演变成该词",
+      "cognates": [
+        "permeable",
+        "permeant",
+        "permeation",
+        "permalloy"
+      ]
+    },
+    {
+      "wordId": 119,
+      "bookId": "biomedical",
+      "word": "glaring",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "glary",
+        "glaringly",
+        "glare",
+        "glare"
+      ]
+    },
+    {
+      "wordId": 120,
+      "bookId": "biomedical",
+      "word": "gospel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gospeler",
+        "gospeller"
+      ]
+    },
+    {
+      "wordId": 121,
+      "bookId": "biomedical",
+      "word": "Gospel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gospeler",
+        "gospeller"
+      ]
+    },
+    {
+      "wordId": 122,
+      "bookId": "biomedical",
+      "word": "Invitrogen",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 in-(不；否定；向内；进入)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 123,
+      "bookId": "biomedical",
+      "word": "pigment",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "pigmentation"
+      ]
+    },
+    {
+      "wordId": 124,
+      "bookId": "biomedical",
+      "word": "fuel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 125,
+      "bookId": "biomedical",
+      "word": "proteome",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'teome' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + teome(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 126,
+      "bookId": "biomedical",
+      "word": "phylogenetic",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ic(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "phyletic",
+        "phylogeny"
+      ]
+    },
+    {
+      "wordId": 127,
+      "bookId": "biomedical",
+      "word": "phylogenetics",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 128,
+      "bookId": "biomedical",
+      "word": "thinner",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'thinn' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "thinn(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "thin",
+        "thin",
+        "thinly",
+        "thin"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "biomedical",
+      "word": "warfarin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 130,
+      "bookId": "biomedical",
+      "word": "pharmacology",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "pharmaceutical",
+        "pharmacological",
+        "pharmacologic",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "wordId": 131,
+      "bookId": "biomedical",
+      "word": "tailor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'tail' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tail(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "tailored",
+        "tailoring",
+        "tailored"
+      ]
+    },
+    {
+      "wordId": 132,
+      "bookId": "biomedical",
+      "word": "pharmacogenetic",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "gen(产生；出生；种类) + -ic(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 133,
+      "bookId": "biomedical",
+      "word": "pharmacogenetics",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "pharmaceutical",
+        "pharmacological",
+        "pharmacologic",
+        "pharmaceutical"
+      ]
+    },
+    {
+      "wordId": 134,
+      "bookId": "biomedical",
+      "word": "disseminate",
+      "prefix": "dis-（否定；分开；不）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'semin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "dis-(否定；分开；不) + semin(核心词干) + -ate(使…；具有…的) → 产生“否定；分开；不”的意象 → 演变成该词",
+      "cognates": [
+        "disseminative",
+        "dissemination",
+        "disseminator"
+      ]
+    },
+    {
+      "wordId": 135,
+      "bookId": "biomedical",
+      "word": "interface",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 facere（做）。由 inter-(在…之间；相互)+fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "inter-(在…之间；相互) + fac/fect/fic(做；制造) → 产生“做；制造”的意象 → 演变成该词",
+      "cognates": [
+        "interfacial"
+      ]
+    },
+    {
+      "wordId": 136,
+      "bookId": "biomedical",
+      "word": "stagger",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'stagg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "stagg(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "staggering",
+        "staggeringly",
+        "staggerer",
+        "staggering"
+      ]
+    },
+    {
+      "wordId": 137,
+      "bookId": "biomedical",
+      "word": "propel",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'pel' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + pel(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "propellant",
+        "propelling",
+        "propellent",
+        "propeller"
+      ]
+    },
+    {
+      "wordId": 138,
+      "bookId": "biomedical",
+      "word": "manipulate",
+      "prefix": "",
+      "root": "man/manu(手)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 manus（手）。由 man/manu(手) 组合而成，原意与“手”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "man/manu(手) + -ate(使…；具有…的) → 产生“手”的意象 → 演变成该词",
+      "cognates": [
+        "manipulative",
+        "manned",
+        "manipulable",
+        "manipulation"
+      ]
+    },
+    {
+      "wordId": 139,
+      "bookId": "biomedical",
+      "word": "atlas",
+      "prefix": "at-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'las' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "at-(朝向（ad-变体）) + las(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 140,
+      "bookId": "biomedical",
+      "word": "collaboration",
+      "prefix": "col-（共同（con-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'labor' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "col-(共同（con-变体）) + labor(核心词干) + -ation(行为；过程；结果) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "collaborative",
+        "collaborator",
+        "collaborationism",
+        "collaborationist"
+      ]
+    },
+    {
+      "wordId": 141,
+      "bookId": "biomedical",
+      "word": "algorithm",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'gorithm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + gorithm(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "algorithmic"
+      ]
+    },
+    {
+      "wordId": 142,
+      "bookId": "biomedical",
+      "word": "hemoglobin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "hemoglobinopathy"
+      ]
+    },
+    {
+      "wordId": 143,
+      "bookId": "biomedical",
+      "word": "globin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 144,
+      "bookId": "biomedical",
+      "word": "subset",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'set' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + set(核心词干) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 145,
+      "bookId": "biomedical",
+      "word": "roundwood",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 146,
+      "bookId": "biomedical",
+      "word": "roundworm",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 147,
+      "bookId": "biomedical",
+      "word": "homologous",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "log(词；说；逻辑) + -ous(有…的；充满…的) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": [
+        "homologic",
+        "homological",
+        "homology",
+        "homogeny"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "biomedical",
+      "word": "ribosomal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'ribosom' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ribosom(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 149,
+      "bookId": "biomedical",
+      "word": "mitochondria",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 150,
+      "bookId": "biomedical",
+      "word": "cytochrome",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "cytogenetic",
+        "cytogenetical",
+        "cytologic",
+        "cytological"
+      ]
+    },
+    {
+      "wordId": 151,
+      "bookId": "biomedical",
+      "word": "colorectal",
+      "prefix": "col-（共同（con-变体））",
+      "root": "rect(直；正确)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 rectus（直的）。由 col-(共同（con-变体）)+rect(直；正确) 组合而成，原意与“直；正确”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "col-(共同（con-变体）) + rect(直；正确) + -al(…的；与…有关的) → 产生“直；正确”的意象 → 演变成该词",
+      "cognates": [
+        "colonoscopy",
+        "colonoscope"
+      ]
+    },
+    {
+      "wordId": 152,
+      "bookId": "biomedical",
+      "word": "soybean",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "soy"
+      ]
+    },
+    {
+      "wordId": 153,
+      "bookId": "biomedical",
+      "word": "query",
+      "prefix": "",
+      "root": "quer/quest(寻求；问)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 quaerere（寻求）。由 quer/quest(寻求；问) 组合而成，原意与“寻求；问”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 154,
+      "bookId": "biomedical",
+      "word": "advent",
+      "prefix": "ad-（朝向；添加）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ad-(朝向；添加) + v(核心词干) + -ent(…的人；具有…性质的) → 产生“朝向；添加”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 155,
+      "bookId": "biomedical",
+      "word": "cystic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'cyst' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cyst(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "cyst",
+        "cystitis",
+        "cystocele",
+        "cystolith"
+      ]
+    },
+    {
+      "wordId": 156,
+      "bookId": "biomedical",
+      "word": "fibrosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fibrous",
+        "fibroid",
+        "fibrinous",
+        "fibrocartilaginous"
+      ]
+    },
+    {
+      "wordId": 157,
+      "bookId": "biomedical",
+      "word": "taxonomy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "taxonomic",
+        "taxon",
+        "taxonomically",
+        "taxis"
+      ]
+    },
+    {
+      "wordId": 158,
+      "bookId": "biomedical",
+      "word": "subsequent",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "sequ/secut(跟随)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 sequi（跟随）。由 sub-(在下；次级；从属)+sequ/secut(跟随) 组合而成，原意与“跟随”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sub-(在下；次级；从属) + sequ/secut(跟随) + -ent(…的人；具有…性质的) → 产生“跟随”的意象 → 演变成该词",
+      "cognates": [
+        "subsequently"
+      ]
+    },
+    {
+      "wordId": 159,
+      "bookId": "biomedical",
+      "word": "chloride",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "chlorination",
+        "chlorinate"
+      ]
+    },
+    {
+      "wordId": 160,
+      "bookId": "biomedical",
+      "word": "mucus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "mucous"
+      ]
+    },
+    {
+      "wordId": 161,
+      "bookId": "biomedical",
+      "word": "airway",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'irway' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + irway(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 162,
+      "bookId": "biomedical",
+      "word": "respiratory",
+      "prefix": "re-（再；重新；回）",
+      "root": "spir(呼吸；精神)",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，源于 spirare（呼吸）。由 re-(再；重新；回)+spir(呼吸；精神) 组合而成，原意与“呼吸；精神”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + spir(呼吸；精神) + -ory(与…有关的；…的场所) → 产生“呼吸；精神”的意象 → 演变成该词",
+      "cognates": [
+        "respiration",
+        "respirator",
+        "respire",
+        "respire"
+      ]
+    },
+    {
+      "wordId": 163,
+      "bookId": "biomedical",
+      "word": "hallmark",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 164,
+      "bookId": "biomedical",
+      "word": "opsin",
+      "prefix": "op-（朝向（ob-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'sin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "op-(朝向（ob-变体）) + sin(核心词干) → 产生“朝向（ob-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 165,
+      "bookId": "biomedical",
+      "word": "navigate",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'navig' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "navig(核心词干) + -ate(使…；具有…的) → 拼合演变成该词",
+      "cognates": [
+        "navigational",
+        "navigable",
+        "navigation",
+        "navigator"
+      ]
+    },
+    {
+      "wordId": 166,
+      "bookId": "biomedical",
+      "word": "prone",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pronation",
+        "proneness",
+        "pronate",
+        "pronate"
+      ]
+    },
+    {
+      "wordId": 167,
+      "bookId": "biomedical",
+      "word": "substitution",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'stitu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + stitu(核心词干) + -tion(行为；过程；结果) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "substitutable",
+        "substitute",
+        "substituting",
+        "substitutability"
+      ]
+    },
+    {
+      "wordId": 168,
+      "bookId": "biomedical",
+      "word": "deleting",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'leting' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + leting(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 169,
+      "bookId": "biomedical",
+      "word": "actin",
+      "prefix": "ac-（朝向；加强）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ac-(朝向；加强) + tin(核心词干) → 产生“朝向；加强”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 170,
+      "bookId": "biomedical",
+      "word": "parameter",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "par(相等；准备) + -er(…者；做…的人) → 产生“相等；准备”的意象 → 演变成该词",
+      "cognates": [
+        "parametric"
+      ]
+    },
+    {
+      "wordId": 171,
+      "bookId": "biomedical",
+      "word": "redundant",
+      "prefix": "re-（再；重新；回）",
+      "root": "und(波浪；丰富)",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 re-(再；重新；回)+und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + und(波浪；丰富) + -ant(…的人；具有…性质的) → 产生“波浪；丰富”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 172,
+      "bookId": "biomedical",
+      "word": "divergence",
+      "prefix": "di-（两；分开）",
+      "root": "ver(真实)",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 di-(两；分开)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "di-(两；分开) + ver(真实) + -ence(状态；性质；行为) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "divergent",
+        "diverging",
+        "divaricate",
+        "divarication"
+      ]
+    },
+    {
+      "wordId": 173,
+      "bookId": "biomedical",
+      "word": "intron",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tron' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + tron(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 174,
+      "bookId": "biomedical",
+      "word": "algorithms",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'gorithms' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + gorithms(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 175,
+      "bookId": "biomedical",
+      "word": "motif",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "motive",
+        "motivated",
+        "motionless",
+        "motivational"
+      ]
+    },
+    {
+      "wordId": 176,
+      "bookId": "biomedical",
+      "word": "accession",
+      "prefix": "ac-（朝向；加强）",
+      "root": "cess/ced(走；让步)",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，源于 cedere（走；让步）。由 ac-(朝向；加强)+cess/ced(走；让步) 组合而成，原意与“走；让步”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ac-(朝向；加强) + cess/ced(走；让步) + -sion(行为；状态) → 产生“走；让步”的意象 → 演变成该词",
+      "cognates": [
+        "accessible",
+        "accessional",
+        "accessorial",
+        "access"
+      ]
+    },
+    {
+      "wordId": 177,
+      "bookId": "biomedical",
+      "word": "crystallography",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "crystal",
+        "crystallized",
+        "crystal",
+        "crystallization"
+      ]
+    },
+    {
+      "wordId": 178,
+      "bookId": "biomedical",
+      "word": "resonance",
+      "prefix": "re-（再；重新；回）",
+      "root": "son(声音)",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 re-(再；重新；回)+son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + son(声音) + -ance(状态；性质；行为) → 产生“声音”的意象 → 演变成该词",
+      "cognates": [
+        "resonant",
+        "resonating",
+        "resonator",
+        "resonating"
+      ]
+    },
+    {
+      "wordId": 179,
+      "bookId": "biomedical",
+      "word": "spectroscopy",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spectroscopic",
+        "spectrographic",
+        "spectrometric",
+        "spectrum"
+      ]
+    },
+    {
+      "wordId": 180,
+      "bookId": "biomedical",
+      "word": "yield",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "yielding",
+        "yielding",
+        "yielder",
+        "yielding"
+      ]
+    },
+    {
+      "wordId": 181,
+      "bookId": "biomedical",
+      "word": "weed",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "weeded",
+        "weedless",
+        "weedy",
+        "weeder"
+      ]
+    },
+    {
+      "wordId": 182,
+      "bookId": "biomedical",
+      "word": "apoptosis",
+      "prefix": "ap-（朝向（ad-变体））",
+      "root": "opt(选择)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 optare（选择）。由 ap-(朝向（ad-变体）)+opt(选择) 组合而成，原意与“选择”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ap-(朝向（ad-变体）) + opt(选择) → 产生“选择”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 183,
+      "bookId": "biomedical",
+      "word": "engulf",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'gulf' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + gulf(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 184,
+      "bookId": "biomedical",
+      "word": "debris",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'bris' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + bris(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 185,
+      "bookId": "biomedical",
+      "word": "placenta",
+      "prefix": "",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "placental",
+        "placental",
+        "placentation"
+      ]
+    },
+    {
+      "wordId": 186,
+      "bookId": "biomedical",
+      "word": "dystrophin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 187,
+      "bookId": "biomedical",
+      "word": "Huntingtin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 188,
+      "bookId": "biomedical",
+      "word": "chimpanzee",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 189,
+      "bookId": "biomedical",
+      "word": "prairie",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 190,
+      "bookId": "biomedical",
+      "word": "rodent",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'rod' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "rod(核心词干) + -ent(…的人；具有…性质的) → 拼合演变成该词",
+      "cognates": [
+        "rodentia"
+      ]
+    },
+    {
+      "wordId": 191,
+      "bookId": "biomedical",
+      "word": "hypothalamus",
+      "prefix": "hypo-（在下；不足）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'thalamus' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hypo-(在下；不足) + thalamus(核心词干) → 产生“在下；不足”的意象 → 演变成该词",
+      "cognates": [
+        "hypothalamic"
+      ]
+    },
+    {
+      "wordId": 192,
+      "bookId": "biomedical",
+      "word": "vole",
+      "prefix": "",
+      "root": "vol/volv(意志；卷绕)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 velle（愿意）。由 vol/volv(意志；卷绕) 组合而成，原意与“意志；卷绕”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 193,
+      "bookId": "biomedical",
+      "word": "promiscuity",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自Latin/Greek，通常以 'miscu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + miscu(核心词干) + -ity(性质；状态；程度) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 194,
+      "bookId": "biomedical",
+      "word": "promiscuous",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "-uous（有…的；充满…的）",
+      "etymology": "来自Latin/Greek，通常以 'misc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + misc(核心词干) + -uous(有…的；充满…的) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "promiscuously"
+      ]
+    },
+    {
+      "wordId": 195,
+      "bookId": "biomedical",
+      "word": "deficit",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ficit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + ficit(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "deficient",
+        "deficiency"
+      ]
+    },
+    {
+      "wordId": 196,
+      "bookId": "biomedical",
+      "word": "autism",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自Latin/Greek，通常以 'ut' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + ut(核心词干) + -ism(主义；行为；状态) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "autistic",
+        "autistic"
+      ]
+    },
+    {
+      "wordId": 197,
+      "bookId": "biomedical",
+      "word": "predisposition",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "pos/pon(放置)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 pre-(在…之前；预先)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pre-(在…之前；预先) + pos/pon(放置) + -tion(行为；过程；结果) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "predisposed",
+        "predisposed",
+        "predispose"
+      ]
+    },
+    {
+      "wordId": 198,
+      "bookId": "biomedical",
+      "word": "variant",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "var(变化) + -ant(…的人；具有…性质的) → 产生“变化”的意象 → 演变成该词",
+      "cognates": [
+        "varied",
+        "variation",
+        "variance",
+        "varied"
+      ]
+    },
+    {
+      "wordId": 199,
+      "bookId": "biomedical",
+      "word": "reinforcement",
+      "prefix": "re-（再；重新；回）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 re-(再；重新；回)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "reinforced",
+        "reinforce",
+        "reinforcer",
+        "reinforced"
+      ]
+    },
+    {
+      "wordId": 200,
+      "bookId": "biomedical",
+      "word": "endeavor",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语或法语，通常以 'deav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + deav(核心词干) + -or(…者；做…的人或物) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "endeavour",
+        "endeavour",
+        "endeavour"
+      ]
+    },
+    {
+      "wordId": 201,
+      "bookId": "biomedical",
+      "word": "initiating",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'itiating' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + itiating(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 202,
+      "bookId": "biomedical",
+      "word": "rival",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'riv' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "riv(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "rivalrous",
+        "rivalry"
+      ]
+    },
+    {
+      "wordId": 203,
+      "bookId": "biomedical",
+      "word": "scope",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 204,
+      "bookId": "biomedical",
+      "word": "paramount",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "paramountcy"
+      ]
+    },
+    {
+      "wordId": 205,
+      "bookId": "biomedical",
+      "word": "implication",
+      "prefix": "im-（不；否定；进入）",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 im-(不；否定；进入)+plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "im-(不；否定；进入) + plic/plex/ply(折叠；复杂) + -ation(行为；过程；结果) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "implicit",
+        "implicated",
+        "implicational",
+        "implicative"
+      ]
+    },
+    {
+      "wordId": 206,
+      "bookId": "biomedical",
+      "word": "zygote",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "zygotic"
+      ]
+    },
+    {
+      "wordId": 207,
+      "bookId": "biomedical",
+      "word": "automated",
+      "prefix": "auto-（自动；自己）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'mated' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "auto-(自动；自己) + mated(核心词干) → 产生“自动；自己”的意象 → 演变成该词",
+      "cognates": [
+        "automatic",
+        "automatically",
+        "automatically",
+        "automatic"
+      ]
+    },
+    {
+      "wordId": 208,
+      "bookId": "biomedical",
+      "word": "Nematoda",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 209,
+      "bookId": "biomedical",
+      "word": "embryo",
+      "prefix": "em-（使…进入；在内（en-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'bryo' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "em-(使…进入；在内（en-变体）) + bryo(核心词干) → 产生“使…进入；在内（en-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "embryonic",
+        "embryonal",
+        "embryology"
+      ]
+    },
+    {
+      "wordId": 210,
+      "bookId": "biomedical",
+      "word": "corn",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "corny",
+        "corned",
+        "corner",
+        "corned"
+      ]
+    },
+    {
+      "wordId": 211,
+      "bookId": "biomedical",
+      "word": "archaea",
+      "prefix": "ar-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'chaea' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ar-(朝向（ad-变体）) + chaea(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 212,
+      "bookId": "biomedical",
+      "word": "halophile",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 213,
+      "bookId": "biomedical",
+      "word": "thermophile",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 214,
+      "bookId": "biomedical",
+      "word": "thermophilic",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "her/hes(粘附) + -ic(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 215,
+      "bookId": "biomedical",
+      "word": "submarine",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'marine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + marine(核心词干) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "submerged",
+        "submersible",
+        "submergible",
+        "submariner"
+      ]
+    },
+    {
+      "wordId": 216,
+      "bookId": "biomedical",
+      "word": "thermal",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "her/hes(粘附) + -al(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "thermic",
+        "thermally"
+      ]
+    },
+    {
+      "wordId": 217,
+      "bookId": "biomedical",
+      "word": "vent",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ventilated",
+        "ventilatory",
+        "venture",
+        "ventilation"
+      ]
+    },
+    {
+      "wordId": 218,
+      "bookId": "biomedical",
+      "word": "purebred",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pureblood"
+      ]
+    },
+    {
+      "wordId": 219,
+      "bookId": "biomedical",
+      "word": "shepherd",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "shepherdess"
+      ]
+    },
+    {
+      "wordId": 220,
+      "bookId": "biomedical",
+      "word": "border",
+      "prefix": "",
+      "root": "ord/ordin(顺序)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 ordo（顺序）。由 ord/ordin(顺序) 组合而成，原意与“顺序”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ord/ordin(顺序) + -er(…者；做…的人) → 产生“顺序”的意象 → 演变成该词",
+      "cognates": [
+        "borderline",
+        "bordered",
+        "borderline",
+        "borderer"
+      ]
+    },
+    {
+      "wordId": 221,
+      "bookId": "biomedical",
+      "word": "breeds",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 222,
+      "bookId": "biomedical",
+      "word": "attenuate",
+      "prefix": "at-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'tenu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "at-(朝向（ad-变体）) + tenu(核心词干) + -ate(使…；具有…的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "attenuated",
+        "attenuated"
+      ]
+    },
+    {
+      "wordId": 223,
+      "bookId": "biomedical",
+      "word": "canine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 224,
+      "bookId": "biomedical",
+      "word": "pamper",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'pamp' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pamp(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 225,
+      "bookId": "biomedical",
+      "word": "detrimental",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "ment(心智)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 de-(向下；去除；否定)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + ment(心智) + -al(…的；与…有关的) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "detrimentally",
+        "detriment"
+      ]
+    },
+    {
+      "wordId": 226,
+      "bookId": "biomedical",
+      "word": "tandem",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 227,
+      "bookId": "biomedical",
+      "word": "depict",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pict' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + pict(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "depictive",
+        "depiction"
+      ]
+    },
+    {
+      "wordId": 228,
+      "bookId": "biomedical",
+      "word": "meiotic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'meiot' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "meiot(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 229,
+      "bookId": "biomedical",
+      "word": "centimorgan",
+      "prefix": "",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 230,
+      "bookId": "biomedical",
+      "word": "Alzheimer",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'zheim' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + zheim(核心词干) + -er(…者；做…的人) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 231,
+      "bookId": "biomedical",
+      "word": "stiff",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "stiffness",
+        "stiffen",
+        "stiffen"
+      ]
+    },
+    {
+      "wordId": 232,
+      "bookId": "biomedical",
+      "word": "congress",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'gress' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + gress(核心词干) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "congressional",
+        "congressman",
+        "congresswoman"
+      ]
+    },
+    {
+      "wordId": 233,
+      "bookId": "biomedical",
+      "word": "modify",
+      "prefix": "",
+      "root": "mod(方式；节制)",
+      "suffix": "-ify（使…；使成为）",
+      "etymology": "来自拉丁语，源于 modus（方式）。由 mod(方式；节制) 组合而成，原意与“方式；节制”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mod(方式；节制) + -ify(使…；使成为) → 产生“方式；节制”的意象 → 演变成该词",
+      "cognates": [
+        "modified",
+        "modifiable",
+        "modifier",
+        "modification"
+      ]
+    },
+    {
+      "wordId": 234,
+      "bookId": "biomedical",
+      "word": "pipet",
+      "prefix": "",
+      "root": "pet/pit(追求；飞)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 petere（追求）。由 pet/pit(追求；飞) 组合而成，原意与“追求；飞”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 235,
+      "bookId": "biomedical",
+      "word": "ingenious",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ious（有…的；充满…的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 in-(不；否定；向内；进入)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + gen(产生；出生；种类) + -ious(有…的；充满…的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "ingeniously",
+        "ingenuity",
+        "ingeniousness"
+      ]
+    },
+    {
+      "wordId": 236,
+      "bookId": "biomedical",
+      "word": "painstaking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "painstakingly"
+      ]
+    },
+    {
+      "wordId": 237,
+      "bookId": "biomedical",
+      "word": "dideoxy",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'deoxy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + deoxy(核心词干) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 238,
+      "bookId": "biomedical",
+      "word": "deoxy",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'oxy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + oxy(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 239,
+      "bookId": "biomedical",
+      "word": "purple",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "purplish"
+      ]
+    },
+    {
+      "wordId": 240,
+      "bookId": "biomedical",
+      "word": "align",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ign' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + ign(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "alignment"
+      ]
+    },
+    {
+      "wordId": 241,
+      "bookId": "biomedical",
+      "word": "skeptic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'skept' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "skept(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "skeptical",
+        "skeptically",
+        "skepticism"
+      ]
+    },
+    {
+      "wordId": 242,
+      "bookId": "biomedical",
+      "word": "outfit",
+      "prefix": "out-（超出；向外）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'fit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "out-(超出；向外) + fit(核心词干) → 产生“超出；向外”的意象 → 演变成该词",
+      "cognates": [
+        "outfitting",
+        "outfitter",
+        "outfitting"
+      ]
+    },
+    {
+      "wordId": 243,
+      "bookId": "biomedical",
+      "word": "reagent",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'ag' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + ag(核心词干) + -ent(…的人；具有…性质的) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 244,
+      "bookId": "biomedical",
+      "word": "therapeutic",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "her/hes(粘附) + -ic(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "therapeutical",
+        "therapy",
+        "therapist",
+        "therapeutics"
+      ]
+    },
+    {
+      "wordId": 245,
+      "bookId": "biomedical",
+      "word": "simultaneously",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'simultaneous' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "simultaneous(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "simultaneous",
+        "simultaneous",
+        "simultaneity",
+        "simulcast"
+      ]
+    },
+    {
+      "wordId": 246,
+      "bookId": "biomedical",
+      "word": "nucleus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nucleonics"
+      ]
+    },
+    {
+      "wordId": 247,
+      "bookId": "biomedical",
+      "word": "nucleus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "nucleonics"
+      ]
+    },
+    {
+      "wordId": 248,
+      "bookId": "biomedical",
+      "word": "splice",
+      "prefix": "",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "splicing",
+        "splicing",
+        "splicer",
+        "splicing"
+      ]
+    },
+    {
+      "wordId": 249,
+      "bookId": "biomedical",
+      "word": "precursor",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "cur/cours(跑；流)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 currere（跑）。由 pre-(在…之前；预先)+cur/cours(跑；流) 组合而成，原意与“跑；流”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pre-(在…之前；预先) + cur/cours(跑；流) + -or(…者；做…的人或物) → 产生“跑；流”的意象 → 演变成该词",
+      "cognates": [
+        "precursory"
+      ]
+    },
+    {
+      "wordId": 250,
+      "bookId": "biomedical",
+      "word": "substantially",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，通常以 'stantial' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + stantial(核心词干) + -ly(以…方式；具有…性质) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "substantial",
+        "substantive",
+        "substantial",
+        "substance"
+      ]
+    },
+    {
+      "wordId": 251,
+      "bookId": "biomedical",
+      "word": "muscular",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "muscle",
+        "musculature",
+        "muscularity",
+        "muscle"
+      ]
+    },
+    {
+      "wordId": 252,
+      "bookId": "biomedical",
+      "word": "dystrophia",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 253,
+      "bookId": "biomedical",
+      "word": "dystrophy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "dyssynergia"
+      ]
+    },
+    {
+      "wordId": 254,
+      "bookId": "biomedical",
+      "word": "cluster",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'clust' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "clust(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "clustered",
+        "clustering",
+        "clustered",
+        "clustering"
+      ]
+    },
+    {
+      "wordId": 255,
+      "bookId": "biomedical",
+      "word": "appendage",
+      "prefix": "ap-（朝向（ad-变体））",
+      "root": "pend/pens(悬挂；支付)",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语，源于 pendere（悬挂）。由 ap-(朝向（ad-变体）)+pend/pens(悬挂；支付) 组合而成，原意与“悬挂；支付”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ap-(朝向（ad-变体）) + pend/pens(悬挂；支付) + -age(行为；状态；集合) → 产生“悬挂；支付”的意象 → 演变成该词",
+      "cognates": [
+        "appendant",
+        "append",
+        "appendant",
+        "append"
+      ]
+    },
+    {
+      "wordId": 256,
+      "bookId": "biomedical",
+      "word": "epigenetic",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 e-(出；向外（ex-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + gen(产生；出生；种类) + -ic(…的；与…有关的) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 257,
+      "bookId": "biomedical",
+      "word": "spill",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spillover",
+        "spillage",
+        "spiller"
+      ]
+    },
+    {
+      "wordId": 258,
+      "bookId": "biomedical",
+      "word": "predate",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'd' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + d(核心词干) + -ate(使…；具有…的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 259,
+      "bookId": "biomedical",
+      "word": "intriguing",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'triguing' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + triguing(核心词干) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "intrigue",
+        "intriguer",
+        "intrigue",
+        "intrigue"
+      ]
+    },
+    {
+      "wordId": 260,
+      "bookId": "biomedical",
+      "word": "versatile",
+      "prefix": "",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "versatility"
+      ]
+    },
+    {
+      "wordId": 261,
+      "bookId": "biomedical",
+      "word": "forensic",
+      "prefix": "fore-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自古英语，通常以 'ns' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fore-(在…之前；预先) + ns(核心词干) + -ic(…的；与…有关的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 262,
+      "bookId": "biomedical",
+      "word": "variability",
+      "prefix": "",
+      "root": "abil/il(能力)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 habilis（易于处理的）。由 abil/il(能力) 组合而成，原意与“能力”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "abil/il(能力) + -ity(性质；状态；程度) → 产生“能力”的意象 → 演变成该词",
+      "cognates": [
+        "variable",
+        "varied",
+        "varying",
+        "variably"
+      ]
+    },
+    {
+      "wordId": 263,
+      "bookId": "biomedical",
+      "word": "paternity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'patern' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "patern(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 264,
+      "bookId": "biomedical",
+      "word": "mitochondrial",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mit/miss(发送) + -al(…的；与…有关的) → 产生“发送”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 265,
+      "bookId": "biomedical",
+      "word": "contradict",
+      "prefix": "contra-（反对；相反）",
+      "root": "dict/dic(说；指示)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 dicere（说）。由 contra-(反对；相反)+dict/dic(说；指示) 组合而成，原意与“说；指示”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "contra-(反对；相反) + dict/dic(说；指示) → 产生“说；指示”的意象 → 演变成该词",
+      "cognates": [
+        "contradictory",
+        "contradictorily",
+        "contradiction",
+        "contradictory"
+      ]
+    },
+    {
+      "wordId": 266,
+      "bookId": "biomedical",
+      "word": "trace",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "traceable",
+        "traced",
+        "tracing",
+        "tracer"
+      ]
+    },
+    {
+      "wordId": 267,
+      "bookId": "biomedical",
+      "word": "probe",
+      "prefix": "",
+      "root": "prob/prov(证明；好)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 probare（证明）。由 prob/prov(证明；好) 组合而成，原意与“证明；好”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "probing",
+        "probation",
+        "probing",
+        "probationer"
+      ]
+    },
+    {
+      "wordId": 268,
+      "bookId": "biomedical",
+      "word": "bioterror",
+      "prefix": "bio-（生命；生物）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自希腊语，通常以 'terr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bio-(生命；生物) + terr(核心词干) + -or(…者；做…的人或物) → 产生“生命；生物”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 269,
+      "bookId": "biomedical",
+      "word": "upheaval",
+      "prefix": "up-（向上）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自古英语，通常以 'heav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "up-(向上) + heav(核心词干) + -al(…的；与…有关的) → 产生“向上”的意象 → 演变成该词",
+      "cognates": [
+        "upheave"
+      ]
+    },
+    {
+      "wordId": 270,
+      "bookId": "biomedical",
+      "word": "Upheaval",
+      "prefix": "up-（向上）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自古英语，通常以 'heav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "up-(向上) + heav(核心词干) + -al(…的；与…有关的) → 产生“向上”的意象 → 演变成该词",
+      "cognates": [
+        "upheave"
+      ]
+    },
+    {
+      "wordId": 271,
+      "bookId": "biomedical",
+      "word": "track",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "tracked",
+        "trackable",
+        "trackless",
+        "tracking"
+      ]
+    },
+    {
+      "wordId": 272,
+      "bookId": "biomedical",
+      "word": "prosecute",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'secute' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + secute(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "prosecution",
+        "prosecutor"
+      ]
+    },
+    {
+      "wordId": 273,
+      "bookId": "biomedical",
+      "word": "poachers",
+      "prefix": "",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 274,
+      "bookId": "biomedical",
+      "word": "timeline",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "timeless",
+        "timed",
+        "timesaving",
+        "timetable"
+      ]
+    },
+    {
+      "wordId": 275,
+      "bookId": "biomedical",
+      "word": "spectrum",
+      "prefix": "",
+      "root": "spec/spect(看)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 specere（看）。由 spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "spectroscopic",
+        "spectrographic",
+        "spectrometric",
+        "spectroscopy"
+      ]
+    },
+    {
+      "wordId": 276,
+      "bookId": "biomedical",
+      "word": "scrutiny",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "scrutinize",
+        "scrutinize",
+        "scrutinise",
+        "scrutinize"
+      ]
+    },
+    {
+      "wordId": 277,
+      "bookId": "biomedical",
+      "word": "biases",
+      "prefix": "bi-（两；双）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ases' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bi-(两；双) + ases(核心词干) → 产生“两；双”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 278,
+      "bookId": "biomedical",
+      "word": "perplexing",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'plexing' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + plexing(核心词干) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": [
+        "perplexed",
+        "perplexedly",
+        "perplexity",
+        "perplex"
+      ]
+    },
+    {
+      "wordId": 279,
+      "bookId": "biomedical",
+      "word": "lenses",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 280,
+      "bookId": "biomedical",
+      "word": "assailant",
+      "prefix": "as-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'sail' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "as-(朝向（ad-变体）) + sail(核心词干) + -ant(…的人；具有…性质的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "assailable",
+        "assail"
+      ]
+    },
+    {
+      "wordId": 281,
+      "bookId": "biomedical",
+      "word": "allegation",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "leg/lig/lect(读；收集；选择)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 legere（读；选择）。由 al-(朝向（ad-变体）)+leg/lig/lect(读；收集；选择) 组合而成，原意与“读；收集；选择”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "al-(朝向（ad-变体）) + leg/lig/lect(读；收集；选择) + -ation(行为；过程；结果) → 产生“读；收集；选择”的意象 → 演变成该词",
+      "cognates": [
+        "alleged",
+        "alleged",
+        "allege"
+      ]
+    },
+    {
+      "wordId": 282,
+      "bookId": "biomedical",
+      "word": "consensual",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "sens/sent(感觉)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 sentire（感觉）。由 con-(共同；一起；完全)+sens/sent(感觉) 组合而成，原意与“感觉”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + sens/sent(感觉) + -al(…的；与…有关的) → 产生“感觉”的意象 → 演变成该词",
+      "cognates": [
+        "consentaneous",
+        "consentient",
+        "consent",
+        "consent"
+      ]
+    },
+    {
+      "wordId": 283,
+      "bookId": "biomedical",
+      "word": "corroborate",
+      "prefix": "cor-（共同（con-变体））",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'robor' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cor-(共同（con-变体）) + robor(核心词干) + -ate(使…；具有…的) → 产生“共同（con-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "corroborative",
+        "corroborant",
+        "corroboration",
+        "corroborant"
+      ]
+    },
+    {
+      "wordId": 284,
+      "bookId": "biomedical",
+      "word": "shred",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "shredder"
+      ]
+    },
+    {
+      "wordId": 285,
+      "bookId": "biomedical",
+      "word": "lick",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "licking",
+        "licking",
+        "licking"
+      ]
+    },
+    {
+      "wordId": 286,
+      "bookId": "biomedical",
+      "word": "shard",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 287,
+      "bookId": "biomedical",
+      "word": "implicate",
+      "prefix": "im-（不；否定；进入）",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 im-(不；否定；进入)+plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "im-(不；否定；进入) + plic/plex/ply(折叠；复杂) + -ate(使…；具有…的) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "implicit",
+        "implicated",
+        "implicational",
+        "implicative"
+      ]
+    },
+    {
+      "wordId": 288,
+      "bookId": "biomedical",
+      "word": "impartial",
+      "prefix": "im-（不；否定；进入）",
+      "root": "par(相等；准备)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 im-(不；否定；进入)+par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "im-(不；否定；进入) + par(相等；准备) + -al(…的；与…有关的) → 产生“相等；准备”的意象 → 演变成该词",
+      "cognates": [
+        "impartially",
+        "impartiality"
+      ]
+    },
+    {
+      "wordId": 289,
+      "bookId": "biomedical",
+      "word": "exonerate",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'oner' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + oner(核心词干) + -ate(使…；具有…的) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exonerative",
+        "exoneration"
+      ]
+    },
+    {
+      "wordId": 290,
+      "bookId": "biomedical",
+      "word": "drastic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'drast' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "drast(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "drastically"
+      ]
+    },
+    {
+      "wordId": 291,
+      "bookId": "biomedical",
+      "word": "polymorphism",
+      "prefix": "poly-（多；许多）",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ism（主义；行为；状态）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 poly-(多；许多)+mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "poly-(多；许多) + mor/mort(死亡) + -ism(主义；行为；状态) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": [
+        "polymorphic",
+        "polymorphous",
+        "polymorph"
+      ]
+    },
+    {
+      "wordId": 292,
+      "bookId": "biomedical",
+      "word": "milepost",
+      "prefix": "",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 293,
+      "bookId": "biomedical",
+      "word": "roadmap",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 294,
+      "bookId": "biomedical",
+      "word": "allele",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lele' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + lele(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "allelic"
+      ]
+    },
+    {
+      "wordId": 295,
+      "bookId": "biomedical",
+      "word": "genotype",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "genotypic",
+        "genotypical"
+      ]
+    },
+    {
+      "wordId": 296,
+      "bookId": "biomedical",
+      "word": "Amelogenin",
+      "prefix": "a-（不；无；在…上）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 a-(不；无；在…上)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 297,
+      "bookId": "biomedical",
+      "word": "Tetranucleotide",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 298,
+      "bookId": "biomedical",
+      "word": "homozygous",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'homozyg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "homozyg(核心词干) + -ous(有…的；充满…的) → 拼合演变成该词",
+      "cognates": [
+        "homospory",
+        "homozygosity"
+      ]
+    },
+    {
+      "wordId": 299,
+      "bookId": "biomedical",
+      "word": "heterozygous",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'heterozyg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "heterozyg(核心词干) + -ous(有…的；充满…的) → 拼合演变成该词",
+      "cognates": [
+        "heterozygosity"
+      ]
+    },
+    {
+      "wordId": 300,
+      "bookId": "biomedical",
+      "word": "flanking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 301,
+      "bookId": "biomedical",
+      "word": "lane",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 302,
+      "bookId": "biomedical",
+      "word": "semen",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'men' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + men(核心词干) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 303,
+      "bookId": "biomedical",
+      "word": "deposited",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 de-(向下；去除；否定)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + pos/pon(放置) → 产生“放置”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 304,
+      "bookId": "biomedical",
+      "word": "perpetrate",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "pet/pit(追求；飞)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 petere（追求）。由 per-(贯穿；完全；每)+pet/pit(追求；飞) 组合而成，原意与“追求；飞”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "per-(贯穿；完全；每) + pet/pit(追求；飞) + -ate(使…；具有…的) → 产生“追求；飞”的意象 → 演变成该词",
+      "cognates": [
+        "perpetrator",
+        "perpetration"
+      ]
+    },
+    {
+      "wordId": 305,
+      "bookId": "biomedical",
+      "word": "swab",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "swabbing"
+      ]
+    },
+    {
+      "wordId": 306,
+      "bookId": "biomedical",
+      "word": "scraping",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "scrap",
+        "scrap",
+        "scrape",
+        "scraper"
+      ]
+    },
+    {
+      "wordId": 307,
+      "bookId": "biomedical",
+      "word": "vaginal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'vagin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "vagin(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "vagina",
+        "vaginismus",
+        "vaginitis"
+      ]
+    },
+    {
+      "wordId": 308,
+      "bookId": "biomedical",
+      "word": "sperm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spermatic",
+        "spermicidal",
+        "spermous",
+        "spermatogenesis"
+      ]
+    },
+    {
+      "wordId": 309,
+      "bookId": "biomedical",
+      "word": "precede",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'cede' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + cede(核心词干) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "precedent",
+        "preceding",
+        "precedent",
+        "preceding"
+      ]
+    },
+    {
+      "wordId": 310,
+      "bookId": "biomedical",
+      "word": "postulate",
+      "prefix": "post-（在…之后）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'ul' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "post-(在…之后) + ul(核心词干) + -ate(使…；具有…的) → 产生“在…之后”的意象 → 演变成该词",
+      "cognates": [
+        "postulation",
+        "postulator"
+      ]
+    },
+    {
+      "wordId": 311,
+      "bookId": "biomedical",
+      "word": "metabolic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'metabol' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "metabol(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "metabolism",
+        "metabolite",
+        "metabolize",
+        "metabolise"
+      ]
+    },
+    {
+      "wordId": 312,
+      "bookId": "biomedical",
+      "word": "degrade",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "grad/gress(步骤；走)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 gradi（行走）。由 de-(向下；去除；否定)+grad/gress(步骤；走) 组合而成，原意与“步骤；走”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + grad/gress(步骤；走) → 产生“步骤；走”的意象 → 演变成该词",
+      "cognates": [
+        "degraded",
+        "degrading",
+        "degradation",
+        "degrader"
+      ]
+    },
+    {
+      "wordId": 313,
+      "bookId": "biomedical",
+      "word": "uncrumple",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'crumple' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + crumple(核心词干) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 314,
+      "bookId": "biomedical",
+      "word": "unscrupulous",
+      "prefix": "un-（不；否定；相反）",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自古英语，通常以 'scrupul' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "un-(不；否定；相反) + scrupul(核心词干) + -ous(有…的；充满…的) → 产生“不；否定；相反”的意象 → 演变成该词",
+      "cognates": [
+        "unscrupulously",
+        "unscrupulousness"
+      ]
+    },
+    {
+      "wordId": 315,
+      "bookId": "biomedical",
+      "word": "tamper",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'tamp' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tamp(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "tamp",
+        "tamponade",
+        "tamponage",
+        "tamp"
+      ]
+    },
+    {
+      "wordId": 316,
+      "bookId": "biomedical",
+      "word": "prosecutor",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自Latin/Greek，通常以 'secut' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + secut(核心词干) + -or(…者；做…的人或物) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "prosecution",
+        "prosecute",
+        "prosecute"
+      ]
+    },
+    {
+      "wordId": 317,
+      "bookId": "biomedical",
+      "word": "alibis",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ibis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + ibis(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 318,
+      "bookId": "biomedical",
+      "word": "alibi",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ibi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + ibi(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 319,
+      "bookId": "biomedical",
+      "word": "juror",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'jur' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "jur(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "jury",
+        "jury",
+        "juryman",
+        "jurywoman"
+      ]
+    },
+    {
+      "wordId": 320,
+      "bookId": "biomedical",
+      "word": "jurors",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 321,
+      "bookId": "biomedical",
+      "word": "fallacies",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 322,
+      "bookId": "biomedical",
+      "word": "fallacy",
+      "prefix": "",
+      "root": "",
+      "suffix": "-acy（状态；性质；行为）",
+      "etymology": "来自Latin/Greek，通常以 'fall' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fall(核心词干) + -acy(状态；性质；行为) → 拼合演变成该词",
+      "cognates": [
+        "fallacious"
+      ]
+    },
+    {
+      "wordId": 323,
+      "bookId": "biomedical",
+      "word": "Caucasians",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 324,
+      "bookId": "biomedical",
+      "word": "caucasian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 325,
+      "bookId": "biomedical",
+      "word": "Hispanic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'hispan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "hispan(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "Hispano",
+        "Hispania",
+        "Hispanicism",
+        "Hispanidad"
+      ]
+    },
+    {
+      "wordId": 326,
+      "bookId": "biomedical",
+      "word": "casualties",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 327,
+      "bookId": "biomedical",
+      "word": "casualty",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自拉丁语，通常以 'casual' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "casual(核心词干) + -ty(性质；状态) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 328,
+      "bookId": "biomedical",
+      "word": "analyst",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'alyst' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + alyst(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "analytical",
+        "analytic",
+        "analyzable",
+        "analytically"
+      ]
+    },
+    {
+      "wordId": 329,
+      "bookId": "biomedical",
+      "word": "mitochondrion",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 330,
+      "bookId": "biomedical",
+      "word": "organelle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "organic",
+        "organically",
+        "organicism"
+      ]
+    },
+    {
+      "wordId": 331,
+      "bookId": "biomedical",
+      "word": "anecdotal",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自希腊语，通常以 'ecdot' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + ecdot(核心词干) + -al(…的；与…有关的) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "anecdotic",
+        "anecdotical",
+        "anecdote",
+        "anecdotist"
+      ]
+    },
+    {
+      "wordId": 332,
+      "bookId": "biomedical",
+      "word": "fondness",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ness（性质；状态）",
+      "etymology": "来自古英语，通常以 'fond' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fond(核心词干) + -ness(性质；状态) → 拼合演变成该词",
+      "cognates": [
+        "fond",
+        "fondly",
+        "fondling",
+        "fondling"
+      ]
+    },
+    {
+      "wordId": 333,
+      "bookId": "biomedical",
+      "word": "viral",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'vir' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "vir(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 334,
+      "bookId": "biomedical",
+      "word": "immunodeficiency",
+      "prefix": "im-（不；否定；进入）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'munodeficiency' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "im-(不；否定；进入) + munodeficiency(核心词干) → 产生“不；否定；进入”的意象 → 演变成该词",
+      "cognates": [
+        "immunological",
+        "immunized",
+        "immunochemical",
+        "immunocompetent"
+      ]
+    },
+    {
+      "wordId": 335,
+      "bookId": "biomedical",
+      "word": "inadvertently",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "vert/vers(转变；转向)",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，源于 vertere（转动）。由 in-(不；否定；向内；进入)+vert/vers(转变；转向) 组合而成，原意与“转变；转向”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + vert/vers(转变；转向) + -ly(以…方式；具有…性质) → 产生“转变；转向”的意象 → 演变成该词",
+      "cognates": [
+        "inadvertent",
+        "inadvertence"
+      ]
+    },
+    {
+      "wordId": 336,
+      "bookId": "biomedical",
+      "word": "hantavirus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 337,
+      "bookId": "biomedical",
+      "word": "avian",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'vian' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + vian(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 338,
+      "bookId": "biomedical",
+      "word": "tuberculosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "tubercular",
+        "tuberculate",
+        "tuberculoid",
+        "tuberculous"
+      ]
+    },
+    {
+      "wordId": 339,
+      "bookId": "biomedical",
+      "word": "peruvian",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'uvian' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "per-(贯穿；完全；每) + uvian(核心词干) → 产生“贯穿；完全；每”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 340,
+      "bookId": "biomedical",
+      "word": "homicide",
+      "prefix": "",
+      "root": "cid/cis(切；杀)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 caedere（切割）。由 cid/cis(切；杀) 组合而成，原意与“切；杀”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "homicidal"
+      ]
+    },
+    {
+      "wordId": 341,
+      "bookId": "biomedical",
+      "word": "warden",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "warder",
+        "wardenship",
+        "wardress"
+      ]
+    },
+    {
+      "wordId": 342,
+      "bookId": "biomedical",
+      "word": "poacher",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'poach' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "poach(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "poaching",
+        "poaching",
+        "poach",
+        "poach"
+      ]
+    },
+    {
+      "wordId": 343,
+      "bookId": "biomedical",
+      "word": "carcass",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 344,
+      "bookId": "biomedical",
+      "word": "freezer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'freez' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "freez(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "freezing",
+        "freeze",
+        "freeze",
+        "freeze"
+      ]
+    },
+    {
+      "wordId": 345,
+      "bookId": "biomedical",
+      "word": "trophies",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 346,
+      "bookId": "biomedical",
+      "word": "polymorphic",
+      "prefix": "poly-（多；许多）",
+      "root": "mor/mort(死亡)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 mors/mortis（死亡）。由 poly-(多；许多)+mor/mort(死亡) 组合而成，原意与“死亡”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "poly-(多；许多) + mor/mort(死亡) + -ic(…的；与…有关的) → 产生“死亡”的意象 → 演变成该词",
+      "cognates": [
+        "polymorphous",
+        "polymorphism",
+        "polymorph"
+      ]
+    },
+    {
+      "wordId": 347,
+      "bookId": "biomedical",
+      "word": "reside",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'side' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + side(核心词干) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "resident",
+        "residential",
+        "resident",
+        "residence"
+      ]
+    },
+    {
+      "wordId": 348,
+      "bookId": "biomedical",
+      "word": "estimate",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'stim' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + stim(核心词干) + -ate(使…；具有…的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "estimable",
+        "estimation",
+        "estimator"
+      ]
+    },
+    {
+      "wordId": 349,
+      "bookId": "biomedical",
+      "word": "primate",
+      "prefix": "",
+      "root": "prim(第一；首要)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 primus（第一的）。由 prim(第一；首要) 组合而成，原意与“第一；首要”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "prim(第一；首要) + -ate(使…；具有…的) → 产生“第一；首要”的意象 → 演变成该词",
+      "cognates": [
+        "primacy",
+        "primates",
+        "primality",
+        "primateship"
+      ]
+    },
+    {
+      "wordId": 350,
+      "bookId": "biomedical",
+      "word": "scenario",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 351,
+      "bookId": "biomedical",
+      "word": "anatomically",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自希腊语，通常以 'atomical' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + atomical(核心词干) + -ly(以…方式；具有…性质) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "anatomical",
+        "anatomic",
+        "anatomy",
+        "anatomist"
+      ]
+    },
+    {
+      "wordId": 352,
+      "bookId": "biomedical",
+      "word": "controversy",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 con-(共同；一起；完全)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "con-(共同；一起；完全) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "controversial",
+        "controversially",
+        "controvert",
+        "controvert"
+      ]
+    },
+    {
+      "wordId": 353,
+      "bookId": "biomedical",
+      "word": "malignant",
+      "prefix": "mal-（坏；错误）",
+      "root": "",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'ign' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mal-(坏；错误) + ign(核心词干) + -ant(…的人；具有…性质的) → 产生“坏；错误”的意象 → 演变成该词",
+      "cognates": [
+        "malicious",
+        "malign",
+        "maliciously",
+        "malignantly"
+      ]
+    },
+    {
+      "wordId": 354,
+      "bookId": "biomedical",
+      "word": "spine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spinal",
+        "spineless",
+        "spiny",
+        "spinally"
+      ]
+    },
+    {
+      "wordId": 355,
+      "bookId": "biomedical",
+      "word": "skull",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 356,
+      "bookId": "biomedical",
+      "word": "notochord",
+      "prefix": "",
+      "root": "not(注意；标记)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 notare（标记）。由 not(注意；标记) 组合而成，原意与“注意；标记”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 357,
+      "bookId": "biomedical",
+      "word": "devastate",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'vast' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + vast(核心词干) + -ate(使…；具有…的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "devastating",
+        "devastation",
+        "devastating"
+      ]
+    },
+    {
+      "wordId": 358,
+      "bookId": "biomedical",
+      "word": "line",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lined",
+        "liner",
+        "linage",
+        "lineation"
+      ]
+    },
+    {
+      "wordId": 359,
+      "bookId": "biomedical",
+      "word": "carcinoma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 360,
+      "bookId": "biomedical",
+      "word": "mitosis",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "mitotic",
+        "mitogen"
+      ]
+    },
+    {
+      "wordId": 361,
+      "bookId": "biomedical",
+      "word": "trigger",
+      "prefix": "tri-（三）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自Latin/Greek，通常以 'gg' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "tri-(三) + gg(核心词干) + -er(…者；做…的人) → 产生“三”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 362,
+      "bookId": "biomedical",
+      "word": "islet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 363,
+      "bookId": "biomedical",
+      "word": "span",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spanner"
+      ]
+    },
+    {
+      "wordId": 364,
+      "bookId": "biomedical",
+      "word": "quiescent",
+      "prefix": "",
+      "root": "cent/acent(唱；呼喊)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 cantus（歌）。由 cent/acent(唱；呼喊) 组合而成，原意与“唱；呼喊”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "cent/acent(唱；呼喊) + -ent(…的人；具有…性质的) → 产生“唱；呼喊”的意象 → 演变成该词",
+      "cognates": [
+        "quiescence",
+        "quiescency"
+      ]
+    },
+    {
+      "wordId": 365,
+      "bookId": "biomedical",
+      "word": "slough",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "sloughy"
+      ]
+    },
+    {
+      "wordId": 366,
+      "bookId": "biomedical",
+      "word": "shed",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "shedding",
+        "shedder",
+        "shedding"
+      ]
+    },
+    {
+      "wordId": 367,
+      "bookId": "biomedical",
+      "word": "lymphocyte",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lymphatic",
+        "lymphocytic",
+        "lymphatic",
+        "lymphadenopathy"
+      ]
+    },
+    {
+      "wordId": 368,
+      "bookId": "biomedical",
+      "word": "fetus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fetology"
+      ]
+    },
+    {
+      "wordId": 369,
+      "bookId": "biomedical",
+      "word": "myriad",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 370,
+      "bookId": "biomedical",
+      "word": "gamete",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "gametogenesis"
+      ]
+    },
+    {
+      "wordId": 371,
+      "bookId": "biomedical",
+      "word": "trauma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "traumatic",
+        "traumatic",
+        "traumatology",
+        "traumatize"
+      ]
+    },
+    {
+      "wordId": 372,
+      "bookId": "biomedical",
+      "word": "dermal",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'rm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + rm(核心词干) + -al(…的；与…有关的) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": [
+        "derma"
+      ]
+    },
+    {
+      "wordId": 373,
+      "bookId": "biomedical",
+      "word": "epidermis",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pidermis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + pidermis(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "epidermal"
+      ]
+    },
+    {
+      "wordId": 374,
+      "bookId": "biomedical",
+      "word": "dermis",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'rmis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "de-(向下；去除；否定) + rmis(核心词干) → 产生“向下；去除；否定”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 375,
+      "bookId": "biomedical",
+      "word": "subcutaneous",
+      "prefix": "sub-（在下；次级；从属）",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'cutane' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sub-(在下；次级；从属) + cutane(核心词干) + -ous(有…的；充满…的) → 产生“在下；次级；从属”的意象 → 演变成该词",
+      "cognates": [
+        "subcutaneously"
+      ]
+    },
+    {
+      "wordId": 376,
+      "bookId": "biomedical",
+      "word": "sebaceous",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'bace' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + bace(核心词干) + -ous(有…的；充满…的) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": [
+        "sebum",
+        "seborrhea"
+      ]
+    },
+    {
+      "wordId": 377,
+      "bookId": "biomedical",
+      "word": "rod",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 378,
+      "bookId": "biomedical",
+      "word": "mitotic",
+      "prefix": "",
+      "root": "mit/miss(发送)",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 mittere（发送）。由 mit/miss(发送) 组合而成，原意与“发送”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "mit/miss(发送) + -ic(…的；与…有关的) → 产生“发送”的意象 → 演变成该词",
+      "cognates": [
+        "mitosis",
+        "mitogen"
+      ]
+    },
+    {
+      "wordId": 379,
+      "bookId": "biomedical",
+      "word": "inflammatory",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，通常以 'flammat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + flammat(核心词干) + -ory(与…有关的；…的场所) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inflammable",
+        "inflammation",
+        "inflammable",
+        "inflame"
+      ]
+    },
+    {
+      "wordId": 380,
+      "bookId": "biomedical",
+      "word": "phagocytosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "phagocytic"
+      ]
+    },
+    {
+      "wordId": 381,
+      "bookId": "biomedical",
+      "word": "fibroblast",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fibrous",
+        "fibrillate",
+        "fibrinous",
+        "fibrocartilaginous"
+      ]
+    },
+    {
+      "wordId": 382,
+      "bookId": "biomedical",
+      "word": "collagen",
+      "prefix": "col-（共同（con-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 col-(共同（con-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "col-(共同（con-变体）) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "collagenic"
+      ]
+    },
+    {
+      "wordId": 383,
+      "bookId": "biomedical",
+      "word": "fibronectin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 384,
+      "bookId": "biomedical",
+      "word": "matrix",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 385,
+      "bookId": "biomedical",
+      "word": "deposit",
+      "prefix": "de-（向下；去除；否定）",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 de-(向下；去除；否定)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "de-(向下；去除；否定) + pos/pon(放置) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "depository",
+        "depositary",
+        "deposition",
+        "depositor"
+      ]
+    },
+    {
+      "wordId": 386,
+      "bookId": "biomedical",
+      "word": "paralysis",
+      "prefix": "",
+      "root": "par(相等；准备)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 parare（准备）。由 par(相等；准备) 组合而成，原意与“相等；准备”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "paralyzed",
+        "paralytic",
+        "paralytic",
+        "paralyzed"
+      ]
+    },
+    {
+      "wordId": 387,
+      "bookId": "biomedical",
+      "word": "liver",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'liv' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "liv(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "live",
+        "lively",
+        "living",
+        "livery"
+      ]
+    },
+    {
+      "wordId": 388,
+      "bookId": "biomedical",
+      "word": "ploidy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 389,
+      "bookId": "biomedical",
+      "word": "diploid",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'ploid' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + ploid(核心词干) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": [
+        "diploidy",
+        "diphthongize",
+        "diphthongize"
+      ]
+    },
+    {
+      "wordId": 390,
+      "bookId": "biomedical",
+      "word": "haploid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "haploidy"
+      ]
+    },
+    {
+      "wordId": 391,
+      "bookId": "biomedical",
+      "word": "replicate",
+      "prefix": "re-（再；重新；回）",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 re-(再；重新；回)+plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "re-(再；重新；回) + plic/plex/ply(折叠；复杂) + -ate(使…；具有…的) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "replication",
+        "replica"
+      ]
+    },
+    {
+      "wordId": 392,
+      "bookId": "biomedical",
+      "word": "duplicate",
+      "prefix": "",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "plic/plex/ply(折叠；复杂) + -ate(使…；具有…的) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "duplicable",
+        "duplication",
+        "dupe",
+        "duplicator"
+      ]
+    },
+    {
+      "wordId": 393,
+      "bookId": "biomedical",
+      "word": "fidelity",
+      "prefix": "",
+      "root": "fid/fis(信任；忠诚)",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，源于 fidere（信任）。由 fid/fis(信任；忠诚) 组合而成，原意与“信任；忠诚”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fid/fis(信任；忠诚) + -ity(性质；状态；程度) → 产生“信任；忠诚”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 394,
+      "bookId": "biomedical",
+      "word": "segregant",
+      "prefix": "se-（分离；独自）",
+      "root": "greg(群体)",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 grex/gregis（羊群）。由 se-(分离；独自)+greg(群体) 组合而成，原意与“群体”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "se-(分离；独自) + greg(群体) + -ant(…的人；具有…性质的) → 产生“群体”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 395,
+      "bookId": "biomedical",
+      "word": "progeny",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 pro-(向前；支持；代替)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 396,
+      "bookId": "biomedical",
+      "word": "ovaries",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 397,
+      "bookId": "biomedical",
+      "word": "ovary",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "ovarian",
+        "ovariectomy",
+        "ovaritis"
+      ]
+    },
+    {
+      "wordId": 398,
+      "bookId": "biomedical",
+      "word": "testes",
+      "prefix": "",
+      "root": "test(见证；证明)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 399,
+      "bookId": "biomedical",
+      "word": "testis",
+      "prefix": "",
+      "root": "test(见证；证明)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 400,
+      "bookId": "biomedical",
+      "word": "metaphase",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 401,
+      "bookId": "biomedical",
+      "word": "transit",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "transitional",
+        "transitive",
+        "transition",
+        "transitive"
+      ]
+    },
+    {
+      "wordId": 402,
+      "bookId": "biomedical",
+      "word": "microtubule",
+      "prefix": "micro-（小；微观）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'tubule' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "micro-(小；微观) + tubule(核心词干) → 产生“小；微观”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 403,
+      "bookId": "biomedical",
+      "word": "surveillance",
+      "prefix": "sur-（在上；超越）",
+      "root": "",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语或法语，通常以 'veill' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sur-(在上；超越) + veill(核心词干) + -ance(状态；性质；行为) → 产生“在上；超越”的意象 → 演变成该词",
+      "cognates": [
+        "surveil"
+      ]
+    },
+    {
+      "wordId": 404,
+      "bookId": "biomedical",
+      "word": "Surveillance",
+      "prefix": "sur-（在上；超越）",
+      "root": "",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语或法语，通常以 'veill' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sur-(在上；超越) + veill(核心词干) + -ance(状态；性质；行为) → 产生“在上；超越”的意象 → 演变成该词",
+      "cognates": [
+        "surveil"
+      ]
+    },
+    {
+      "wordId": 405,
+      "bookId": "biomedical",
+      "word": "aneuploidy",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'euploidy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + euploidy(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "aneuploid"
+      ]
+    },
+    {
+      "wordId": 406,
+      "bookId": "biomedical",
+      "word": "prevent",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + v(核心词干) + -ent(…的人；具有…性质的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "preventive",
+        "preventable",
+        "prevenient",
+        "prevention"
+      ]
+    },
+    {
+      "wordId": 407,
+      "bookId": "biomedical",
+      "word": "prevention",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'ven' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + ven(核心词干) + -tion(行为；过程；结果) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "preventive",
+        "preventable",
+        "prevenient",
+        "preventive"
+      ]
+    },
+    {
+      "wordId": 408,
+      "bookId": "biomedical",
+      "word": "protooncogene",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 pro-(向前；支持；代替)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 409,
+      "bookId": "biomedical",
+      "word": "proto-oncogene",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 pro-(向前；支持；代替)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "pro-(向前；支持；代替) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 410,
+      "bookId": "biomedical",
+      "word": "suppressor",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "press(压)",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 sup-(在下（sub-变体）)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + press(压) + -or(…者；做…的人或物) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "suppressed",
+        "suppressant",
+        "suppressive",
+        "suppression"
+      ]
+    },
+    {
+      "wordId": 411,
+      "bookId": "biomedical",
+      "word": "ultraviolet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 412,
+      "bookId": "biomedical",
+      "word": "vulnerable",
+      "prefix": "",
+      "root": "",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语，通常以 'vulner' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "vulner(核心词干) + -able(能…的；可…的) → 拼合演变成该词",
+      "cognates": [
+        "vulnerably",
+        "vulnerability"
+      ]
+    },
+    {
+      "wordId": 413,
+      "bookId": "biomedical",
+      "word": "sarcoma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 414,
+      "bookId": "biomedical",
+      "word": "prostate",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自Latin/Greek，通常以 'st' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + st(核心词干) + -ate(使…；具有…的) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": [
+        "prostaglandin",
+        "prostatectomy",
+        "prostatitis"
+      ]
+    },
+    {
+      "wordId": 415,
+      "bookId": "biomedical",
+      "word": "nuclei",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 416,
+      "bookId": "biomedical",
+      "word": "bud",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "budding",
+        "budless",
+        "budding"
+      ]
+    },
+    {
+      "wordId": 417,
+      "bookId": "biomedical",
+      "word": "spindle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "spindly"
+      ]
+    },
+    {
+      "wordId": 418,
+      "bookId": "biomedical",
+      "word": "metastasis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "metastatic",
+        "metastasize"
+      ]
+    },
+    {
+      "wordId": 419,
+      "bookId": "biomedical",
+      "word": "angiogenesis",
+      "prefix": "an-（不；无）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 an-(不；无)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "an-(不；无) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "angiography",
+        "angiogram"
+      ]
+    },
+    {
+      "wordId": 420,
+      "bookId": "biomedical",
+      "word": "benign",
+      "prefix": "be-（使…；完全）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自古英语，通常以 'nign' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "be-(使…；完全) + nign(核心词干) → 产生“使…；完全”的意象 → 演变成该词",
+      "cognates": [
+        "benignant",
+        "benignantly",
+        "benignly",
+        "benignancy"
+      ]
+    },
+    {
+      "wordId": 421,
+      "bookId": "biomedical",
+      "word": "thrombospondin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 422,
+      "bookId": "biomedical",
+      "word": "Angiostatin",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'giostatin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + giostatin(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 423,
+      "bookId": "biomedical",
+      "word": "Endostatin",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'dostatin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + dostatin(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 424,
+      "bookId": "biomedical",
+      "word": "vascular",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "vasodilator",
+        "vasoconstrictor",
+        "vasoconstriction",
+        "vasodilator"
+      ]
+    },
+    {
+      "wordId": 425,
+      "bookId": "biomedical",
+      "word": "endothelial",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语或法语，通常以 'dotheli' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + dotheli(核心词干) + -al(…的；与…有关的) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "endothelium"
+      ]
+    },
+    {
+      "wordId": 426,
+      "bookId": "biomedical",
+      "word": "oncogene",
+      "prefix": "",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 427,
+      "bookId": "biomedical",
+      "word": "avascular",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'vascular' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + vascular(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 428,
+      "bookId": "biomedical",
+      "word": "retina",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tina' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + tina(核心词干) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "retinal",
+        "retinal"
+      ]
+    },
+    {
+      "wordId": 429,
+      "bookId": "biomedical",
+      "word": "lymph",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lymphatic",
+        "lymphatic",
+        "lymphadenopathy",
+        "lymphangiography"
+      ]
+    },
+    {
+      "wordId": 430,
+      "bookId": "biomedical",
+      "word": "suppression",
+      "prefix": "sup-（在下（sub-变体））",
+      "root": "press(压)",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 sup-(在下（sub-变体）)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "sup-(在下（sub-变体）) + press(压) + -sion(行为；状态) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "suppressed",
+        "suppressant",
+        "suppressive",
+        "suppressant"
+      ]
+    },
+    {
+      "wordId": 431,
+      "bookId": "biomedical",
+      "word": "transducer",
+      "prefix": "trans-（横越；转变；超越）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 trans-(横越；转变；超越)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "trans-(横越；转变；超越) + duc/duct(引导；带领) + -er(…者；做…的人) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "transduction",
+        "transduce"
+      ]
+    },
+    {
+      "wordId": 432,
+      "bookId": "biomedical",
+      "word": "leukemia",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "leukocytosis"
+      ]
+    },
+    {
+      "wordId": 433,
+      "bookId": "biomedical",
+      "word": "identical",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'ident' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ident(核心词干) + -ical(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "identifiable",
+        "identically",
+        "identifiably",
+        "identity"
+      ]
+    },
+    {
+      "wordId": 434,
+      "bookId": "biomedical",
+      "word": "mutant",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ant（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'mut' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mut(核心词干) + -ant(…的人；具有…性质的) → 拼合演变成该词",
+      "cognates": [
+        "mutagenic",
+        "mutational",
+        "mutative",
+        "mutation"
+      ]
+    },
+    {
+      "wordId": 435,
+      "bookId": "biomedical",
+      "word": "ribbon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ribbed",
+        "ribbing",
+        "ribbonlike",
+        "ribbing"
+      ]
+    },
+    {
+      "wordId": 436,
+      "bookId": "biomedical",
+      "word": "clamp",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 437,
+      "bookId": "biomedical",
+      "word": "antigen",
+      "prefix": "anti-（反对；对抗）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 anti-(反对；对抗)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "anti-(反对；对抗) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "antigenic"
+      ]
+    },
+    {
+      "wordId": 438,
+      "bookId": "biomedical",
+      "word": "cascade",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 439,
+      "bookId": "biomedical",
+      "word": "retinoblastoma",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tinoblastoma' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + tinoblastoma(核心词干) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "retinal",
+        "retinal"
+      ]
+    },
+    {
+      "wordId": 440,
+      "bookId": "biomedical",
+      "word": "laser",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'las' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "las(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 441,
+      "bookId": "biomedical",
+      "word": "cryotreatment",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 442,
+      "bookId": "biomedical",
+      "word": "retinal",
+      "prefix": "re-（再；重新；回）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'tin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "re-(再；重新；回) + tin(核心词干) + -al(…的；与…有关的) → 产生“再；重新；回”的意象 → 演变成该词",
+      "cognates": [
+        "retina",
+        "retinol",
+        "retinene",
+        "retinitis"
+      ]
+    },
+    {
+      "wordId": 443,
+      "bookId": "biomedical",
+      "word": "afflict",
+      "prefix": "a-（不；无；在…上）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'fflict' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "a-(不；无；在…上) + fflict(核心词干) → 产生“不；无；在…上”的意象 → 演变成该词",
+      "cognates": [
+        "afflictive",
+        "affliction"
+      ]
+    },
+    {
+      "wordId": 444,
+      "bookId": "biomedical",
+      "word": "propelled",
+      "prefix": "pro-（向前；支持；代替）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'pelled' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pro-(向前；支持；代替) + pelled(核心词干) → 产生“向前；支持；代替”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 445,
+      "bookId": "biomedical",
+      "word": "tyrosine",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 446,
+      "bookId": "biomedical",
+      "word": "neuroblastoma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "neuralgic",
+        "neurasthenic",
+        "neuroanatomical",
+        "neurobiological"
+      ]
+    },
+    {
+      "wordId": 447,
+      "bookId": "biomedical",
+      "word": "epidermal",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'piderm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + piderm(核心词干) + -al(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "epidermic",
+        "epidermis"
+      ]
+    },
+    {
+      "wordId": 448,
+      "bookId": "biomedical",
+      "word": "Herceptin",
+      "prefix": "",
+      "root": "cept/cap/ceiv(拿；取)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 capere（拿取）。由 cept/cap/ceiv(拿；取) 组合而成，原意与“拿；取”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 449,
+      "bookId": "biomedical",
+      "word": "Trastuzumab",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 450,
+      "bookId": "biomedical",
+      "word": "thyroid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "thyroidectomy",
+        "thyrotoxicosis"
+      ]
+    },
+    {
+      "wordId": 451,
+      "bookId": "biomedical",
+      "word": "bladder",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'bladd' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "bladd(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "bladdery"
+      ]
+    },
+    {
+      "wordId": 452,
+      "bookId": "biomedical",
+      "word": "ovarian",
+      "prefix": "",
+      "root": "var(变化)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 varius（各种各样的）。由 var(变化) 组合而成，原意与“变化”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "ovary",
+        "ovariectomy",
+        "ovaritis"
+      ]
+    },
+    {
+      "wordId": 453,
+      "bookId": "biomedical",
+      "word": "telomere",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 454,
+      "bookId": "biomedical",
+      "word": "senescence",
+      "prefix": "se-（分离；独自）",
+      "root": "",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'nesc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "se-(分离；独自) + nesc(核心词干) + -ence(状态；性质；行为) → 产生“分离；独自”的意象 → 演变成该词",
+      "cognates": [
+        "senescent",
+        "senility",
+        "senesce"
+      ]
+    },
+    {
+      "wordId": 455,
+      "bookId": "biomedical",
+      "word": "familial",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'famili' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "famili(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "family",
+        "family"
+      ]
+    },
+    {
+      "wordId": 456,
+      "bookId": "biomedical",
+      "word": "sporadic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'sporad' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sporad(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "sporadically"
+      ]
+    },
+    {
+      "wordId": 457,
+      "bookId": "biomedical",
+      "word": "succumb",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 458,
+      "bookId": "biomedical",
+      "word": "colon",
+      "prefix": "co-（共同；一起）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'lon' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "co-(共同；一起) + lon(核心词干) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": [
+        "colonic"
+      ]
+    },
+    {
+      "wordId": 459,
+      "bookId": "biomedical",
+      "word": "preventive",
+      "prefix": "pre-（在…之前；预先）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'vent' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pre-(在…之前；预先) + vent(核心词干) + -ive(有…性质的；倾向于…的) → 产生“在…之前；预先”的意象 → 演变成该词",
+      "cognates": [
+        "preventable",
+        "prevenient",
+        "prevention",
+        "prevent"
+      ]
+    },
+    {
+      "wordId": 460,
+      "bookId": "biomedical",
+      "word": "anchor",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自希腊语，通常以 'ch' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + ch(核心词干) + -or(…者；做…的人或物) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": [
+        "anchorage",
+        "anchorman",
+        "anchorperson"
+      ]
+    },
+    {
+      "wordId": 461,
+      "bookId": "biomedical",
+      "word": "intestine",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "test(见证；证明)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 in-(不；否定；向内；进入)+test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + test(见证；证明) → 产生“见证；证明”的意象 → 演变成该词",
+      "cognates": [
+        "intestinal"
+      ]
+    },
+    {
+      "wordId": 462,
+      "bookId": "biomedical",
+      "word": "menopause",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "menopausal"
+      ]
+    },
+    {
+      "wordId": 463,
+      "bookId": "biomedical",
+      "word": "melanoma",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "melanosis"
+      ]
+    },
+    {
+      "wordId": 464,
+      "bookId": "biomedical",
+      "word": "gallbladder",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'gallbladd' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "gallbladd(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 465,
+      "bookId": "biomedical",
+      "word": "spontaneous",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'spontane' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "spontane(核心词干) + -ous(有…的；充满…的) → 拼合演变成该词",
+      "cognates": [
+        "spontaneously",
+        "spontaneity",
+        "spontaneousness"
+      ]
+    },
+    {
+      "wordId": 466,
+      "bookId": "biomedical",
+      "word": "epstein-barr",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pstein-barr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + pstein-barr(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 467,
+      "bookId": "biomedical",
+      "word": "mononucleosis",
+      "prefix": "mono-（单一；一个）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'nucleosis' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mono-(单一；一个) + nucleosis(核心词干) → 产生“单一；一个”的意象 → 演变成该词",
+      "cognates": [
+        "mononuclear",
+        "mononucleate",
+        "mononuclear"
+      ]
+    },
+    {
+      "wordId": 468,
+      "bookId": "biomedical",
+      "word": "alkylating",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'kylating' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kylating(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 469,
+      "bookId": "biomedical",
+      "word": "alkylate",
+      "prefix": "al-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'kyl' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "al-(朝向（ad-变体）) + kyl(核心词干) + -ate(使…；具有…的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 470,
+      "bookId": "biomedical",
+      "word": "asbestos",
+      "prefix": "as-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'bestos' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "as-(朝向（ad-变体）) + bestos(核心词干) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "asbestosis"
+      ]
+    },
+    {
+      "wordId": 471,
+      "bookId": "biomedical",
+      "word": "aromatic",
+      "prefix": "ar-（朝向（ad-变体））",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'omat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ar-(朝向（ad-变体）) + omat(核心词干) + -ic(…的；与…有关的) → 产生“朝向（ad-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "aroma",
+        "aromatize"
+      ]
+    },
+    {
+      "wordId": 472,
+      "bookId": "biomedical",
+      "word": "cavity",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'cav' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cav(核心词干) + -ity(性质；状态；程度) → 拼合演变成该词",
+      "cognates": [
+        "cave",
+        "cavern",
+        "cave",
+        "cave"
+      ]
+    },
+    {
+      "wordId": 473,
+      "bookId": "biomedical",
+      "word": "blader",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'blad' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "blad(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 474,
+      "bookId": "biomedical",
+      "word": "esophagus",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'sophagus' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + sophagus(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "esophageal"
+      ]
+    },
+    {
+      "wordId": 475,
+      "bookId": "biomedical",
+      "word": "vinyl",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 476,
+      "bookId": "biomedical",
+      "word": "angiosarcoma",
+      "prefix": "an-（不；无）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自希腊语，通常以 'giosarcoma' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "an-(不；无) + giosarcoma(核心词干) → 产生“不；无”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 477,
+      "bookId": "biomedical",
+      "word": "gastrointestinal",
+      "prefix": "",
+      "root": "test(见证；证明)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "test(见证；证明) + -al(…的；与…有关的) → 产生“见证；证明”的意象 → 演变成该词",
+      "cognates": [
+        "gastroenterologist",
+        "gastroenterostomy"
+      ]
+    },
+    {
+      "wordId": 478,
+      "bookId": "biomedical",
+      "word": "nitrate",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'nitr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "nitr(核心词干) + -ate(使…；具有…的) → 拼合演变成该词",
+      "cognates": [
+        "nitrite",
+        "niter",
+        "nitre"
+      ]
+    },
+    {
+      "wordId": 479,
+      "bookId": "biomedical",
+      "word": "estrogen",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 e-(出；向外（ex-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "estrogenic"
+      ]
+    },
+    {
+      "wordId": 480,
+      "bookId": "biomedical",
+      "word": "diethylstilbestrol",
+      "prefix": "di-（两；分开）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自Latin/Greek，通常以 'ethylstilbestrol' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "di-(两；分开) + ethylstilbestrol(核心词干) → 产生“两；分开”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 481,
+      "bookId": "biomedical",
+      "word": "clinical",
+      "prefix": "",
+      "root": "clin(倾斜)",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 clinare（倾斜）。由 clin(倾斜) 组合而成，原意与“倾斜”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "clin(倾斜) + -ical(…的；与…有关的) → 产生“倾斜”的意象 → 演变成该词",
+      "cognates": [
+        "clinically",
+        "clinic",
+        "clinician"
+      ]
+    },
+    {
+      "wordId": 482,
+      "bookId": "biomedical",
+      "word": "agent",
+      "prefix": "a-（不；无；在…上）",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 a-(不；无；在…上)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "a-(不；无；在…上) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": [
+        "agential",
+        "agency"
+      ]
+    },
+    {
+      "wordId": 483,
+      "bookId": "biomedical",
+      "word": "embryogenesis",
+      "prefix": "em-（使…进入；在内（en-变体））",
+      "root": "gen(产生；出生；种类)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 Greek/Latin genus（种族）。由 em-(使…进入；在内（en-变体）)+gen(产生；出生；种类) 组合而成，原意与“产生；出生；种类”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "em-(使…进入；在内（en-变体）) + gen(产生；出生；种类) → 产生“产生；出生；种类”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 484,
+      "bookId": "biomedical",
+      "word": "blastocyst",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 485,
+      "bookId": "biomedical",
+      "word": "hollow",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "hollowness"
+      ]
+    },
+    {
+      "wordId": 486,
+      "bookId": "biomedical",
+      "word": "pyknosis",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "pyknotic"
+      ]
+    },
+    {
+      "wordId": 487,
+      "bookId": "biomedical",
+      "word": "bleb",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "blebby"
+      ]
+    },
+    {
+      "wordId": 488,
+      "bookId": "biomedical",
+      "word": "shrinkage",
+      "prefix": "",
+      "root": "",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语或法语，通常以 'shrink' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "shrink(核心词干) + -age(行为；状态；集合) → 拼合演变成该词",
+      "cognates": [
+        "shrinking",
+        "shrunken",
+        "shrink",
+        "shrinking"
+      ]
+    },
+    {
+      "wordId": 489,
+      "bookId": "biomedical",
+      "word": "phagocyte",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "phagocytic"
+      ]
+    },
+    {
+      "wordId": 490,
+      "bookId": "biomedical",
+      "word": "lyse",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 491,
+      "bookId": "biomedical",
+      "word": "ectoderm",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ctoderm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ctoderm(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "ectodermal"
+      ]
+    },
+    {
+      "wordId": 492,
+      "bookId": "biomedical",
+      "word": "endoderm",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'doderm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + doderm(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 493,
+      "bookId": "biomedical",
+      "word": "mesoderm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "mesodermal",
+        "mesomorphic"
+      ]
+    },
+    {
+      "wordId": 494,
+      "bookId": "biomedical",
+      "word": "peripheral",
+      "prefix": "per-（贯穿；完全；每）",
+      "root": "her/hes(粘附)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 per-(贯穿；完全；每)+her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "per-(贯穿；完全；每) + her/hes(粘附) + -al(…的；与…有关的) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "peripherally",
+        "periphery"
+      ]
+    },
+    {
+      "wordId": 495,
+      "bookId": "biomedical",
+      "word": "mammary",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'mamm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "mamm(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": [
+        "mammogram",
+        "mammography",
+        "mamma",
+        "mamilla"
+      ]
+    },
+    {
+      "wordId": 496,
+      "bookId": "biomedical",
+      "word": "pituitary",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'pituit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "pituit(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 497,
+      "bookId": "biomedical",
+      "word": "enamel",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'amel' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + amel(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 498,
+      "bookId": "biomedical",
+      "word": "cartilage",
+      "prefix": "",
+      "root": "",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语或法语，通常以 'cartil' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "cartil(核心词干) + -age(行为；状态；集合) → 拼合演变成该词",
+      "cognates": [
+        "cartilaginous"
+      ]
+    },
+    {
+      "wordId": 499,
+      "bookId": "biomedical",
+      "word": "connective",
+      "prefix": "con-（共同；一起；完全）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'nect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "con-(共同；一起；完全) + nect(核心词干) + -ive(有…性质的；倾向于…的) → 产生“共同；一起；完全”的意象 → 演变成该词",
+      "cognates": [
+        "connected",
+        "connection",
+        "connector",
+        "connectivity"
+      ]
+    },
+    {
+      "wordId": 500,
+      "bookId": "biomedical",
+      "word": "morphological",
+      "prefix": "",
+      "root": "log(词；说；逻辑)",
+      "suffix": "-ical（…的；与…有关的）",
+      "etymology": "来自希腊语，源于 logos（词；理性）。由 log(词；说；逻辑) 组合而成，原意与“词；说；逻辑”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "log(词；说；逻辑) + -ical(…的；与…有关的) → 产生“词；说；逻辑”的意象 → 演变成该词",
+      "cognates": [
+        "morphologically",
+        "morphology",
+        "morph",
+        "morpheme"
+      ]
+    },
+    {
+      "wordId": 501,
+      "bookId": "biomedical",
+      "word": "intricate",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'tric' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + tric(核心词干) + -ate(使…；具有…的) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "intricately",
+        "intricacy"
+      ]
+    },
+    {
+      "wordId": 502,
+      "bookId": "biomedical",
+      "word": "syndactyly",
+      "prefix": "syn-（共同；一起）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自希腊语，通常以 'dacty' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "syn-(共同；一起) + dacty(核心词干) + -ly(以…方式；具有…性质) → 产生“共同；一起”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 503,
+      "bookId": "biomedical",
+      "word": "fused",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fusible",
+        "fuse",
+        "fusion",
+        "fuse"
+      ]
+    },
+    {
+      "wordId": 504,
+      "bookId": "biomedical",
+      "word": "surgically",
+      "prefix": "sur-（在上；超越）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语或法语，通常以 'gical' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "sur-(在上；超越) + gical(核心词干) + -ly(以…方式；具有…性质) → 产生“在上；超越”的意象 → 演变成该词",
+      "cognates": [
+        "surgical",
+        "surgery",
+        "surgeon",
+        "surgical"
+      ]
+    }
+  ]
+}

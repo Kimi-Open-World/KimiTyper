@@ -1,0 +1,2060 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-02-27",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "yilin_elective_3",
+      "word": "international",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "nat/nasc(出生)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 nasci（出生）。由 inter-(在…之间；相互)+nat/nasc(出生) 组合而成，原意与“出生”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "inter-(在…之间；相互) + nat/nasc(出生) + -al(…的；与…有关的) → 产生“出生”的意象 → 演变成该词",
+      "cognates": [
+        "internationally",
+        "internationalization",
+        "internationale",
+        "internationalist"
+      ]
+    },
+    {
+      "wordId": 2,
+      "bookId": "yilin_elective_3",
+      "word": "internet",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'net' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + net(核心词干) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 3,
+      "bookId": "yilin_elective_3",
+      "word": "interpreter",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'pret' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + pret(核心词干) + -er(…者；做…的人) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "interpretive",
+        "interpretative",
+        "interpretable",
+        "interpretation"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "yilin_elective_3",
+      "word": "interrupt",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "rupt(破裂)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 rumpere（打破）。由 inter-(在…之间；相互)+rupt(破裂) 组合而成，原意与“破裂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "inter-(在…之间；相互) + rupt(破裂) → 产生“破裂”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 5,
+      "bookId": "yilin_elective_3",
+      "word": "interval",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + v(核心词干) + -al(…的；与…有关的) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 6,
+      "bookId": "yilin_elective_3",
+      "word": "interview",
+      "prefix": "inter-（在…之间；相互）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'view' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "inter-(在…之间；相互) + view(核心词干) → 产生“在…之间；相互”的意象 → 演变成该词",
+      "cognates": [
+        "interviewee",
+        "interviewer"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "yilin_elective_3",
+      "word": "into",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 8,
+      "bookId": "yilin_elective_3",
+      "word": "introduce",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 in-(不；否定；向内；进入)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + duc/duct(引导；带领) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "introductory",
+        "introduction"
+      ]
+    },
+    {
+      "wordId": 9,
+      "bookId": "yilin_elective_3",
+      "word": "introduction",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "duc/duct(引导；带领)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 ducere（引导）。由 in-(不；否定；向内；进入)+duc/duct(引导；带领) 组合而成，原意与“引导；带领”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + duc/duct(引导；带领) + -tion(行为；过程；结果) → 产生“引导；带领”的意象 → 演变成该词",
+      "cognates": [
+        "introductory",
+        "intro",
+        "introduce"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "yilin_elective_3",
+      "word": "invent",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'v' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + v(核心词干) + -ent(…的人；具有…性质的) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inventive",
+        "inventively",
+        "invention",
+        "inventor"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "yilin_elective_3",
+      "word": "invention",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'ven' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + ven(核心词干) + -tion(行为；过程；结果) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inventive",
+        "inventor",
+        "inventiveness",
+        "invent"
+      ]
+    },
+    {
+      "wordId": 12,
+      "bookId": "yilin_elective_3",
+      "word": "inventor",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'vent' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "in-(不；否定；向内；进入) + vent(核心词干) + -or(…者；做…的人或物) → 产生“不；否定；向内；进入”的意象 → 演变成该词",
+      "cognates": [
+        "inventive",
+        "inventively",
+        "invention",
+        "inventiveness"
+      ]
+    },
+    {
+      "wordId": 13,
+      "bookId": "yilin_elective_3",
+      "word": "invitation",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "vit/viv(生命)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 vita/vivere（生命）。由 in-(不；否定；向内；进入)+vit/viv(生命) 组合而成，原意与“生命”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + vit/viv(生命) + -ation(行为；过程；结果) → 产生“生命”的意象 → 演变成该词",
+      "cognates": [
+        "inviting",
+        "invitational",
+        "invitatory",
+        "invite"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "yilin_elective_3",
+      "word": "invite",
+      "prefix": "in-（不；否定；向内；进入）",
+      "root": "vit/viv(生命)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 vita/vivere（生命）。由 in-(不；否定；向内；进入)+vit/viv(生命) 组合而成，原意与“生命”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "in-(不；否定；向内；进入) + vit/viv(生命) → 产生“生命”的意象 → 演变成该词",
+      "cognates": [
+        "inviting",
+        "invitational",
+        "invitatory",
+        "invitation"
+      ]
+    },
+    {
+      "wordId": 15,
+      "bookId": "yilin_elective_3",
+      "word": "Ireland",
+      "prefix": "ir-（不；否定（in-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'eland' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ir-(不；否定（in-变体）) + eland(核心词干) → 产生“不；否定（in-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 16,
+      "bookId": "yilin_elective_3",
+      "word": "Irish",
+      "prefix": "ir-（不；否定（in-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ish' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ir-(不；否定（in-变体）) + ish(核心词干) → 产生“不；否定（in-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "Irisher",
+        "Irishism",
+        "Irishman",
+        "Irishwoman"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "yilin_elective_3",
+      "word": "iron",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "irony",
+        "ironical",
+        "irony",
+        "ironing"
+      ]
+    },
+    {
+      "wordId": 18,
+      "bookId": "yilin_elective_3",
+      "word": "irrigate",
+      "prefix": "ir-（不；否定（in-变体））",
+      "root": "",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，通常以 'rig' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ir-(不；否定（in-变体）) + rig(核心词干) + -ate(使…；具有…的) → 产生“不；否定（in-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "irrigation"
+      ]
+    },
+    {
+      "wordId": 19,
+      "bookId": "yilin_elective_3",
+      "word": "irrigation",
+      "prefix": "ir-（不；否定（in-变体））",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'rig' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ir-(不；否定（in-变体）) + rig(核心词干) + -ation(行为；过程；结果) → 产生“不；否定（in-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "irrigate",
+        "irrigate"
+      ]
+    },
+    {
+      "wordId": 20,
+      "bookId": "yilin_elective_3",
+      "word": "island",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "islander"
+      ]
+    },
+    {
+      "wordId": 21,
+      "bookId": "yilin_elective_3",
+      "word": "it",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 22,
+      "bookId": "yilin_elective_3",
+      "word": "Italian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "Italianate",
+        "Italic",
+        "Italophile",
+        "Italy"
+      ]
+    },
+    {
+      "wordId": 23,
+      "bookId": "yilin_elective_3",
+      "word": "Italy",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'ita' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ita(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "Italian",
+        "Italianate",
+        "Italic",
+        "Italophile"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "yilin_elective_3",
+      "word": "its",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 25,
+      "bookId": "yilin_elective_3",
+      "word": "itself",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 26,
+      "bookId": "yilin_elective_3",
+      "word": "jacket",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 27,
+      "bookId": "yilin_elective_3",
+      "word": "jam",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jammed",
+        "jamming",
+        "jamming"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "yilin_elective_3",
+      "word": "January",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'janu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "janu(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 29,
+      "bookId": "yilin_elective_3",
+      "word": "Japan",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 30,
+      "bookId": "yilin_elective_3",
+      "word": "Japanese",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "Japanesque",
+        "Japaneseness",
+        "Japanesque",
+        "Japanimation"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "yilin_elective_3",
+      "word": "jar",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jarring",
+        "jarring",
+        "jarring"
+      ]
+    },
+    {
+      "wordId": 32,
+      "bookId": "yilin_elective_3",
+      "word": "jaw",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jawed",
+        "jawed"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "yilin_elective_3",
+      "word": "jazz",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jazzy"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "yilin_elective_3",
+      "word": "jeans",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 35,
+      "bookId": "yilin_elective_3",
+      "word": "jeep",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 36,
+      "bookId": "yilin_elective_3",
+      "word": "jet",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jetty",
+        "jetty",
+        "jetliner",
+        "jetting"
+      ]
+    },
+    {
+      "wordId": 37,
+      "bookId": "yilin_elective_3",
+      "word": "jewel",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jewelry",
+        "jewellery",
+        "jeweler",
+        "jeweller"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "yilin_elective_3",
+      "word": "jewelry",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jewel",
+        "jewellery",
+        "jeweler",
+        "jeweller"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "yilin_elective_3",
+      "word": "job",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jobless",
+        "jobber",
+        "jobless",
+        "jobholder"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "yilin_elective_3",
+      "word": "jog",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jogging",
+        "jogger",
+        "jogging"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "yilin_elective_3",
+      "word": "join",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jointed",
+        "joining",
+        "joiner",
+        "jointer"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "yilin_elective_3",
+      "word": "joke",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "joking",
+        "jokingly",
+        "joker",
+        "jokester"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "yilin_elective_3",
+      "word": "journalist",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ist（…者；…主义者）",
+      "etymology": "来自希腊语，通常以 'journal' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "journal(核心词干) + -ist(…者；…主义者) → 拼合演变成该词",
+      "cognates": [
+        "journalistic",
+        "journal",
+        "journalism"
+      ]
+    },
+    {
+      "wordId": 44,
+      "bookId": "yilin_elective_3",
+      "word": "journey",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 45,
+      "bookId": "yilin_elective_3",
+      "word": "joy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "joyous",
+        "joyful",
+        "joyless",
+        "joyfully"
+      ]
+    },
+    {
+      "wordId": 46,
+      "bookId": "yilin_elective_3",
+      "word": "judge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "judicial",
+        "judging",
+        "judgmental",
+        "judicable"
+      ]
+    },
+    {
+      "wordId": 47,
+      "bookId": "yilin_elective_3",
+      "word": "judgement",
+      "prefix": "",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "judicial",
+        "judging",
+        "judgmental",
+        "judicable"
+      ]
+    },
+    {
+      "wordId": 48,
+      "bookId": "yilin_elective_3",
+      "word": "juice",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 49,
+      "bookId": "yilin_elective_3",
+      "word": "juicy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "juiciness"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "yilin_elective_3",
+      "word": "July",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 51,
+      "bookId": "yilin_elective_3",
+      "word": "jump",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jumpy",
+        "jumping",
+        "jumper",
+        "jumping"
+      ]
+    },
+    {
+      "wordId": 52,
+      "bookId": "yilin_elective_3",
+      "word": "June",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 53,
+      "bookId": "yilin_elective_3",
+      "word": "jungle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "jungly"
+      ]
+    },
+    {
+      "wordId": 54,
+      "bookId": "yilin_elective_3",
+      "word": "junior",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'juni' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "juni(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 55,
+      "bookId": "yilin_elective_3",
+      "word": "junk",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "junky",
+        "junky"
+      ]
+    },
+    {
+      "wordId": 56,
+      "bookId": "yilin_elective_3",
+      "word": "junk mail",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 57,
+      "bookId": "yilin_elective_3",
+      "word": "junk food",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 58,
+      "bookId": "yilin_elective_3",
+      "word": "just",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "justified",
+        "justifiable",
+        "justifiably",
+        "justly"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "yilin_elective_3",
+      "word": "justice",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "justiciary",
+        "justiciary"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "yilin_elective_3",
+      "word": "kangaroo",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 61,
+      "bookId": "yilin_elective_3",
+      "word": "keep kept kept",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 62,
+      "bookId": "yilin_elective_3",
+      "word": "keeper",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'keep' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "keep(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "kept",
+        "keep",
+        "keeping",
+        "kept"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "yilin_elective_3",
+      "word": "kettle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 64,
+      "bookId": "yilin_elective_3",
+      "word": "key",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "keyless",
+        "keyboard",
+        "keyer",
+        "keyboard"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "yilin_elective_3",
+      "word": "keyboard",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "key",
+        "key",
+        "keyboardist",
+        "key"
+      ]
+    },
+    {
+      "wordId": 66,
+      "bookId": "yilin_elective_3",
+      "word": "kick",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kicking",
+        "kicker",
+        "kicking",
+        "kicking"
+      ]
+    },
+    {
+      "wordId": 67,
+      "bookId": "yilin_elective_3",
+      "word": "kid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kiddy"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "yilin_elective_3",
+      "word": "kill",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "killing",
+        "killer",
+        "killing",
+        "killing"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "yilin_elective_3",
+      "word": "kilo",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kilometer"
+      ]
+    },
+    {
+      "wordId": 70,
+      "bookId": "yilin_elective_3",
+      "word": "kilogram",
+      "prefix": "",
+      "root": "gram/graph(写；画)",
+      "suffix": "",
+      "etymology": "来自希腊语，源于 graphein（写）。由 gram/graph(写；画) 组合而成，原意与“写；画”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 71,
+      "bookId": "yilin_elective_3",
+      "word": "kilometre",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 72,
+      "bookId": "yilin_elective_3",
+      "word": "kind",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kindly",
+        "kindly"
+      ]
+    },
+    {
+      "wordId": 73,
+      "bookId": "yilin_elective_3",
+      "word": "kindergarten",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kindergartener",
+        "kindergartner"
+      ]
+    },
+    {
+      "wordId": 74,
+      "bookId": "yilin_elective_3",
+      "word": "kind-hearted",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 75,
+      "bookId": "yilin_elective_3",
+      "word": "kindness",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ness（性质；状态）",
+      "etymology": "来自古英语，通常以 'kind' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "kind(核心词干) + -ness(性质；状态) → 拼合演变成该词",
+      "cognates": [
+        "kindly",
+        "kindhearted",
+        "kindly",
+        "kindliness"
+      ]
+    },
+    {
+      "wordId": 76,
+      "bookId": "yilin_elective_3",
+      "word": "king",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kingly",
+        "kinglike",
+        "kingdom",
+        "kinglet"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "yilin_elective_3",
+      "word": "kingdom",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kingly",
+        "kinglike",
+        "king",
+        "kingship"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "yilin_elective_3",
+      "word": "kiss",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kisser"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "yilin_elective_3",
+      "word": "kitchen",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "kitchenette",
+        "kitchenware",
+        "kitchener"
+      ]
+    },
+    {
+      "wordId": 80,
+      "bookId": "yilin_elective_3",
+      "word": "kite",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 81,
+      "bookId": "yilin_elective_3",
+      "word": "knee",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 82,
+      "bookId": "yilin_elective_3",
+      "word": "knife",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 83,
+      "bookId": "yilin_elective_3",
+      "word": "knock",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "knocker"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "yilin_elective_3",
+      "word": "know knew known",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 85,
+      "bookId": "yilin_elective_3",
+      "word": "knowledge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "knowledgeable",
+        "knowing",
+        "knowable",
+        "knowing"
+      ]
+    },
+    {
+      "wordId": 86,
+      "bookId": "yilin_elective_3",
+      "word": "lab",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 87,
+      "bookId": "yilin_elective_3",
+      "word": "labour",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "labored",
+        "laboring",
+        "laboured",
+        "labouring"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "yilin_elective_3",
+      "word": "labor",
+      "prefix": "",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'lab' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lab(核心词干) + -or(…者；做…的人或物) → 拼合演变成该词",
+      "cognates": [
+        "labored",
+        "laboring",
+        "labouring",
+        "labour"
+      ]
+    },
+    {
+      "wordId": 89,
+      "bookId": "yilin_elective_3",
+      "word": "labourer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'labour' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "labour(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "labored",
+        "laboring",
+        "labouring",
+        "labor"
+      ]
+    },
+    {
+      "wordId": 90,
+      "bookId": "yilin_elective_3",
+      "word": "lack",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lacking",
+        "lacking"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "yilin_elective_3",
+      "word": "ladder",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'ladd' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ladd(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 92,
+      "bookId": "yilin_elective_3",
+      "word": "lady",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "ladylike",
+        "ladyship",
+        "ladify"
+      ]
+    },
+    {
+      "wordId": 93,
+      "bookId": "yilin_elective_3",
+      "word": "lake",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 94,
+      "bookId": "yilin_elective_3",
+      "word": "lamb",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lamblike"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "yilin_elective_3",
+      "word": "lame",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lamely",
+        "lameness"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "yilin_elective_3",
+      "word": "lamp",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 97,
+      "bookId": "yilin_elective_3",
+      "word": "land",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "landed",
+        "landless",
+        "landward",
+        "landward"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "yilin_elective_3",
+      "word": "language",
+      "prefix": "",
+      "root": "",
+      "suffix": "-age（行为；状态；集合）",
+      "etymology": "来自拉丁语或法语，通常以 'langu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "langu(核心词干) + -age(行为；状态；集合) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 99,
+      "bookId": "yilin_elective_3",
+      "word": "lantern",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lanternfish"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "yilin_elective_3",
+      "word": "lap",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lapping",
+        "lapping"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "yilin_elective_3",
+      "word": "large",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "largely",
+        "largeness"
+      ]
+    },
+    {
+      "wordId": 102,
+      "bookId": "yilin_elective_3",
+      "word": "laser",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'las' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "las(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 103,
+      "bookId": "yilin_elective_3",
+      "word": "last",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lasting",
+        "lastly",
+        "lasting",
+        "lastingness"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "yilin_elective_3",
+      "word": "late",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "latish",
+        "lately",
+        "latish",
+        "lateness"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "yilin_elective_3",
+      "word": "lately",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'late' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "late(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "late",
+        "late"
+      ]
+    },
+    {
+      "wordId": 106,
+      "bookId": "yilin_elective_3",
+      "word": "later",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'lat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lat(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 107,
+      "bookId": "yilin_elective_3",
+      "word": "latest",
+      "prefix": "",
+      "root": "test(见证；证明)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 testis（见证人）。由 test(见证；证明) 组合而成，原意与“见证；证明”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 108,
+      "bookId": "yilin_elective_3",
+      "word": "latter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'latt' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "latt(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "latterly"
+      ]
+    },
+    {
+      "wordId": 109,
+      "bookId": "yilin_elective_3",
+      "word": "laugh",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "laughing",
+        "laughable",
+        "laughably",
+        "laughingly"
+      ]
+    },
+    {
+      "wordId": 110,
+      "bookId": "yilin_elective_3",
+      "word": "laughter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'laught' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "laught(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "laughing",
+        "laughing",
+        "laughing"
+      ]
+    },
+    {
+      "wordId": 111,
+      "bookId": "yilin_elective_3",
+      "word": "laundry",
+      "prefix": "",
+      "root": "und(波浪；丰富)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 unda（波浪）。由 und(波浪；丰富) 组合而成，原意与“波浪；丰富”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "laundromat",
+        "launder",
+        "launderette",
+        "laundress"
+      ]
+    },
+    {
+      "wordId": 112,
+      "bookId": "yilin_elective_3",
+      "word": "lavatory",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，通常以 'lavat' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lavat(核心词干) + -ory(与…有关的；…的场所) → 拼合演变成该词",
+      "cognates": [
+        "lav"
+      ]
+    },
+    {
+      "wordId": 113,
+      "bookId": "yilin_elective_3",
+      "word": "law",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lawful",
+        "lawless",
+        "lawfully",
+        "lawlessly"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "yilin_elective_3",
+      "word": "lawyer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'lawy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lawy(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 115,
+      "bookId": "yilin_elective_3",
+      "word": "lay laid laid",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 116,
+      "bookId": "yilin_elective_3",
+      "word": "lazy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lazily",
+        "laziness",
+        "laze",
+        "laze"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "yilin_elective_3",
+      "word": "lead led led",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 118,
+      "bookId": "yilin_elective_3",
+      "word": "leader",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'lead' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lead(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "lead",
+        "leading",
+        "leaded",
+        "lead"
+      ]
+    },
+    {
+      "wordId": 119,
+      "bookId": "yilin_elective_3",
+      "word": "leading",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lead",
+        "leaded",
+        "leaden",
+        "leadless"
+      ]
+    },
+    {
+      "wordId": 120,
+      "bookId": "yilin_elective_3",
+      "word": "leaf leaves",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 121,
+      "bookId": "yilin_elective_3",
+      "word": "league",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 122,
+      "bookId": "yilin_elective_3",
+      "word": "leak",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "leaky",
+        "leakage",
+        "leaker",
+        "leakiness"
+      ]
+    },
+    {
+      "wordId": 123,
+      "bookId": "yilin_elective_3",
+      "word": "learn",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "learned",
+        "learnedly",
+        "learning",
+        "learner"
+      ]
+    },
+    {
+      "wordId": 124,
+      "bookId": "yilin_elective_3",
+      "word": "learned",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "learnedly",
+        "learning",
+        "learner",
+        "learning"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "yilin_elective_3",
+      "word": "least",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "leastwise"
+      ]
+    },
+    {
+      "wordId": 126,
+      "bookId": "yilin_elective_3",
+      "word": "leather",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'leath' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "leath(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "leathery",
+        "leatherjacket"
+      ]
+    },
+    {
+      "wordId": 127,
+      "bookId": "yilin_elective_3",
+      "word": "leave left left",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 128,
+      "bookId": "yilin_elective_3",
+      "word": "lecture",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'lect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lect(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "lecturer",
+        "lectureship"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "yilin_elective_3",
+      "word": "left",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 130,
+      "bookId": "yilin_elective_3",
+      "word": "left-handed",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 131,
+      "bookId": "yilin_elective_3",
+      "word": "leftover",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'leftov' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "leftov(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 132,
+      "bookId": "yilin_elective_3",
+      "word": "left-wing",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 133,
+      "bookId": "yilin_elective_3",
+      "word": "leg",
+      "prefix": "",
+      "root": "leg/lig/lect(读；收集；选择)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 legere（读；选择）。由 leg/lig/lect(读；收集；选择) 组合而成，原意与“读；收集；选择”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "legged",
+        "leggy",
+        "legless",
+        "legger"
+      ]
+    },
+    {
+      "wordId": 134,
+      "bookId": "yilin_elective_3",
+      "word": "legal",
+      "prefix": "",
+      "root": "leg/lig/lect(读；收集；选择)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 legere（读；选择）。由 leg/lig/lect(读；收集；选择) 组合而成，原意与“读；收集；选择”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "leg/lig/lect(读；收集；选择) + -al(…的；与…有关的) → 产生“读；收集；选择”的意象 → 演变成该词",
+      "cognates": [
+        "legally",
+        "legality",
+        "legalization",
+        "legalisation"
+      ]
+    },
+    {
+      "wordId": 135,
+      "bookId": "yilin_elective_3",
+      "word": "lemon",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lemonlike",
+        "lemony"
+      ]
+    },
+    {
+      "wordId": 136,
+      "bookId": "yilin_elective_3",
+      "word": "lemonade",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lemonlike",
+        "lemony"
+      ]
+    },
+    {
+      "wordId": 137,
+      "bookId": "yilin_elective_3",
+      "word": "lend lent lent",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'lend lent l' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lend lent l(核心词干) + -ent(…的人；具有…性质的) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 138,
+      "bookId": "yilin_elective_3",
+      "word": "length",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "long",
+        "lengthy",
+        "lengthwise",
+        "longish"
+      ]
+    },
+    {
+      "wordId": 139,
+      "bookId": "yilin_elective_3",
+      "word": "less",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "lesser",
+        "lesser",
+        "lessening",
+        "lessening"
+      ]
+    },
+    {
+      "wordId": 140,
+      "bookId": "yilin_elective_3",
+      "word": "lesson",
+      "prefix": "",
+      "root": "son(声音)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 sonus（声音）。由 son(声音) 组合而成，原意与“声音”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 141,
+      "bookId": "yilin_elective_3",
+      "word": "let",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "letting",
+        "letting"
+      ]
+    },
+    {
+      "wordId": 142,
+      "bookId": "yilin_elective_3",
+      "word": "letter",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'lett' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "lett(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "lettered",
+        "letterpress",
+        "letterpress",
+        "lettering"
+      ]
+    },
+    {
+      "wordId": 143,
+      "bookId": "yilin_elective_3",
+      "word": "letter-box",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 144,
+      "bookId": "yilin_elective_3",
+      "word": "level",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "leveling",
+        "leveler",
+        "leveller"
+      ]
+    },
+    {
+      "wordId": 145,
+      "bookId": "yilin_elective_3",
+      "word": "liberty",
+      "prefix": "",
+      "root": "liber(自由)",
+      "suffix": "-ty（性质；状态）",
+      "etymology": "来自拉丁语，源于 liber（自由的）。由 liber(自由) 组合而成，原意与“自由”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "liber(自由) + -ty(性质；状态) → 产生“自由”的意象 → 演变成该词",
+      "cognates": [
+        "libertine",
+        "libertarian",
+        "liberally",
+        "libertine"
+      ]
+    },
+    {
+      "wordId": 146,
+      "bookId": "yilin_elective_3",
+      "word": "liberate",
+      "prefix": "",
+      "root": "liber(自由)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 liber（自由的）。由 liber(自由) 组合而成，原意与“自由”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "liber(自由) + -ate(使…；具有…的) → 产生“自由”的意象 → 演变成该词",
+      "cognates": [
+        "liberated",
+        "liberation",
+        "liberator",
+        "liberated"
+      ]
+    },
+    {
+      "wordId": 147,
+      "bookId": "yilin_elective_3",
+      "word": "liberation",
+      "prefix": "",
+      "root": "liber(自由)",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 liber（自由的）。由 liber(自由) 组合而成，原意与“自由”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "liber(自由) + -ation(行为；过程；结果) → 产生“自由”的意象 → 演变成该词",
+      "cognates": [
+        "liberated",
+        "liberator",
+        "liberated",
+        "liberate"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "yilin_elective_3",
+      "word": "librarian",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "library",
+        "librarianship"
+      ]
+    },
+    {
+      "wordId": 149,
+      "bookId": "yilin_elective_3",
+      "word": "library",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'libr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "libr(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": [
+        "librarian",
+        "librarianship"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "yilin_elective_3",
+      "word": "license",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "licensed",
+        "licenced",
+        "licence",
+        "licensee"
+      ]
+    }
+  ]
+}

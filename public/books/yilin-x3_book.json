@@ -1,0 +1,13 @@
+[
+  {
+    "id": "yilin-x3",
+    "name": "高中选修3",
+    "description": "译林版高中英语选修三（基于现有词库提取的混合版）",
+    "wordCount": 0,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": [],
+    "dataUrl": "/words/yilin-x3.json",
+    "version": "1.3"
+  }
+]

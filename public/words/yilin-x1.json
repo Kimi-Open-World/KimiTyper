@@ -1,0 +1,1996 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-02-26",
+  "words": [
+    {
+      "word": "potential",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "potentially",
+        "potentiality"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 1
+    },
+    {
+      "word": "senior",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "seniority"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 2
+    },
+    {
+      "word": "path",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "pathless"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 3
+    },
+    {
+      "word": "challenge",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "challenging",
+        "challengeable",
+        "challenger",
+        "challenging"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 4
+    },
+    {
+      "word": "thinking",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "think",
+        "thoughtful",
+        "thoughtless",
+        "thinkable"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 5
+    },
+    {
+      "word": "positive",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "positively",
+        "posit",
+        "positivism",
+        "positioner"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 6
+    },
+    {
+      "word": "opportunity",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "opportune",
+        "opportunistic",
+        "opportunely",
+        "opportunist"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 7
+    },
+    {
+      "word": "lie in",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 8
+    },
+    {
+      "word": "rise to",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 9
+    },
+    {
+      "word": "acquire",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "acquired",
+        "acquiring",
+        "acquirement",
+        "acquired"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 10
+    },
+    {
+      "word": "effort",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "effortless",
+        "effortful"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 11
+    },
+    {
+      "word": "advance",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "advanced",
+        "advancing",
+        "advancement",
+        "advancer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 12
+    },
+    {
+      "word": "amazing",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "amazed",
+        "amazingly",
+        "amazement",
+        "amazed"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 13
+    },
+    {
+      "word": "confidence",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "confidential",
+        "confident",
+        "confidently",
+        "confidentially"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 14
+    },
+    {
+      "word": "make a difference",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 15
+    },
+    {
+      "word": "make the most of",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 16
+    },
+    {
+      "word": "resource",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "resourceful",
+        "resourceless",
+        "resourcefully",
+        "resourcefulness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 17
+    },
+    {
+      "word": "take advantage of",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 18
+    },
+    {
+      "word": "facility",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "facile",
+        "facilitation",
+        "facilitate"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 19
+    },
+    {
+      "word": "equal",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "equalized",
+        "equally",
+        "equality",
+        "equalizer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 20
+    },
+    {
+      "word": "attitude",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "attitudinal"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 21
+    },
+    {
+      "word": "goal",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "goalpost",
+        "goalmouth"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 22
+    },
+    {
+      "word": "balance",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "balanced",
+        "balancing",
+        "balancer",
+        "balanced"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 23
+    },
+    {
+      "word": "improve",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "improved",
+        "improving",
+        "improvised",
+        "improvable"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 24
+    },
+    {
+      "word": "last but not least",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 25
+    },
+    {
+      "word": "well-rounded",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 26
+    },
+    {
+      "word": "individual",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "individualistic",
+        "individualized",
+        "individually",
+        "individualism"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 27
+    },
+    {
+      "word": "character",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "characteristic",
+        "characterized",
+        "characterless",
+        "characteristically"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 28
+    },
+    {
+      "word": "responsible",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "responsibly",
+        "response",
+        "responsibility",
+        "respond"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 29
+    },
+    {
+      "word": "ahead",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 30
+    },
+    {
+      "word": "junior",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 31
+    },
+    {
+      "word": "forward",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "forwarding",
+        "forwards",
+        "forwarding",
+        "forwardness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 32
+    },
+    {
+      "word": "look forward to",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 33
+    },
+    {
+      "word": "independent",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "independently",
+        "independence",
+        "independency"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 34
+    },
+    {
+      "word": "focus",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "focal",
+        "focalization",
+        "focalize",
+        "focalize"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 35
+    },
+    {
+      "word": "detail",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "detailed",
+        "detailing",
+        "detailed",
+        "detailing"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 36
+    },
+    {
+      "word": "as a result of",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 37
+    },
+    {
+      "word": "tip",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "tipped",
+        "tippy",
+        "tipper",
+        "tipsiness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 38
+    },
+    {
+      "word": "base",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "based",
+        "basal",
+        "baseless",
+        "basely"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 39
+    },
+    {
+      "word": "remind",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "remindful",
+        "reminder"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 40
+    },
+    {
+      "word": "stick to",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 41
+    },
+    {
+      "word": "proposal",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "proposed",
+        "proposition",
+        "proponent",
+        "proposer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 42
+    },
+    {
+      "word": "aim",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "aimless",
+        "aimlessly",
+        "aimer",
+        "aimlessness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 43
+    },
+    {
+      "word": "style",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "stylish",
+        "stylized",
+        "stylishly",
+        "stylist"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 44
+    },
+    {
+      "word": "technique",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "technical",
+        "technological",
+        "technically",
+        "technologically"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 45
+    },
+    {
+      "word": "workshop",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 46
+    },
+    {
+      "word": "professional",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "professionally",
+        "professedly",
+        "profession",
+        "professionalism"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 47
+    },
+    {
+      "word": "material",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "materially",
+        "materialism",
+        "materiality",
+        "materialist"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 48
+    },
+    {
+      "word": "poster",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "post",
+        "post",
+        "post"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 49
+    },
+    {
+      "word": "secondary",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "second",
+        "second",
+        "secondly",
+        "secondarily"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 50
+    },
+    {
+      "word": "exchange",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "exchanged",
+        "exchangeable",
+        "exchanger",
+        "exchangeability"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 51
+    },
+    {
+      "word": "host",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "hospitably",
+        "hostess",
+        "hostage",
+        "hosteller"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 52
+    },
+    {
+      "word": "a.m.",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 53
+    },
+    {
+      "word": "p.m.",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 54
+    },
+    {
+      "word": "biology",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "biological",
+        "biologic",
+        "bioluminescent",
+        "biologically"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 55
+    },
+    {
+      "word": "tough",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "toughly",
+        "toughness",
+        "toughen",
+        "toughen"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 56
+    },
+    {
+      "word": "alarm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "alarming",
+        "alarmed",
+        "alarmist",
+        "alarmingly"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 57
+    },
+    {
+      "word": "contribution",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "contributing",
+        "contributory",
+        "contributive",
+        "contributor"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 58
+    },
+    {
+      "word": "fortunately",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "fortunate"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 59
+    },
+    {
+      "word": "over time",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 60
+    },
+    {
+      "word": "option",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "optional",
+        "optional",
+        "opt"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 61
+    },
+    {
+      "word": "butter",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "buttery",
+        "butterscotch",
+        "buttery"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 62
+    },
+    {
+      "word": "pudding",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "pud"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 63
+    },
+    {
+      "word": "attract",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "attractive",
+        "attractable",
+        "attractively",
+        "attraction"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 64
+    },
+    {
+      "word": "rugby",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 65
+    },
+    {
+      "word": "calligraphy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "calligraphic",
+        "calligrapher",
+        "calligraph",
+        "calligraphist"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 66
+    },
+    {
+      "word": "nest",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "nestling",
+        "nester",
+        "nestling"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 67
+    },
+    {
+      "word": "roof",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "roofing",
+        "roofed",
+        "roofing",
+        "roofer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 68
+    },
+    {
+      "word": "battle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "battleship",
+        "battler"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 69
+    },
+    {
+      "word": "see eye to eye with sb (on sth)",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 70
+    },
+    {
+      "word": "argument",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "argumentative",
+        "arguable",
+        "arguably",
+        "arguing"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 71
+    },
+    {
+      "word": "teenager",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "teen",
+        "teenage",
+        "teenaged",
+        "teen"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 72
+    },
+    {
+      "word": "tension",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "tense",
+        "tensile",
+        "tensed",
+        "tensional"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 73
+    },
+    {
+      "word": "anxious",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "anxiously",
+        "anxiousness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 74
+    },
+    {
+      "word": "rate",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "ratable",
+        "rateable",
+        "rating",
+        "ratability"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 75
+    },
+    {
+      "word": "shoot",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "shot",
+        "shot",
+        "shooting",
+        "shooter"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 76
+    },
+    {
+      "word": "shoot up",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 77
+    },
+    {
+      "word": "spot",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "spotted",
+        "spotty",
+        "spotting",
+        "spotter"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 78
+    },
+    {
+      "word": "target",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 79
+    },
+    {
+      "word": "anger",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 80
+    },
+    {
+      "word": "mental",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "mentally",
+        "mentality",
+        "mentation"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 81
+    },
+    {
+      "word": "adult",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "adulthood"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 82
+    },
+    {
+      "word": "desire",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "desirable",
+        "desired",
+        "desirous",
+        "desirable"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 83
+    },
+    {
+      "word": "struggle",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "struggling",
+        "struggler",
+        "struggling"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 84
+    },
+    {
+      "word": "rough",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "roughish",
+        "roughly",
+        "roughness",
+        "roughage"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 85
+    },
+    {
+      "word": "breakdown",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 86
+    },
+    {
+      "word": "regular",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "regularized",
+        "regularly",
+        "regularity",
+        "regularization"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 87
+    },
+    {
+      "word": "calm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "calmly",
+        "calmness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 88
+    },
+    {
+      "word": "calm down",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 89
+    },
+    {
+      "word": "view",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "viewing",
+        "viewable",
+        "viewless",
+        "viewer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 90
+    },
+    {
+      "word": "from one's point of view",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 91
+    },
+    {
+      "word": "think sth through",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 92
+    },
+    {
+      "word": "concern",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "concerned",
+        "concernedly",
+        "concerned"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 93
+    },
+    {
+      "word": "back down",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 94
+    },
+    {
+      "word": "normal",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "normative",
+        "normotensive",
+        "normally",
+        "norm"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 95
+    },
+    {
+      "word": "stress",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "stressful",
+        "stressor"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 96
+    },
+    {
+      "word": "editor",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "editorial",
+        "editorially",
+        "edit",
+        "editorial"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 97
+    },
+    {
+      "word": "argue",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "argumentative",
+        "arguable",
+        "arguably",
+        "argumentatively"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 98
+    },
+    {
+      "word": "skin",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "skinny",
+        "skinned",
+        "skinless",
+        "skinny"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 99
+    },
+    {
+      "word": "design",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "designer",
+        "designed",
+        "designing",
+        "designedly"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 100
+    },
+    {
+      "word": "forum",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 101
+    },
+    {
+      "word": "expert",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "expertly",
+        "expertise",
+        "expertness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 102
+    },
+    {
+      "word": "likely",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "like",
+        "likable",
+        "likeable",
+        "like"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 103
+    },
+    {
+      "word": "unique",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "uniquely",
+        "uniqueness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 104
+    },
+    {
+      "word": "passive",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "passively",
+        "passivation",
+        "passivity",
+        "passiveness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 105
+    },
+    {
+      "word": "performance",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "performing",
+        "performing",
+        "perform",
+        "perform"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 106
+    },
+    {
+      "word": "cheer up",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 107
+    },
+    {
+      "word": "press",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "pressing",
+        "pressurized",
+        "pressor",
+        "pressure"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 108
+    },
+    {
+      "word": "eager",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "eagerly",
+        "eagerness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 109
+    },
+    {
+      "word": "youth",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "young",
+        "younger",
+        "youthful",
+        "youngish"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 110
+    },
+    {
+      "word": "adventure",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "adventurous",
+        "adventuresome",
+        "adventuristic",
+        "adventurer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 111
+    },
+    {
+      "word": "be on sb's back about sth",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 112
+    },
+    {
+      "word": "kangaroo",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 113
+    },
+    {
+      "word": "flexible",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "flex",
+        "flexile",
+        "flexuous",
+        "flexibly"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 114
+    },
+    {
+      "word": "account",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 115
+    },
+    {
+      "word": "rent",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "rental",
+        "rentable",
+        "rental",
+        "renter"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 116
+    },
+    {
+      "word": "grocery",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "grocer"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 117
+    },
+    {
+      "word": "secure",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "security",
+        "secured",
+        "securer",
+        "securely"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 118
+    },
+    {
+      "word": "graduate",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "graduated",
+        "graded",
+        "gradational",
+        "grading"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 119
+    },
+    {
+      "word": "graduate",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "graduated",
+        "graded",
+        "gradational",
+        "grading"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 120
+    },
+    {
+      "word": "gather",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "gathering",
+        "gatherer",
+        "gathering"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 121
+    },
+    {
+      "word": "emergency",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "emergent",
+        "emergence"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 122
+    },
+    {
+      "word": "volunteer",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "voluntary",
+        "voluntary"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 123
+    },
+    {
+      "word": "pipe",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "piping",
+        "piping",
+        "piper",
+        "pipage"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 124
+    },
+    {
+      "word": "figure",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "figurative",
+        "figured",
+        "figural",
+        "figuration"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 125
+    },
+    {
+      "word": "downtown",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 126
+    },
+    {
+      "word": "draw sth out of sth",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 127
+    },
+    {
+      "word": "operation",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "operating",
+        "operational",
+        "operative",
+        "operant"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 128
+    },
+    {
+      "word": "lap",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "lapping",
+        "lapping"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 129
+    },
+    {
+      "word": "teller",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "telling",
+        "telling",
+        "telling",
+        "tell"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 130
+    },
+    {
+      "word": "scene",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 131
+    },
+    {
+      "word": "flat",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "flatly",
+        "flatness",
+        "flatmate",
+        "flatten"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 132
+    },
+    {
+      "word": "response",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "responsible",
+        "respondent",
+        "responsive",
+        "respondent"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 133
+    },
+    {
+      "word": "on the rocks",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 134
+    },
+    {
+      "word": "awkward",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "awkwardly",
+        "awkwardness"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 135
+    },
+    {
+      "word": "sight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "sighted",
+        "sightless",
+        "sighting",
+        "sighted"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 136
+    },
+    {
+      "word": "out of one's sight",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 137
+    },
+    {
+      "word": "original",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [
+        "originative",
+        "originally",
+        "origin",
+        "originality"
+      ],
+      "bookId": "yilin-x1",
+      "wordId": 138
+    },
+    {
+      "word": "medium",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 139
+    },
+    {
+      "word": "social media",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "",
+      "wordFormation": "",
+      "cognates": [],
+      "bookId": "yilin-x1",
+      "wordId": 140
+    }
+  ]
+}

@@ -1,28 +1,29 @@
 {
-    "_comment": "词书详情数据格式说明 - 未来按需加载时使用",
-    "_format_version": "1.0",
-    "_description": "当 WordBook.dataUrl 指向此目录下的 JSON 文件时，词语详情将在首次点击词书时按需加载，而非打包进 bundle",
-    "_usage": "在 books.ts 中设置 dataUrl: '/words/cet4.json', version: '1.0'",
-    "_schema": {
-        "words": [
-            {
-                "bookId": "string（必填，如 'cet4'）",
-                "wordId": "number（必填，与 books.ts 中 Word.id 对应）",
-                "word": "string（必填）",
-                "prefix": "string（可选，词缀）",
-                "root": "string（可选，词根）",
-                "suffix": "string（可选，后缀）",
-                "etymology": "string（可选，词源说明）",
-                "wordFormation": "string（可选，构词法）",
-                "cognates": [
-                    "string（可选，同源词数组）"
-                ],
-                "examples": [
-                    "string（可选，多条例句）"
-                ]
-            }
+  "_comment": "词书详情数据格式说明 - 未来按需加载时使用",
+  "_format_version": "1.0",
+  "_description": "当 WordBook.dataUrl 指向此目录下的 JSON 文件时，词语详情将在首次点击词书时按需加载，而非打包进 bundle",
+  "_usage": "在 books.ts 中设置 dataUrl: '/words/cet4.json', version: '1.0'",
+  "_schema": {
+    "words": [
+      {
+        "bookId": "string（必填，如 'cet4'）",
+        "wordId": "number（必填，与 books.ts 中 Word.id 对应）",
+        "word": "string（必填）",
+        "prefix": "string（可选，词缀）",
+        "root": "string（可选，词根）",
+        "suffix": "string（可选，后缀）",
+        "etymology": "string（可选，词源说明）",
+        "wordFormation": "string（可选，构词法）",
+        "cognates": [
+          "string（可选，同源词数组）"
+        ],
+        "examples": [
+          "string（可选，多条例句）"
         ]
-    },
-    "_example_file_name": "cet4.json",
-    "_trigger": "将 books.ts 中 cet4Book.dataUrl 设为 '/words/cet4.json' 即可激活按需加载"
+      }
+    ]
+  },
+  "_example_file_name": "cet4.json",
+  "_trigger": "将 books.ts 中 cet4Book.dataUrl 设为 '/words/cet4.json' 即可激活按需加载",
+  "_version": "1.2"
 }

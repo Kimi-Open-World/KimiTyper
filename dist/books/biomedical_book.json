@@ -1,0 +1,4226 @@
+{
+  "id": "biomedical",
+  "name": "生物医学专业英语词汇",
+  "description": "生物医学专业英语词汇，共 504 词",
+  "wordCount": 504,
+  "language": "en",
+  "category": "生物",
+  "dataUrl": "/words/biomedical.json",
+  "version": "1.0",
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Chapter 1",
+      "description": "Words 1 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 1,
+          "word": "lipid",
+          "translation": "油脂；脂质",
+          "phonetic": "/ˈlɪpɪd/",
+          "example": "MsbA is a lipid flippase.",
+          "exampleTranslation": "MsbA是一种脂质反转酶。"
+        },
+        {
+          "id": 2,
+          "word": "photosynthetic",
+          "translation": "adj. 光合的；光合作用的",
+          "phonetic": "/fəʊtəʊsɪnˈθetɪk/",
+          "example": "In Earth's early days, all over the planet countless photosynthetic bacteria performed photosynthesis.",
+          "exampleTranslation": "在地球早期，整个星球上有无数的光合细菌在进行光合作用。"
+        },
+        {
+          "id": 3,
+          "word": "enzyme",
+          "translation": "酶",
+          "phonetic": "/ˈenzaɪm/",
+          "example": "This enzyme would make the filtration of beer easier.",
+          "exampleTranslation": "这种酶会使啤酒更容易过滤"
+        },
+        {
+          "id": 4,
+          "word": "extracellular",
+          "translation": "adj.细胞外的",
+          "phonetic": "/ˌekstrəˈseljʊlə(r)/",
+          "example": "Most cells other than blood cells live within a fibrous extracellular matrix.",
+          "exampleTranslation": "血细胞以外的大多数细胞都生活在纤维细胞外基质里。"
+        },
+        {
+          "id": 5,
+          "word": "cytosol",
+          "translation": "胞液，细胞溶质",
+          "phonetic": "/ˈsaɪtəʊˌsɒl/",
+          "example": "CSF existed mainly on membrane or in cytosol of granulocytes and monocytes.",
+          "exampleTranslation": "CSF主要分布于粒细胞和单核细胞的胞膜和胞浆。"
+        },
+        {
+          "id": 6,
+          "word": "detergent",
+          "translation": "清洁剂；去垢剂",
+          "phonetic": "/dɪˈtɜːdʒənt/",
+          "example": "The detergent comes in powder or liquid form.",
+          "exampleTranslation": "这种洗涤剂有粉状或液态两种。"
+        },
+        {
+          "id": 7,
+          "word": "fluorescence",
+          "translation": "荧光；荧光性",
+          "phonetic": "/fləˈresns/",
+          "example": "The compounds show absorption hypochromicity, fluorescence enhancement, DNA melting increasement when binding to CT·DNA.",
+          "exampleTranslation": "结果显示，混配配合物与 DNA 作用时，使紫外吸收明显减色，荧光显著增强，DNA 熔点升高。"
+        },
+        {
+          "id": 8,
+          "word": "Fluorescence",
+          "translation": "荧光|萤光|光度",
+          "phonetic": "/fləˈresns/",
+          "example": "The compounds show absorption hypochromicity, fluorescence enhancement, DNA melting increasement when binding to CT·DNA.",
+          "exampleTranslation": "结果显示，混配配合物与 DNA 作用时，使紫外吸收明显减色，荧光显著增强，DNA 熔点升高。"
+        },
+        {
+          "id": 9,
+          "word": "Rafts",
+          "translation": "皮筏|木筏",
+          "phonetic": "/rɑːfts/",
+          "example": "Rafts floated down the river.",
+          "exampleTranslation": "木筏顺水漂浮。"
+        },
+        {
+          "id": 10,
+          "word": "numerical",
+          "translation": "adj. 数字的；数值的；用数字表示的",
+          "phonetic": "/njuːˈmerɪk(ə)l/",
+          "example": "Numerical increases are used as quantifiable indicators of heightened interest in the new stimulus.",
+          "exampleTranslation": "数值的增长被用来作为显示新型激励下增长利益的量化指标。"
+        },
+        {
+          "id": 11,
+          "word": "trypsin",
+          "translation": "胰蛋白酶；胰岛素",
+          "phonetic": "/ˈtrɪpsɪn/",
+          "example": "Decellularized porcine heart valves were prepared by using Trypsin-ethylenediamine tetraacetic acid and DNase.",
+          "exampleTranslation": "利用胰酶-乙二胺四乙酸、核酸酶处理猪心瓣膜制备脱细胞支架。"
+        },
+        {
+          "id": 12,
+          "word": "Trypsin",
+          "translation": "胰蛋白酶|胰朊酶|胰蛋白",
+          "phonetic": "/ˈtrɪpsɪn/",
+          "example": "Decellularized porcine heart valves were prepared by using Trypsin-ethylenediamine tetraacetic acid and DNase.",
+          "exampleTranslation": "利用胰酶-乙二胺四乙酸、核酸酶处理猪心瓣膜制备脱细胞支架。"
+        },
+        {
+          "id": 13,
+          "word": "yeast",
+          "translation": "酵母；酵母片；泡沫；引起骚动因素",
+          "phonetic": "/jiːst/",
+          "example": "Yeast is essential for the fermentation that produces alcohol.",
+          "exampleTranslation": "酵母对酿酒的发酵是必要的。"
+        },
+        {
+          "id": 14,
+          "word": "detect",
+          "translation": "vt. 发现；察觉；探测",
+          "phonetic": "/dɪˈtekt/",
+          "example": "Arnold could detect a certain sadness in the old man's face.",
+          "exampleTranslation": "阿诺德能察觉到老人脸上的某种悲伤。"
+        },
+        {
+          "id": 15,
+          "word": "halt",
+          "translation": "vi. 停止；踌躇，犹豫；立定 n. 停止；立定；休息 vt. 使停止；使立定",
+          "phonetic": "/hɔːlt/",
+          "example": "The leading car came to a halt.",
+          "exampleTranslation": "行驶在前面的车停了下来。"
+        },
+        {
+          "id": 16,
+          "word": "convert",
+          "translation": "vt. 使转变；转换…；使…改变信仰 vi. 转变，变换；皈依n. 皈依者",
+          "phonetic": "/kənˈvɜːt/",
+          "example": "This requires open investments to help doctors convert.",
+          "exampleTranslation": "这需要开放投资来帮助医生们完成这一转变。"
+        },
+        {
+          "id": 17,
+          "word": "whereby",
+          "translation": "adv. 凭什么；靠那个",
+          "phonetic": "/weəˈbaɪ/",
+          "example": "They have introduced a new system whereby all employees must undergo regular training.",
+          "exampleTranslation": "他们采用了新的制度，所有的雇员都必须定期进行培训。"
+        },
+        {
+          "id": 18,
+          "word": "amino",
+          "translation": "adj. 氨基的n. 氨基",
+          "phonetic": "/əˈmiːnəʊ/",
+          "example": "Over time, the protein in the eggshell breaks down into its constituent amino acids.",
+          "exampleTranslation": "随着时间的推移,蛋壳中的蛋白质分解成其构成成分氨基酸。"
+        },
+        {
+          "id": 19,
+          "word": "peptides",
+          "translation": "多肽类；缩氨酸",
+          "phonetic": "",
+          "example": "Copper peptides. Copper peptides improve the healing of wound.",
+          "exampleTranslation": "含铜的肽类物质增强伤口愈合。"
+        },
+        {
+          "id": 20,
+          "word": "dissolved",
+          "translation": "adj. 溶解的；溶化的v. 使溶解；使溶化",
+          "phonetic": "/dɪˈzɒlvd/",
+          "example": "The committee has been dissolved.",
+          "exampleTranslation": "委员会被解散了。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chapter 2",
+      "description": "Words 21 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 21,
+          "word": "sap",
+          "translation": "树液；活力；坑道；精力，元气 vt. 使衰竭；挖掘以破坏基础 vi. 挖坑道",
+          "phonetic": "/sæp/",
+          "example": "The sap of this plant blisters the skin.",
+          "exampleTranslation": "这种植物的汁液会使皮肤起水疱。"
+        },
+        {
+          "id": 22,
+          "word": "endocrine",
+          "translation": "激素；内分泌；内分泌物adj. 内分泌的；激素的",
+          "phonetic": "/ˈendəʊkrɪn/",
+          "example": "The endocrine system is a system that acts on various organs throughout the body.",
+          "exampleTranslation": "内分泌系统是一种作用于周身各器官的系统。"
+        },
+        {
+          "id": 23,
+          "word": "pancreas",
+          "translation": "胰腺",
+          "phonetic": "/ˈpæŋkriəs/",
+          "example": "Insulin is secreted by the pancreas.",
+          "exampleTranslation": "胰岛素是胰腺分泌的。"
+        },
+        {
+          "id": 24,
+          "word": "gland",
+          "translation": "腺",
+          "phonetic": "/ɡlænd/",
+          "example": "Located near the base of the neck, the thyroid is a large endocrine gland that produces hormones that help control growth and metabolism.",
+          "exampleTranslation": "甲状腺位于颈部的底部附近，是一个很大的内分泌腺体，它产生激素，协助控制生长和新陈代谢。"
+        },
+        {
+          "id": 25,
+          "word": "glucouse",
+          "translation": "葡萄糖",
+          "phonetic": "",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 26,
+          "word": "insulin",
+          "translation": "胰岛素",
+          "phonetic": "/ˈɪnsjəlɪn/",
+          "example": "Insulin is secreted by the pancreas.",
+          "exampleTranslation": "胰岛素是胰腺分泌的。"
+        },
+        {
+          "id": 27,
+          "word": "regulate",
+          "translation": "vt. 调节，规定；有系统的管理；控制；校准",
+          "phonetic": "/ˈreɡjuleɪt/",
+          "example": "The FCC has no statutory authority to regulate the Internet.",
+          "exampleTranslation": "美国联邦通信委员会没有规范因特网的法定权力。"
+        },
+        {
+          "id": 28,
+          "word": "paracrine",
+          "translation": "旁分泌；副分泌；旁泌性",
+          "phonetic": "/ˈpærəkraɪn/",
+          "example": "G cells may possess endocrine, paracrine and exocrine functions simultaneously.",
+          "exampleTranslation": "细胞可能同时具备内分泌、旁分泌和外分泌方式。"
+        },
+        {
+          "id": 29,
+          "word": "diffuse",
+          "translation": "adj. 散开的；弥漫的vt. 传播；扩散；漫射 vi. 传播；四散",
+          "phonetic": "/dɪˈfjuːs/",
+          "example": "It allows nicotine to diffuse slowly and steadily into the bloodstream.",
+          "exampleTranslation": "它使尼古丁缓慢、稳步地扩散到血液当中。"
+        },
+        {
+          "id": 30,
+          "word": "mediator",
+          "translation": "调停者；传递者；中介物",
+          "phonetic": "/ˈmiːdieɪtə(r)/",
+          "example": "My role is to act as a mediator between employees and management.",
+          "exampleTranslation": "我的角色就是协调雇员与管理者之间的关系。"
+        },
+        {
+          "id": 31,
+          "word": "autocrine",
+          "translation": "自分泌，自泌",
+          "phonetic": "/ˈɔːtə(ʊ)kraɪn/",
+          "example": "Cytokines are polypeptides, and mediate cellular responses through autocrine and paracrine.",
+          "exampleTranslation": "细胞因子是一类小分子多肽，通过自分泌和旁分泌传递细胞应答。"
+        },
+        {
+          "id": 32,
+          "word": "proliferation",
+          "translation": "增殖，扩散；分芽繁殖",
+          "phonetic": "/prəˌlɪfəˈreɪʃn/",
+          "example": "Both countries are signatories to the Nuclear Non-Proliferation Treaty.",
+          "exampleTranslation": "两个国家都是《防止核扩散条约》的签约国。"
+        },
+        {
+          "id": 33,
+          "word": "neuronal",
+          "translation": "adj. 神经元的",
+          "phonetic": "/njʊəˈrəʊnəl/",
+          "example": "Like many other agents that affect neuron firing, adenosine must first bind to specific receptors on neuronal membranes.",
+          "exampleTranslation": "像许多其他影响神经元放电的物质一样，腺苷必须首先与神经元膜上的特定受体结合。"
+        },
+        {
+          "id": 34,
+          "word": "axon",
+          "translation": "轴索，轴突",
+          "phonetic": "/ˈæksɒn/",
+          "example": "In certain pseudounipolar neurons, the electrical impulse travels along an axon from the periphery to the cell body.",
+          "exampleTranslation": "在某些假单极神经元中，电脉冲沿轴突从外周传递到胞体。"
+        },
+        {
+          "id": 35,
+          "word": "synapse",
+          "translation": "突触",
+          "phonetic": "/ˈsaɪnæps; ˈsɪnæps/",
+          "example": "A case study using Apache synapse.",
+          "exampleTranslation": "使用Apache Synapse的案例研究。"
+        },
+        {
+          "id": 36,
+          "word": "spinal",
+          "translation": "adj. 脊骨的；脊髓的；脊柱的；尖刺的；针的 n. 脊椎麻醉",
+          "phonetic": "/ˈspaɪn(ə)l/",
+          "example": "This movement lengthens your spine and tones the spinal nerves.",
+          "exampleTranslation": "该运动能伸展你的脊柱，强健脊髓神经。"
+        },
+        {
+          "id": 37,
+          "word": "cord",
+          "translation": "束缚；绳索vt. 用绳子捆绑",
+          "phonetic": "/kɔːd/",
+          "example": "He began to worry at the knot in the cord.",
+          "exampleTranslation": "他开始解绳子上的结。"
+        },
+        {
+          "id": 38,
+          "word": "toe",
+          "translation": "脚趾；足尖vt. 用脚尖走；以趾踏触vi. 动脚尖；用足尖跳舞",
+          "phonetic": "/təʊ/",
+          "example": "I stubbed my toe on the step.",
+          "exampleTranslation": "我的脚趾踢在了台阶上。"
+        },
+        {
+          "id": 39,
+          "word": "neurotransmitter",
+          "translation": "神经递质；神经传递素",
+          "phonetic": "/ˈnjʊərəʊtrænzmɪtə(r)/",
+          "example": "Acetylcholine is also the principal neurotransmitter in all autonomic ganglia.",
+          "exampleTranslation": "乙酰胆碱也是所有自主神经节的主要神经递质。"
+        },
+        {
+          "id": 40,
+          "word": "intimate",
+          "translation": "adj. 亲密的；私人的；精通的 n. 至交；知己vt. 暗示; 通知；宣布",
+          "phonetic": "/ˈɪntɪmət/",
+          "example": "He wrote about the intimate details of his family life.",
+          "exampleTranslation": "他写下了家庭生活中一些私人的细节。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chapter 3",
+      "description": "Words 41 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 41,
+          "word": "lodge",
+          "translation": "旅馆；门房；集会处；山林小屋vt. 提出；寄存；借住；嵌入vi. 寄宿",
+          "phonetic": "/lɒdʒ/",
+          "example": "He has four weeks in which to lodge an appeal.",
+          "exampleTranslation": "他有4周时间来正式提出上诉。"
+        },
+        {
+          "id": 42,
+          "word": "embryonic",
+          "translation": "adj. 胚胎的；似胚胎的",
+          "phonetic": "/ˌembriˈɒnɪk/",
+          "example": "Different from the embryonic stem cell we talked about before, it's an example of an adult stem cell.",
+          "exampleTranslation": "和我们之前谈到的胚胎干细胞有所不同，这是一个成人干细胞的例子。"
+        },
+        {
+          "id": 43,
+          "word": "adjacent",
+          "translation": "adj. 邻近的，毗连的",
+          "phonetic": "/əˈdʒeɪs(ə)nt/",
+          "example": "The planes landed on adjacent runways.",
+          "exampleTranslation": "这些飞机在毗连的跑道上降落。"
+        },
+        {
+          "id": 44,
+          "word": "akin",
+          "translation": "adj. 同族的；同类的；类似的",
+          "phonetic": "/əˈkɪn/",
+          "example": "What he felt was more akin to pity than love.",
+          "exampleTranslation": "他感受到的更像怜悯，而不是爱。"
+        },
+        {
+          "id": 45,
+          "word": "epithelial",
+          "translation": "adj. 上皮的；皮膜的",
+          "phonetic": "/ˌepɪˈθiːlɪəl/",
+          "example": "Recent studies have shown lipoplexes to be useful in transfecting respiratory epithelial cells.",
+          "exampleTranslation": "最近的研究表明脂质体在转染呼吸道上皮细胞中是有用的。"
+        },
+        {
+          "id": 46,
+          "word": "bind",
+          "translation": "vi. 结合；装订；有约束力；过紧vt. 绑；约束；装订；凝固n. 捆绑；困境",
+          "phonetic": "/baɪnd/",
+          "example": "Take him home and bind his wounds.",
+          "exampleTranslation": "带他回家，包扎他的伤口。"
+        },
+        {
+          "id": 47,
+          "word": "mediate",
+          "translation": "vi. 调解；斡旋；居中vt. 调停；传达adj. 间接的；居间的",
+          "phonetic": "/ˈmiːdieɪt/",
+          "example": "The Secretary-General was asked to mediate in the dispute.",
+          "exampleTranslation": "有人请秘书长来调解这次纷争。"
+        },
+        {
+          "id": 48,
+          "word": "disorder",
+          "translation": "混乱；骚乱vt. 扰乱；使失调",
+          "phonetic": "/dɪsˈɔːdə(r)/",
+          "example": "The FDA has approved a new treatment for a rare blood disorder.",
+          "exampleTranslation": "食品及药物管理局通过了一种罕见血液疾病的新疗法。"
+        },
+        {
+          "id": 49,
+          "word": "kinase",
+          "translation": "激酶；致活酶",
+          "phonetic": "/ˈkaɪneɪz/",
+          "example": "2,5- and 2,6-disubstituted benzazole analogues are used as protein kinase inhibitors.",
+          "exampleTranslation": "2，5和2，6双取代氮茚类似物被用作蛋白激酶抑制剂。"
+        },
+        {
+          "id": 50,
+          "word": "Kinase",
+          "translation": "激酶|致活酶",
+          "phonetic": "/ˈkaɪneɪz/",
+          "example": "2,5- and 2,6-disubstituted benzazole analogues are used as protein kinase inhibitors.",
+          "exampleTranslation": "2，5和2，6双取代氮茚类似物被用作蛋白激酶抑制剂。"
+        },
+        {
+          "id": 51,
+          "word": "trimeric",
+          "translation": "adj. 三聚物的",
+          "phonetic": "/traɪˈmerɪk/",
+          "example": "The invention relates to preparation methods and applications of two trimeric citrinin compounds.",
+          "exampleTranslation": "本发明涉及两种三聚桔霉素类化合物的制备方法和用途。"
+        },
+        {
+          "id": 52,
+          "word": "circuit",
+          "translation": "电路，回路；环道；一圈；巡回vi. 环行vt. 绕回…环行",
+          "phonetic": "/ˈsɜːkɪt/",
+          "example": "Fewer workers are needed to solder circuit boards.",
+          "exampleTranslation": "焊接电路板需要较少的工人。"
+        },
+        {
+          "id": 53,
+          "word": "ligand",
+          "translation": "配合基",
+          "phonetic": "/ˈlɪɡənd/",
+          "example": "The ligand is coordinated in a tetradentate manner in the complex.",
+          "exampleTranslation": "配体在配合物中以四齿方式进行配位。"
+        },
+        {
+          "id": 54,
+          "word": "physiology",
+          "translation": "生理学；生理机能",
+          "phonetic": "/ˌfɪziˈɒlədʒi/",
+          "example": "Physiology is the study of how living things work.",
+          "exampleTranslation": "生理学是研究生物功能的学科。"
+        },
+        {
+          "id": 55,
+          "word": "hijacking",
+          "translation": "劫持",
+          "phonetic": "/ˈhaɪdʒækɪŋ/",
+          "example": "He called on the leaders of Somali society to persuade pirates operating off the coast of the Horn of Africa to stop hijacking ships for ransom.",
+          "exampleTranslation": "他呼吁索马里社会的领导人规劝在非洲之角沿海地区活动的海盗停止为赎金劫持船只。"
+        },
+        {
+          "id": 56,
+          "word": "cholera",
+          "translation": "霍乱",
+          "phonetic": "/ˈkɒlərə/",
+          "example": "Cholera is a bacterial infection.",
+          "exampleTranslation": "霍乱是一种由细菌引起的感染。"
+        },
+        {
+          "id": 57,
+          "word": "ion",
+          "translation": "离子",
+          "phonetic": "/ˈaɪən/",
+          "example": "It is a naked electron and is a sodium positive ion.",
+          "exampleTranslation": "它是个裸电子，是钠正离子。"
+        },
+        {
+          "id": 58,
+          "word": "Ion",
+          "translation": "离子|智能光网络|翼扬",
+          "phonetic": "/ˈaɪən/",
+          "example": "It is a naked electron and is a sodium positive ion.",
+          "exampleTranslation": "它是个裸电子，是钠正离子。"
+        },
+        {
+          "id": 59,
+          "word": "stretch",
+          "translation": "\"n. 伸展，延伸adj. 可伸缩的vt. 伸展",
+          "phonetic": "/stretʃ/",
+          "example": "The cables are designed not to stretch.",
+          "exampleTranslation": "这些缆绳被设计成没有弹性。"
+        },
+        {
+          "id": 60,
+          "word": "Stretch",
+          "translation": "伸展|拉伸|缩放",
+          "phonetic": "/stretʃ/",
+          "example": "The cables are designed not to stretch.",
+          "exampleTranslation": "这些缆绳被设计成没有弹性。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chapter 4",
+      "description": "Words 61 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 61,
+          "word": "hypertonic",
+          "translation": "adj. 高渗的；张力亢进的",
+          "phonetic": "/ˌhaɪpəˈtɒnɪk/",
+          "example": "Title: Hypertonic saline - safe for transport?",
+          "exampleTranslation": "题目：高张盐水-转运病人时使用安全吗？"
+        },
+        {
+          "id": 62,
+          "word": "Hypertonic",
+          "translation": "张力亢进的|高渗的|高张的，高渗的",
+          "phonetic": "/ˌhaɪpəˈtɒnɪk/",
+          "example": "Title: Hypertonic saline - safe for transport?",
+          "exampleTranslation": "题目：高张盐水-转运病人时使用安全吗？"
+        },
+        {
+          "id": 63,
+          "word": "hypotonic",
+          "translation": "adj. 低渗的；张力减退的",
+          "phonetic": "/ˌhaɪpəˈtɒnɪk/",
+          "example": "Cell suspension was collected, and then stained after hypotonic treatment.",
+          "exampleTranslation": "收集细胞悬液，再经低渗处理后滴片染色。"
+        },
+        {
+          "id": 64,
+          "word": "Hypotonic",
+          "translation": "低张的|低渗的|低渗",
+          "phonetic": "/ˌhaɪpəˈtɒnɪk/",
+          "example": "Cell suspension was collected, and then stained after hypotonic treatment.",
+          "exampleTranslation": "收集细胞悬液，再经低渗处理后滴片染色。"
+        },
+        {
+          "id": 65,
+          "word": "isotonic",
+          "translation": "adj. 等张的，等压的",
+          "phonetic": "/ˌaɪsəʊˈtɒnɪk/",
+          "example": "We say that sea water is isotonic to their cytoplasm.",
+          "exampleTranslation": "我们说，海水对它们的细胞质是等渗的。"
+        },
+        {
+          "id": 66,
+          "word": "Isotonic",
+          "translation": "等渗的|等张的，等渗的|等分的",
+          "phonetic": "/ˌaɪsəʊˈtɒnɪk/",
+          "example": "We say that sea water is isotonic to their cytoplasm.",
+          "exampleTranslation": "我们说，海水对它们的细胞质是等渗的。"
+        },
+        {
+          "id": 67,
+          "word": "osmosis",
+          "translation": "渗透；渗透性；渗透作用",
+          "phonetic": "/ɒzˈməʊsɪs/",
+          "example": "Water passes into the roots of a plant by osmosis.",
+          "exampleTranslation": "水渗透至植物根部。"
+        },
+        {
+          "id": 68,
+          "word": "osmosis",
+          "translation": "渗透|渗透作用|渗透性",
+          "phonetic": "/ɒzˈməʊsɪs/",
+          "example": "Water passes into the roots of a plant by osmosis.",
+          "exampleTranslation": "水渗透至植物根部。"
+        },
+        {
+          "id": 69,
+          "word": "aquaporin",
+          "translation": "水通道蛋白",
+          "phonetic": "",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 70,
+          "word": "Aquaporin",
+          "translation": "水通道蛋白|肌肤水通道|水孔蛋白",
+          "phonetic": "",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 71,
+          "word": "aquaporin(AQP)",
+          "translation": "水孔蛋白",
+          "phonetic": "",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 72,
+          "word": "congenital",
+          "translation": "adj. 先天的，天生的；天赋的",
+          "phonetic": "/kənˈdʒenɪt(ə)l/",
+          "example": "He was a congenital liar and usually in debt.",
+          "exampleTranslation": "他曾是个天生的说谎者并经常欠债。"
+        },
+        {
+          "id": 73,
+          "word": "Congenital",
+          "translation": "先天性病|天生的|先天的",
+          "phonetic": "/kənˈdʒenɪt(ə)l/",
+          "example": "He was a congenital liar and usually in debt.",
+          "exampleTranslation": "他曾是个天生的说谎者并经常欠债。"
+        },
+        {
+          "id": 74,
+          "word": "nephrogenic",
+          "translation": "adj. 肾发生的；肾原性的",
+          "phonetic": "/nefrəʊˈdʒenɪk/",
+          "example": "To study the effect of hemin on nephrogenic hypertension of chronic renal failure rats and its possible mechanism .",
+          "exampleTranslation": "目的研究氯高铁血红素对慢性肾衰竭大鼠血压的影响，并探讨其可能机制。"
+        },
+        {
+          "id": 75,
+          "word": "Nephrogenic",
+          "translation": "肾原性的|生肾的",
+          "phonetic": "/nefrəʊˈdʒenɪk/",
+          "example": "To study the effect of hemin on nephrogenic hypertension of chronic renal failure rats and its possible mechanism .",
+          "exampleTranslation": "目的研究氯高铁血红素对慢性肾衰竭大鼠血压的影响，并探讨其可能机制。"
+        },
+        {
+          "id": 76,
+          "word": "diabetes",
+          "translation": "糖尿病；多尿症",
+          "phonetic": "/ˌdaɪəˈbiːtiːz/",
+          "example": "He suffered from diabetes and gastric ulcers.",
+          "exampleTranslation": "他患有糖尿病和胃溃疡。"
+        },
+        {
+          "id": 77,
+          "word": "Diabetes",
+          "translation": "糖尿病|??病|肠内营养混悬液",
+          "phonetic": "/ˌdaɪəˈbiːtiːz/",
+          "example": "He suffered from diabetes and gastric ulcers.",
+          "exampleTranslation": "他患有糖尿病和胃溃疡。"
+        },
+        {
+          "id": 78,
+          "word": "physician",
+          "translation": "医师；内科医师",
+          "phonetic": "/fɪˈzɪʃ(ə)n/",
+          "example": "The physician may prescribe but not administer the drug.",
+          "exampleTranslation": "内科医师可以开处方但不可发药。"
+        },
+        {
+          "id": 79,
+          "word": "Physician",
+          "translation": "内科医生|内科医师|医师",
+          "phonetic": "/fɪˈzɪʃ(ə)n/",
+          "example": "The physician may prescribe but not administer the drug.",
+          "exampleTranslation": "内科医师可以开处方但不可发药。"
+        },
+        {
+          "id": 80,
+          "word": "alternatively",
+          "translation": "adv. 非此即彼；二者择一地；作为一种选择",
+          "phonetic": "/ɔːlˈtɜːnətɪvli/",
+          "example": "You could, alternatively, hang onto it in the hope that it will be worth millions in 10 years time.",
+          "exampleTranslation": "或者，你也可以把它留着，指望它10年后值好几百万。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chapter 5",
+      "description": "Words 81 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 81,
+          "word": "Alternatively",
+          "translation": "\" 做为选择",
+          "phonetic": "/ɔːlˈtɜːnətɪvli/",
+          "example": "You could, alternatively, hang onto it in the hope that it will be worth millions in 10 years time.",
+          "exampleTranslation": "或者，你也可以把它留着，指望它10年后值好几百万。"
+        },
+        {
+          "id": 82,
+          "word": "abbreviation",
+          "translation": "缩写；缩写词",
+          "phonetic": "/əˌbriːviˈeɪʃn/",
+          "example": "What's the abbreviation for 'Saint'?",
+          "exampleTranslation": "Saint的缩写形式是什么？"
+        },
+        {
+          "id": 83,
+          "word": "Abbreviation",
+          "translation": "缩写|缩语和略语|简写",
+          "phonetic": "/əˌbriːviˈeɪʃn/",
+          "example": "What's the abbreviation for 'Saint'?",
+          "exampleTranslation": "Saint的缩写形式是什么？"
+        },
+        {
+          "id": 84,
+          "word": "calcium",
+          "translation": "钙",
+          "phonetic": "/ˈkælsiəm/",
+          "example": "Calcium is found most abundantly in milk.",
+          "exampleTranslation": "奶含钙最丰富。"
+        },
+        {
+          "id": 85,
+          "word": "Calcium",
+          "translation": "钙|钙：|钙离子",
+          "phonetic": "/ˈkælsiəm/",
+          "example": "Calcium is found most abundantly in milk.",
+          "exampleTranslation": "奶含钙最丰富。"
+        },
+        {
+          "id": 86,
+          "word": "unsubscribe",
+          "translation": "取消订阅；注销；注销账户",
+          "phonetic": "/ˌʌnsəbˈskraɪb/",
+          "example": "Go to the website today and you can unsubscribe online.",
+          "exampleTranslation": "今天上网就能在线退订。"
+        },
+        {
+          "id": 87,
+          "word": "antiserum",
+          "translation": "抗血清",
+          "phonetic": "/ˌæntɪˈsɪərəm/",
+          "example": "The astite titer of antiserum in three immune mice is much higher than that of positive serum.",
+          "exampleTranslation": "三只免疫小鼠的抗血清的滴度要比阳性血清高。"
+        },
+        {
+          "id": 88,
+          "word": "Antiserum",
+          "translation": "抗血清|抗毒血清|免疫蛋白",
+          "phonetic": "/ˌæntɪˈsɪərəm/",
+          "example": "The astite titer of antiserum in three immune mice is much higher than that of positive serum.",
+          "exampleTranslation": "三只免疫小鼠的抗血清的滴度要比阳性血清高。"
+        },
+        {
+          "id": 89,
+          "word": "oocyte",
+          "translation": "卵母细胞",
+          "phonetic": "/ˈəʊəsaɪt/",
+          "example": "Follicle cells begin to surround oocyte.",
+          "exampleTranslation": "滤泡细胞开始包围卵母细胞。"
+        },
+        {
+          "id": 90,
+          "word": "Oocyte",
+          "translation": "卵母细胞|卵细胞|卵母细胞，卵原细胞",
+          "phonetic": "/ˈəʊəsaɪt/",
+          "example": "Follicle cells begin to surround oocyte.",
+          "exampleTranslation": "滤泡细胞开始包围卵母细胞。"
+        },
+        {
+          "id": 91,
+          "word": "advocate",
+          "translation": "vt. 提倡，主张，拥护 n. 提倡者；支持者；律师",
+          "phonetic": "/ˈædvəkeɪt/",
+          "example": "He is a strident advocate of nuclear power.",
+          "exampleTranslation": "他是发展核能的坚定拥护者。"
+        },
+        {
+          "id": 92,
+          "word": "derive",
+          "translation": "vt. 源于；得自 vi. 起源",
+          "phonetic": "/dɪˈraɪv/",
+          "example": "Most patients derive enjoyment from leafing through old picture albums.",
+          "exampleTranslation": "大部分病人能从翻阅旧相册中获得乐趣。"
+        },
+        {
+          "id": 93,
+          "word": "bracket",
+          "translation": "支架；括号；墙上凸出的托架 vt. 括在一起；把…归入同一类；排除",
+          "phonetic": "/ˈbrækɪt/",
+          "example": "Each bracket is fixed to the wall with just three screws.",
+          "exampleTranslation": "每个托架只用3颗螺钉固定在墙上。"
+        },
+        {
+          "id": 94,
+          "word": "refine",
+          "translation": "vt. 精炼，提纯；改善；使…文雅",
+          "phonetic": "/rɪˈfaɪn/",
+          "example": "At the same time, more of this newly discovered oil is of the type that requires a greater investment to refine.",
+          "exampleTranslation": "与此同时，在这些新发现的石油中，更多是需要加大投资才能提炼的类型。"
+        },
+        {
+          "id": 95,
+          "word": "crude",
+          "translation": "原油；天然的物质adj. 粗糙的；天然的，未加工的；粗鲁的",
+          "phonetic": "/kruːd/",
+          "example": "Must you be quite so crude?",
+          "exampleTranslation": "你一定要这样粗鲁吗？"
+        },
+        {
+          "id": 96,
+          "word": "Crude",
+          "translation": "原油|天然的雨林|粗糙",
+          "phonetic": "/kruːd/",
+          "example": "Must you be quite so crude?",
+          "exampleTranslation": "你一定要这样粗鲁吗？"
+        },
+        {
+          "id": 97,
+          "word": "consistent",
+          "translation": "adj. 始终如一的，一致的；坚持的",
+          "phonetic": "/kənˈsɪstənt/",
+          "example": "A theory should be internally consistent.",
+          "exampleTranslation": "一套理论应当内在一致。"
+        },
+        {
+          "id": 98,
+          "word": "striking",
+          "translation": "strike的ing形式 adj. 显著的，突出的，惊人的；打击的；罢工的 v. 打",
+          "phonetic": "/ˈstraɪkɪŋ/",
+          "example": "Striking workers picketed the factory.",
+          "exampleTranslation": "罢工的工人在工厂附近设置了纠察队。"
+        },
+        {
+          "id": 99,
+          "word": "sustain",
+          "translation": "vt. 支撑，承担；维持；忍受；供养；证实",
+          "phonetic": "/səˈsteɪn/",
+          "example": "Which planets can sustain life?",
+          "exampleTranslation": "哪些行星可以维持生命的存在？"
+        },
+        {
+          "id": 100,
+          "word": "moisture",
+          "translation": "潮湿；水分；降雨量；湿度",
+          "phonetic": "/ˈmɔɪstʃə(r)/",
+          "example": "The air is heavy with moisture.",
+          "exampleTranslation": "空气中充满了湿气。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chapter 6",
+      "description": "Words 101 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 101,
+          "word": "laboratory",
+          "translation": "实验室，研究室",
+          "phonetic": "/ləˈbɒrətri/",
+          "example": "Laboratory and field tests have been conducted.",
+          "exampleTranslation": "已进行实验室试验和现场试验。"
+        },
+        {
+          "id": 102,
+          "word": "perceive",
+          "translation": "vt. 察觉，感觉；理解；认知 vi. 感到，感知；认识到",
+          "phonetic": "/pəˈsiːv/",
+          "example": "Voters perceive him as a decisive and resolute international leader.",
+          "exampleTranslation": "选民认识到他是一位果断、坚定的国际领袖。"
+        },
+        {
+          "id": 103,
+          "word": "fabric",
+          "translation": "织物；构造；建筑物；组织；布",
+          "phonetic": "/ˈfæbrɪk/",
+          "example": "The fabric moulds to the body.",
+          "exampleTranslation": "这种织物很贴身。"
+        },
+        {
+          "id": 104,
+          "word": "synthetic",
+          "translation": "adj. 合成的，人造的；综合的n. 合成物",
+          "phonetic": "/sɪnˈθetɪk/",
+          "example": "Boots made from synthetic materials can usually be washed in a machine.",
+          "exampleTranslation": "用合成材料做成的靴子通常可以在机器里洗。"
+        },
+        {
+          "id": 105,
+          "word": "bred",
+          "translation": "繁殖breed的过去式和过去分词",
+          "phonetic": "/bred/",
+          "example": "The majority of sweet peas are still bred by enthusiastic amateur gardeners.",
+          "exampleTranslation": "大部分甜豌豆仍然是由热衷园艺的业余爱好者培育的。"
+        },
+        {
+          "id": 106,
+          "word": "probability",
+          "translation": "可能性",
+          "phonetic": "/ˌprɒbəˈbɪləti/",
+          "example": "There seemed to be a high probability of success.",
+          "exampleTranslation": "成功的几率似乎很高。"
+        },
+        {
+          "id": 107,
+          "word": "Possibility",
+          "translation": "可能性",
+          "phonetic": "/ˌpɒsəˈbɪləti/",
+          "example": "It's a theoretical possibility.",
+          "exampleTranslation": "这是理论上存在的可能性。"
+        },
+        {
+          "id": 108,
+          "word": "feasibility",
+          "translation": "可能性",
+          "phonetic": "/ˌfiːzəˈbɪləti/",
+          "example": "I doubt the feasibility of the plan.",
+          "exampleTranslation": "我怀疑这个计划的可行性。"
+        },
+        {
+          "id": 109,
+          "word": "soluble",
+          "translation": "adj. 可溶的，可溶解的；可解决的",
+          "phonetic": "/ˈsɒljəb(ə)l/",
+          "example": "Vitamin C is water soluble.",
+          "exampleTranslation": "维生素C可溶于水。"
+        },
+        {
+          "id": 110,
+          "word": "subunit",
+          "translation": "亚组；副族",
+          "phonetic": "/ˈsʌbjuːnɪt/",
+          "example": "Cyclic AMP binds to the regulatory subunit of protein kinase A: Protein kinase A phosphorylates phosphorylase kinase.",
+          "exampleTranslation": "环腺苷酸结合蛋白激酶的调节亚基：一个磷酸化蛋白激酶磷酸化酶激酶。"
+        },
+        {
+          "id": 111,
+          "word": "filamentous",
+          "translation": "adj. 纤维所成的；细丝状的；如丝的",
+          "phonetic": "/ˈfɪləməntəs/",
+          "example": "The aerobic selector process can control filamentous bulking efficiently under low F/M condition.",
+          "exampleTranslation": "选择器系统在低负荷条件下能有效地控制污泥丝状菌性膨胀。"
+        },
+        {
+          "id": 112,
+          "word": "polymer",
+          "translation": "聚合物",
+          "phonetic": "/ˈpɒlɪmə(r)/",
+          "example": "The nature of the polymer is currently a trade secret.",
+          "exampleTranslation": "该聚合物的属性目前是个行业秘密。"
+        },
+        {
+          "id": 113,
+          "word": "reassembly",
+          "translation": "adv. 重新装配的；重组的",
+          "phonetic": "/ˌriːəˈsembli/",
+          "example": "Segmentation and reassembly.",
+          "exampleTranslation": "分片和重组。"
+        },
+        {
+          "id": 114,
+          "word": "segment",
+          "translation": "vi. 分割 n. 段；部分vt. 分割",
+          "phonetic": "/ˈseɡmənt/",
+          "example": "She cleaned a small segment of the painting.",
+          "exampleTranslation": "她擦干净了这幅画的一小部分。"
+        },
+        {
+          "id": 115,
+          "word": "shrink",
+          "translation": "vi. 收缩；畏缩 vt. 使缩小，使收缩 n. 收缩",
+          "phonetic": "/ʃrɪŋk/",
+          "example": "I've seen a shrink already.",
+          "exampleTranslation": "我已经看过了精神病医生。"
+        },
+        {
+          "id": 116,
+          "word": "cytoplasm",
+          "translation": "细胞质",
+          "phonetic": "/ˈsaɪtəʊplæzəm/",
+          "example": "They are located in the cytoplasm of the egg cell.",
+          "exampleTranslation": "它们位于卵细胞的细胞质中。"
+        },
+        {
+          "id": 117,
+          "word": "conduit",
+          "translation": "导管；沟渠；导水管",
+          "phonetic": "/ˈkɒndjuɪt/",
+          "example": "Pakistan became a conduit for drugs produced in Afghanistan.",
+          "exampleTranslation": "巴基斯坦成了阿富汗制造的毒品的贩运通道。"
+        },
+        {
+          "id": 118,
+          "word": "permeability",
+          "translation": "弥漫；渗透性；[物",
+          "phonetic": "/ˌpɜːmiəˈbɪləti/",
+          "example": "Sediment sorting and compaction influence permeability and porosity.",
+          "exampleTranslation": "沉积物的分选和压实作用影响渗透率和孔隙度。"
+        },
+        {
+          "id": 119,
+          "word": "glaring",
+          "translation": "adj. 耀眼的；瞪视的；炯炯的",
+          "phonetic": "/ˈɡleərɪŋ/",
+          "example": "As Mr. Flanagan leaves the glaring sun of the prairie and enters the shady grove, his eyes search for specific tree.",
+          "exampleTranslation": "当弗拉纳根先生从牧场上耀眼的阳光处走进绿树成荫的小树林时，他的眼睛搜寻着特定的一棵树。"
+        },
+        {
+          "id": 120,
+          "word": "gospel",
+          "translation": "真理；信条adj. 传播福音的；福音赞美诗的",
+          "phonetic": "/ˈɡɒsp(ə)l/",
+          "example": "Is that gospel?",
+          "exampleTranslation": "那是绝对真理吗？"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chapter 7",
+      "description": "Words 121 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 121,
+          "word": "Gospel",
+          "translation": "福音 | 福音音乐 | 福音书",
+          "phonetic": "/ˈɡɒsp(ə)l/",
+          "example": "Is that gospel?",
+          "exampleTranslation": "那是绝对真理吗？"
+        },
+        {
+          "id": 122,
+          "word": "Invitrogen",
+          "translation": "英杰公司；表达载体",
+          "phonetic": "",
+          "example": "In 2008, Applied Biosystems merged with Invitrogen.",
+          "exampleTranslation": "2008，年应用生物系统公司与英杰公司合并。"
+        },
+        {
+          "id": 123,
+          "word": "pigment",
+          "translation": "颜料；色素vt. 给…着色vi. 呈现颜色",
+          "phonetic": "/ˈpɪɡmənt/",
+          "example": "He makes his own paint, grinding up the pigment with a little oil.",
+          "exampleTranslation": "他把色料块加少许油磨碎，自己制成绘画颜料。"
+        },
+        {
+          "id": 124,
+          "word": "fuel",
+          "translation": "vi. 得到燃料vt. 供以燃料，加燃料 n. 燃料；刺激因素",
+          "phonetic": "/ˈfjuːəl/",
+          "example": "We seem to be light on fuel.",
+          "exampleTranslation": "我们好像燃料不多了。"
+        },
+        {
+          "id": 125,
+          "word": "proteome",
+          "translation": "蛋白质组",
+          "phonetic": "/ˈprəʊtɪəʊm/",
+          "example": "AFTER the genome, the proteome!",
+          "exampleTranslation": "基因组之后，蛋白质组来了！"
+        },
+        {
+          "id": 126,
+          "word": "phylogenetic",
+          "translation": "adj.系统发生的；动植物种类史的",
+          "phonetic": "/ˌfaɪlədʒɪˈnetɪk/",
+          "example": "Phylogeny Studies of heterochrony are built upon the phylogenetic assumptions used.",
+          "exampleTranslation": "异时性的系统发育研究是建立在系统发育假设的基础上的。"
+        },
+        {
+          "id": 127,
+          "word": "phylogenetics",
+          "translation": "系统发生学；种系遗传学",
+          "phonetic": "/faɪlədʒɪˈnetɪks/",
+          "example": "Those results appear in the journal Molecular Phylogenetics and Evolution.",
+          "exampleTranslation": "这项研究成果发表在《分子系统发育和进化》杂志上。"
+        },
+        {
+          "id": 128,
+          "word": "thinner",
+          "translation": "稀释剂，冲淡剂 adj. 薄的；细的；瘦的",
+          "phonetic": "/ˈθɪnə(r)/",
+          "example": "The twins were dressed differently and one was thinner than the other.",
+          "exampleTranslation": "这对双胞胎穿着各异，而且其中一个比另一个瘦。"
+        },
+        {
+          "id": 129,
+          "word": "warfarin",
+          "translation": "华法令阻凝剂；杀鼠灵",
+          "phonetic": "/ˈwɔːfərɪn/",
+          "example": "Warfarin, a synthesized version of dicumarol, is 5 to 10 times stronger than the original compound.",
+          "exampleTranslation": "华法令是一种合成的双香豆素，比原始复合物强5到10倍。"
+        },
+        {
+          "id": 130,
+          "word": "pharmacology",
+          "translation": "药物学，药理学",
+          "phonetic": "/ˌfɑːməˈkɒlədʒi/",
+          "example": "The pharmacology, pharmacokinetics and clinical evaluation of vilazodone were reviewed.",
+          "exampleTranslation": "对维拉唑酮的药理作用、药动学以及临床评价进行了回顾。"
+        },
+        {
+          "id": 131,
+          "word": "tailor",
+          "translation": "vt. 剪裁；使合适 n. 裁缝 vi. 做裁缝",
+          "phonetic": "/ˈteɪlə(r)/",
+          "example": "The tailor delicately plied his needle.",
+          "exampleTranslation": "裁缝精巧地飞针走线。"
+        },
+        {
+          "id": 132,
+          "word": "pharmacogenetic",
+          "translation": "；遗传药理学；药物反应遗传学",
+          "phonetic": "",
+          "example": "Pharmacogenomics --- The application of genomic information or methods to pharmacogenetic problems.",
+          "exampleTranslation": "药物基因组学：将基因组学应用于药物遗传学的学科。"
+        },
+        {
+          "id": 133,
+          "word": "pharmacogenetics",
+          "translation": "遗传药理学；药物基因学",
+          "phonetic": "/ˌfɑːməkəʊdʒɪˈnetɪks/",
+          "example": "Pharmacogenetics seeks to change all that.",
+          "exampleTranslation": "但药物遗传学要改变这种情况。"
+        },
+        {
+          "id": 134,
+          "word": "disseminate",
+          "translation": "vt. 散布；宣传，传播vi. 散布；广为传播",
+          "phonetic": "/dɪˈsemɪneɪt/",
+          "example": "Political advocacy groups have begun to use information services to disseminate information that is then accessed by the public via personal computer.",
+          "exampleTranslation": "政治宣传团体已经开始使用信息服务来传播信息，公众可以通过个人电脑获取这些信息。"
+        },
+        {
+          "id": 135,
+          "word": "interface",
+          "translation": "接口；界面；接触面",
+          "phonetic": "/ˈɪntəfeɪs/",
+          "example": "The system uses an impressive graphical interface.",
+          "exampleTranslation": "这一系统采用了特别好的图形界面。"
+        },
+        {
+          "id": 136,
+          "word": "stagger",
+          "translation": "vt. 使交错；使犹豫vi. 蹒跚；犹豫n.交错安排adj. 交错的；错开的",
+          "phonetic": "/ˈstæɡə(r)/",
+          "example": "There were so many runners that they had to stagger the start.",
+          "exampleTranslation": "参加赛跑的选手很多，他们不得不把起跑的时间错开。"
+        },
+        {
+          "id": 137,
+          "word": "propel",
+          "translation": "vt. 推进；驱使；驱策；激励",
+          "phonetic": "/prəˈpel/",
+          "example": "The tiny rocket is attached to the spacecraft and is designed to propel it toward Mars.",
+          "exampleTranslation": "微型火箭附在宇宙飞船上，用来推进飞船飞向火星。"
+        },
+        {
+          "id": 138,
+          "word": "manipulate",
+          "translation": "vt. 操作；操纵；巧妙地处理；篡改",
+          "phonetic": "/məˈnɪpjuleɪt/",
+          "example": "The technology uses a pen to manipulate a computer.",
+          "exampleTranslation": "这项技术使用笔来操作计算机。"
+        },
+        {
+          "id": 139,
+          "word": "atlas",
+          "translation": "地图集",
+          "phonetic": "/ˈætləs/",
+          "example": "The events took place against the dramatic backdrop of the Atlas mountains.",
+          "exampleTranslation": "活动在雄伟的阿特拉斯山脉举行。"
+        },
+        {
+          "id": 140,
+          "word": "collaboration",
+          "translation": "合作；通敌；勾结",
+          "phonetic": "/kəˌlæbəˈreɪʃ(ə)n/",
+          "example": "It was a collaboration that produced extremely useful results.",
+          "exampleTranslation": "这是一次带来极其有益的成果的合作。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Chapter 8",
+      "description": "Words 141 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 141,
+          "word": "algorithm",
+          "translation": "算法，运算法则",
+          "phonetic": "/ˈælɡərɪðəm/",
+          "example": "Don't diddle code to make it faster—find a better algorithm.",
+          "exampleTranslation": "不要为了使代码更快而胡乱编写代码——要找到更好的算法。"
+        },
+        {
+          "id": 142,
+          "word": "hemoglobin",
+          "translation": "血红蛋白；血红素",
+          "phonetic": "/ˌhiːməˈɡləʊbɪn/",
+          "example": "The reconstructed mammoth hemoglobin could deliver oxygen at colder temperatures than the human form of the protein could handle.",
+          "exampleTranslation": "重组的猛犸象血红蛋白可以在比人类血红蛋白更低的温度下输送氧气。"
+        },
+        {
+          "id": 143,
+          "word": "globin",
+          "translation": "球蛋白，珠朊",
+          "phonetic": "/ˈɡləʊbɪn/",
+          "example": "Interference with the normal production of heme or globin leads to anemia.",
+          "exampleTranslation": "血红素或球蛋白的正常产生收到干扰会导致贫血。"
+        },
+        {
+          "id": 144,
+          "word": "subset",
+          "translation": "子集；子设备；小团体",
+          "phonetic": "/ˈsʌbset/",
+          "example": "The user can target each query to be executed to a subset of slices.",
+          "exampleTranslation": "用户可以将要执行的每个查询定位到片的一个子集。"
+        },
+        {
+          "id": 145,
+          "word": "roundwood",
+          "translation": "圆材",
+          "phonetic": "/ˈraʊndwʊd/",
+          "example": "They also face falling roundwood quotas from pulp and paper factories, slowing peeler log demand, declining sawlog exports and increasing difficulty securing lines of credit.",
+          "exampleTranslation": "他们同样面临来自纸浆和造纸工厂对于原木订购配额的下降，原木削皮需求的降低，原木段出口的下滑和贷款要求的提高。"
+        },
+        {
+          "id": 146,
+          "word": "roundworm",
+          "translation": "蛔虫",
+          "phonetic": "/ˈraʊndwɜːm/",
+          "example": "It's an atlas of the distribution and prevalence of helminth diseases, including roundworm, hookworm, and whipworm.",
+          "exampleTranslation": "这是一个寄生虫疾病分布和预防的图集，其中包括了蛔虫、钩虫和鞭虫。"
+        },
+        {
+          "id": 147,
+          "word": "homologous",
+          "translation": "adj. 相应的；同源的；类似的；一致的",
+          "phonetic": "/həˈmɒləɡəs/",
+          "example": "The seal's flipper is homologous with the human arm.",
+          "exampleTranslation": "海豹的鳍肢与人类的手臂同源。"
+        },
+        {
+          "id": 148,
+          "word": "ribosomal",
+          "translation": "adj. 核醣体的",
+          "phonetic": "/raɪbəˈsəməl/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 149,
+          "word": "mitochondria",
+          "translation": "线粒体",
+          "phonetic": "/ˌmaɪtəʊˈkɒndrɪə/",
+          "example": "It is easily extracted, because it is one of a handful of genes found outside the cell nucleus, in structures called mitochondria.",
+          "exampleTranslation": "它很容易提取，因为它是在细胞核之外、叫做线粒体的结构里被发现的少量基因之一。"
+        },
+        {
+          "id": 150,
+          "word": "cytochrome",
+          "translation": "细胞色素",
+          "phonetic": "/ˈsaɪtəʊˌkrəʊm/",
+          "example": "The objective is to study the effect of salvia miltiorrhiza on activity of cytochrome C oxidase in acute renal ischemic reperfusion injury.",
+          "exampleTranslation": "目的是为了研究丹参对肾缺血再灌注损伤细胞色素 C 氧化酶活性的影响。"
+        },
+        {
+          "id": 151,
+          "word": "colorectal",
+          "translation": "adj. 结肠直肠的",
+          "phonetic": "/ˌkəʊləʊˈrekt(ə)l/",
+          "example": "Within a month doctors told him that he had colorectal cancer.",
+          "exampleTranslation": "不到一个月，医生告知他得了结肠癌。"
+        },
+        {
+          "id": 152,
+          "word": "soybean",
+          "translation": "大豆；黄豆",
+          "phonetic": "/ˈsɒɪbiːn/",
+          "example": "Soybean prices are basically flat this year while corn prices are up 25%.",
+          "exampleTranslation": "今年玉米的价格上涨了将近25%，而大豆的价格则基本持平。"
+        },
+        {
+          "id": 153,
+          "word": "query",
+          "translation": "疑问，质问；疑问号vt. 询问；对……表示疑问vi. 询问；表示怀疑",
+          "phonetic": "/ˈkwɪəri/",
+          "example": "If you have a query about your insurance policy, contact our helpline.",
+          "exampleTranslation": "若对保险单有疑问，请拨打我们的咨询热线。"
+        },
+        {
+          "id": 154,
+          "word": "advent",
+          "translation": "到来；出现；基督降临；基督降临节",
+          "phonetic": "/ˈædvent/",
+          "example": "The advent of the computer has brought this sort of task within the bounds of possibility.",
+          "exampleTranslation": "电脑的出现使这种任务的完成成为可能。"
+        },
+        {
+          "id": 155,
+          "word": "cystic",
+          "translation": "adj. 囊的；膀胱的，胆囊的；胞囊的",
+          "phonetic": "/ˈsɪstɪk/",
+          "example": "Cystic fibrosis is the commonest fatal hereditary disease.",
+          "exampleTranslation": "囊性纤维化是最常见的致命性遗传疾病。"
+        },
+        {
+          "id": 156,
+          "word": "fibrosis",
+          "translation": "纤维化，纤维变性",
+          "phonetic": "/faɪˈbrəʊsɪs/",
+          "example": "Cystic fibrosis is the commonest fatal hereditary disease.",
+          "exampleTranslation": "囊性纤维化是最常见的致命性遗传疾病。"
+        },
+        {
+          "id": 157,
+          "word": "taxonomy",
+          "translation": "分类学；分类法",
+          "phonetic": "/tækˈsɒnəmi/",
+          "example": "Some people consider glossary and taxonomy as metadata as well.",
+          "exampleTranslation": "有些人认为词汇表和分类法也属于元数据的范畴。"
+        },
+        {
+          "id": 158,
+          "word": "subsequent",
+          "translation": "adj. 后来的，随后的",
+          "phonetic": "/ˈsʌbsɪkwənt/",
+          "example": "Subsequent events confirmed our doubts.",
+          "exampleTranslation": "后来发生的事证实了我们的怀疑。"
+        },
+        {
+          "id": 159,
+          "word": "chloride",
+          "translation": "氯化物",
+          "phonetic": "/ˈklɔːraɪd/",
+          "example": "The scientific name for common salt is sodium chloride.",
+          "exampleTranslation": "氯化钠是普通盐的学名。"
+        },
+        {
+          "id": 160,
+          "word": "mucus",
+          "translation": "粘液；黏液",
+          "phonetic": "/ˈmjuːkəs/",
+          "example": "One sneeze can put as many as 40,000 droplets of saliva and mucus into the air.",
+          "exampleTranslation": "一个喷嚏可以将多达40000滴唾液和黏液喷到空气中。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chapter 9",
+      "description": "Words 161 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 161,
+          "word": "airway",
+          "translation": "导气管；空中航线；通风孔",
+          "phonetic": "/ˈeəweɪ/",
+          "example": "First check that the accident victim doesn't have an obstructed airway.",
+          "exampleTranslation": "首先要确保事故受伤者的气道通畅。"
+        },
+        {
+          "id": 162,
+          "word": "respiratory",
+          "translation": "adj. 呼吸的",
+          "phonetic": "/rəˈspɪrət(ə)ri/",
+          "example": "Figure 4.1 shows the respiratory system.",
+          "exampleTranslation": "图4.1所示的是呼吸系统。"
+        },
+        {
+          "id": 163,
+          "word": "hallmark",
+          "translation": "品质证明；特点vt. 给…盖上品质证明印记；使具有…标志",
+          "phonetic": "/ˈhɔːlmɑːk/",
+          "example": "It's a technique that has become the hallmark of Amber Films.",
+          "exampleTranslation": "这是一项已成为安伯电影公司标志的技术。"
+        },
+        {
+          "id": 164,
+          "word": "opsin",
+          "translation": "视蛋白",
+          "phonetic": "/ˈɒpsɪn/",
+          "example": "In one type of squirrel monkey, the males lack a visual pigment called L-opsin.",
+          "exampleTranslation": "在一种松鼠猴中，雄松鼠猴缺少一种叫做L视蛋白视觉色素。"
+        },
+        {
+          "id": 165,
+          "word": "navigate",
+          "translation": "vt. 航行于；驾驶，操纵；使通过vi. 航行，航空",
+          "phonetic": "/ˈnævɪɡeɪt/",
+          "example": "I'll drive, and you can navigate.",
+          "exampleTranslation": "我开车，你引路。"
+        },
+        {
+          "id": 166,
+          "word": "prone",
+          "translation": "adj. 有…倾向的，易于…的；俯卧的",
+          "phonetic": "/prəʊn/",
+          "example": "He was found lying in a prone position.",
+          "exampleTranslation": "人们发现他俯卧着。"
+        },
+        {
+          "id": 167,
+          "word": "substitution",
+          "translation": "代替；置换；代替物",
+          "phonetic": "/ˌsʌbstɪˈtjuːʃ(ə)n/",
+          "example": "In my experience a straight substitution of carob for chocolate doesn't work.",
+          "exampleTranslation": "以我的经验，角豆直接代替巧克力不会奏效。"
+        },
+        {
+          "id": 168,
+          "word": "deleting",
+          "translation": "正在删除 v. 删除；擦去",
+          "phonetic": "/dɪˈliːtɪŋ/",
+          "example": "This will take you to a form where you'll need to confirm each of the services you'll be deleting.",
+          "exampleTranslation": "这将带您进入一个表单，您需要在其中确认要删除的每个服务。"
+        },
+        {
+          "id": 169,
+          "word": "actin",
+          "translation": "肌动蛋白",
+          "phonetic": "/ˈæktɪn/",
+          "example": "From this time dated their plan of play actin'.",
+          "exampleTranslation": "从这个时候起，他们的演戏计划就开始了。"
+        },
+        {
+          "id": 170,
+          "word": "parameter",
+          "translation": "参数；参量；系数",
+          "phonetic": "/pəˈræmɪtə(r)/",
+          "example": "If you have enough RAM, set the value of this parameter as large as possible to decrease the indexing time dramatically.",
+          "exampleTranslation": "如果你有足够的内存，请将该参数的值设置得尽可能大以显著减少索引时间。"
+        },
+        {
+          "id": 171,
+          "word": "redundant",
+          "translation": "adj. 多余的，过剩的；冗长的，累赘的；被解雇的，失业的",
+          "phonetic": "/rɪˈdʌndənt/",
+          "example": "Changes in technology may mean that once-valued skills are now redundant.",
+          "exampleTranslation": "技术的变化可能意味着从前受重视的技巧现在变得多余了。"
+        },
+        {
+          "id": 172,
+          "word": "divergence",
+          "translation": "分歧",
+          "phonetic": "/daɪˈvɜːdʒəns/",
+          "example": "Can divergence occur if no physical barriers are in place to separate individuals who continue to live and reproduce in the same habitat?",
+          "exampleTranslation": "如果没有物理屏障将继续在同一栖息地生活和繁殖的个体隔离开来，分化是否会出现？"
+        },
+        {
+          "id": 173,
+          "word": "intron",
+          "translation": "基因内区",
+          "phonetic": "/ˈɪntrɒn/",
+          "example": "An image processing category, intron rich variety of image processing methods.",
+          "exampleTranslation": "一个图象处理类，内含各种丰富的图象的处理方法。"
+        },
+        {
+          "id": 174,
+          "word": "algorithms",
+          "translation": "算法；算法式",
+          "phonetic": "/ˈælɡərɪðəmz/",
+          "example": "Algorithms process the data, adapting and learning based on the data received.",
+          "exampleTranslation": "算法对数据进行处理，并根据接收到的数据进行适应和学习。"
+        },
+        {
+          "id": 175,
+          "word": "motif",
+          "translation": "主题；动机；图形；主旨；意念",
+          "phonetic": "/məʊˈtiːf/",
+          "example": "He then stencilled the ceiling with a moon and stars motif.",
+          "exampleTranslation": "他接着用模版在天花板印上月亮和星星图案。"
+        },
+        {
+          "id": 176,
+          "word": "accession",
+          "translation": "增加；就职；到达vt. 登记入册",
+          "phonetic": "/əkˈseʃ(ə)n/",
+          "example": "What's your view on China's accession to WTO?",
+          "exampleTranslation": "你对中国加入WTO有什么看法？"
+        },
+        {
+          "id": 177,
+          "word": "crystallography",
+          "translation": "结晶学",
+          "phonetic": "/ˌkrɪstəˈlɒɡrəfi/",
+          "example": "The symmetry rules were exerted perfectly in crystallography.",
+          "exampleTranslation": "对称规律在晶体学中得到了淋漓尽致的发挥。"
+        },
+        {
+          "id": 178,
+          "word": "resonance",
+          "translation": "共振；共鸣；反响",
+          "phonetic": "/ˈrezənəns/",
+          "example": "The ideas of order, security, family, religion and country had the same resonance for them as for Michael.",
+          "exampleTranslation": "秩序、安全、家庭、宗教和国家这些概念在他们心里产生了和迈克尔一样的共鸣。"
+        },
+        {
+          "id": 179,
+          "word": "spectroscopy",
+          "translation": "光谱学",
+          "phonetic": "/spekˈtrɒskəpi/",
+          "example": "The element was found using X-ray spectroscopy.",
+          "exampleTranslation": "这种元素是利用 X 射线光谱学发现的。"
+        },
+        {
+          "id": 180,
+          "word": "yield",
+          "translation": "vt. 出产；屈服；放弃vi. 屈服，投降n. 收益；产量",
+          "phonetic": "/jiːld/",
+          "example": "He may yield control.",
+          "exampleTranslation": "他可能放弃控制权。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chapter 10",
+      "description": "Words 181 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 181,
+          "word": "weed",
+          "translation": "vt. 除草；铲除n. 杂草，野草；菸草vi. 除草",
+          "phonetic": "/wiːd/",
+          "example": "He is eager to weed out the many applicants he believes may be frauds.",
+          "exampleTranslation": "他急于剔除那些他认为可能是行骗的申请人。"
+        },
+        {
+          "id": 182,
+          "word": "apoptosis",
+          "translation": "细胞凋亡；细胞死亡",
+          "phonetic": "/ˌæpəpˈtəʊsɪs/",
+          "example": "Weight-bearing is probably a key factor in the increase of annulus fibrosus cells apoptosis.",
+          "exampleTranslation": "负重可能是纤维环细胞凋亡增加的关键因素。"
+        },
+        {
+          "id": 183,
+          "word": "engulf",
+          "translation": "vt. 吞没；吞食，狼吞虎咽",
+          "phonetic": "/ɪnˈɡʌlf/",
+          "example": "The crisis threatens to engulf several others.",
+          "exampleTranslation": "这个危机波及了其它几个成员。"
+        },
+        {
+          "id": 184,
+          "word": "debris",
+          "translation": "碎片，残骸",
+          "phonetic": "/ˈdebriː/",
+          "example": "Falling debris rained on us from above.",
+          "exampleTranslation": "碎片从上面像雨点儿一样落在我们身上。"
+        },
+        {
+          "id": 185,
+          "word": "placenta",
+          "translation": "胎盘；胎座",
+          "phonetic": "/pləˈsentə/",
+          "example": "The drug can be transferred to the baby via the placenta.",
+          "exampleTranslation": "该药会通过胎盘传给胎儿。"
+        },
+        {
+          "id": 186,
+          "word": "dystrophin",
+          "translation": "肌营养不良蛋白；抗肌萎缩蛋白",
+          "phonetic": "/ˈdɪstrəfɪn/",
+          "example": "In the dystrophin gene, and in most of human genes, this genetic information is not contiguous.",
+          "exampleTranslation": "在肌营养不良蛋白基因，在人类基因大多数，这种遗传信息不连续的。"
+        },
+        {
+          "id": 187,
+          "word": "Huntingtin",
+          "translation": "变异亨廷顿蛋白 | 亨廷顿蛋白 | 蛋白",
+          "phonetic": "",
+          "example": "Modern molecular genetics revealed that Huntington's disease is caused by a mutation in the gene coding for the protein Huntingtin.",
+          "exampleTranslation": "现代分子遗传学研究发现，亨廷顿氏病是由编码亨廷顿蛋白质的基因突变引起的。"
+        },
+        {
+          "id": 188,
+          "word": "chimpanzee",
+          "translation": "黑猩猩",
+          "phonetic": "/ˌtʃɪmpænˈziː/",
+          "example": "After all, who could look at a chimpanzee on a unicycle and comprehend its real situation?",
+          "exampleTranslation": "毕竟，谁能看着骑在独轮车上的黑猩猩，理解它的真实处境呢?"
+        },
+        {
+          "id": 189,
+          "word": "prairie",
+          "translation": "大草原；牧场",
+          "phonetic": "/ˈpreəri/",
+          "example": "The prairie vole is one such animal.",
+          "exampleTranslation": "草原田鼠就是这样一种动物。"
+        },
+        {
+          "id": 190,
+          "word": "rodent",
+          "translation": "adj. 咬的，嚼的；啮齿类的；侵蚀性的n. 啮齿动物",
+          "phonetic": "/ˈrəʊd(ə)nt/",
+          "example": "Researchers observed one bird impale a rodent on a cactus.",
+          "exampleTranslation": "研究人员观察到，一只鸟把一个啮齿动物钉到了一棵仙人掌上。"
+        },
+        {
+          "id": 191,
+          "word": "hypothalamus",
+          "translation": "下丘脑",
+          "phonetic": "/ˌhaɪpəˈθæləməs/",
+          "example": "This receptor is located on a small set of neurons in the hypothalamus, a region that regulates appetite.",
+          "exampleTranslation": "该感受器位于下丘脑的一小部分神经元上，一个调节食欲的地方。"
+        },
+        {
+          "id": 192,
+          "word": "vole",
+          "translation": "大满贯；野鼠 vi. 赢得大满贯",
+          "phonetic": "/vəʊl/",
+          "example": "The prairie vole is one such animal.",
+          "exampleTranslation": "草原田鼠就是这样一种动物。"
+        },
+        {
+          "id": 193,
+          "word": "promiscuity",
+          "translation": "乱交；混乱",
+          "phonetic": "/ˌprɒmɪsˈkjuːəti/",
+          "example": "In fact, bonobo promiscuity seems to be an example of this.",
+          "exampleTranslation": "事实上倭黑猩猩的混交行为便是佐证。"
+        },
+        {
+          "id": 194,
+          "word": "promiscuous",
+          "translation": "adj. 杂乱的；混杂的 adv. 偶然地；胡乱地",
+          "phonetic": "/prəˈmɪskjuəs/",
+          "example": "People are far more promiscuous, it seems, on foreign holidays.",
+          "exampleTranslation": "在外国度假时，人们似乎会很更滥情。"
+        },
+        {
+          "id": 195,
+          "word": "deficit",
+          "translation": "赤字；不足额",
+          "phonetic": "/ˈdefɪsɪt/",
+          "example": "The deficit had grown with the connivance of the banks.",
+          "exampleTranslation": "在银行纵容下，赤字增加。"
+        },
+        {
+          "id": 196,
+          "word": "autism",
+          "translation": "孤独症；自我中心主义",
+          "phonetic": "/ˈɔːtɪzəm/",
+          "example": "We are actually trying to develop a compound to treat a very severe form of autism.",
+          "exampleTranslation": "我们实际上想研究出某种能够治疗一种非常严重的自闭症的复合药物。"
+        },
+        {
+          "id": 197,
+          "word": "predisposition",
+          "translation": "易染病体质；素质；倾向",
+          "phonetic": "/ˌpriːdɪspəˈzɪʃ(ə)n/",
+          "example": "There is a thin dividing line between educating the public and creating a predisposition to panic.",
+          "exampleTranslation": "教育公众和营造恐慌倾向之间只有细小的区别。"
+        },
+        {
+          "id": 198,
+          "word": "variant",
+          "translation": "adj. 不同的；多样的n. 变体；转化",
+          "phonetic": "/ˈveəriənt/",
+          "example": "The quagga was a strikingly beautiful variant of the zebra.",
+          "exampleTranslation": "白氏斑马是一种极其美丽的斑马变种。"
+        },
+        {
+          "id": 199,
+          "word": "reinforcement",
+          "translation": "加固；增援；援军；加强",
+          "phonetic": "/ˌriːɪnˈfɔːsmənt/",
+          "example": "Since employees have different needs, what acts as a reinforcement for one may not for another.",
+          "exampleTranslation": "由于员工需求不同，对一个人起强化作用的措施可能对另一个人不起作用。"
+        },
+        {
+          "id": 200,
+          "word": "endeavor",
+          "translation": "努力；尽力vi. 努力；尽力",
+          "phonetic": "/ɪnˈdevə(r)/",
+          "example": "I endeavor to find some peaceful places.",
+          "exampleTranslation": "我努力寻找一些宁静的地方。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Chapter 11",
+      "description": "Words 201 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 201,
+          "word": "initiating",
+          "translation": "开始",
+          "phonetic": "/ɪˈnɪʃɪeɪtɪŋ/",
+          "example": "The Springer Group has filed a lawsuit in the Daily News, accusing the latter of initiating a road name change that was too labor-intensive and costly.",
+          "exampleTranslation": "施普林格集团已经一纸诉状将《每日新闻》告上法庭，控告后者发起的修改路名之举过于劳民伤财。"
+        },
+        {
+          "id": 202,
+          "word": "rival",
+          "translation": "对手；竞争者vt. 与…竞争；比得上某人vi. 竞争adj. 竞争的",
+          "phonetic": "/ˈraɪv(ə)l/",
+          "example": "This year the newspaper has outsold its main rival.",
+          "exampleTranslation": "今年该报的发行量已超过了它的主要对手。"
+        },
+        {
+          "id": 203,
+          "word": "scope",
+          "translation": "视野；眼界；范围；余地；导弹射程vt. 审视",
+          "phonetic": "/skəʊp/",
+          "example": "There's still plenty of scope for improvement.",
+          "exampleTranslation": "还有很大的改进余地。"
+        },
+        {
+          "id": 204,
+          "word": "paramount",
+          "translation": "adj. 最重要的，主要的；至高无上的n. 最高统治者",
+          "phonetic": "/ˈpærəmaʊnt/",
+          "example": "This matter is of paramount importance.",
+          "exampleTranslation": "此事至关重要。"
+        },
+        {
+          "id": 205,
+          "word": "implication",
+          "translation": "暗示；牵连，卷入；含义",
+          "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+          "example": "The implication was plain, if left unstated.",
+          "exampleTranslation": "即使不说出来，隐含义也很明显。"
+        },
+        {
+          "id": 206,
+          "word": "zygote",
+          "translation": "受精卵；接合子",
+          "phonetic": "/ˈzaɪɡəʊt/",
+          "example": "The zygote undergoes a long period of dormancy.",
+          "exampleTranslation": "卵细胞受精后则要经过较长的休眠期。"
+        },
+        {
+          "id": 207,
+          "word": "automated",
+          "translation": "adj. 自动化的；机械化的v. 自动操作；自动化",
+          "phonetic": "/ˈɔːtəmeɪtɪd/",
+          "example": "The factory is now fully automated.",
+          "exampleTranslation": "这家工厂现在是全自动化。"
+        },
+        {
+          "id": 208,
+          "word": "Nematoda",
+          "translation": "线虫类",
+          "phonetic": "",
+          "example": "Any of numerous relatively small elongated soft-bodied animals especially of the phyla annelida and chaetognatha and nematoda and nemertea and platyhelminthes; also many insect larvae.",
+          "exampleTranslation": "多种相关的细长软体小动物，特别是环虫类、毛颚类、线虫类和扁形虫类；也包括许多昆虫的幼虫。"
+        },
+        {
+          "id": 209,
+          "word": "embryo",
+          "translation": "胚胎；胚芽；初期adj. 初期的；胚胎的",
+          "phonetic": "/ˈembriəʊ/",
+          "example": "Embryo research is an emotive issue.",
+          "exampleTranslation": "胚胎研究是个让人情绪激动的问题。"
+        },
+        {
+          "id": 210,
+          "word": "corn",
+          "translation": "玉米；谷物；鸡眼vt. 腌；使成颗粒",
+          "phonetic": "/kɔːn/",
+          "example": "She pounded the corn kernels.",
+          "exampleTranslation": "她捣碎了玉米粒。"
+        },
+        {
+          "id": 211,
+          "word": "archaea",
+          "translation": "古生菌",
+          "phonetic": "/ɑːˈkiːə/",
+          "example": "But this doesn't mean there are no viruses that affect the Archaea.",
+          "exampleTranslation": "但是这也并不意味着没有病毒可以影响到古生菌。"
+        },
+        {
+          "id": 212,
+          "word": "halophile",
+          "translation": "喜盐生物",
+          "phonetic": "/ˈhæləʊˌfaɪl/",
+          "example": "Halophile and salt-tolerant yeast have wide perspective and practicability on the treatment of wastewater with high salinity.",
+          "exampleTranslation": "嗜盐菌和耐盐酵母菌在处理高含盐废水方面有广阔的应用前景。"
+        },
+        {
+          "id": 213,
+          "word": "thermophile",
+          "translation": "嗜热生物；喜温生物 adj. 嗜热的；喜温的",
+          "phonetic": "/ˈθɜːmə(ʊ)faɪl/",
+          "example": "Objective The research aimed to screen thermophile Microorganism which could promote cow dung composting more efficiently.",
+          "exampleTranslation": "目的筛选出促进牛粪高效堆肥的高温微生物。"
+        },
+        {
+          "id": 214,
+          "word": "thermophilic",
+          "translation": "adj. 适温的，喜温的",
+          "phonetic": "/ˌθɜːməʊˈfɪlɪk/",
+          "example": "The thermophilic anaerobic digestion of cow manure wastewater was the kernel part of this paper.",
+          "exampleTranslation": "牛粪废水的厌氧消化是本文研究的核心。"
+        },
+        {
+          "id": 215,
+          "word": "submarine",
+          "translation": "潜水艇；海底生物adj. 水下的；海底的 v.潜水",
+          "phonetic": "/ˌsʌbməˈriːn/",
+          "example": "The submarine resurfaced.",
+          "exampleTranslation": "潜艇重新浮出水面。"
+        },
+        {
+          "id": 216,
+          "word": "thermal",
+          "translation": "adj. 热的，热量的n. 上升暖气流",
+          "phonetic": "/ˈθɜːm(ə)l/",
+          "example": "He was found by a police helicopter using thermal imaging equipment.",
+          "exampleTranslation": "他被一架警用直升飞机用热成像设备找到了。"
+        },
+        {
+          "id": 217,
+          "word": "vent",
+          "translation": "出口；通风孔; 发泄vt. 发泄感情；放出…；给…开孔vi.减轻压力；放出",
+          "phonetic": "/vent/",
+          "example": "She gave vent to her anger and jealousy.",
+          "exampleTranslation": "她发泄了自己的怒意和嫉妒。"
+        },
+        {
+          "id": 218,
+          "word": "purebred",
+          "translation": "adj. 纯种的n. 纯种的动物",
+          "phonetic": "/ˈpjʊəbred/",
+          "example": "All they knew was that this Lab was a purebred.",
+          "exampleTranslation": "他们只知道马利是条纯种拉布拉多犬。"
+        },
+        {
+          "id": 219,
+          "word": "shepherd",
+          "translation": "vt. 带领；看管；牧羊；指导n. 牧羊人；指导者；牧师",
+          "phonetic": "/ˈʃepəd/",
+          "example": "The shepherd followed, carrying a torch to light his way.",
+          "exampleTranslation": "牧羊人跟在后面，举着火把把路照亮。"
+        },
+        {
+          "id": 220,
+          "word": "border",
+          "translation": "边界；边境；国界vt. 接近；与…接壤；在…上镶边vi. 接界；近似",
+          "phonetic": "/ˈbɔːdə(r)/",
+          "example": "They fled across the border.",
+          "exampleTranslation": "他们越过边界逃走了。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chapter 12",
+      "description": "Words 221 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 221,
+          "word": "breeds",
+          "translation": "品种；族类v. 养育；导致（breed的三单形式",
+          "phonetic": "/briːdz/",
+          "example": "The equation is simple: research breeds new products.",
+          "exampleTranslation": "这个情况是简单的：研究孕育新产品。"
+        },
+        {
+          "id": 222,
+          "word": "attenuate",
+          "translation": "adj. 稀薄的；细小的；减弱的vt. 使纤细vi.变弱",
+          "phonetic": "/əˈtenjueɪt/",
+          "example": "You could never eliminate risk, but preparation and training could attenuate it.",
+          "exampleTranslation": "风险不可能完全消除，但可以通过防范和培训来降低。"
+        },
+        {
+          "id": 223,
+          "word": "canine",
+          "translation": "adj. 犬科的；犬的；似犬的；犬齿的n. 犬齿；犬",
+          "phonetic": "/ˈkeɪnaɪn/",
+          "example": "Sloth bears also have relatively large canine teeth, which appear to be more functional for fighting than for foraging.",
+          "exampleTranslation": "树懒熊也有相对较大的犬齿，它们似乎更适合战斗而不是觅食。"
+        },
+        {
+          "id": 224,
+          "word": "pamper",
+          "translation": "vt. 纵容；使…过量；给…吃得过多",
+          "phonetic": "/ˈpæmpə(r)/",
+          "example": "\"Mother, don't pamper him,\" he called after her.",
+          "exampleTranslation": "“他妈，别纵容他。”他在她身后喊道。"
+        },
+        {
+          "id": 225,
+          "word": "detrimental",
+          "translation": "adj. 有害的；不利的n. 有害的人；不受欢迎的求婚者",
+          "phonetic": "/ˌdetrɪˈment(ə)l/",
+          "example": "The policy will be detrimental to the peace process.",
+          "exampleTranslation": "这项政策将不利于和平进程。"
+        },
+        {
+          "id": 226,
+          "word": "tandem",
+          "translation": "串联；串座双人自行车adj. 串联的adv. 一前一后地；纵排地",
+          "phonetic": "/ˈtændəm/",
+          "example": "We choose a tandem bicycle because it makes it easier to communicate with each other about interesting people and things we come across during the journey.",
+          "exampleTranslation": "我们选择双人自行车是因为它能让我们更容易地对旅途中遇到的有趣的人和事进行交流。"
+        },
+        {
+          "id": 227,
+          "word": "depict",
+          "translation": "vt. 描画；描述",
+          "phonetic": "/dɪˈpɪkt/",
+          "example": "Although we still depict nostalgic snow scenes on Christmas cards, winters are now very much warmer.",
+          "exampleTranslation": "虽然我们还在圣诞卡上描绘引人怀旧的雪景，但现在冬天温暖多了。"
+        },
+        {
+          "id": 228,
+          "word": "meiotic",
+          "translation": "adj. 减数分裂的",
+          "phonetic": "/maɪˈɒtɪk/",
+          "example": "The normal rates of meiotic spindle and chromosome were 82% and 86% respectively.",
+          "exampleTranslation": "发现小鼠成熟卵母细胞纺缍体和染色体的正常率分别为82%和86%。"
+        },
+        {
+          "id": 229,
+          "word": "centimorgan",
+          "translation": "厘摩",
+          "phonetic": "/ˈsentɪˌmɔːɡən/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 230,
+          "word": "Alzheimer",
+          "translation": "老年痴呆症",
+          "phonetic": "/ˈæltshaɪmə; ˈɔːltshaɪmə/",
+          "example": "He's a little alzheimer.",
+          "exampleTranslation": "他有点老年痴呆。"
+        },
+        {
+          "id": 231,
+          "word": "stiff",
+          "translation": "adj. 严厉的；坚硬的adv. 彻底地n. 死尸；流通票据 vi. 在商业上惨败",
+          "phonetic": "/stɪf/",
+          "example": "He rubbed his arms and stiff legs.",
+          "exampleTranslation": "他揉了揉他的两条胳膊和两条僵硬的腿。"
+        },
+        {
+          "id": 232,
+          "word": "congress",
+          "translation": "国会；会议；代表大会；社交",
+          "phonetic": "/ˈkɒŋɡres/",
+          "example": "Congress is in gridlock.",
+          "exampleTranslation": "国会因意见分歧而陷入僵局。"
+        },
+        {
+          "id": 233,
+          "word": "modify",
+          "translation": "vt. 修改，修饰；更改vi. 修改",
+          "phonetic": "/ˈmɒdɪfaɪ/",
+          "example": "The club members did agree to modify their recruitment policy.",
+          "exampleTranslation": "俱乐部成员确已同意修改他们的入会政策。"
+        },
+        {
+          "id": 234,
+          "word": "pipet",
+          "translation": "移液管；吸量管；球管 vt. 用移液管移",
+          "phonetic": "/pɪˈpet/",
+          "example": "The DNA is collected with a pipet, then precipitated and wash with ethanol.",
+          "exampleTranslation": "用微量吸样器收集DNA，乙醇沉淀和清洗。"
+        },
+        {
+          "id": 235,
+          "word": "ingenious",
+          "translation": "adj. 心灵手巧的；有独创性的；机灵的，精制的",
+          "phonetic": "/ɪnˈdʒiːniəs/",
+          "example": "They are motivated to find ingenious ways to persuade their interlocutor.",
+          "exampleTranslation": "他们受到激励去寻找巧妙的方法去说服他们的对话者。"
+        },
+        {
+          "id": 236,
+          "word": "painstaking",
+          "translation": "adj. 勤勉的；小心的；艰苦的n. 辛苦；勤勉",
+          "phonetic": "/ˈpeɪnzteɪkɪŋ/",
+          "example": "He has finally cracked the system after years of painstaking research.",
+          "exampleTranslation": "经过数年的艰苦研究，他最终破译了该系统。"
+        },
+        {
+          "id": 237,
+          "word": "dideoxy",
+          "translation": "双脱氧法",
+          "phonetic": "",
+          "example": "Substituted 2', 3'-dideoxy-5-trifluoromethylur idines, processes for their preparation and their use in medicaments.",
+          "exampleTranslation": "取代的2'，3'-二脱氧-5-三氟甲基尿嘧啶核苷类，它们的制备方法以及它们在医药方面的应用。"
+        },
+        {
+          "id": 238,
+          "word": "deoxy",
+          "translation": "adj. 脱氧的；灭氧的",
+          "phonetic": "",
+          "example": "Results11-deoxy-glycyrrhetinic acid was prepared and its structure was characterized by IR and NMR.",
+          "exampleTranslation": "结果制备了11-脱氧甘草次酸，并通过IR、NMR等手段对其结构进行了鉴定。"
+        },
+        {
+          "id": 239,
+          "word": "purple",
+          "translation": "adj. 紫色的；帝王的；华而不实的n. 紫色vi. 变成紫色vt. 使成紫色",
+          "phonetic": "/ˈpɜːp(ə)l/",
+          "example": "She wore purple and green silk.",
+          "exampleTranslation": "她穿着紫色和绿色的丝绸。"
+        },
+        {
+          "id": 240,
+          "word": "align",
+          "translation": "vt. 使结盟；使成一行；匹配vi. 排列；排成一行",
+          "phonetic": "/əˈlaɪn/",
+          "example": "A tripod will be useful to align and steady the camera.",
+          "exampleTranslation": "三脚架会有助于对齐稳住照相机。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Chapter 13",
+      "description": "Words 241 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 241,
+          "word": "skeptic",
+          "translation": "怀疑论者；怀疑者；无神论者",
+          "phonetic": "/ˈskeptɪk/",
+          "example": "A skeptic might conclude that practitioners are afraid to lay their beliefs on the line.",
+          "exampleTranslation": "持怀疑态度的人可能会得出结论说，从业人员害怕坦白自己的信念。"
+        },
+        {
+          "id": 242,
+          "word": "outfit",
+          "translation": "用具；机构；全套装备vi. 得到装备vt. 配备；供应",
+          "phonetic": "/ˈaʊtfɪt/",
+          "example": "She was wearing an outfit she'd bought the previous day.",
+          "exampleTranslation": "她穿着前一天买的一套服装。"
+        },
+        {
+          "id": 243,
+          "word": "reagent",
+          "translation": "试剂；反应物",
+          "phonetic": "/riˈeɪdʒənt/",
+          "example": "We use thymol-sodium hypobromite as chromogenic reagent.",
+          "exampleTranslation": "我们使用百里酚钠次溴酸钠作为显色剂。"
+        },
+        {
+          "id": 244,
+          "word": "therapeutic",
+          "translation": "adj. 治疗的；治疗学的；有益于健康的n. 治疗剂；治疗学家",
+          "phonetic": "/ˌθerəˈpjuːtɪk/",
+          "example": "Our therapeutic style offers release from stored tensions, traumas, and grief.",
+          "exampleTranslation": "我们的治疗方式意在解除蓄积的压力、创伤和悲痛。"
+        },
+        {
+          "id": 245,
+          "word": "simultaneously",
+          "translation": "adv. 同时地",
+          "phonetic": "/ˌsɪm(ə)lˈteɪniəsli/",
+          "example": "The two guns fired almost simultaneously.",
+          "exampleTranslation": "两支枪几乎同时开火。"
+        },
+        {
+          "id": 246,
+          "word": "nucleus",
+          "translation": "核，核心；原子核",
+          "phonetic": "/ˈnjuːkliəs/",
+          "example": "Matt Cummings and Liko Soules-Ono form the nucleus of the team.",
+          "exampleTranslation": "马特·卡明斯和莱克·索尔斯-奥诺形成了这个团队的核心。"
+        },
+        {
+          "id": 247,
+          "word": "nucleus",
+          "translation": "细胞核",
+          "phonetic": "/ˈnjuːkliəs/",
+          "example": "Matt Cummings and Liko Soules-Ono form the nucleus of the team.",
+          "exampleTranslation": "马特·卡明斯和莱克·索尔斯-奥诺形成了这个团队的核心。"
+        },
+        {
+          "id": 248,
+          "word": "splice",
+          "translation": "vt. 接合；拼接；使结婚n. 接合；结婚",
+          "phonetic": "/splaɪs/",
+          "example": "He taught me to edit and splice film.",
+          "exampleTranslation": "他教我剪辑和粘接胶片。"
+        },
+        {
+          "id": 249,
+          "word": "precursor",
+          "translation": "先驱，前导",
+          "phonetic": "/priˈkɜːsə(r)/",
+          "example": "He said that the deal should not be seen as a precursor to a merger.",
+          "exampleTranslation": "他说这次交易不应该被看作是合并的前兆。"
+        },
+        {
+          "id": 250,
+          "word": "substantially",
+          "translation": "adv. 实质上；大体上；充分地",
+          "phonetic": "/səbˈstænʃəli/",
+          "example": "The costs have increased substantially.",
+          "exampleTranslation": "成本大大提高了。"
+        },
+        {
+          "id": 251,
+          "word": "muscular",
+          "translation": "adj. 肌肉发达的；肌肉的；强健的",
+          "phonetic": "/ˈmʌskjələ(r)/",
+          "example": "He is tall, broad and muscular.",
+          "exampleTranslation": "他身高体宽，肌肉发达。"
+        },
+        {
+          "id": 252,
+          "word": "dystrophia",
+          "translation": "营养不良；营养障碍；发育不全",
+          "phonetic": "/dɪsˈtrəʊfɪə/",
+          "example": "Earlier weaning caused psychological, environmental and nutritional stress reactions in piglets, which induced diarrhea, dystrophia and slow growth.",
+          "exampleTranslation": "早期断奶会使仔猪产生心理、环境和营养应激反应，引起仔猪腹泻、营养不良和生长迟滞等。"
+        },
+        {
+          "id": 253,
+          "word": "dystrophy",
+          "translation": "营养障碍；营养失调",
+          "phonetic": "/ˈdɪstrəfi/",
+          "example": "I am 16 years old and live in Ontario, Canada and have congenital muscular dystrophy.",
+          "exampleTranslation": "我今年16岁，住在加拿大安大略省，患有先天性肌营养不良。"
+        },
+        {
+          "id": 254,
+          "word": "cluster",
+          "translation": "丛；串；簇；群vi. 丛生；群聚vt. 使聚集；聚集在某人的周围",
+          "phonetic": "/ˈklʌstə(r)/",
+          "example": "Each atomic cluster is made up of neutrons and protons.",
+          "exampleTranslation": "每个原子团簇是由中子和质子组成的。"
+        },
+        {
+          "id": 255,
+          "word": "appendage",
+          "translation": "附加物；下属；附器",
+          "phonetic": "/əˈpendɪdʒ/",
+          "example": "And there's no magic suit (or appendage) necessary.",
+          "exampleTranslation": "在没有魔法和必要的装备的情况下。"
+        },
+        {
+          "id": 256,
+          "word": "epigenetic",
+          "translation": "adj. 后生的；外成的；渐成说的",
+          "phonetic": "/ˌepɪdʒɪˈnetɪk/",
+          "example": "Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a \"third component\".",
+          "exampleTranslation": "表观遗传过程是一种化学反应，与天生和后天培养都没有关系，但它代表了研究人员所说的“第三种成分”。"
+        },
+        {
+          "id": 257,
+          "word": "spill",
+          "translation": "vt. 使流出；使摔下vi. 溢出，摔下；涌流n. 溢出，溢出量；摔下；小塞子",
+          "phonetic": "/spɪl/",
+          "example": "The tanker began to spill its cargo of oil.",
+          "exampleTranslation": "油轮已开始漏油。"
+        },
+        {
+          "id": 258,
+          "word": "predate",
+          "translation": "vt. 在日期上早于",
+          "phonetic": "/ˌpriːˈdeɪt/",
+          "example": "Most of its better buildings predate his rule.",
+          "exampleTranslation": "城内比较好的建筑大多在他统治之前兴建。"
+        },
+        {
+          "id": 259,
+          "word": "intriguing",
+          "translation": "adj. 迷人的；有趣的v. 引起…的兴趣；私通",
+          "phonetic": "/ɪnˈtriːɡɪŋ/",
+          "example": "He found her intriguing.",
+          "exampleTranslation": "他觉得她很迷人。"
+        },
+        {
+          "id": 260,
+          "word": "versatile",
+          "translation": "adj. 多才多艺的；通用的，万能的；多面手的",
+          "phonetic": "/ˈvɜːsətaɪl/",
+          "example": "He is sparkling and versatile in front of the camera.",
+          "exampleTranslation": "他在摄影机前聪颖机智、多才多艺。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Chapter 14",
+      "description": "Words 261 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 261,
+          "word": "forensic",
+          "translation": "adj. 辩论的；法院的；适于法庭的",
+          "phonetic": "/fəˈrenzɪk/",
+          "example": "A forensic team was hunting for clues.",
+          "exampleTranslation": "法医小组正在搜寻线索。"
+        },
+        {
+          "id": 262,
+          "word": "variability",
+          "translation": "可变性，变化性；变异性",
+          "phonetic": "/ˌveəriəˈbɪləti/",
+          "example": "There's a great deal of variability between individuals.",
+          "exampleTranslation": "个体之间存在着很大的可变性。"
+        },
+        {
+          "id": 263,
+          "word": "paternity",
+          "translation": "父权；父系；父系后裔",
+          "phonetic": "/pəˈtɜːnəti/",
+          "example": "He refused to admit paternity of the child.",
+          "exampleTranslation": "他拒不承认是那孩子的父亲。"
+        },
+        {
+          "id": 264,
+          "word": "mitochondrial",
+          "translation": "adj. 线粒体的",
+          "phonetic": "/ˌmaɪtəʊˈkɒndriəl/",
+          "example": "We explore the protein-protein interactions of human mitochondrial intermembrane space.",
+          "exampleTranslation": "我们探索人类线粒体膜间空间的蛋白质相互作用。"
+        },
+        {
+          "id": 265,
+          "word": "contradict",
+          "translation": "vt. 反驳；否定；与…矛盾；与…抵触vi. 反驳；否认；发生矛盾",
+          "phonetic": "/ˌkɒntrəˈdɪkt/",
+          "example": "She dared not contradict him.",
+          "exampleTranslation": "她不敢反驳他。"
+        },
+        {
+          "id": 266,
+          "word": "trace",
+          "translation": "vi. 追溯；沿路走vt. 追踪，查探；描绘；回溯n. 痕迹，微量；迹线；缰绳",
+          "phonetic": "/treɪs/",
+          "example": "How far back can you trace your family tree?",
+          "exampleTranslation": "你的家谱可以追溯到多少代？"
+        },
+        {
+          "id": 267,
+          "word": "probe",
+          "translation": "探针；调查vi. 调查；探测vt. 探查；用探针探测",
+          "phonetic": "/prəʊb/",
+          "example": "The surgeon would pick up his instruments, probe, repair, and stitch up again.",
+          "exampleTranslation": "外科医生会拿起器械进行探查、修复，然后再缝合。"
+        },
+        {
+          "id": 268,
+          "word": "bioterror",
+          "translation": "生物恐怖者",
+          "phonetic": "",
+          "example": "With regard to regulations to prevent the release of hazardous life forms made in ways akin to the new Mycoplasma or by other means, there are two scenarios: bioerror and bioterror.",
+          "exampleTranslation": "当人类能用类似于新支原体的方法或者其它方法制造生命时，需要考虑用立法的形式来阻止两种有害生命体形式被释放出来的情况，那就是生物学差错和生物恐怖攻击。"
+        },
+        {
+          "id": 269,
+          "word": "upheaval",
+          "translation": "剧变；隆起；举起",
+          "phonetic": "/ʌpˈhiːv(ə)l/",
+          "example": "He is resigned to the noise, the mess, the constant upheaval.",
+          "exampleTranslation": "他对噪音、杂乱和持续动荡逆来顺受。"
+        },
+        {
+          "id": 270,
+          "word": "Upheaval",
+          "translation": "隆起 | 剧变 | 起来",
+          "phonetic": "/ʌpˈhiːv(ə)l/",
+          "example": "I can't face the upheaval of moving house again.",
+          "exampleTranslation": "我无法忍受再次搬家的折腾。"
+        },
+        {
+          "id": 271,
+          "word": "track",
+          "translation": "足迹，踪迹；轨道； vt. 追踪；通过；用纤拉vi. 走；追踪；留下足迹",
+          "phonetic": "/træk/",
+          "example": "The train chugs down the track.",
+          "exampleTranslation": "火车沿着轨道嘎嚓嘎嚓地缓慢行驶着。"
+        },
+        {
+          "id": 272,
+          "word": "prosecute",
+          "translation": "vt. 贯彻；从事；检举；依法进行vi. 告发；起诉；作检察官",
+          "phonetic": "/ˈprɒsɪkjuːt/",
+          "example": "The police have decided not to prosecute because the evidence is not strong enough.",
+          "exampleTranslation": "警方已决定不起诉，因为证据不够充分。"
+        },
+        {
+          "id": 273,
+          "word": "poachers",
+          "translation": "偷猎者；侵入者",
+          "phonetic": "",
+          "example": "Security cameras have been installed to guard against poachers.",
+          "exampleTranslation": "已经安装了安防摄像机来防范偷猎者。"
+        },
+        {
+          "id": 274,
+          "word": "timeline",
+          "translation": "时间轴，时间线；大事年表",
+          "phonetic": "/ˈtaɪmlaɪn/",
+          "example": "That now seems an impossible timeline.",
+          "exampleTranslation": "现在看来，这似乎是一个不可能的时间表。"
+        },
+        {
+          "id": 275,
+          "word": "spectrum",
+          "translation": "光谱；频谱；余象；范围",
+          "phonetic": "/ˈspektrəm/",
+          "example": "Red and violet are at opposite ends of the spectrum.",
+          "exampleTranslation": "红色和紫色位于光谱的两端。"
+        },
+        {
+          "id": 276,
+          "word": "scrutiny",
+          "translation": "监视；详细审查；细看；选票复查",
+          "phonetic": "/ˈskruːtəni/",
+          "example": "Foreign policy has come under close scrutiny recently.",
+          "exampleTranslation": "近来，政府的外交政策受到了认真彻底的审查。"
+        },
+        {
+          "id": 277,
+          "word": "biases",
+          "translation": "偏差，偏见 v. 偏见",
+          "phonetic": "/ˈbaɪəsɪz/",
+          "example": "Our biases could be eliminated through experiments.",
+          "exampleTranslation": "我们的偏见可以通过实验消除。"
+        },
+        {
+          "id": 278,
+          "word": "perplexing",
+          "translation": "adj. 令人困惑的；复杂的，令人费解的",
+          "phonetic": "/pəˈpleksɪŋ/",
+          "example": "The Earth-Moon system has always been perplexing.",
+          "exampleTranslation": "地月系统一直令人困惑。"
+        },
+        {
+          "id": 279,
+          "word": "lenses",
+          "translation": "柔性焦距透镜组",
+          "phonetic": "/ˈlensɪz/",
+          "example": "Have you got your lenses in?",
+          "exampleTranslation": "你戴了隐形眼镜吗？"
+        },
+        {
+          "id": 280,
+          "word": "assailant",
+          "translation": "攻击者adj. 袭击的；攻击的",
+          "phonetic": "/əˈseɪlənt/",
+          "example": "Other partygoers rescued the injured man from his assailant.",
+          "exampleTranslation": "其他参加聚会的人从攻击者手中救出了这名受伤的男子。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Chapter 15",
+      "description": "Words 281 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 281,
+          "word": "allegation",
+          "translation": "辩解；主张，断言",
+          "phonetic": "/ˌæləˈɡeɪʃn/",
+          "example": "The inspectors found no evidence which supported any allegation of suppression of official documents.",
+          "exampleTranslation": "这些检察官们找不到证据证明对封锁官方文件的任何指控。"
+        },
+        {
+          "id": 282,
+          "word": "consensual",
+          "translation": "adj. 交感的；在双方同意下成立的",
+          "phonetic": "/kənˈsenʃuəl/",
+          "example": "I hope we can work with others in a consensual way.",
+          "exampleTranslation": "我希望我们能够同心合意地与他人共事。"
+        },
+        {
+          "id": 283,
+          "word": "corroborate",
+          "translation": "vt. 证实；使坚固",
+          "phonetic": "/kəˈrɒbəreɪt/",
+          "example": "Our findings corroborate the view that the lodicules of grasses are homologous to eudicot petals.",
+          "exampleTranslation": "本研究还证明了禾本科植物的浆片和双子叶植物中花瓣是同源器官的观点。"
+        },
+        {
+          "id": 284,
+          "word": "shred",
+          "translation": "碎片；少量剩余；最少量；破布 vt. 切成条状；用碎纸机撕毁vi. 撕碎",
+          "phonetic": "/ʃred/",
+          "example": "These animals shred the prey that fall into the pitcher, and the smaller organisms feed on the debris.",
+          "exampleTranslation": "这些动物撕碎掉到水罐里的猎物，而小一些的生物则以残骸为食。"
+        },
+        {
+          "id": 285,
+          "word": "lick",
+          "translation": "vt. 舔；卷过；鞭打vi. 舔；轻轻拍打n. 舔；打；少许",
+          "phonetic": "/lɪk/",
+          "example": "Tom said, \"I can lick you!\"",
+          "exampleTranslation": "汤姆说：“我能打败你！”"
+        },
+        {
+          "id": 286,
+          "word": "shard",
+          "translation": "鞘翅；陶瓷碎片",
+          "phonetic": "/ʃɑːd/",
+          "example": "This time, suppose you define one replica shard.",
+          "exampleTranslation": "这一次，假设您定义一个复制碎片。"
+        },
+        {
+          "id": 287,
+          "word": "implicate",
+          "translation": "vt. 暗示；使牵连其中；含有…的意思 n. 包含的东西",
+          "phonetic": "/ˈɪmplɪkeɪt/",
+          "example": "They'll talk, they'll implicate me.",
+          "exampleTranslation": "他们将招供，他们将把我牵连进去。"
+        },
+        {
+          "id": 288,
+          "word": "impartial",
+          "translation": "adj. 不偏不倚的；公平的，公正的",
+          "phonetic": "/ɪmˈpɑːʃ(ə)l/",
+          "example": "This newspaper has achieved a reputation for honest and impartial political reporting.",
+          "exampleTranslation": "这家报纸凭诚实公正的政治报道赢得了声誉。"
+        },
+        {
+          "id": 289,
+          "word": "exonerate",
+          "translation": "vt. 使免罪",
+          "phonetic": "/ɪɡˈzɒnəreɪt/",
+          "example": "CFTC study last year appeared to exonerate them.",
+          "exampleTranslation": "CFTC去年的一个研究报告赦免了他们。"
+        },
+        {
+          "id": 290,
+          "word": "drastic",
+          "translation": "adj. 激烈的；猛烈的 n. 烈性泻药",
+          "phonetic": "/ˈdræstɪk/",
+          "example": "Talk to me before you do anything drastic.",
+          "exampleTranslation": "你采取任何重大行动之前要跟我谈谈。"
+        },
+        {
+          "id": 291,
+          "word": "polymorphism",
+          "translation": "多态性；多形性；同质多晶",
+          "phonetic": "/ˌpɒlɪˈmɔːfɪz(ə)m/",
+          "example": "By adding a wrapper class, you have broken subtype polymorphism.",
+          "exampleTranslation": "通过添加包装程序类，您打破了子类型的多态性。"
+        },
+        {
+          "id": 292,
+          "word": "milepost",
+          "translation": "里程碑；里程标志",
+          "phonetic": "/ˈmaɪlpəʊst/",
+          "example": "It is a milepost to this one reply.",
+          "exampleTranslation": "对这一篇的回复又是一个里程碑。"
+        },
+        {
+          "id": 293,
+          "word": "roadmap",
+          "translation": "路标",
+          "phonetic": "/ˈroʊdmæp/",
+          "example": "If you do need a roadmap, please talk to your Software Sales rep to set up a briefing.",
+          "exampleTranslation": "如果您确实需要一个路线图，请与您的软件销售代表谈一谈，以建立一个简报。"
+        },
+        {
+          "id": 294,
+          "word": "allele",
+          "translation": "等位基因",
+          "phonetic": "/əˈliːl/",
+          "example": "Their allele frequencies at numerous genetic loci gradually become more and more different as new alleles independently arise by mutation in each population.",
+          "exampleTranslation": "随着新等位基因在每个群体中独立突变产生，它们在许多遗传位点上的等位基因频率逐渐变得越来越不同。"
+        },
+        {
+          "id": 295,
+          "word": "genotype",
+          "translation": "基因型；遗传型",
+          "phonetic": "/ˈdʒenətaɪp/",
+          "example": "Such epigenetic mechanisms permit a common genotype to producemultiple possible phenotypes.",
+          "exampleTranslation": "像这样的后生性机制允许普通基因型产生多种可能的显型。"
+        },
+        {
+          "id": 296,
+          "word": "Amelogenin",
+          "translation": "釉原蛋白 | 成釉蛋白 | 质蛋白 |牙釉质蛋白",
+          "phonetic": "",
+          "example": "METHODS: The upstream regulation sequences of amelogenin gene were retrieved and analyzed.",
+          "exampleTranslation": "方法：检索并分析釉原蛋白基因的上游调控序列。"
+        },
+        {
+          "id": 297,
+          "word": "Tetranucleotide",
+          "translation": "四核甙酸 | 四核苷酸",
+          "phonetic": "",
+          "example": "Each tetranucleotide supposedly contained equimolar quantities of the four common bases.",
+          "exampleTranslation": "据说每四核苷酸中的四种常见基地等摩尔量。"
+        },
+        {
+          "id": 298,
+          "word": "homozygous",
+          "translation": "adj. 纯合子的；同型结合的",
+          "phonetic": "/ˌhɒməˈzaɪɡəs/",
+          "example": "The homozygous form is fatal.",
+          "exampleTranslation": "纯合子是致命的。"
+        },
+        {
+          "id": 299,
+          "word": "heterozygous",
+          "translation": "adj. 杂合的",
+          "phonetic": "/ˌhetərəˈzaɪɡəs/",
+          "example": "Haired heterozygous mice possess normal reproductive capability.",
+          "exampleTranslation": "杂合子有毛小鼠的生育能力正常。"
+        },
+        {
+          "id": 300,
+          "word": "flanking",
+          "translation": "flank的ing形式 下齿面加工;侧面攻击adj. 侧翼的v. 侧面相接;侧面攻击",
+          "phonetic": "/ˈflæŋkɪŋ/",
+          "example": "There are four gilt wood torchieres flanking the fireplaces.",
+          "exampleTranslation": "在壁炉的侧面有四个木制涂金的落地灯。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Chapter 16",
+      "description": "Words 301 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 301,
+          "word": "lane",
+          "translation": "小巷；航线；车道；罚球区",
+          "phonetic": "/leɪn/",
+          "example": "The road is only one lane wide.",
+          "exampleTranslation": "这条路只有一个车道那么宽。"
+        },
+        {
+          "id": 302,
+          "word": "semen",
+          "translation": "精液；精子",
+          "phonetic": "/ˈsiːmən/",
+          "example": "If thawed semen is used, it has to be injected directly into the uterus through the ewe's belly wall.",
+          "exampleTranslation": "如果使用解冻的精液，它必须通过母羊的腹壁直接注入子宫。"
+        },
+        {
+          "id": 303,
+          "word": "deposited",
+          "translation": "储存；存放；放置adj. 存放的；堆积的",
+          "phonetic": "/dɪˈpɒzɪtɪd/",
+          "example": "After her death, her papers – including unpublished articles and correspondence – were deposited at the library.",
+          "exampleTranslation": "她死后，她的资料–包括未发表的文章和信函–都被存放在图书馆里。"
+        },
+        {
+          "id": 304,
+          "word": "perpetrate",
+          "translation": "vt. 犯；做",
+          "phonetic": "/ˈpɜːpətreɪt/",
+          "example": "Israel would continue its efforts to destroy the terrorist infrastructure, arrest those behind terrorist activities and harshly punish those who perpetrate these murderous activities.",
+          "exampleTranslation": "以色列将继续其军事行动摧毁恐怖主义基础设施，逮捕恐怖主义活动的幕后黑手并严厉惩罚实施这些杀人活动的犯罪者。"
+        },
+        {
+          "id": 305,
+          "word": "swab",
+          "translation": "医用海绵，纱布;拭子;拖把，擦帚；无赖 vt. 打扫，擦拭；涂抹于",
+          "phonetic": "/swɒb/",
+          "example": "\"Okay,\" he replied and winced as she dabbed the cotton swab over the gash.",
+          "exampleTranslation": "当她用棉签轻擦他的伤口时，他应了一声“行了”，还躲了一下。"
+        },
+        {
+          "id": 306,
+          "word": "scraping",
+          "translation": "刮擦声；抹去adj. 刮擦的；吝啬的v. 刮，擦",
+          "phonetic": "/ˈskreɪpɪŋ/",
+          "example": "She stumbled and fell, scraping her palms and knees.",
+          "exampleTranslation": "她绊了一跤摔倒了，擦伤了双掌和双膝。"
+        },
+        {
+          "id": 307,
+          "word": "vaginal",
+          "translation": "adj. 阴道的；叶鞘的",
+          "phonetic": "/vəˈdʒaɪnl/",
+          "example": "Sometimes a normal vaginal discharge can irritate the skin.",
+          "exampleTranslation": "有些时候，正常的分泌物也可能使皮肤发炎。"
+        },
+        {
+          "id": 308,
+          "word": "sperm",
+          "translation": "精液；精子；鲸蜡油",
+          "phonetic": "/spɜːm/",
+          "example": "It only takes one sperm to fertilize an egg.",
+          "exampleTranslation": "只需一个精子就可以使卵受精。"
+        },
+        {
+          "id": 309,
+          "word": "precede",
+          "translation": "vt. 领先，在…之前；优于，高于vi. 领先，在前面",
+          "phonetic": "/prɪˈsiːd/",
+          "example": "He gestured to Alice to precede them from the room.",
+          "exampleTranslation": "他示意艾丽斯从房间里出来走在他们前面。"
+        },
+        {
+          "id": 310,
+          "word": "postulate",
+          "translation": "vt. 要求；假定；视…为理所当然 n. 假定；基本条件",
+          "phonetic": "/ˈpɒstʃəleɪt/",
+          "example": "The universe encompasses all of space and time we know, so it is beyond the realm of the Big Bang model to postulate what the universe beyond our horizon is.",
+          "exampleTranslation": "宇宙包含我们所知的所有空间和时间，所以要求用大爆炸模型解释我们视界之外的宇宙超出了这个模型的限定范围。"
+        },
+        {
+          "id": 311,
+          "word": "metabolic",
+          "translation": "adj. 新陈代谢的；变化的",
+          "phonetic": "/ˌmetəˈbɒlɪk/",
+          "example": "People who have inherited a low metabolic rate will gain weight.",
+          "exampleTranslation": "因遗传而新陈代谢速度慢的人会发胖。"
+        },
+        {
+          "id": 312,
+          "word": "degrade",
+          "translation": "vt. 使……丢脸；使……降级；使……降解；贬低 vi. 退化；降低",
+          "phonetic": "/dɪˈɡreɪd/",
+          "example": "Jays prefer crickets, but crickets degrade more quickly.",
+          "exampleTranslation": "松鸡喜欢蟋蟀，但蟋蟀退化得更快。"
+        },
+        {
+          "id": 313,
+          "word": "uncrumple",
+          "translation": "vt. 使回复到平整状态；去掉…的皱纹",
+          "phonetic": "/ʌnˈkrʌmp(ə)l/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 314,
+          "word": "unscrupulous",
+          "translation": "adj. 肆无忌惮的；寡廉鲜耻的；不讲道德的",
+          "phonetic": "/ʌnˈskruːpjələs/",
+          "example": "These kids are being exploited by very unscrupulous people.",
+          "exampleTranslation": "这些孩子正被极不道德的人利用。"
+        },
+        {
+          "id": 315,
+          "word": "tamper",
+          "translation": "vi. 损害；削弱；干预；玩弄；篡改；贿赂 vt. 篡改n. 填塞者；捣棒",
+          "phonetic": "/ˈtæmpə(r)/",
+          "example": "For your safety, never tamper with these systems.",
+          "exampleTranslation": "为了您的安全，请勿篡改这些系统。"
+        },
+        {
+          "id": 316,
+          "word": "prosecutor",
+          "translation": "检察官；公诉人；起诉人；实行者",
+          "phonetic": "/ˈprɒsɪkjuːtə(r)/",
+          "example": "How much longer does the independent prosecutor have a mandate to pursue this investigation?",
+          "exampleTranslation": "这名独立检察官获得授权去调查这件事情的权限还有多长？"
+        },
+        {
+          "id": 317,
+          "word": "alibis",
+          "translation": "不在场证明",
+          "phonetic": "/ˈæləˌbaɪz/",
+          "example": "The suspects all had alibis for the day of the robbery.",
+          "exampleTranslation": "嫌疑人均有证据证明抢劫当天不在犯罪现场。"
+        },
+        {
+          "id": 318,
+          "word": "alibi",
+          "translation": "托辞；犯罪现场；辩解vi. 辩解；找借口vt. 为…辩解",
+          "phonetic": "/ˈæləbaɪ/",
+          "example": "The police are checking out his alibi.",
+          "exampleTranslation": "警察在查证他不在案发现场的证据。"
+        },
+        {
+          "id": 319,
+          "word": "juror",
+          "translation": "审查委员，陪审员",
+          "phonetic": "/ˈdʒʊərə(r)/",
+          "example": "The attorney for the defense challenged the juror.",
+          "exampleTranslation": "被告辩护律师不同意这位陪审员。"
+        },
+        {
+          "id": 320,
+          "word": "jurors",
+          "translation": "陪审员",
+          "phonetic": "",
+          "example": "Two jurors signified their dissent.",
+          "exampleTranslation": "两个陪审员表达了他们的异议。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Chapter 17",
+      "description": "Words 321 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 321,
+          "word": "fallacies",
+          "translation": "错误，谬论",
+          "phonetic": "/ˈfæləsiz/",
+          "example": "We are going to look at fallacies.",
+          "exampleTranslation": "我们要看看逻辑谬论。"
+        },
+        {
+          "id": 322,
+          "word": "fallacy",
+          "translation": "谬论，谬误",
+          "phonetic": "/ˈfæləsi/",
+          "example": "He detected the fallacy of her argument.",
+          "exampleTranslation": "他发觉她论据中的推理谬误。"
+        },
+        {
+          "id": 323,
+          "word": "Caucasians",
+          "translation": "高加索人；白种人",
+          "phonetic": "",
+          "example": "Past studies have mostly involved Caucasians, Lin said.",
+          "exampleTranslation": "林香菱说，过去的研究主要涉及白种人。"
+        },
+        {
+          "id": 324,
+          "word": "caucasian",
+          "translation": "白种人；高加索人adj. 高加索的；白种人的",
+          "phonetic": "/kɔːˈkeɪʒn/",
+          "example": "The main characters were mostly Caucasian.",
+          "exampleTranslation": "主角大多是白人。"
+        },
+        {
+          "id": 325,
+          "word": "Hispanic",
+          "translation": "adj. 西班牙的",
+          "phonetic": "/hɪˈspænɪk/",
+          "example": "The police are trying to recruit more black and Hispanic officers.",
+          "exampleTranslation": "警方正试图招收更多的黑人和西班牙裔的警官。"
+        },
+        {
+          "id": 326,
+          "word": "casualties",
+          "translation": "伤亡；人员伤亡",
+          "phonetic": "/ˈkæʒuəltiz/",
+          "example": "Casualties remained remarkably low.",
+          "exampleTranslation": "伤亡人数依然很少。"
+        },
+        {
+          "id": 327,
+          "word": "casualty",
+          "translation": "意外事故；伤亡人员；急诊室",
+          "phonetic": "/ˈkæʒuəlti/",
+          "example": "There are fears that the casualty toll may be higher.",
+          "exampleTranslation": "人们担心伤亡人数可能会更多。"
+        },
+        {
+          "id": 328,
+          "word": "analyst",
+          "translation": "分析者；精神分析医师；分解者",
+          "phonetic": "/ˈænəlɪst/",
+          "example": "\"U.S. fleets are among the oldest in the world,\" said Richard Aboulafia, an aviation analyst.",
+          "exampleTranslation": "“美国的舰队是世界上最古老的飞机之一。”航空业分析师理查德·阿布拉菲亚表示。"
+        },
+        {
+          "id": 329,
+          "word": "mitochondrion",
+          "translation": "线粒体",
+          "phonetic": "/ˌmaɪtəʊˈkɒndriən/",
+          "example": "Mitochondrion is an important subcellular organ of cell.",
+          "exampleTranslation": "线粒体是真核细胞中的一种重要的细胞器。"
+        },
+        {
+          "id": 330,
+          "word": "organelle",
+          "translation": "细胞器；细胞器官",
+          "phonetic": "/ˌɔːɡəˈnel/",
+          "example": "Animal cell has a lot of organelle.",
+          "exampleTranslation": "动物细胞有很多的细胞器官。"
+        },
+        {
+          "id": 331,
+          "word": "anecdotal",
+          "translation": "adj. 轶事一样的；轶事的；多轶事的",
+          "phonetic": "/ˌænɪkˈdəʊt(ə)l/",
+          "example": "Advocates of the practice have taken issue with his team's use of anecdotal evidence like news accounts to support his conclusion that goal setting is widely over-prescribed.",
+          "exampleTranslation": "支持这种做法的人对他团队使用如新闻报道等轶事证据来支持他的结论提出了异议，他的结论是目标设定被过分夸大。"
+        },
+        {
+          "id": 332,
+          "word": "fondness",
+          "translation": "溺爱；爱好",
+          "phonetic": "/ˈfɒndnəs/",
+          "example": "I've always had a fondness for chocolate cake.",
+          "exampleTranslation": "我一直对巧克力蛋糕情有独钟。"
+        },
+        {
+          "id": 333,
+          "word": "viral",
+          "translation": "adj. 滤过性毒菌引起的；滤过性毒菌的",
+          "phonetic": "/ˈvaɪrəl/",
+          "example": "A viral illness left her barely able to walk.",
+          "exampleTranslation": "一场病毒引起的疾病使她走路十分困难。"
+        },
+        {
+          "id": 334,
+          "word": "immunodeficiency",
+          "translation": "免疫缺陷",
+          "phonetic": "/ɪˌmjuːnəʊdɪˈfɪʃnsi/",
+          "example": "No. HIV is a Human Immunodeficiency Virus.",
+          "exampleTranslation": "不会。HIV病毒是一种人类免疫缺陷病毒。"
+        },
+        {
+          "id": 335,
+          "word": "inadvertently",
+          "translation": "adv. 非故意地；不注意地",
+          "phonetic": "/ˌɪnədˈvɜːt(ə)ntli/",
+          "example": "We had inadvertently left without paying the bill.",
+          "exampleTranslation": "我们无意之中未付账就离开了。"
+        },
+        {
+          "id": 336,
+          "word": "hantavirus",
+          "translation": "汉坦病毒",
+          "phonetic": "/ˈhæntəˌvaɪrəs/",
+          "example": "Hemorrhagic fever caused by the virus is hantavirus.",
+          "exampleTranslation": "引起出血热的病毒是汉坦病毒。"
+        },
+        {
+          "id": 337,
+          "word": "avian",
+          "translation": "adj. 鸟类的；鸟的n. 鸟",
+          "phonetic": "/ˈeɪviən/",
+          "example": "Hypotheses regarding dinosaurian and avian evolution are unusually diverse—and often at odds with one another.",
+          "exampleTranslation": "关于恐龙和鸟类进化的假说有不同寻常的分歧，而且常常互相矛盾。"
+        },
+        {
+          "id": 338,
+          "word": "tuberculosis",
+          "translation": "肺结核；结核病",
+          "phonetic": "/tjuːˌbɜːkjuˈləʊsɪs/",
+          "example": "Hayley contracted tuberculosis and had to be put in an isolation ward.",
+          "exampleTranslation": "海利感染了肺结核而不得不被送进一个隔离病房。"
+        },
+        {
+          "id": 339,
+          "word": "peruvian",
+          "translation": "adj. 秘鲁人的；秘鲁的n. 秘鲁人",
+          "phonetic": "/pəˈruːviən/",
+          "example": "Now the Peruvian government is installing a cable car that will make access much easier, and hence results in a large increase in tourisms.",
+          "exampleTranslation": "现在，秘鲁政府正在安装缆车，这将使交通变得更加容易，从而促进旅游业的发展。"
+        },
+        {
+          "id": 340,
+          "word": "homicide",
+          "translation": "杀人；杀人犯",
+          "phonetic": "/ˈhɒmɪsaɪd/",
+          "example": "The police arrived at the scene of the homicide.",
+          "exampleTranslation": "警察赶到了杀人现场。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Chapter 18",
+      "description": "Words 341 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 341,
+          "word": "warden",
+          "translation": "看守人；典狱官；区长；学监",
+          "phonetic": "/ˈwɔːdn/",
+          "example": "If Jan had gone to the officers she trusted, they would have had to repeat her story to the same warden.",
+          "exampleTranslation": "如果简去找了她信任的警官，他们就不得不向同一个典狱长重复她的故事。"
+        },
+        {
+          "id": 342,
+          "word": "poacher",
+          "translation": "偷猎者；侵入者；炖蛋锅",
+          "phonetic": "/ˈpəʊtʃə(r)/",
+          "example": "This was probably the work of a poacher.",
+          "exampleTranslation": "这很可能是一个偷猎者干的。"
+        },
+        {
+          "id": 343,
+          "word": "carcass",
+          "translation": "尸体；畜体；残骸",
+          "phonetic": "/ˈkɑːkəs/",
+          "example": "After a good meal, the gray fox leaped away, leaving the carcass to be stripped clean by the condors.",
+          "exampleTranslation": "美餐一顿之后，灰狐狸蹦蹦跳跳的跑开了，尸体则被兀鹰啄食干净。"
+        },
+        {
+          "id": 344,
+          "word": "freezer",
+          "translation": "冰箱；冷冻库；制冷工",
+          "phonetic": "/ˈfriːzə(r)/",
+          "example": "We need to stock up the freezer.",
+          "exampleTranslation": "我们需要在冰柜里存满东西。"
+        },
+        {
+          "id": 345,
+          "word": "trophies",
+          "translation": "奖杯；战利品 v. 授予…战利品；以战利品装饰",
+          "phonetic": "",
+          "example": "She will present the trophies to the award winners.",
+          "exampleTranslation": "她将给获胜者颁奖。"
+        },
+        {
+          "id": 346,
+          "word": "polymorphic",
+          "translation": "adj.多态的；多形的；多形态的；多晶形的",
+          "phonetic": "/ˌpɒlɪˈmɔːfɪk/",
+          "example": "Statically forbid polymorphic recursion.",
+          "exampleTranslation": "静态禁止多态递归。"
+        },
+        {
+          "id": 347,
+          "word": "reside",
+          "translation": "vt. 住，居住；属于",
+          "phonetic": "/rɪˈzaɪd/",
+          "example": "I reside at the mission at St. Michael's.",
+          "exampleTranslation": "我住在圣迈克尔教堂的布道所。"
+        },
+        {
+          "id": 348,
+          "word": "estimate",
+          "translation": "vi. 估计，估价n. 估计，估价；判断，看法vt. 估计，判断，评价",
+          "phonetic": "/ˈestɪmət; ˈestɪmeɪt/",
+          "example": "My estimate was bang on target.",
+          "exampleTranslation": "我的估计完全准确。"
+        },
+        {
+          "id": 349,
+          "word": "primate",
+          "translation": "大主教；灵长类的动物；首领adj. 首要的；灵长目动物的",
+          "phonetic": "/ˈpraɪmeɪt/",
+          "example": "The woolly spider monkey is the largest primate in the Americas.",
+          "exampleTranslation": "绒毛蛛猴是美洲最大的灵长目动物。"
+        },
+        {
+          "id": 350,
+          "word": "scenario",
+          "translation": "情节；剧本；方案",
+          "phonetic": "/səˈnɑːriəʊ/",
+          "example": "The worst-case scenario is an aircraft will crash if a bird destroys an engine.",
+          "exampleTranslation": "如果小鸟毁坏了一部发动机，最坏的情形是飞机坠毁。"
+        },
+        {
+          "id": 351,
+          "word": "anatomically",
+          "translation": "adv. 结构上；解剖学上",
+          "phonetic": "/ˌænəˈtɒmɪkli/",
+          "example": "Anatomically precise support for the heel and ankle, air sacs for extra spring and comfort each year bring apparent new refinements.",
+          "exampleTranslation": "在结构上来说，对脚跟和脚踝的恰好支撑，还有气囊带来的额外弹性和舒适度，每年都会有明显的改进。"
+        },
+        {
+          "id": 352,
+          "word": "controversy",
+          "translation": "争论；辩论；论战",
+          "phonetic": "/ˈkɒntrəvɜːsi/",
+          "example": "He is no stranger to controversy.",
+          "exampleTranslation": "他对争论见得多了。"
+        },
+        {
+          "id": 353,
+          "word": "malignant",
+          "translation": "adj. 恶性的；有恶意的；有害的",
+          "phonetic": "/məˈlɪɡnənt/",
+          "example": "She developed a malignant breast tumour.",
+          "exampleTranslation": "她得了恶性乳腺瘤。"
+        },
+        {
+          "id": 354,
+          "word": "spine",
+          "translation": "脊柱，脊椎；刺；书脊",
+          "phonetic": "/spaɪn/",
+          "example": "The disease had deformed his spine.",
+          "exampleTranslation": "疾病导致他脊柱变形。"
+        },
+        {
+          "id": 355,
+          "word": "skull",
+          "translation": "头盖骨，脑壳",
+          "phonetic": "/skʌl/",
+          "example": "The bullet punctured the skull.",
+          "exampleTranslation": "子弹射穿了头骨。"
+        },
+        {
+          "id": 356,
+          "word": "notochord",
+          "translation": "脊索",
+          "phonetic": "/ˈnəʊtəˌkɔːd/",
+          "example": "Right now the notochord cell between vertebra is added gradually much.",
+          "exampleTranslation": "此时椎间的脊索细胞逐渐增多。"
+        },
+        {
+          "id": 357,
+          "word": "devastate",
+          "translation": "vt. 毁坏；毁灭",
+          "phonetic": "/ˈdevəsteɪt/",
+          "example": "A big worry is that these transplanted megafauna might devastate plants and animals that are native to the western United States.",
+          "exampleTranslation": "最让人忧心的就是这些转移过来的巨型动物可能会毁灭美国西部一些土生土长的动植物。"
+        },
+        {
+          "id": 358,
+          "word": "line",
+          "translation": "绳；路线，航线 vt. 划线于；排成一行；使…起皱纹 vi. 排队；站成一排",
+          "phonetic": "/laɪn/",
+          "example": "Your bill includes line rental.",
+          "exampleTranslation": "你的账单包括电话线路的租用费。"
+        },
+        {
+          "id": 359,
+          "word": "carcinoma",
+          "translation": "癌",
+          "phonetic": "/ˌkɑːsɪˈnəʊmə/",
+          "example": "The cytologic findings were compared to chalazion, pilomatrixoma and eyelid basal cell carcinoma.",
+          "exampleTranslation": "将霰粒肿、眼睑毛母质瘤和基底细胞癌与细胞学上的发现进行对比。"
+        },
+        {
+          "id": 360,
+          "word": "mitosis",
+          "translation": "间接核分裂，有丝分裂",
+          "phonetic": "/maɪˈtəʊsɪs/",
+          "example": "The daughter nuclei from mitosis went into amitosis without interphase.",
+          "exampleTranslation": "来自有丝分裂的子核进入无分裂期的无丝分裂。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Chapter 19",
+      "description": "Words 361 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 361,
+          "word": "trigger",
+          "translation": "vt. 触发；引发，引起 vi. 松开扳柄n. 触发器；扳机；制滑机",
+          "phonetic": "/ˈtrɪɡə(r)/",
+          "example": "Stress may act as a trigger for these illnesses.",
+          "exampleTranslation": "压力也许是引发这些疾病的一个原因。"
+        },
+        {
+          "id": 362,
+          "word": "islet",
+          "translation": "小岛",
+          "phonetic": "/ˈaɪlət/",
+          "example": "Specialised cells within that tissue, called islet beta cells, make insulin.",
+          "exampleTranslation": "在胰腺组织中有类特殊的细胞-胰岛β细胞（islet beta cell）生产胰岛素。"
+        },
+        {
+          "id": 363,
+          "word": "span",
+          "translation": "跨度，跨距；范围vt. 跨越；持续；以手指测量",
+          "phonetic": "/spæn/",
+          "example": "The bridge crosses the river in a single span.",
+          "exampleTranslation": "河上的桥为单跨桥。"
+        },
+        {
+          "id": 364,
+          "word": "quiescent",
+          "translation": "adj. 静止的；不活动的；沉寂的",
+          "phonetic": "/kwiˈes(ə)nt/",
+          "example": "He wound the springs tight, though the works remained quiescent.",
+          "exampleTranslation": "他将弹簧绑紧，尽管工件都保持不动。"
+        },
+        {
+          "id": 365,
+          "word": "slough",
+          "translation": "蜕下的皮；绝境；泥沼；腐肉 vt. 使陷入泥沼；抛弃vi.在泥浆中跋涉",
+          "phonetic": "/slaʊ/",
+          "example": "Our bodies slough off dead cells.",
+          "exampleTranslation": "我们的身体会自然脱掉死细胞"
+        },
+        {
+          "id": 366,
+          "word": "shed",
+          "translation": "vt.散发；流出；摆脱；倾吐vi. 流出；脱落；散布n. 小屋，棚；分水岭",
+          "phonetic": "/ʃed/",
+          "example": "He was discovered hiding in a shed.",
+          "exampleTranslation": "人们发现他原来藏在棚屋里。"
+        },
+        {
+          "id": 367,
+          "word": "lymphocyte",
+          "translation": "淋巴细胞；淋巴球",
+          "phonetic": "/ˈlɪmfəsaɪt/",
+          "example": "The thymic cortex incrassated and the lymphocyte became coarctate.",
+          "exampleTranslation": "胸腺皮质增多，淋巴细胞聚集。"
+        },
+        {
+          "id": 368,
+          "word": "fetus",
+          "translation": "胎儿，胎",
+          "phonetic": "/ˈfiːtəs/",
+          "example": "Pregnant women who are heavy drinkers risk damaging the unborn fetus.",
+          "exampleTranslation": "酗酒的孕妇冒有伤害胎儿的危险。"
+        },
+        {
+          "id": 369,
+          "word": "myriad",
+          "translation": "adj. 无数的；种种的n. 无数，极大数量；无数的人或物",
+          "phonetic": "/ˈmɪriəd/",
+          "example": "There is equilibrium between a whole myriad of reactants and products.",
+          "exampleTranslation": "在无数的反应物和生成物之间存在着平衡。"
+        },
+        {
+          "id": 370,
+          "word": "gamete",
+          "translation": "配子，配偶子",
+          "phonetic": "/ˈɡæmiːt/",
+          "example": "The male gamete could not unite with the female.",
+          "exampleTranslation": "雄配子不能与雌配子结合。"
+        },
+        {
+          "id": 371,
+          "word": "trauma",
+          "translation": "外伤；创伤",
+          "phonetic": "/ˈtrɔːmə/",
+          "example": "The patient suffered severe brain trauma.",
+          "exampleTranslation": "患者的大脑受到严重损伤。"
+        },
+        {
+          "id": 372,
+          "word": "dermal",
+          "translation": "adj. 真皮的；皮肤的",
+          "phonetic": "/ˈdɜːməl/",
+          "example": "MPS stimulates the metabolic activity of human dermal fibrocytes.",
+          "exampleTranslation": "MPS刺激了人类皮肤纤维细胞的代谢活动。"
+        },
+        {
+          "id": 373,
+          "word": "epidermis",
+          "translation": "上皮，表皮",
+          "phonetic": "/ˌepɪˈdɜːmɪs/",
+          "example": "In metaphase, it will decrease the chronic soakage of inflammatory cell, destroy the epidermis and adenalgia.",
+          "exampleTranslation": "在中期，它会减少慢性炎症细胞浸润、上皮及腺体的破坏。"
+        },
+        {
+          "id": 374,
+          "word": "dermis",
+          "translation": "皮肤，真皮",
+          "phonetic": "/ˈdɜːmɪs/",
+          "example": "In this case, dermis.",
+          "exampleTranslation": "这里指的是，真皮。"
+        },
+        {
+          "id": 375,
+          "word": "subcutaneous",
+          "translation": "adj. 皮下的；皮下用的",
+          "phonetic": "/ˌsʌbkjuˈteɪniəs/",
+          "example": "Birds store energy as subcutaneous fat deposits or \"body reserves\"; changes in these reserves can be reliably estimated by measuring changes in body mass.",
+          "exampleTranslation": "鸟类以皮下脂肪沉积或“身体储备”的形式储存能量；通过测量体重的变化，可以可靠地估计这些储备的变化。"
+        },
+        {
+          "id": 376,
+          "word": "sebaceous",
+          "translation": "adj. 分泌脂质的；脂肪的，脂肪质的；似油脂或皮脂的",
+          "phonetic": "/sɪˈbeɪʃəs/",
+          "example": "These hormones cause the sebaceous glands to make excess oil.",
+          "exampleTranslation": "这些激素导致皮脂腺分泌多余的油脂。"
+        },
+        {
+          "id": 377,
+          "word": "rod",
+          "translation": "棒；枝条；惩罚；权力",
+          "phonetic": "/rɒd/",
+          "example": "The rod bent double, the reel shrieked and ratcheted.",
+          "exampleTranslation": "该操作杆加倍弯曲，线轴发出刺耳的嗒嗒声。"
+        },
+        {
+          "id": 378,
+          "word": "mitotic",
+          "translation": "adj. 有丝分裂的；间接核分裂的",
+          "phonetic": "/maɪˈtɒtɪk/",
+          "example": "It is shown that the mean relative lengths and centromeric indices of autosomal SCs agree closely with those of mitotic chromosomes.",
+          "exampleTranslation": "结果表明，常染色体联会复合体的相对长度和着丝点指数与体细胞染色体的相应参数具有很好的吻合性。"
+        },
+        {
+          "id": 379,
+          "word": "inflammatory",
+          "translation": "adj. 炎症性的；煽动性的；激动的",
+          "phonetic": "/ɪnˈflæmət(ə)ri/",
+          "example": "These ideas may seem tame today, but they were inflammatory in his time.",
+          "exampleTranslation": "这些想法今天看来也许是平淡乏味的，但在他那个时代却是很有煽动性的。"
+        },
+        {
+          "id": 380,
+          "word": "phagocytosis",
+          "translation": "吞噬作用",
+          "phonetic": "/ˌfæɡəsaɪˈtəʊsɪs/",
+          "example": "Results Cuscuta seed could improve the phagocytosis function of macrophagocyte(P<0.05).",
+          "exampleTranslation": "结果菟丝子可改善巨噬细胞的吞噬功能（P <0.05）。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Chapter 20",
+      "description": "Words 381 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 381,
+          "word": "fibroblast",
+          "translation": "纤维原细胞；纤维组织母细胞",
+          "phonetic": "/ˈfaɪbrəʊˌblæst/",
+          "example": "PGC from genital ridge and mesenterium of human embryo was incubated on fibroblast feeder layers for subculture.",
+          "exampleTranslation": "从人胚胎生殖嵴、肠系膜中消化分离的原始生殖细胞，将其接种在人子宫内膜成纤维细胞饲养层上传代培养。"
+        },
+        {
+          "id": 382,
+          "word": "collagen",
+          "translation": "胶原，胶原质",
+          "phonetic": "/ˈkɒlədʒən/",
+          "example": "Our collagen is porcine collagen comes from Dayi zoology hoggery.",
+          "exampleTranslation": "我们的胶原蛋白来自大邑生态养殖区的猪。"
+        },
+        {
+          "id": 383,
+          "word": "fibronectin",
+          "translation": "纤连蛋白",
+          "phonetic": "/ˌfaɪbrəʊˈnektɪn/",
+          "example": "Objective To discuss the significance of fibronectin (FN) in liver diseases.",
+          "exampleTranslation": "目的探讨纤维连接蛋白(FN)在肝病中的意义。"
+        },
+        {
+          "id": 384,
+          "word": "matrix",
+          "translation": "矩阵；基质；模型；脉石；母体；子宫",
+          "phonetic": "/ˈmeɪtrɪks/",
+          "example": "That matrix has properties that vary in different locations in the body, but basically it's a highly hydrated or water-rich gel.",
+          "exampleTranslation": "这种基质在体内不同的位置有不同的性质，但基本上它是一种高度水合或富水的凝胶。"
+        },
+        {
+          "id": 385,
+          "word": "deposit",
+          "translation": "存款；保证金；沉淀物vt. 存放；使沉积vi. 沉淀",
+          "phonetic": "/dɪˈpɒzɪt/",
+          "example": "A 10% deposit is payable in advance.",
+          "exampleTranslation": "须预付10%的押金。"
+        },
+        {
+          "id": 386,
+          "word": "paralysis",
+          "translation": "麻痹；停顿；无力",
+          "phonetic": "/pəˈræləsɪs/",
+          "example": "The strike caused total paralysis in the city.",
+          "exampleTranslation": "罢工使这座城市完全瘫痪。"
+        },
+        {
+          "id": 387,
+          "word": "liver",
+          "translation": "肝脏；生活者，居民",
+          "phonetic": "/ˈlɪvə(r)/",
+          "example": "The largest organ in the body is the liver.",
+          "exampleTranslation": "体内最大的器官是肝脏。"
+        },
+        {
+          "id": 388,
+          "word": "ploidy",
+          "translation": "倍性；倍数性",
+          "phonetic": "/ˈplɔɪdi/",
+          "example": "The chromosome ploidy was analyzed with FACS technique.",
+          "exampleTranslation": "使用流式细胞仪(FACS)分析其染色体的倍性。"
+        },
+        {
+          "id": 389,
+          "word": "diploid",
+          "translation": "二倍体；倍数染色体adj. 双倍的；倍数的；双重的",
+          "phonetic": "/ˈdɪplɔɪd/",
+          "example": "The evidence demonstrated that there was extensive homology of the proteins and antigens between diploid and triploid Paragonimus westermani.",
+          "exampleTranslation": "证据表明，卫氏并殖吸虫的二倍体型和三倍体型虫株的蛋白质及其抗原性之间存在着高度的同源性。"
+        },
+        {
+          "id": 390,
+          "word": "haploid",
+          "translation": "单倍体adj. 单一的",
+          "phonetic": "/ˈhæplɔɪd/",
+          "example": "The males are haploid.",
+          "exampleTranslation": "雄的个体都是单倍体。"
+        },
+        {
+          "id": 391,
+          "word": "replicate",
+          "translation": "vt. 复制；折叠vi. 重复；折转adj. 复制的n. 复制品",
+          "phonetic": "/ˈreplɪkeɪt/",
+          "example": "He invited her to his laboratory to see if she could replicate the experiment.",
+          "exampleTranslation": "他邀请她到他的实验室看她能否复制该实验。"
+        },
+        {
+          "id": 392,
+          "word": "duplicate",
+          "translation": "vt. 复制；使加倍n. 复制品adj. 二重的vi. 重复；复制",
+          "phonetic": "/ˈdjuːplɪkeɪt/",
+          "example": "Is this a duplicate or the original?",
+          "exampleTranslation": "这是副本还是正本？"
+        },
+        {
+          "id": 393,
+          "word": "fidelity",
+          "translation": "保真度；忠诚；尽责；精确",
+          "phonetic": "/fɪˈdeləti/",
+          "example": "He believed in marital fidelity.",
+          "exampleTranslation": "他赞成对婚姻忠实。"
+        },
+        {
+          "id": 394,
+          "word": "segregant",
+          "translation": "vt. 隔离",
+          "phonetic": "/ˈseɡrɪɡənt/",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 395,
+          "word": "progeny",
+          "translation": "后裔；子孙；成果",
+          "phonetic": "/ˈprɒdʒəni/",
+          "example": "He was surrounded by his numerous progeny.",
+          "exampleTranslation": "众多的子孙簇拥着他。"
+        },
+        {
+          "id": 396,
+          "word": "ovaries",
+          "translation": "卵巢，子房",
+          "phonetic": "/əʊvərɪz/",
+          "example": "The women were given fertility drugs to stimulate the ovaries.",
+          "exampleTranslation": "那些妇女得到了促进卵巢功能的生育药。"
+        },
+        {
+          "id": 397,
+          "word": "ovary",
+          "translation": "子房；卵巢",
+          "phonetic": "/ˈəʊvəri/",
+          "example": "In females, synthesis of estrogens starts in theca interna cells in the ovary, by the synthesis of androstenedione from cholesterol.",
+          "exampleTranslation": "在雌性中，通过从胆固醇中合成雄烯二酮，开始在卵巢的间膜细胞中合成雌激素。"
+        },
+        {
+          "id": 398,
+          "word": "testes",
+          "translation": "睾丸",
+          "phonetic": "/ˈtestiːz/",
+          "example": "It is to lighten that pathological damage of testes of cryptorchidism with prolongation of reset time.",
+          "exampleTranslation": "随着复位时间的延长，隐睾组织的病理损害有恢复的趋势。"
+        },
+        {
+          "id": 399,
+          "word": "testis",
+          "translation": "睾丸 testis: 睾丸 | 证人 | 睪丸",
+          "phonetic": "/ˈtestɪs/",
+          "example": "If the cancer is at a more advanced stage, it will probably require chemotherapy, and this can have a dramatic effect on the unaffected testis.",
+          "exampleTranslation": "如果癌症已进入晚期，就可能需要化疗，这可能对未受影响的睾丸产生巨大影响。"
+        },
+        {
+          "id": 400,
+          "word": "metaphase",
+          "translation": "中期adj. 中期的；转位期的",
+          "phonetic": "/ˈmetəˌfeɪz/",
+          "example": "In metaphase, it will decrease the chronic soakage of inflammatory cell, destroy the epidermis and adenalgia.",
+          "exampleTranslation": "在中期，它会减少慢性炎症细胞浸润、上皮及腺体的破坏。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Chapter 21",
+      "description": "Words 401 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 401,
+          "word": "transit",
+          "translation": "运输；经过vt. 运送vi. 经过",
+          "phonetic": "/ˈtrænzɪt/",
+          "example": "The contents of the package may have settled in transit.",
+          "exampleTranslation": "包裹里的东西可能在运输途中摇密实了。"
+        },
+        {
+          "id": 402,
+          "word": "microtubule",
+          "translation": "微管",
+          "phonetic": "/ˌmaɪkrəʊˈtjuːbjuːl/",
+          "example": "Viral transport occurred in microtubule-dependent, endosomal vesicles.",
+          "exampleTranslation": "病毒的转运发生在微管依赖的内体小泡。"
+        },
+        {
+          "id": 403,
+          "word": "surveillance",
+          "translation": "监督；监视",
+          "phonetic": "/sɜːˈveɪləns/",
+          "example": "He was arrested after being kept under constant surveillance.",
+          "exampleTranslation": "他在被连续监视之后给逮捕了。"
+        },
+        {
+          "id": 404,
+          "word": "Surveillance",
+          "translation": "监督 | 监视 | 管制",
+          "phonetic": "/sɜːˈveɪləns/",
+          "example": "He was arrested after being kept under constant surveillance.",
+          "exampleTranslation": "他在被连续监视之后给逮捕了。"
+        },
+        {
+          "id": 405,
+          "word": "aneuploidy",
+          "translation": "非整倍性；异倍体性；异倍性",
+          "phonetic": "/ˈænjəˌplɔɪdi/",
+          "example": "Aneuploidy is associated with cancer.",
+          "exampleTranslation": "非整倍体与肿瘤相关。"
+        },
+        {
+          "id": 406,
+          "word": "prevent",
+          "translation": "vt. 预防，防止；阻止vi. 妨碍，阻止",
+          "phonetic": "/prɪˈvent/",
+          "example": "These methods prevent pregnancy.",
+          "exampleTranslation": "这些方法预防怀孕。"
+        },
+        {
+          "id": 407,
+          "word": "prevention",
+          "translation": "预防；阻止；妨碍",
+          "phonetic": "/prɪˈvenʃn/",
+          "example": "Crime prevention had to be given more prominence.",
+          "exampleTranslation": "犯罪预防得给予更多重视。"
+        },
+        {
+          "id": 408,
+          "word": "protooncogene",
+          "translation": "原癌基因",
+          "phonetic": "",
+          "example": "The author emphasizes that the theory of \"three causes\" for tumors is consistent with the conditions for the activation of human protooncogene in the science of genome.",
+          "exampleTranslation": "强调了中医肿瘤病因的“三因”学说与基因组学中人类原癌基因活化的条件相一致；中医学“天人相应”学说与环境致癌、环境治癌及环境对基因表达的影响极为相似；"
+        },
+        {
+          "id": 409,
+          "word": "proto-oncogene",
+          "translation": "原癌基因",
+          "phonetic": "",
+          "example": "Contrast with proto-oncogene and with tumor-suppressor gene.",
+          "exampleTranslation": "相对于原癌基因和肿瘤抑制基因。"
+        },
+        {
+          "id": 410,
+          "word": "suppressor",
+          "translation": "消除器；抑制器",
+          "phonetic": "/səˈpresə(r)/",
+          "example": "A tumor suppressor that promotes cancer cell growth?",
+          "exampleTranslation": "肿瘤抑制基因促进肿瘤生长？"
+        },
+        {
+          "id": 411,
+          "word": "ultraviolet",
+          "translation": "adj. 紫外的；紫外线的n. 紫外线辐射，紫外光",
+          "phonetic": "/ˌʌltrəˈvaɪələt/",
+          "example": "Exposure to ultraviolet light is closely linked to skin cancer.",
+          "exampleTranslation": "受紫外线照射与皮肤癌紧密相关。"
+        },
+        {
+          "id": 412,
+          "word": "vulnerable",
+          "translation": "adj. 有弱点的；易受伤害的；易受攻击的，易受…的攻击",
+          "phonetic": "/ˈvʌlnərəbl/",
+          "example": "She was left feeling exposed and vulnerable.",
+          "exampleTranslation": "她感到自己孤立无助，非常脆弱。"
+        },
+        {
+          "id": 413,
+          "word": "sarcoma",
+          "translation": "肉瘤，恶性毒瘤",
+          "phonetic": "/sɑːˈkəʊmə/",
+          "example": "Rous sarcoma virus contains the src gene that triggers tumor formation.",
+          "exampleTranslation": "劳斯肉瘤病毒包含触发肿瘤形成的 src 基因。"
+        },
+        {
+          "id": 414,
+          "word": "prostate",
+          "translation": "adj. 前列腺的n. 前列腺",
+          "phonetic": "/ˈprɒsteɪt/",
+          "example": "An enlarged prostate does not necessarily mean cancer.",
+          "exampleTranslation": "肿大的前列腺并不一定表明癌症的存在。"
+        },
+        {
+          "id": 415,
+          "word": "nuclei",
+          "translation": "核心，核子；原子核",
+          "phonetic": "/ˈnjuːkliaɪ/",
+          "example": "To free electrons, something has to make them whirl fast enough to break away from their nuclei.",
+          "exampleTranslation": "为了释放电子，必须使电子高速旋转而足以摆脱它们的原子核。"
+        },
+        {
+          "id": 416,
+          "word": "bud",
+          "translation": "芽，萌芽；蓓蕾vi. 发芽，萌芽 vt. 使发芽",
+          "phonetic": "/bʌd/",
+          "example": "The tree is in bud already.",
+          "exampleTranslation": "树已发芽。"
+        },
+        {
+          "id": 417,
+          "word": "spindle",
+          "translation": "轴；纺锤，锭子adj. 细长的；锭子的 vt. 装锭子于vi. 变细长",
+          "phonetic": "/ˈspɪnd(ə)l/",
+          "example": "The princess took the spindle and began to try and spin.",
+          "exampleTranslation": "公主拿起纺锤开始试着纺线。"
+        },
+        {
+          "id": 418,
+          "word": "metastasis",
+          "translation": "转移；新陈代谢；[地质",
+          "phonetic": "/məˈtæstəsɪs/",
+          "example": "This process is referred to as metastasis.",
+          "exampleTranslation": "这一过程被称之为转移。"
+        },
+        {
+          "id": 419,
+          "word": "angiogenesis",
+          "translation": "血管生成；血管再生术",
+          "phonetic": "/ˌændʒɪəˈɡenɪsɪs/",
+          "example": "The versatile compound is endostatin, a human protein that inhibits angiogenesis, the growth of new blood vessels in the body.",
+          "exampleTranslation": "这种多功能化合物是内皮抑制素，一种抑制血管生成，即身体内新血管生长的人体蛋白质。"
+        },
+        {
+          "id": 420,
+          "word": "benign",
+          "translation": "adj. 良性的；吉利的；和蔼的，亲切的",
+          "phonetic": "/bɪˈnaɪn/",
+          "example": "It wasn't cancer, only a benign tumour.",
+          "exampleTranslation": "这不是癌，只是良性肿瘤。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Chapter 22",
+      "description": "Words 421 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 421,
+          "word": "thrombospondin",
+          "translation": "血小板反应蛋白 | 凝血酶敏感蛋白 | 血栓粘合素",
+          "phonetic": "/θrɒmbɒsˈpɒndɪn/",
+          "example": "Objective To study the role of the balance between thrombospondin-1 (TSP-1) and vascular endothelial growth factor (VEGF) in the neovascularization of hepatocellular carcinoma (HCC).",
+          "exampleTranslation": "目的研究血小板反应蛋白1（TSP 1）和血管内皮生长因子（VEGF）的平衡在肝细胞癌（HCC）新生血管生成中的作用。"
+        },
+        {
+          "id": 422,
+          "word": "Angiostatin",
+          "translation": "血管抑素 | 血管生成抑制因子 | 血管抑制素",
+          "phonetic": "",
+          "example": "Objective: To study the inhibitory effects of angiostatin (AS) on glioma line G422.",
+          "exampleTranslation": "目的：研究血管抑素（AS）对荷G422脑胶质细胞系小鼠的治疗作用。"
+        },
+        {
+          "id": 423,
+          "word": "Endostatin",
+          "translation": "人内皮抑素 | 内皮抑制素 | 因子",
+          "phonetic": "",
+          "example": "The versatile compound is endostatin, a human protein that inhibits angiogenesis, the growth of new blood vessels in the body.",
+          "exampleTranslation": "这种多功能化合物是内皮抑制素，一种抑制血管生成，即身体内新血管生长的人体蛋白质。"
+        },
+        {
+          "id": 424,
+          "word": "vascular",
+          "translation": "adj. 血管的",
+          "phonetic": "/ˈvæskjələ(r)/",
+          "example": "Auxin also causes the plant to develop a vascular system, to form lateral roots, and to produce ethylene.",
+          "exampleTranslation": "生长素还能使植物形成维管系统，形成侧根，并产生乙烯。"
+        },
+        {
+          "id": 425,
+          "word": "endothelial",
+          "translation": "adj. 内皮的",
+          "phonetic": "/ˌendəʊˈθiːlɪəl/",
+          "example": "A smaller portion of EPCs were colocalized with endothelial cells.",
+          "exampleTranslation": "少部分内皮祖细胞与内皮细胞一起存在。"
+        },
+        {
+          "id": 426,
+          "word": "oncogene",
+          "translation": "致癌基因",
+          "phonetic": "/ˈɒŋkəʊdʒiːn/",
+          "example": "Anything from cosmic rays to radiation to diet may activate a dormant oncogene.",
+          "exampleTranslation": "从宇宙射线到辐射到日常饮食，任何东西都可能激活潜伏的致癌基因。"
+        },
+        {
+          "id": 427,
+          "word": "avascular",
+          "translation": "adj. 无血管的",
+          "phonetic": "/əˈvæskjʊlə(r)/",
+          "example": "Objective:To study CT features of avascular necrosis of femoral heads.",
+          "exampleTranslation": "目的：探讨股骨头缺血性坏死的CT表现。"
+        },
+        {
+          "id": 428,
+          "word": "retina",
+          "translation": "视网膜",
+          "phonetic": "/ˈretɪnə/",
+          "example": "Images are projected onto the retina of the eye.",
+          "exampleTranslation": "影像被投射到眼睛的视网膜上。"
+        },
+        {
+          "id": 429,
+          "word": "lymph",
+          "translation": "node淋巴结",
+          "phonetic": "/lɪmf/",
+          "example": "They may suggest radiotherapy to the lymph nodes above your supraclavicular fossa.",
+          "exampleTranslation": "他们可能建议你对锁骨上窝上方的淋巴结进行放射治疗。"
+        },
+        {
+          "id": 430,
+          "word": "suppression",
+          "translation": "抑制；镇压；压抑",
+          "phonetic": "/səˈpreʃ(ə)n/",
+          "example": "A mother's suppression of her own feelings can cause problems.",
+          "exampleTranslation": "一位母亲对她自己情感的压抑可能会导致问题。"
+        },
+        {
+          "id": 431,
+          "word": "transducer",
+          "translation": "传感器，变换器，换能器",
+          "phonetic": "/trænzˈdjuːsə(r); trænsˈdjuːsə(r)/",
+          "example": "To do all this, though, you need a device called a transducer.",
+          "exampleTranslation": "但完成该过程，你不能缺少一台叫做‘压电式换能器’的设备。"
+        },
+        {
+          "id": 432,
+          "word": "leukemia",
+          "translation": "白血病",
+          "phonetic": "/lu:ˈki:mɪə/",
+          "example": "A scientist showed that mouse leukemia could be transmitted by cell-free filtrates.",
+          "exampleTranslation": "一位科学家发现小鼠白血病可以通过细胞游离滤液传播。"
+        },
+        {
+          "id": 433,
+          "word": "identical",
+          "translation": "adj. 同一的；完全相同的n. 完全相同的事物",
+          "phonetic": "/aɪˈdentɪk(ə)l/",
+          "example": "The two pictures are similar, although not identical.",
+          "exampleTranslation": "这两幅画很相似，虽然不完全相同。"
+        },
+        {
+          "id": 434,
+          "word": "mutant",
+          "translation": "突变体；突变异种adj. 突变的",
+          "phonetic": "/ˈmjuːtənt/",
+          "example": "In the gloom, TEPCO's logo on the walls of the building resembles a mutant Mickey Mouse.",
+          "exampleTranslation": "在昏暗中，TEPCO 公司建筑物墙上的标志就像一只变异的米老鼠。"
+        },
+        {
+          "id": 435,
+          "word": "ribbon",
+          "translation": "缎带；带状物；带；绶带；勋表vi. 形成带状vt. 把…撕成条带",
+          "phonetic": "/ˈrɪbən/",
+          "example": "The road was a ribbon of moonlight.",
+          "exampleTranslation": "这条路在月光下如同一条缎带。"
+        },
+        {
+          "id": 436,
+          "word": "clamp",
+          "translation": "vt. 夹紧，固定住n. 夹钳，螺丝钳",
+          "phonetic": "/klæmp/",
+          "example": "The wood is held in position by a clamp.",
+          "exampleTranslation": "这木头用夹钳固定住了。"
+        },
+        {
+          "id": 437,
+          "word": "antigen",
+          "translation": "抗原",
+          "phonetic": "/ˈæntɪdʒən/",
+          "example": "Two important manifestations of antigen-antibody immunity are lysis.",
+          "exampleTranslation": "抗原——抗体免疫的两个重要表现是裂解。"
+        },
+        {
+          "id": 438,
+          "word": "cascade",
+          "translation": "小瀑布；喷流；层叠vi. 像瀑布般冲下或倾泻v. 使瀑布似地落下",
+          "phonetic": "/kæˈskeɪd/",
+          "example": "If one firm goes under it could provoke a cascade of bankruptcies.",
+          "exampleTranslation": "如果一家公司倒闭，可能会引起一连串的破产。"
+        },
+        {
+          "id": 439,
+          "word": "retinoblastoma",
+          "translation": "成视网膜细胞瘤；眼癌",
+          "phonetic": "/ˌretɪnəʊˌblæsˈtəʊmə/",
+          "example": "Objective: to discuss ct characteristics of retinoblastoma.",
+          "exampleTranslation": "目的：探讨视网膜母细胞瘤的CT表现特征。"
+        },
+        {
+          "id": 440,
+          "word": "laser",
+          "translation": "激光",
+          "phonetic": "/ˈleɪzə(r)/",
+          "example": "She's had laser surgery on her eye.",
+          "exampleTranslation": "她做了眼部激光手术。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Chapter 23",
+      "description": "Words 441 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 441,
+          "word": "cryotreatment",
+          "translation": "\" 低温处理",
+          "phonetic": "",
+          "example": "",
+          "exampleTranslation": ""
+        },
+        {
+          "id": 442,
+          "word": "retinal",
+          "translation": "adj. 视网膜的n. 视黄醛",
+          "phonetic": "/ˈretɪnl/",
+          "example": "Their retinal cells are also not excessively sensitive to red components of moderately bright light.",
+          "exampleTranslation": "它们的视网膜细胞对中等亮度光线中的红色成分也不太敏感。"
+        },
+        {
+          "id": 443,
+          "word": "afflict",
+          "translation": "vt. 折磨；使痛苦；使苦恼",
+          "phonetic": "/əˈflɪkt/",
+          "example": "There are two main problems which afflict people with hearing impairments.",
+          "exampleTranslation": "有两大问题困扰有听觉障碍的人。"
+        },
+        {
+          "id": 444,
+          "word": "propelled",
+          "translation": "adj. 推进的v. 推动；驱使",
+          "phonetic": "/prəˈpeld/",
+          "example": "Fury propelled her into action.",
+          "exampleTranslation": "怒火驱使她行动起来。"
+        },
+        {
+          "id": 445,
+          "word": "tyrosine",
+          "translation": "酪氨酸",
+          "phonetic": "/ˈtaɪrəsiːn/",
+          "example": "3 - Spark Your Brain: High Tyrosine proteins.",
+          "exampleTranslation": "3—激发你的大脑：酪氨酸蛋白。"
+        },
+        {
+          "id": 446,
+          "word": "neuroblastoma",
+          "translation": "成神经细胞瘤",
+          "phonetic": "/ˌnjʊərə(ʊ)blæˈstəʊmə/",
+          "example": "Purpose: to evaluate CT in the diagnosis of neuroblastoma in childhood.",
+          "exampleTranslation": "目的：探讨CT对儿童神经母细胞瘤的诊断价值。"
+        },
+        {
+          "id": 447,
+          "word": "epidermal",
+          "translation": "adj. 表皮的；外皮的",
+          "phonetic": "/ˌepɪˈdɜːməl/",
+          "example": "The epidermal cells are oblong, longitudinally extended.",
+          "exampleTranslation": "表皮细胞为长方形，纵向排列。"
+        },
+        {
+          "id": 448,
+          "word": "Herceptin",
+          "translation": "赫塞汀",
+          "phonetic": "",
+          "example": "One of the biggest success stories of targeted therapy is a drug called Herceptin.",
+          "exampleTranslation": "靶向治疗法最成功的故事之一是一种名为贺癌平的药物。"
+        },
+        {
+          "id": 449,
+          "word": "Trastuzumab",
+          "translation": "曲妥珠单抗 | 赫赛汀 | 抗体",
+          "phonetic": "",
+          "example": "In early use, trastuzumab is approved for use following standard (adjuvant) chemotherapy.",
+          "exampleTranslation": "在早期使用中，曲妥珠单抗可作为以后的标准化化疗药物。"
+        },
+        {
+          "id": 450,
+          "word": "thyroid",
+          "translation": "甲状腺；甲状软骨；甲状腺剂adj. 甲状腺的；盾状的",
+          "phonetic": "/ˈθaɪrɔɪd/",
+          "example": "Located near the base of the neck, the thyroid is a large endocrine gland that produces hormones that help control growth and metabolism.",
+          "exampleTranslation": "甲状腺位于颈部的底部附近，是一个很大的内分泌腺体，它产生激素，协助控制生长和新陈代谢。"
+        },
+        {
+          "id": 451,
+          "word": "bladder",
+          "translation": "膀胱；囊状物，可充气的囊袋",
+          "phonetic": "/ˈblædə(r)/",
+          "example": "His diseased bladder left him incontinent.",
+          "exampleTranslation": "他患病的膀胱使得他小便失禁。"
+        },
+        {
+          "id": 452,
+          "word": "ovarian",
+          "translation": "adj. 卵巢的；子房的",
+          "phonetic": "/əʊˈveəriən/",
+          "example": "Since her chemotherapy for ovarian cancer, Bobbie lost most of her hair, but more damaging, she has severe neuropathy in her left hand and both feet.",
+          "exampleTranslation": "自从博比因卵巢癌做了化疗后，她几乎掉光了头发，但更糟糕的是，她的左手和双脚还患上了严重的神经病症。"
+        },
+        {
+          "id": 453,
+          "word": "telomere",
+          "translation": "端粒",
+          "phonetic": "/ˈteləmɪə/",
+          "example": "Now a telomere is a highly repetitious and genetically meaningless sequence of DNA, what we were calling junk DNA.",
+          "exampleTranslation": "端粒是高度重复的，从基因上来说没有意义的 DNA 序列，我们称之为垃圾 DNA。"
+        },
+        {
+          "id": 454,
+          "word": "senescence",
+          "translation": "衰老",
+          "phonetic": "/sɪˈnesns/",
+          "example": "During the senescence of Xue Hua Pears, the fruit firmness declined with the flesh developing the squarrose and browning.",
+          "exampleTranslation": "雪梨衰老时，硬度下降，果肉褐变糠化。"
+        },
+        {
+          "id": 455,
+          "word": "familial",
+          "translation": "adj. 家庭的；家族的；遗传的",
+          "phonetic": "/fəˈmɪliəl/",
+          "example": "Gerard also took on wider familial responsibilities.",
+          "exampleTranslation": "杰拉德也承担了更多的家庭责任。"
+        },
+        {
+          "id": 456,
+          "word": "sporadic",
+          "translation": "adj. 零星的；分散的；不定时发生的",
+          "phonetic": "/spəˈrædɪk/",
+          "example": "Her attendance in school was sporadic.",
+          "exampleTranslation": "她在学校的出勤率很低。"
+        },
+        {
+          "id": 457,
+          "word": "succumb",
+          "translation": "vi. 屈服；被压垮；死",
+          "phonetic": "/səˈkʌm/",
+          "example": "A common defense of sport hunting is that it serves a vital wildlife-management function, without which countless animals would succumb to starvation and disease.",
+          "exampleTranslation": "运动狩猎的一个常见辩护是，它提供了至关重要的野生动物管理功能，没有它，无数的动物将会死于饥饿和疾病。"
+        },
+        {
+          "id": 458,
+          "word": "colon",
+          "translation": "结肠；冒号（用于引语、说明、例证等之前)",
+          "phonetic": "/ˈkəʊlən; ˈkəʊlɒn/",
+          "example": "Calcium may aid in the prevention of colon cancer.",
+          "exampleTranslation": "钙可能有助于预防结肠癌。"
+        },
+        {
+          "id": 459,
+          "word": "preventive",
+          "translation": "预防药；预防法adj. 预防的，防止的",
+          "phonetic": "/prɪˈventɪv/",
+          "example": "We must take preventive measures to reduce crime in the area.",
+          "exampleTranslation": "我们必须采取预防措施来减少这个地区的犯罪。"
+        },
+        {
+          "id": 460,
+          "word": "anchor",
+          "translation": "锚；靠山；抛锚停泊vt. 抛锚；使固定；主持vi. 抛锚adj. 末捧的",
+          "phonetic": "/ˈæŋkə(r)/",
+          "example": "We could anchor off the pier.",
+          "exampleTranslation": "我们可以在码头抛锚。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Chapter 24",
+      "description": "Words 461 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 461,
+          "word": "intestine",
+          "translation": "adj. 内部的；国内的n. 肠",
+          "phonetic": "/ɪnˈtestɪn/",
+          "example": "Mice that have been given morphine are very likely to develop blood poisoning because bacteria that normally reside in the intestine typically respond to morphine by migrating into the bloodstream.",
+          "exampleTranslation": "摄入了吗啡的老鼠很可能会发生血液中毒，因为通常存在于肠道的细菌会通过迁移到血液中来对吗啡做出反应。"
+        },
+        {
+          "id": 462,
+          "word": "menopause",
+          "translation": "更年期；活动终止期",
+          "phonetic": "/ˈmenəpɔːz/",
+          "example": "The impending menopause is also significant.",
+          "exampleTranslation": "绝经期即将到来也是很重要的原因。"
+        },
+        {
+          "id": 463,
+          "word": "melanoma",
+          "translation": "黑素瘤；胎记瘤",
+          "phonetic": "/ˌmeləˈnəʊmə/",
+          "example": "The good news is that a combination of sunscreen and covering up can reduce melanoma rates, as shown by Australian figures from their slip-slop-slap campaign.",
+          "exampleTranslation": "好消息是，防晒霜和遮阳两种方式结合在一起可以降低黑色素瘤的患病率，澳大利亚人在日光浴前的准备活动就证明了这一点。"
+        },
+        {
+          "id": 464,
+          "word": "gallbladder",
+          "translation": "胆囊",
+          "phonetic": "/ˈɡɔːlˌblædə(r)/",
+          "example": "their hearing, their gallbladder.",
+          "exampleTranslation": "听觉以及他们的胆囊。"
+        },
+        {
+          "id": 465,
+          "word": "spontaneous",
+          "translation": "adj. 自发的；自然的；无意识的",
+          "phonetic": "/spɒnˈteɪniəs/",
+          "example": "The audience burst into spontaneous applause.",
+          "exampleTranslation": "观众自发地鼓起掌来。"
+        },
+        {
+          "id": 466,
+          "word": "epstein-barr",
+          "translation": "病毒 | 巴尔二氐 | 艾巴氏",
+          "phonetic": "",
+          "example": "Objective To determine the relationship between Epstein-Barr virus(EBV) infection and multiple sclerosis(MS).",
+          "exampleTranslation": "目的探讨EB病毒（EBV）感染与多发性硬化（MS）的关系。"
+        },
+        {
+          "id": 467,
+          "word": "mononucleosis",
+          "translation": "单核细胞增多症；单核白血球增多症",
+          "phonetic": "/ˌmɒnəʊˌnjuːkliˈəʊsɪs/",
+          "example": "Michael was given a complete going-over and then treated for mononucleosis.",
+          "exampleTranslation": "迈克尔接受了详细的全身检查，然后进行了单核细胞增多症的治疗。"
+        },
+        {
+          "id": 468,
+          "word": "alkylating",
+          "translation": "烷基化v. 使烷基化",
+          "phonetic": "",
+          "example": "The combination of alkylating drugs and radiation therapy increases the risk for fertility problems.",
+          "exampleTranslation": "将烷化剂类药物和放射治疗联合使用会提高不育症风险。"
+        },
+        {
+          "id": 469,
+          "word": "alkylate",
+          "translation": "烷基化物vt. 使烷基化",
+          "phonetic": "/ˈælkɪˌleɪt/",
+          "example": "The FCC unit produces large quantity of raw materials for MTBE and alkylate producing.",
+          "exampleTranslation": "催化裂化装置还生产大量可以用于生产优质汽油组分的气体原料。"
+        },
+        {
+          "id": 470,
+          "word": "asbestos",
+          "translation": "石棉adj. 石棉的",
+          "phonetic": "/æsˈbestɒs/",
+          "example": "Blue asbestos is far less common in buildings, which is just as well because it's more dangerous than white asbestos.",
+          "exampleTranslation": "蓝色的石棉在建筑中要少见得多，幸好是这样，因为它比白色石棉更危险。"
+        },
+        {
+          "id": 471,
+          "word": "aromatic",
+          "translation": "adj. 芳香的，芬芳的；芳香族的n. 芳香植物；芳香剂",
+          "phonetic": "/ˌærəˈmætɪk/",
+          "example": "Technically speaking, a spice is part of an aromatic plant that is not a leaf or herb.",
+          "exampleTranslation": "从技术上讲，香料是芳香植物的一部分，不只是叶子或药草。"
+        },
+        {
+          "id": 472,
+          "word": "cavity",
+          "translation": "洞，凹处；腔",
+          "phonetic": "/ˈkævəti/",
+          "example": "What is most noticeable is this cavity, this fluid-filled cavity that begins to develop.",
+          "exampleTranslation": "最明显的是这个腔，这个充满液体的腔开始发育。"
+        },
+        {
+          "id": 473,
+          "word": "blader",
+          "translation": "平路机；推土机；叶片安装工",
+          "phonetic": "/ˈbleɪdə(r)/",
+          "example": "The company produces rubber-tired power blader, tire cover, midnight and noon embryo, films and so on slanting rubber tire.",
+          "exampleTranslation": "公司生产的汽车内胎，外胎，子午胎，斜胶胎等胶片。"
+        },
+        {
+          "id": 474,
+          "word": "esophagus",
+          "translation": "食管；食道",
+          "phonetic": "/ɪˈsɒfəɡəs/",
+          "example": "Walking keeps you upright and enlists gravity to keep acids from splashing up the esophagus.",
+          "exampleTranslation": "散步可以帮助你直立和获得地心重力的作用，去防止胃酸上溅到食道上。"
+        },
+        {
+          "id": 475,
+          "word": "vinyl",
+          "translation": "乙烯基",
+          "phonetic": "/ˈvaɪnl/",
+          "example": "It's a vinyl doll with movable arms and legs.",
+          "exampleTranslation": "这是个胳膊和腿都能活动的乙烯基塑料娃娃。"
+        },
+        {
+          "id": 476,
+          "word": "angiosarcoma",
+          "translation": "血管肉瘤",
+          "phonetic": "/ˌændʒɪəʊsɑːˈkəʊmə/",
+          "example": "A case of angiosarcoma was reported.",
+          "exampleTranslation": "报道一例血管肉瘤。"
+        },
+        {
+          "id": 477,
+          "word": "gastrointestinal",
+          "translation": "adj. 胃肠的",
+          "phonetic": "/ˌɡæstrəʊɪnˈtestɪnl; ˌɡæstrəʊɪnteˈstaɪnl/",
+          "example": "Epidemiological studies have found that children with PDD have no higher prevalence of gastrointestinal tract than normal children.",
+          "exampleTranslation": "流行病学研究发现，广泛性发育障碍（Pervasive Developmental Disorder）孩子和正常孩子相比较并没有更高的胃肠道患病率。"
+        },
+        {
+          "id": 478,
+          "word": "nitrate",
+          "translation": "硝酸盐vt. 用硝酸处理",
+          "phonetic": "/ˈnaɪtreɪt/",
+          "example": "We need to cut nitrate levels in water.",
+          "exampleTranslation": "我们需要降低水中的硝酸盐含量。"
+        },
+        {
+          "id": 479,
+          "word": "estrogen",
+          "translation": "雌性激素",
+          "phonetic": "/ˈiːstrədʒən/",
+          "example": "For the first 21 days after menstruation, estrogen hormones create a feeling of well-being and give generally happy feelings.",
+          "exampleTranslation": "大多数绝经前的女性在月经之后的21天里，体内的雌激素会产生一种健康幸福感。"
+        },
+        {
+          "id": 480,
+          "word": "diethylstilbestrol",
+          "translation": "己烯雌酚；乙芪酚",
+          "phonetic": "/daɪˌeθɪlstɪlˈbestrɒl/",
+          "example": "Methods:Causing dysgalactia of rats by injecting diethylstilbestrol injection.",
+          "exampleTranslation": "方法：以己烯雌酚造成大鼠产后泌乳不足模型。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Chapter 25",
+      "description": "Words 481 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 481,
+          "word": "clinical",
+          "translation": "adj. 临床的；诊所的",
+          "phonetic": "/ˈklɪnɪk(ə)l/",
+          "example": "The new drug is undergoing clinical trials.",
+          "exampleTranslation": "这种新药正在进行临床试验。"
+        },
+        {
+          "id": 482,
+          "word": "agent",
+          "translation": "代理人，代理商；药剂；特工 vt. 由…作中介；由…代理adj. 代理的",
+          "phonetic": "/ˈeɪdʒənt/",
+          "example": "Beeswax acts as an emulsifying agent.",
+          "exampleTranslation": "蜂蜡可以用作乳化剂。"
+        },
+        {
+          "id": 483,
+          "word": "embryogenesis",
+          "translation": "胚胎形成，胚胎发生",
+          "phonetic": "/ˌembrɪəʊˈdʒenəsɪs/",
+          "example": "Charcoal prevents Browning of tissues and stimulates embryogenesis and rooting.",
+          "exampleTranslation": "炭可防止组织变棕色并刺激胚胎发生与生根。"
+        },
+        {
+          "id": 484,
+          "word": "blastocyst",
+          "translation": "囊胚；胚包",
+          "phonetic": "/ˈblæstəʊˌsɪst/",
+          "example": "The cells of this cluster inside next to the fluid-filled cavity is a region of the blastocyst called the inner cell mass.",
+          "exampleTranslation": "在充满液体的腔体旁边的这个簇状细胞是囊胚的一个区域，称为内细胞团。"
+        },
+        {
+          "id": 485,
+          "word": "hollow",
+          "translation": "adj. 空的；凹的；虚伪的n. 洞；山谷vi. 形成空洞adv. 无用地；彻底地",
+          "phonetic": "/ˈhɒləʊ/",
+          "example": "The tree trunk was hollow inside.",
+          "exampleTranslation": "这树干里面是空的。"
+        },
+        {
+          "id": 486,
+          "word": "pyknosis",
+          "translation": "固缩；细胞致密变化",
+          "phonetic": "/pɪkˈnəʊsɪs/",
+          "example": "Severe nuclear damage indicated by pyknosis and karyolysis are customarily taken as evidence of cell necrosis.",
+          "exampleTranslation": "表现为核浓缩和核溶解的严重核损伤通常被认为是细胞坏死的证据。"
+        },
+        {
+          "id": 487,
+          "word": "bleb",
+          "translation": "疱疹；水泡；气泡",
+          "phonetic": "/bleb/",
+          "example": "Cupping pulls out knows bleb how to treat Yo! Urgent.",
+          "exampleTranslation": "拔火罐拔出水泡谁知道怎么治育！紧急。"
+        },
+        {
+          "id": 488,
+          "word": "shrinkage",
+          "translation": "收缩；减低",
+          "phonetic": "/ˈʃrɪŋkɪdʒ/",
+          "example": "She bought a slightly larger size to allow for shrinkage.",
+          "exampleTranslation": "她买了一件尺码稍大的以备缩水。"
+        },
+        {
+          "id": 489,
+          "word": "phagocyte",
+          "translation": "噬菌细胞",
+          "phonetic": "/ˈfæɡəsaɪt/",
+          "example": "Lymphatic and mononuclear phagocyte system is the body of the second line of defense.",
+          "exampleTranslation": "淋巴和单核吞噬细胞系统是机体的第二道防线。"
+        },
+        {
+          "id": 490,
+          "word": "lyse",
+          "translation": "vt. 溶化；溶解vi. 病状渐退；细胞溶解",
+          "phonetic": "/laɪz; laɪs/",
+          "example": "RIPA buffer is used to lyse cells and tissues.",
+          "exampleTranslation": "RIPA 缓冲液用于裂解细胞和组织。"
+        },
+        {
+          "id": 491,
+          "word": "ectoderm",
+          "translation": "外胚层，外细胞层",
+          "phonetic": "/ˈektəʊˌdɜːm/",
+          "example": "Ectoderm follows a default pathway.",
+          "exampleTranslation": "外胚层遵循一个默认的路径。"
+        },
+        {
+          "id": 492,
+          "word": "endoderm",
+          "translation": "内胚层；内皮层；下胚层",
+          "phonetic": "/ˈendə(ʊ)dɜːm/",
+          "example": "Successive section sees endoderm has exfoliate phenomenon.",
+          "exampleTranslation": "连续切片见内皮层有剥脱现象。"
+        },
+        {
+          "id": 493,
+          "word": "mesoderm",
+          "translation": "中胚层；中胚叶",
+          "phonetic": "/ˈmesəʊˌdɜːm/",
+          "example": "Extraembryonic mesoderm migrates through primitive streak to the presumptive yolk sac between days 6.5 and 7.0 of gestation.",
+          "exampleTranslation": "胚外中胚层在妊娠的第6.5至7.0天之间通过原始条带迁移到推测的卵黄囊。"
+        },
+        {
+          "id": 494,
+          "word": "peripheral",
+          "translation": "adj. 外围的；次要的",
+          "phonetic": "/pəˈrɪfərəl/",
+          "example": "Fund-raising is peripheral to their main activities.",
+          "exampleTranslation": "对他们的主要活动而言，筹集资金是次要的。"
+        },
+        {
+          "id": 495,
+          "word": "mammary",
+          "translation": "adj. 乳腺的；乳房的",
+          "phonetic": "/ˈmæməri/",
+          "example": "The origin of the vertebral artery, the thyrocervical trunk and the internal mammary artery is very constant.",
+          "exampleTranslation": "椎动脉，颈干和乳内动脉的起源非常恒定。"
+        },
+        {
+          "id": 496,
+          "word": "pituitary",
+          "translation": "垂体；脑垂体adj. 脑垂体的；脑垂体分泌失调引起的",
+          "phonetic": "/pɪˈtjuːɪtəri/",
+          "example": "For example, hormones from the hypothalamus in the brain stimulate the anterior lobe of the pituitary gland.",
+          "exampleTranslation": "例如，来自大脑下丘脑的激素会刺激垂体前叶。"
+        },
+        {
+          "id": 497,
+          "word": "enamel",
+          "translation": "珐琅；瓷釉；搪瓷；指甲油 vt. 涂以瓷釉；彩饰",
+          "phonetic": "/ɪˈnæm(ə)l/",
+          "example": "Teeth have a hard surface layer called enamel.",
+          "exampleTranslation": "牙齿有一层叫做釉质的坚硬表层。"
+        },
+        {
+          "id": 498,
+          "word": "cartilage",
+          "translation": "软骨",
+          "phonetic": "/ˈkɑːtɪlɪdʒ/",
+          "example": "The tissue and cartilage of a nose are too soft to fossilize.",
+          "exampleTranslation": "鼻部的组织和软骨结构太软，无法形成化石。"
+        },
+        {
+          "id": 499,
+          "word": "connective",
+          "translation": "adj. 连合的，连接的n. 连接词；连接物",
+          "phonetic": "/kəˈnektɪv/",
+          "example": "Think of it as the connective tissue for HP's cloud.",
+          "exampleTranslation": "它就好比惠普云中的结缔组织。"
+        },
+        {
+          "id": 500,
+          "word": "morphological",
+          "translation": "adj. 形态学的",
+          "phonetic": "/ˌmɔːfəˈlɒdʒɪkl/",
+          "example": "Several monophyletic clades of seed plants, namely eudicots, rosids, and asterids, were supported by molecular data with their united morphological synapomorphies.",
+          "exampleTranslation": "根据分子数据结合形态上近裔共性，若干分支的单系性得到支持，这些分支包括真双子叶植物、蔷薇分支和菊分支等。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Chapter 26",
+      "description": "Words 501 to min(total, i+CHAPTER_SIZE)",
+      "words": [
+        {
+          "id": 501,
+          "word": "intricate",
+          "translation": "adj. 复杂的；错综的，缠结的",
+          "phonetic": "/ˈɪntrɪkət/",
+          "example": "He knows his way around the intricate maze of patent law.",
+          "exampleTranslation": "他通晓错综复杂的专利法。"
+        },
+        {
+          "id": 502,
+          "word": "syndactyly",
+          "translation": "并指；并趾",
+          "phonetic": "/sɪnˈdæktɪli/",
+          "example": "Objective To discuss the classification and treatment of congenital syndactyly.",
+          "exampleTranslation": "目的探讨先天性并指畸形的分类与治疗方法。"
+        },
+        {
+          "id": 503,
+          "word": "fused",
+          "translation": "adj. 装有保险丝的；熔化的，熔凝的 v. 混合；熔解",
+          "phonetic": "/fjuːzd/",
+          "example": "Our different ideas fused into a plan.",
+          "exampleTranslation": "我们不同的想法融合成一项计划。"
+        },
+        {
+          "id": 504,
+          "word": "surgically",
+          "translation": "adv. 如外科手术般地",
+          "phonetic": "/ˈsɜːdʒɪkli/",
+          "example": "The lumps will need to be surgically removed.",
+          "exampleTranslation": "这些肿块需手术切除。"
+        }
+      ]
+    }
+  ]
+}

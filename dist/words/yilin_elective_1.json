@@ -1,0 +1,2210 @@
+{
+  "_version": "1.2",
+  "_generated": "2026-02-27",
+  "words": [
+    {
+      "wordId": 1,
+      "bookId": "yilin_elective_1",
+      "word": "enemy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'emy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + emy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 2,
+      "bookId": "yilin_elective_1",
+      "word": "energetic",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语或法语，通常以 'erget' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + erget(核心词干) + -ic(…的；与…有关的) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "energetically",
+        "energy",
+        "energise"
+      ]
+    },
+    {
+      "wordId": 3,
+      "bookId": "yilin_elective_1",
+      "word": "energy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'ergy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + ergy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "energetic",
+        "enervate",
+        "energetically",
+        "energize"
+      ]
+    },
+    {
+      "wordId": 4,
+      "bookId": "yilin_elective_1",
+      "word": "engine",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'gine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + gine(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "engineer",
+        "engineering",
+        "engineering",
+        "engineer"
+      ]
+    },
+    {
+      "wordId": 5,
+      "bookId": "yilin_elective_1",
+      "word": "engineer",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语或法语，通常以 'gine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + gine(核心词干) + -er(…者；做…的人) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "engine",
+        "engineering",
+        "engineering"
+      ]
+    },
+    {
+      "wordId": 6,
+      "bookId": "yilin_elective_1",
+      "word": "England",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'gland' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + gland(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "English",
+        "English",
+        "Englander",
+        "Englisher"
+      ]
+    },
+    {
+      "wordId": 7,
+      "bookId": "yilin_elective_1",
+      "word": "English",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'glish' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + glish(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "England",
+        "Englander",
+        "Englisher",
+        "Englishism"
+      ]
+    },
+    {
+      "wordId": 8,
+      "bookId": "yilin_elective_1",
+      "word": "English-speaking",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'glish-speaking' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + glish-speaking(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 9,
+      "bookId": "yilin_elective_1",
+      "word": "enjoy",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'joy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + joy(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enjoyable",
+        "enjoyably",
+        "enjoyment"
+      ]
+    },
+    {
+      "wordId": 10,
+      "bookId": "yilin_elective_1",
+      "word": "enjoyable",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-able（能…的；可…的）",
+      "etymology": "来自拉丁语或法语，通常以 'joy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + joy(核心词干) + -able(能…的；可…的) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enjoyably",
+        "enjoyment",
+        "enjoy"
+      ]
+    },
+    {
+      "wordId": 11,
+      "bookId": "yilin_elective_1",
+      "word": "enlarge",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'large' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + large(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enlarged",
+        "enlargement",
+        "enlarger",
+        "enlarged"
+      ]
+    },
+    {
+      "wordId": 12,
+      "bookId": "yilin_elective_1",
+      "word": "enough",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'ough' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + ough(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 13,
+      "bookId": "yilin_elective_1",
+      "word": "enquiry",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'quiry' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + quiry(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enquire",
+        "enquire"
+      ]
+    },
+    {
+      "wordId": 14,
+      "bookId": "yilin_elective_1",
+      "word": "enter",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语或法语，通常以 't' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + t(核心词干) + -er(…者；做…的人) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 15,
+      "bookId": "yilin_elective_1",
+      "word": "enterprise",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-ise（使…化（英式拼法））",
+      "etymology": "来自拉丁语或法语，通常以 'terpr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + terpr(核心词干) + -ise(使…化（英式拼法）) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enterprising",
+        "enterprisingly",
+        "enterpriser"
+      ]
+    },
+    {
+      "wordId": 16,
+      "bookId": "yilin_elective_1",
+      "word": "entertainment",
+      "prefix": "en-（使…进入；在内）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 en-(使…进入；在内)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "en-(使…进入；在内) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "entertaining",
+        "entertaining",
+        "entertain",
+        "entertain"
+      ]
+    },
+    {
+      "wordId": 17,
+      "bookId": "yilin_elective_1",
+      "word": "enthusiastic",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自拉丁语或法语，通常以 'thusiast' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + thusiast(核心词干) + -ic(…的；与…有关的) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "enthusiastically",
+        "enthusiasm",
+        "enthusiast",
+        "enthuse"
+      ]
+    },
+    {
+      "wordId": 18,
+      "bookId": "yilin_elective_1",
+      "word": "entire",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'tire' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + tire(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "entirely",
+        "entirety",
+        "entireness"
+      ]
+    },
+    {
+      "wordId": 19,
+      "bookId": "yilin_elective_1",
+      "word": "entrance",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "-ance（状态；性质；行为）",
+      "etymology": "来自拉丁语或法语，通常以 'tr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + tr(核心词干) + -ance(状态；性质；行为) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "entranced",
+        "entrancing",
+        "entrant",
+        "entrancement"
+      ]
+    },
+    {
+      "wordId": 20,
+      "bookId": "yilin_elective_1",
+      "word": "entry",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'try' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + try(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "entryway"
+      ]
+    },
+    {
+      "wordId": 21,
+      "bookId": "yilin_elective_1",
+      "word": "envelope",
+      "prefix": "en-（使…进入；在内）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或法语，通常以 'velope' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "en-(使…进入；在内) + velope(核心词干) → 产生“使…进入；在内”的意象 → 演变成该词",
+      "cognates": [
+        "envelop",
+        "enveloped",
+        "enveloping",
+        "envelopment"
+      ]
+    },
+    {
+      "wordId": 22,
+      "bookId": "yilin_elective_1",
+      "word": "environment",
+      "prefix": "en-(在内)",
+      "root": "viron(环绕)",
+      "suffix": "-ment(名词)",
+      "etymology": "来自古法语 environner(环绕)，en-(在内)+viron(环绕)，意为周围的环境",
+      "wordFormation": "en-(在内) + viron(环绕) + -ment → 环绕之物 → 环境",
+      "cognates": [
+        "environ",
+        "environs"
+      ]
+    },
+    {
+      "wordId": 23,
+      "bookId": "yilin_elective_1",
+      "word": "envy",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'nvy' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + nvy(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "envious",
+        "enviable",
+        "enviously",
+        "enviably"
+      ]
+    },
+    {
+      "wordId": 24,
+      "bookId": "yilin_elective_1",
+      "word": "equal",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'qu' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + qu(核心词干) + -al(…的；与…有关的) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equalized",
+        "equally",
+        "equality",
+        "equalizer"
+      ]
+    },
+    {
+      "wordId": 25,
+      "bookId": "yilin_elective_1",
+      "word": "equality",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ity（性质；状态；程度）",
+      "etymology": "来自拉丁语，通常以 'qual' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + qual(核心词干) + -ity(性质；状态；程度) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equal",
+        "equalized",
+        "equally",
+        "equal"
+      ]
+    },
+    {
+      "wordId": 26,
+      "bookId": "yilin_elective_1",
+      "word": "equip",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'quip' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + quip(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "equipment",
+        "equipage"
+      ]
+    },
+    {
+      "wordId": 27,
+      "bookId": "yilin_elective_1",
+      "word": "equipment",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 e-(出；向外（ex-变体）)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "equipage",
+        "equip"
+      ]
+    },
+    {
+      "wordId": 28,
+      "bookId": "yilin_elective_1",
+      "word": "eraser",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'ras' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ras(核心词干) + -er(…者；做…的人) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "erasable",
+        "erasure",
+        "erase",
+        "erase"
+      ]
+    },
+    {
+      "wordId": 29,
+      "bookId": "yilin_elective_1",
+      "word": "error",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-or（…者；做…的人或物）",
+      "etymology": "来自拉丁语，通常以 'rr' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + rr(核心词干) + -or(…者；做…的人或物) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "erring",
+        "errorless",
+        "erring",
+        "err"
+      ]
+    },
+    {
+      "wordId": 30,
+      "bookId": "yilin_elective_1",
+      "word": "erupt",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "rupt(破裂)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 rumpere（打破）。由 e-(出；向外（ex-变体）)+rupt(破裂) 组合而成，原意与“破裂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + rupt(破裂) → 产生“破裂”的意象 → 演变成该词",
+      "cognates": [
+        "eruptive",
+        "eruption"
+      ]
+    },
+    {
+      "wordId": 31,
+      "bookId": "yilin_elective_1",
+      "word": "escape",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'scape' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + scape(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "escaped",
+        "escapist",
+        "escapement",
+        "escapism"
+      ]
+    },
+    {
+      "wordId": 32,
+      "bookId": "yilin_elective_1",
+      "word": "especially",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "spec/spect(看)",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，源于 specere（看）。由 e-(出；向外（ex-变体）)+spec/spect(看) 组合而成，原意与“看”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + spec/spect(看) + -ly(以…方式；具有…性质) → 产生“看”的意象 → 演变成该词",
+      "cognates": [
+        "especial"
+      ]
+    },
+    {
+      "wordId": 33,
+      "bookId": "yilin_elective_1",
+      "word": "essay",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ssay' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ssay(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "essayist"
+      ]
+    },
+    {
+      "wordId": 34,
+      "bookId": "yilin_elective_1",
+      "word": "Europe",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'urope' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + urope(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "European",
+        "Europeanist",
+        "Europeanly",
+        "European"
+      ]
+    },
+    {
+      "wordId": 35,
+      "bookId": "yilin_elective_1",
+      "word": "European",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'uropean' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + uropean(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "Europeanist",
+        "Europocentric",
+        "Europeanly",
+        "Europe"
+      ]
+    },
+    {
+      "wordId": 36,
+      "bookId": "yilin_elective_1",
+      "word": "evaluate",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "val(价值；力量)",
+      "suffix": "-ate（使…；具有…的）",
+      "etymology": "来自拉丁语，源于 valere（有力；有价值）。由 e-(出；向外（ex-变体）)+val(价值；力量) 组合而成，原意与“价值；力量”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + val(价值；力量) + -ate(使…；具有…的) → 产生“价值；力量”的意象 → 演变成该词",
+      "cognates": [
+        "evaluative",
+        "evaluation"
+      ]
+    },
+    {
+      "wordId": 37,
+      "bookId": "yilin_elective_1",
+      "word": "even",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ven' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ven(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "evening",
+        "evenly",
+        "evening",
+        "evening"
+      ]
+    },
+    {
+      "wordId": 38,
+      "bookId": "yilin_elective_1",
+      "word": "evening",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'vening' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vening(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "even",
+        "even",
+        "eve",
+        "evenfall"
+      ]
+    },
+    {
+      "wordId": 39,
+      "bookId": "yilin_elective_1",
+      "word": "event",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'vent' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vent(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "eventual",
+        "eventful",
+        "eventuate"
+      ]
+    },
+    {
+      "wordId": 40,
+      "bookId": "yilin_elective_1",
+      "word": "eventually",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，通常以 'ventual' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ventual(核心词干) + -ly(以…方式；具有…性质) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": [
+        "eventual",
+        "eventuate"
+      ]
+    },
+    {
+      "wordId": 41,
+      "bookId": "yilin_elective_1",
+      "word": "ever",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "evermore"
+      ]
+    },
+    {
+      "wordId": 42,
+      "bookId": "yilin_elective_1",
+      "word": "every",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "everywhere",
+        "everywhere"
+      ]
+    },
+    {
+      "wordId": 43,
+      "bookId": "yilin_elective_1",
+      "word": "everybody",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 44,
+      "bookId": "yilin_elective_1",
+      "word": "everyday",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": [
+        "everydayness"
+      ]
+    },
+    {
+      "wordId": 45,
+      "bookId": "yilin_elective_1",
+      "word": "everyone",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 46,
+      "bookId": "yilin_elective_1",
+      "word": "everything",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "ver(真实)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 verus（真实的）。由 e-(出；向外（ex-变体）)+ver(真实) 组合而成，原意与“真实”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + ver(真实) → 产生“真实”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 47,
+      "bookId": "yilin_elective_1",
+      "word": "everywhere",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "her/hes(粘附)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 haerere（粘附）。由 e-(出；向外（ex-变体）)+her/hes(粘附) 组合而成，原意与“粘附”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + her/hes(粘附) → 产生“粘附”的意象 → 演变成该词",
+      "cognates": [
+        "every"
+      ]
+    },
+    {
+      "wordId": 48,
+      "bookId": "yilin_elective_1",
+      "word": "evidence",
+      "prefix": "e-(向外)",
+      "root": "vid(看)",
+      "suffix": "-ence(名词)",
+      "etymology": "来自拉丁语 evidentia，e-(向外)+videre(看见)，意为可见的证据",
+      "wordFormation": "e-(向外) + vid(看) + -ence → 可以看到的 → 证据",
+      "cognates": [
+        "video",
+        "vision",
+        "evident",
+        "provide"
+      ]
+    },
+    {
+      "wordId": 49,
+      "bookId": "yilin_elective_1",
+      "word": "evident",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "vid/vis(看见)",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，源于 videre（看见）。由 e-(出；向外（ex-变体）)+vid/vis(看见) 组合而成，原意与“看见”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vid/vis(看见) + -ent(…的人；具有…性质的) → 产生“看见”的意象 → 演变成该词",
+      "cognates": [
+        "evidently",
+        "evidence",
+        "evidence"
+      ]
+    },
+    {
+      "wordId": 50,
+      "bookId": "yilin_elective_1",
+      "word": "evolution",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "vol/volv(意志；卷绕)",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，源于 velle（愿意）。由 e-(出；向外（ex-变体）)+vol/volv(意志；卷绕) 组合而成，原意与“意志；卷绕”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + vol/volv(意志；卷绕) + -tion(行为；过程；结果) → 产生“意志；卷绕”的意象 → 演变成该词",
+      "cognates": [
+        "evolutionary",
+        "evolutionism",
+        "evolutionist",
+        "evolutionism"
+      ]
+    },
+    {
+      "wordId": 51,
+      "bookId": "yilin_elective_1",
+      "word": "exact",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'act' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + act(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exacting",
+        "exactly",
+        "exactitude",
+        "exaction"
+      ]
+    },
+    {
+      "wordId": 52,
+      "bookId": "yilin_elective_1",
+      "word": "exactly",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，通常以 'act' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + act(核心词干) + -ly(以…方式；具有…性质) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exact",
+        "exactness",
+        "exact",
+        "exact"
+      ]
+    },
+    {
+      "wordId": 53,
+      "bookId": "yilin_elective_1",
+      "word": "exam = examination",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'am = examin' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + am = examin(核心词干) + -ation(行为；过程；结果) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 54,
+      "bookId": "yilin_elective_1",
+      "word": "examine",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'amine' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + amine(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "examination",
+        "examiner",
+        "examinee"
+      ]
+    },
+    {
+      "wordId": 55,
+      "bookId": "yilin_elective_1",
+      "word": "example",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ample' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ample(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 56,
+      "bookId": "yilin_elective_1",
+      "word": "excellent",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ent（…的人；具有…性质的）",
+      "etymology": "来自拉丁语，通常以 'cell' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + cell(核心词干) + -ent(…的人；具有…性质的) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "excellently",
+        "excellence"
+      ]
+    },
+    {
+      "wordId": 57,
+      "bookId": "yilin_elective_1",
+      "word": "except",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "cept/cap/ceiv(拿；取)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 capere（拿取）。由 ex-(出；向外；前…)+cept/cap/ceiv(拿；取) 组合而成，原意与“拿；取”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + cept/cap/ceiv(拿；取) → 产生“拿；取”的意象 → 演变成该词",
+      "cognates": [
+        "exceptional",
+        "exceptionable",
+        "exceptionally",
+        "exception"
+      ]
+    },
+    {
+      "wordId": 58,
+      "bookId": "yilin_elective_1",
+      "word": "exchange",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'change' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + change(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exchanged",
+        "exchangeable",
+        "exchanger",
+        "exchangeability"
+      ]
+    },
+    {
+      "wordId": 59,
+      "bookId": "yilin_elective_1",
+      "word": "excite",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'cite' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + cite(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exciting",
+        "excited",
+        "excitable",
+        "excitatory"
+      ]
+    },
+    {
+      "wordId": 60,
+      "bookId": "yilin_elective_1",
+      "word": "excuse",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'cuse' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + cuse(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "excusable",
+        "excusatory",
+        "excusably"
+      ]
+    },
+    {
+      "wordId": 61,
+      "bookId": "yilin_elective_1",
+      "word": "exercise",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ise（使…化（英式拼法））",
+      "etymology": "来自拉丁语，通常以 'erc' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + erc(核心词干) + -ise(使…化（英式拼法）) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exercising",
+        "exerciser",
+        "exercising"
+      ]
+    },
+    {
+      "wordId": 62,
+      "bookId": "yilin_elective_1",
+      "word": "exhibition",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'hibi' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + hibi(核心词干) + -tion(行为；过程；结果) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exhibit",
+        "exhibitor",
+        "exhibitionist",
+        "exhibitioner"
+      ]
+    },
+    {
+      "wordId": 63,
+      "bookId": "yilin_elective_1",
+      "word": "exist",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ist' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ist(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "existing",
+        "existent",
+        "existential",
+        "existence"
+      ]
+    },
+    {
+      "wordId": 64,
+      "bookId": "yilin_elective_1",
+      "word": "existence",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'ist' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ist(核心词干) + -ence(状态；性质；行为) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "existing",
+        "existent",
+        "existential",
+        "existentialist"
+      ]
+    },
+    {
+      "wordId": 65,
+      "bookId": "yilin_elective_1",
+      "word": "exit",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'xit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + xit(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 66,
+      "bookId": "yilin_elective_1",
+      "word": "expand",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pand' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pand(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expanded",
+        "expansive",
+        "expandable",
+        "expansionist"
+      ]
+    },
+    {
+      "wordId": 67,
+      "bookId": "yilin_elective_1",
+      "word": "expect",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pect(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expectant",
+        "expectable",
+        "expectantly",
+        "expectation"
+      ]
+    },
+    {
+      "wordId": 68,
+      "bookId": "yilin_elective_1",
+      "word": "expectation",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'pect' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pect(核心词干) + -ation(行为；过程；结果) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expectant",
+        "expectable",
+        "expectantly",
+        "expectancy"
+      ]
+    },
+    {
+      "wordId": 69,
+      "bookId": "yilin_elective_1",
+      "word": "expense",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pense' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pense(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expensive",
+        "expendable",
+        "expensively",
+        "expenditure"
+      ]
+    },
+    {
+      "wordId": 70,
+      "bookId": "yilin_elective_1",
+      "word": "expensive",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ive（有…性质的；倾向于…的）",
+      "etymology": "来自拉丁语，通常以 'pens' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pens(核心词干) + -ive(有…性质的；倾向于…的) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expensively",
+        "expense",
+        "expensiveness",
+        "expense"
+      ]
+    },
+    {
+      "wordId": 71,
+      "bookId": "yilin_elective_1",
+      "word": "experience",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ence（状态；性质；行为）",
+      "etymology": "来自拉丁语，通常以 'peri' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + peri(核心词干) + -ence(状态；性质；行为) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "experienced",
+        "experiential"
+      ]
+    },
+    {
+      "wordId": 72,
+      "bookId": "yilin_elective_1",
+      "word": "experiment",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "ment(心智)",
+      "suffix": "-ment（行为；结果；状态）",
+      "etymology": "来自拉丁语，源于 mens/mentis（心智）。由 ex-(出；向外；前…)+ment(心智) 组合而成，原意与“心智”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + ment(心智) + -ment(行为；结果；状态) → 产生“心智”的意象 → 演变成该词",
+      "cognates": [
+        "experimental",
+        "experimentally",
+        "experimentation",
+        "experimentalism"
+      ]
+    },
+    {
+      "wordId": 73,
+      "bookId": "yilin_elective_1",
+      "word": "expert",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'pert' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + pert(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "expertly",
+        "expertise",
+        "expertness"
+      ]
+    },
+    {
+      "wordId": 74,
+      "bookId": "yilin_elective_1",
+      "word": "explain",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'plain' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + plain(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "explainable",
+        "explanation"
+      ]
+    },
+    {
+      "wordId": 75,
+      "bookId": "yilin_elective_1",
+      "word": "explanation",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ation（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'plan' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + plan(核心词干) + -ation(行为；过程；结果) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "explanatory",
+        "explainable",
+        "explanate",
+        "explanandum"
+      ]
+    },
+    {
+      "wordId": 76,
+      "bookId": "yilin_elective_1",
+      "word": "explicit",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "plic/plex/ply(折叠；复杂)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 plicare（折叠）。由 ex-(出；向外；前…)+plic/plex/ply(折叠；复杂) 组合而成，原意与“折叠；复杂”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + plic/plex/ply(折叠；复杂) → 产生“折叠；复杂”的意象 → 演变成该词",
+      "cognates": [
+        "explicitly",
+        "explicitness"
+      ]
+    },
+    {
+      "wordId": 77,
+      "bookId": "yilin_elective_1",
+      "word": "explode",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'plode' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + plode(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "explosive",
+        "exploded",
+        "explosively",
+        "explosion"
+      ]
+    },
+    {
+      "wordId": 78,
+      "bookId": "yilin_elective_1",
+      "word": "exploit",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'ploit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ploit(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "exploitative",
+        "exploitive",
+        "exploitation",
+        "exploiter"
+      ]
+    },
+    {
+      "wordId": 79,
+      "bookId": "yilin_elective_1",
+      "word": "explore",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'plore' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + plore(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "explorative",
+        "exploration",
+        "explorer"
+      ]
+    },
+    {
+      "wordId": 80,
+      "bookId": "yilin_elective_1",
+      "word": "explorer",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自拉丁语，通常以 'plor' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + plor(核心词干) + -er(…者；做…的人) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "explorative",
+        "exploration",
+        "explore",
+        "explore"
+      ]
+    },
+    {
+      "wordId": 81,
+      "bookId": "yilin_elective_1",
+      "word": "export",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "port(携带；港口)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 portare（携带）。由 ex-(出；向外；前…)+port(携带；港口) 组合而成，原意与“携带；港口”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + port(携带；港口) → 产生“携带；港口”的意象 → 演变成该词",
+      "cognates": [
+        "exportable",
+        "exporter",
+        "exportation"
+      ]
+    },
+    {
+      "wordId": 82,
+      "bookId": "yilin_elective_1",
+      "word": "expose",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "pos/pon(放置)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ponere（放置）。由 ex-(出；向外；前…)+pos/pon(放置) 组合而成，原意与“放置”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + pos/pon(放置) → 产生“放置”的意象 → 演变成该词",
+      "cognates": [
+        "exposed",
+        "exposure",
+        "exposed"
+      ]
+    },
+    {
+      "wordId": 83,
+      "bookId": "yilin_elective_1",
+      "word": "express",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "press(压)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 ex-(出；向外；前…)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + press(压) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "expressive",
+        "expressionless",
+        "expressible",
+        "expressly"
+      ]
+    },
+    {
+      "wordId": 84,
+      "bookId": "yilin_elective_1",
+      "word": "expression",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "press(压)",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，源于 pressare（压）。由 ex-(出；向外；前…)+press(压) 组合而成，原意与“压”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "ex-(出；向外；前…) + press(压) + -sion(行为；状态) → 产生“压”的意象 → 演变成该词",
+      "cognates": [
+        "express",
+        "expressive",
+        "expressionless",
+        "expressible"
+      ]
+    },
+    {
+      "wordId": 85,
+      "bookId": "yilin_elective_1",
+      "word": "extension",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-sion（行为；状态）",
+      "etymology": "来自拉丁语，通常以 'ten' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + ten(核心词干) + -sion(行为；状态) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "extensive",
+        "extended",
+        "extensible",
+        "extendable"
+      ]
+    },
+    {
+      "wordId": 86,
+      "bookId": "yilin_elective_1",
+      "word": "extra",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'tra' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + tra(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 87,
+      "bookId": "yilin_elective_1",
+      "word": "extraordinary",
+      "prefix": "extra-（超出；在外）",
+      "root": "ord/ordin(顺序)",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，源于 ordo（顺序）。由 extra-(超出；在外)+ord/ordin(顺序) 组合而成，原意与“顺序”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "extra-(超出；在外) + ord/ordin(顺序) + -ary(与…有关；…的场所) → 产生“顺序”的意象 → 演变成该词",
+      "cognates": [
+        "extraordinarily",
+        "extraordinariness"
+      ]
+    },
+    {
+      "wordId": 88,
+      "bookId": "yilin_elective_1",
+      "word": "extreme",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'treme' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + treme(核心词干) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "extremely",
+        "extremity",
+        "extremist",
+        "extremism"
+      ]
+    },
+    {
+      "wordId": 89,
+      "bookId": "yilin_elective_1",
+      "word": "extremely",
+      "prefix": "ex-（出；向外；前…）",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自拉丁语，通常以 'treme' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "ex-(出；向外；前…) + treme(核心词干) + -ly(以…方式；具有…性质) → 产生“出；向外；前…”的意象 → 演变成该词",
+      "cognates": [
+        "extreme",
+        "extreme",
+        "extremity",
+        "extremist"
+      ]
+    },
+    {
+      "wordId": 90,
+      "bookId": "yilin_elective_1",
+      "word": "eye",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "eyeable",
+        "eyed",
+        "eyeless",
+        "eyelike"
+      ]
+    },
+    {
+      "wordId": 91,
+      "bookId": "yilin_elective_1",
+      "word": "eyesight",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语，通常以 'yesight' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + yesight(核心词干) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 92,
+      "bookId": "yilin_elective_1",
+      "word": "eyewitness",
+      "prefix": "e-（出；向外（ex-变体））",
+      "root": "",
+      "suffix": "-ness（性质；状态）",
+      "etymology": "来自拉丁语，通常以 'yewit' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "e-(出；向外（ex-变体）) + yewit(核心词干) + -ness(性质；状态) → 产生“出；向外（ex-变体）”的意象 → 演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 93,
+      "bookId": "yilin_elective_1",
+      "word": "female",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "femininity",
+        "femaleness",
+        "feminization",
+        "feminise"
+      ]
+    },
+    {
+      "wordId": 94,
+      "bookId": "yilin_elective_1",
+      "word": "face",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "facial",
+        "faced",
+        "faceless",
+        "facial"
+      ]
+    },
+    {
+      "wordId": 95,
+      "bookId": "yilin_elective_1",
+      "word": "facial",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fac/fect/fic(做；制造) + -al(…的；与…有关的) → 产生“做；制造”的意象 → 演变成该词",
+      "cognates": [
+        "faced",
+        "facially",
+        "face",
+        "facade"
+      ]
+    },
+    {
+      "wordId": 96,
+      "bookId": "yilin_elective_1",
+      "word": "fact",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "faction"
+      ]
+    },
+    {
+      "wordId": 97,
+      "bookId": "yilin_elective_1",
+      "word": "factory",
+      "prefix": "",
+      "root": "fac/fect/fic(做；制造)",
+      "suffix": "-ory（与…有关的；…的场所）",
+      "etymology": "来自拉丁语，源于 facere（做）。由 fac/fect/fic(做；制造) 组合而成，原意与“做；制造”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "fac/fect/fic(做；制造) + -ory(与…有关的；…的场所) → 产生“做；制造”的意象 → 演变成该词",
+      "cognates": [
+        "factor",
+        "factoring",
+        "factoring",
+        "factor"
+      ]
+    },
+    {
+      "wordId": 98,
+      "bookId": "yilin_elective_1",
+      "word": "fade",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "faded",
+        "fading",
+        "fading"
+      ]
+    },
+    {
+      "wordId": 99,
+      "bookId": "yilin_elective_1",
+      "word": "fail",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "failed",
+        "failing",
+        "failure",
+        "failing"
+      ]
+    },
+    {
+      "wordId": 100,
+      "bookId": "yilin_elective_1",
+      "word": "failure",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ure（行为；结果；状态）",
+      "etymology": "来自拉丁语，通常以 'fail' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fail(核心词干) + -ure(行为；结果；状态) → 拼合演变成该词",
+      "cognates": [
+        "failed",
+        "failing",
+        "fail",
+        "failing"
+      ]
+    },
+    {
+      "wordId": 101,
+      "bookId": "yilin_elective_1",
+      "word": "fair",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fairly",
+        "fairness"
+      ]
+    },
+    {
+      "wordId": 102,
+      "bookId": "yilin_elective_1",
+      "word": "fairly",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'fair' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fair(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "fair",
+        "fair",
+        "fair",
+        "fairness"
+      ]
+    },
+    {
+      "wordId": 103,
+      "bookId": "yilin_elective_1",
+      "word": "fairness",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ness（性质；状态）",
+      "etymology": "来自古英语，通常以 'fair' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fair(核心词干) + -ness(性质；状态) → 拼合演变成该词",
+      "cognates": [
+        "fair",
+        "fair",
+        "fairly",
+        "fair"
+      ]
+    },
+    {
+      "wordId": 104,
+      "bookId": "yilin_elective_1",
+      "word": "faith",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "faithful",
+        "faithless",
+        "faithfully",
+        "faithlessly"
+      ]
+    },
+    {
+      "wordId": 105,
+      "bookId": "yilin_elective_1",
+      "word": "fall",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fell",
+        "falling",
+        "fallen",
+        "fell"
+      ]
+    },
+    {
+      "wordId": 106,
+      "bookId": "yilin_elective_1",
+      "word": "fall",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fell",
+        "falling",
+        "fallen",
+        "fell"
+      ]
+    },
+    {
+      "wordId": 107,
+      "bookId": "yilin_elective_1",
+      "word": "false",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fallible",
+        "falsely",
+        "falsehood",
+        "falsification"
+      ]
+    },
+    {
+      "wordId": 108,
+      "bookId": "yilin_elective_1",
+      "word": "familiar",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "familiarly",
+        "familiarity",
+        "familiarization",
+        "familiarize"
+      ]
+    },
+    {
+      "wordId": 109,
+      "bookId": "yilin_elective_1",
+      "word": "family",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ly（以…方式；具有…性质）",
+      "etymology": "来自古英语，通常以 'fami' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fami(核心词干) + -ly(以…方式；具有…性质) → 拼合演变成该词",
+      "cognates": [
+        "familial"
+      ]
+    },
+    {
+      "wordId": 110,
+      "bookId": "yilin_elective_1",
+      "word": "family name",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 111,
+      "bookId": "yilin_elective_1",
+      "word": "famous",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ous（有…的；充满…的）",
+      "etymology": "来自拉丁语，通常以 'fam' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fam(核心词干) + -ous(有…的；充满…的) → 拼合演变成该词",
+      "cognates": [
+        "famously"
+      ]
+    },
+    {
+      "wordId": 112,
+      "bookId": "yilin_elective_1",
+      "word": "fan",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fancy",
+        "fancied",
+        "fanlike",
+        "fancy"
+      ]
+    },
+    {
+      "wordId": 113,
+      "bookId": "yilin_elective_1",
+      "word": "fancy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fanciful",
+        "fancied",
+        "fancifully",
+        "fan"
+      ]
+    },
+    {
+      "wordId": 114,
+      "bookId": "yilin_elective_1",
+      "word": "fantastic",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ic（…的；与…有关的）",
+      "etymology": "来自希腊语或拉丁语，通常以 'fantast' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fantast(核心词干) + -ic(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "fantasy",
+        "fantastical",
+        "fantastically",
+        "fantasy"
+      ]
+    },
+    {
+      "wordId": 115,
+      "bookId": "yilin_elective_1",
+      "word": "fantasy",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fantastic",
+        "fantastical",
+        "fantastically",
+        "fantastic"
+      ]
+    },
+    {
+      "wordId": 116,
+      "bookId": "yilin_elective_1",
+      "word": "far",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "faraway",
+        "farness"
+      ]
+    },
+    {
+      "wordId": 117,
+      "bookId": "yilin_elective_1",
+      "word": "fare",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 118,
+      "bookId": "yilin_elective_1",
+      "word": "farm",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "farmer",
+        "farming",
+        "farming"
+      ]
+    },
+    {
+      "wordId": 119,
+      "bookId": "yilin_elective_1",
+      "word": "farmer",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'farm' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "farm(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "farm",
+        "farming",
+        "farming",
+        "farm"
+      ]
+    },
+    {
+      "wordId": 120,
+      "bookId": "yilin_elective_1",
+      "word": "fast",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fasting",
+        "fasting",
+        "fastness",
+        "fasting"
+      ]
+    },
+    {
+      "wordId": 121,
+      "bookId": "yilin_elective_1",
+      "word": "fasten",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fast",
+        "fast",
+        "fast",
+        "fastener"
+      ]
+    },
+    {
+      "wordId": 122,
+      "bookId": "yilin_elective_1",
+      "word": "fat",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fatty",
+        "fattening",
+        "fatly",
+        "fatty"
+      ]
+    },
+    {
+      "wordId": 123,
+      "bookId": "yilin_elective_1",
+      "word": "father",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'fath' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fath(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "fatherless",
+        "fatherhood",
+        "fatherliness"
+      ]
+    },
+    {
+      "wordId": 124,
+      "bookId": "yilin_elective_1",
+      "word": "fault",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "faulty",
+        "faultless",
+        "faultfinding",
+        "faultlessly"
+      ]
+    },
+    {
+      "wordId": 125,
+      "bookId": "yilin_elective_1",
+      "word": "favour",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "favorable",
+        "favourable",
+        "favored",
+        "favourably"
+      ]
+    },
+    {
+      "wordId": 126,
+      "bookId": "yilin_elective_1",
+      "word": "favourite",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "favorable",
+        "favored",
+        "favor",
+        "favouritism"
+      ]
+    },
+    {
+      "wordId": 127,
+      "bookId": "yilin_elective_1",
+      "word": "fax",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 128,
+      "bookId": "yilin_elective_1",
+      "word": "fear",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fearful",
+        "fearless",
+        "fearsome",
+        "fearfully"
+      ]
+    },
+    {
+      "wordId": 129,
+      "bookId": "yilin_elective_1",
+      "word": "feast",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 130,
+      "bookId": "yilin_elective_1",
+      "word": "feather",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'feath' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "feath(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": [
+        "feathered",
+        "feathery",
+        "featherless",
+        "featherlike"
+      ]
+    },
+    {
+      "wordId": 131,
+      "bookId": "yilin_elective_1",
+      "word": "February",
+      "prefix": "",
+      "root": "",
+      "suffix": "-ary（与…有关；…的场所）",
+      "etymology": "来自拉丁语，通常以 'febru' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "febru(核心词干) + -ary(与…有关；…的场所) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 132,
+      "bookId": "yilin_elective_1",
+      "word": "federal",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'feder' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "feder(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "federalist",
+        "federate",
+        "federated",
+        "federally"
+      ]
+    },
+    {
+      "wordId": 133,
+      "bookId": "yilin_elective_1",
+      "word": "fee",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 134,
+      "bookId": "yilin_elective_1",
+      "word": "feed fed fed",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 135,
+      "bookId": "yilin_elective_1",
+      "word": "feel felt felt",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": []
+    },
+    {
+      "wordId": 136,
+      "bookId": "yilin_elective_1",
+      "word": "feeling",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "feelingly",
+        "feel",
+        "felt",
+        "feeler"
+      ]
+    },
+    {
+      "wordId": 137,
+      "bookId": "yilin_elective_1",
+      "word": "fellow",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fellowship"
+      ]
+    },
+    {
+      "wordId": 138,
+      "bookId": "yilin_elective_1",
+      "word": "female",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "femininity",
+        "femaleness",
+        "feminization",
+        "feminise"
+      ]
+    },
+    {
+      "wordId": 139,
+      "bookId": "yilin_elective_1",
+      "word": "fence",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fencing",
+        "fencer",
+        "fencing"
+      ]
+    },
+    {
+      "wordId": 140,
+      "bookId": "yilin_elective_1",
+      "word": "ferry",
+      "prefix": "",
+      "root": "fer(带；携带)",
+      "suffix": "",
+      "etymology": "来自拉丁语，源于 ferre（带来）。由 fer(带；携带) 组合而成，原意与“带；携带”相关，后经过词义的延伸演变为现在的含义。",
+      "wordFormation": "",
+      "cognates": [
+        "ferryboat",
+        "ferrying",
+        "ferryman",
+        "ferrying"
+      ]
+    },
+    {
+      "wordId": 141,
+      "bookId": "yilin_elective_1",
+      "word": "festival",
+      "prefix": "",
+      "root": "",
+      "suffix": "-al（…的；与…有关的）",
+      "etymology": "来自拉丁语，通常以 'festiv' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "festiv(核心词干) + -al(…的；与…有关的) → 拼合演变成该词",
+      "cognates": [
+        "festive",
+        "festal",
+        "festivity"
+      ]
+    },
+    {
+      "wordId": 142,
+      "bookId": "yilin_elective_1",
+      "word": "fetch",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fetching"
+      ]
+    },
+    {
+      "wordId": 143,
+      "bookId": "yilin_elective_1",
+      "word": "fever",
+      "prefix": "",
+      "root": "",
+      "suffix": "-er（…者；做…的人）",
+      "etymology": "来自古英语，通常以 'fev' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fev(核心词干) + -er(…者；做…的人) → 拼合演变成该词",
+      "cognates": []
+    },
+    {
+      "wordId": 144,
+      "bookId": "yilin_elective_1",
+      "word": "few",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fewer",
+        "fewer",
+        "fewness",
+        "fewer"
+      ]
+    },
+    {
+      "wordId": 145,
+      "bookId": "yilin_elective_1",
+      "word": "fibre",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fibrillate",
+        "fiber",
+        "fibrillation",
+        "fibrinogen"
+      ]
+    },
+    {
+      "wordId": 146,
+      "bookId": "yilin_elective_1",
+      "word": "fiction",
+      "prefix": "",
+      "root": "",
+      "suffix": "-tion（行为；过程；结果）",
+      "etymology": "来自拉丁语，通常以 'fic' 为核心词干派生而成，原意经过历史演化，逐渐演变为今天的词义。",
+      "wordFormation": "fic(核心词干) + -tion(行为；过程；结果) → 拼合演变成该词",
+      "cognates": [
+        "fictitious",
+        "fictional",
+        "fictive",
+        "fictionally"
+      ]
+    },
+    {
+      "wordId": 147,
+      "bookId": "yilin_elective_1",
+      "word": "field",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fielding",
+        "fielder",
+        "fielding"
+      ]
+    },
+    {
+      "wordId": 148,
+      "bookId": "yilin_elective_1",
+      "word": "fierce",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fiery",
+        "fiercely",
+        "fierily",
+        "fierceness"
+      ]
+    },
+    {
+      "wordId": 149,
+      "bookId": "yilin_elective_1",
+      "word": "fifteen",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fifteenth",
+        "fifteenth"
+      ]
+    },
+    {
+      "wordId": 150,
+      "bookId": "yilin_elective_1",
+      "word": "fifth",
+      "prefix": "",
+      "root": "",
+      "suffix": "",
+      "etymology": "来自拉丁语或古英语，作为基础或借用词汇，在其历史演变中逐渐确立了现在的核心词义。",
+      "wordFormation": "",
+      "cognates": [
+        "fifteenth",
+        "fiftieth",
+        "fifthly",
+        "fifteenth"
+      ]
+    }
+  ]
+}
