@@ -5,6 +5,9 @@ import { useAppStore } from '@/store'
 import { cn } from '@/lib/utils'
 import { createT } from '@/lib/i18n'
 import { playWordPronunciation } from '@/lib/audio'
+import { WordDetailPanel } from '@/components/WordDetailPanel'
+import { searchWordDetailByText, type WordDetail } from '@/db'
+import type { Word } from '@/types'
 
 export default function KeyVocabulary() {
   const navigate = useNavigate()
@@ -12,6 +15,29 @@ export default function KeyVocabulary() {
   const t = createT(settings.language)
   const [search, setSearch] = useState('')
   const [expandedWordId, setExpandedWordId] = useState<number | null>(null)
+  const [detailsCache, setDetailsCache] = useState<Record<number, WordDetail>>({})
+  const [loadingDetailId, setLoadingDetailId] = useState<number | null>(null)
+
+  const toggleExpand = async (word: Word) => {
+    if (expandedWordId === word.id) {
+      setExpandedWordId(null)
+      return
+    }
+    setExpandedWordId(word.id)
+    if (!detailsCache[word.id]) {
+      setLoadingDetailId(word.id)
+      try {
+        const detail = await searchWordDetailByText(word.word)
+        if (detail) {
+          setDetailsCache(prev => ({ ...prev, [word.id]: detail }))
+        }
+      } catch (e) {
+        console.error(e)
+      } finally {
+        setLoadingDetailId(null)
+      }
+    }
+  }
 
   const playAudio = (word: string) => {
     if (!settings.pronunciation) return
@@ -28,7 +54,7 @@ export default function KeyVocabulary() {
   return (
     <div className="mx-auto max-w-4xl space-y-6">
       {/* Header */}
-      <div className="flex items-center gap-4">
+      <div className="flex flex-wrap items-center gap-4 pr-32">
         <button
           onClick={() => navigate('/')}
           className="rounded-lg p-2 hover:bg-accent transition-colors"
@@ -120,20 +146,18 @@ export default function KeyVocabulary() {
                     <p className="text-sm mt-1 truncate">{word.meaning}</p>
                   </div>
                   <div className="flex items-center gap-1">
-                    {(word.prefix || word.root || word.suffix || word.etymology) && (
-                      <button
-                        onClick={() => setExpandedWordId(isExpanded ? null : word.id)}
-                        className={cn(
-                          'rounded-full p-2 transition-colors',
-                          isExpanded
-                            ? 'bg-blue-500/10 text-blue-600 dark:text-blue-400'
-                            : 'text-muted-foreground hover:bg-accent'
-                        )}
-                        title={t('typing.viewDetail')}
-                      >
-                        <Info className="h-4 w-4" />
-                      </button>
-                    )}
+                    <button
+                      onClick={() => toggleExpand(word)}
+                      className={cn(
+                        'rounded-full p-2 transition-colors',
+                        isExpanded
+                          ? 'bg-blue-500/10 text-blue-600 dark:text-blue-400'
+                          : 'text-muted-foreground hover:bg-accent'
+                      )}
+                      title={t('typing.viewDetail')}
+                    >
+                      <Info className="h-4 w-4" />
+                    </button>
                     <button
                       onClick={() => removeFromKeyVocabulary(word.id)}
                       className="rounded-full p-2 text-muted-foreground hover:text-destructive hover:bg-destructive/10 transition-colors"
@@ -145,43 +169,25 @@ export default function KeyVocabulary() {
                   </div>
                 </div>
 
-                {/* Expanded Detail */}
                 {isExpanded && (
-                  <div className="border-t bg-muted/30 px-4 py-3 space-y-2">
-                    {settings.showExample && word.example && (
-                      <p className="text-sm italic text-muted-foreground">{word.example}</p>
-                    )}
-                    {(word.prefix || word.root || word.suffix) && (
-                      <div className="flex flex-wrap gap-2">
-                        {word.prefix && (
-                          <span className="rounded-full bg-blue-100 dark:bg-blue-900/30 px-3 py-1 text-xs text-blue-600 dark:text-blue-400">
-                            {t('typing.prefix')}: {word.prefix}
-                          </span>
-                        )}
-                        {word.root && (
-                          <span className="rounded-full bg-green-100 dark:bg-green-900/30 px-3 py-1 text-xs text-green-600 dark:text-green-400">
-                            {t('typing.root')}: {word.root}
-                          </span>
-                        )}
-                        {word.suffix && (
-                          <span className="rounded-full bg-purple-100 dark:bg-purple-900/30 px-3 py-1 text-xs text-purple-600 dark:text-purple-400">
-                            {t('typing.suffix')}: {word.suffix}
-                          </span>
+                  <div className="border-t bg-muted/10 px-4 py-3 space-y-2">
+                    {/* Render Example like before */}
+                    {word.example && (
+                      <div className="space-y-1 mt-2">
+                        <p className="text-sm italic text-muted-foreground font-serif">{word.example}</p>
+                        {word.exampleTranslation && (
+                          <p className="text-sm text-muted-foreground">{word.exampleTranslation}</p>
                         )}
                       </div>
                     )}
-                    {word.etymology && (
-                      <p className="text-sm text-muted-foreground">
-                        <span className="font-medium">{t('typing.etymology')}: </span>
-                        {word.etymology}
-                      </p>
-                    )}
-                    {word.wordFormation && (
-                      <p className="text-sm text-muted-foreground">
-                        <span className="font-medium">{t('typing.wordFormation')}: </span>
-                        {word.wordFormation}
-                      </p>
-                    )}
+
+                    {/* Render exact same WordDetailPanel! */}
+                    <WordDetailPanel
+                      wordDetail={detailsCache[word.id] || word as unknown as WordDetail}
+                      t={t}
+                      isLoading={loadingDetailId === word.id}
+                      className="mt-4 border-none bg-transparent p-0"
+                    />
                   </div>
                 )}
               </div>

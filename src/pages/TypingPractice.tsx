@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { Volume2, ArrowLeft, RotateCcw, ChevronLeft, Check, X, Star, Info, List } from 'lucide-react'
 import { useAppStore } from '@/store'
 import { getBook } from '@/db'
-import { saveProgress } from '@/db'
+import { saveProgress, searchWordDetailByText } from '@/db'
 import type { Word, WordBook, LearningProgress } from '@/types'
 import type { WordDetail } from '@/db'
 import { cn } from '@/lib/utils'
@@ -879,7 +879,14 @@ export default function TypingPractice() {
                   if (next && !wordDetail && currentWord && book) {
                     setDetailLoading(true)
                     try {
-                      const detail = await getWordDetailCached(currentWord, book)
+                      let detail: WordDetail | undefined
+                      if (book.id === 'key-vocabulary') {
+                        detail = await searchWordDetailByText(currentWord.word)
+                      }
+
+                      if (!detail) {
+                        detail = await getWordDetailCached(currentWord, book)
+                      }
                       setWordDetail(detail)
                     } finally {
                       setDetailLoading(false)

@@ -256,6 +256,15 @@ export async function saveWordDetails(details: Omit<WordDetail, 'id' | 'cachedAt
 }
 
 /**
+ * 按单词拼写搜索详情（用于重点词汇页回查）
+ */
+export async function searchWordDetailByText(wordText: string): Promise<WordDetail | undefined> {
+  const database = await initDB()
+  const allDetails = await database.getAll('wordDetails')
+  return allDetails.find((d) => d.word === wordText)
+}
+
+/**
  * 删除某词书的所有缓存详情（用于更新词书时清理旧缓存）
  */
 export async function clearWordDetailsByBook(bookId: string): Promise<void> {
