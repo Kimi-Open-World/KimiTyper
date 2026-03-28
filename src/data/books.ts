@@ -14,53 +14,144 @@ export const cet4Book: WordBook = {
 
 export const allBooks: WordBook[] = [cet4Book]
 
+// 预生成的所有拓展词库元数据，避免初始启动拉取 10MB+ 的数据
+const dynamicBooksMetadata: WordBook[] = [
+  {
+    "id": "biomedical",
+    "name": "生物医学专业英语词汇",
+    "description": "生物医学专业英语词汇，共 504 词",
+    "wordCount": 504,
+    "language": "en",
+    "category": "理科专业",
+    "chapters": []
+  },
+  {
+    "id": "cet6",
+    "name": "CET-6 核心词汇",
+    "description": "大学英语六级核心词汇，共 2345 词",
+    "wordCount": 2345,
+    "language": "en",
+    "category": "大学英语",
+    "chapters": []
+  },
+  {
+    "id": "chemistry",
+    "name": "化学专业英语词汇",
+    "description": "化学核心必背词汇，共 225 词",
+    "wordCount": 225,
+    "language": "en",
+    "category": "理科专业",
+    "chapters": []
+  },
+  {
+    "id": "kaoyan",
+    "name": "考研英语核心词汇",
+    "description": "2024 考研英语必背词汇，共 3731 词",
+    "wordCount": 3731,
+    "language": "en",
+    "category": "大学英语",
+    "chapters": []
+  },
+  {
+    "id": "math",
+    "name": "数学专业英语词汇",
+    "description": "数学专业核心必备词汇，共 231 词",
+    "wordCount": 231,
+    "language": "en",
+    "category": "理科专业",
+    "chapters": []
+  },
+  {
+    "id": "physics",
+    "name": "物理专业英语词汇",
+    "description": "物理学核心必备词汇，共 240 词",
+    "wordCount": 240,
+    "language": "en",
+    "category": "理科专业",
+    "chapters": []
+  },
+  {
+    "id": "toefl",
+    "name": "TOEFL 核心词汇",
+    "description": "托福考试核心高频词汇，共 4264 词",
+    "wordCount": 4264,
+    "language": "en",
+    "category": "大学英语",
+    "chapters": []
+  },
+  {
+    "id": "ielts",
+    "name": "IELTS 雅思词汇",
+    "description": "雅思考试核心高频词汇，共 3555 词",
+    "wordCount": 3555,
+    "language": "en",
+    "category": "大学英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_1",
+    "name": "高中必修1",
+    "description": "译林版高中必修1",
+    "wordCount": 276,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_2",
+    "name": "高中必修2",
+    "description": "译林版高中必修2",
+    "wordCount": 297,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_3",
+    "name": "高中必修3",
+    "description": "译林版高中必修3",
+    "wordCount": 295,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_elective_1",
+    "name": "高中选择性必修1",
+    "description": "译林版高中选择性必修1",
+    "wordCount": 150,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_elective_2",
+    "name": "高中选择性必修2",
+    "description": "译林版高中选择性必修2",
+    "wordCount": 150,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  },
+  {
+    "id": "yilin_elective_3",
+    "name": "高中选择性必修3",
+    "description": "译林版高中选择性必修3",
+    "wordCount": 150,
+    "language": "en",
+    "category": "高中英语",
+    "chapters": []
+  }
+];
+
 export async function initializeBooks(): Promise<WordBook[]> {
-  const loadedBooks = [...allBooks];
+  const loadedBooks = [...allBooks, ...dynamicBooksMetadata];
   for (const book of loadedBooks) {
     if (book.id === 'cet4' && (!book.chapters || book.chapters.length === 0)) {
       const module = await import('./cet4-chapters');
       book.chapters = module.cet4Chapters;
     }
   }
-  // 动态自动注入拓展词库：包括高中必修、选修以及大学拓展（六级、考研）
-  const dynamicIds = [
-    'yilin_1', 'yilin_2', 'yilin_3',
-    'yilin_elective_1', 'yilin_elective_2', 'yilin_elective_3',
-    'cet6', 'kaoyan', 'biomedical', 'toefl', 'ielts',
-    'math', 'physics', 'chemistry'
-  ];
-  for (const id of dynamicIds) {
-    try {
-      const res = await fetch(`/books/${id}_book.json?v=${Date.now()}`);
-      if (res.ok) {
-        const bookData = await res.json();
-        const b = Array.isArray(bookData) ? bookData[0] : bookData;
-        if (b) {
-          if (b.chapters) {
-            for (const chapter of b.chapters) {
-              if (chapter.words) {
-                for (const word of chapter.words) {
-                  // Map translation field to meaning field if meaning is missing
-                  if (!word.meaning && word.translation) {
-                    word.meaning = word.translation;
-                  }
-                }
-              }
-            }
-          }
-          const index = loadedBooks.findIndex(existing => existing.id === b.id);
-          if (index >= 0) {
-            loadedBooks[index] = b;
-          } else {
-            loadedBooks.push(b);
-          }
-        }
-      }
-    } catch (e) {
-      console.warn(`Failed to load compulsory book ${id}`, e);
-    }
-  }
-
   return loadedBooks;
 }
 export const sampleCET4Book = cet4Book

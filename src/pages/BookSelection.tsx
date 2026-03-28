@@ -167,12 +167,38 @@ export default function BookSelection() {
 
   const categories = [...new Set(books.map((book) => book.category))]
 
-  const handleBookClick = (book: WordBook) => {
-    if (book.chapters && book.chapters.length > 0) {
-      setSelectedBook(book)
+  const handleBookClick = async (book: WordBook) => {
+    let current = book;
+    if (!book.chapters || book.chapters.length === 0) {
+      try {
+        const res = await fetch(`/books/${book.id}_book.json?v=${Date.now()}`);
+        if (res.ok) {
+          const bookData = await res.json();
+          const loadedBook = Array.isArray(bookData) ? bookData[0] : bookData;
+
+          if (loadedBook && loadedBook.chapters) {
+            for (const chapter of loadedBook.chapters) {
+              if (chapter.words) {
+                for (const word of chapter.words) {
+                  if (!word.meaning && word.translation) {
+                    word.meaning = word.translation;
+                  }
+                }
+              }
+            }
+          }
+          current = { ...book, chapters: loadedBook.chapters };
+        }
+      } catch (err) {
+        console.error("Failed to load book dynamic details", err);
+      }
+    }
+
+    if (current.chapters && current.chapters.length > 0) {
+      setSelectedBook(current)
     } else {
-      setCurrentBook(book)
-      navigate(`/learn/${book.id}`)
+      setCurrentBook(current)
+      navigate(`/learn/${current.id}`)
     }
   }
 
